@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fantasy Coach</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏈</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+<style>
+:root{
+  --bg:#E9EDF1; --panel:#FFF; --ink:#18222E; --muted:#5B6776; --line:#CFD6DE; --slot:#F4F6F8;
+  --turf:#1E6B47; --turf-soft:#DCEEE4; --amber:#9A6F00; --amber-soft:#FBF1D6; --red:#B83229; --red-soft:#F7DEDB;
+  --cond:"Barlow Condensed","Arial Narrow",Arial,sans-serif; --body:"Barlow",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#121A22; --panel:#1B2530; --ink:#E6EBF0; --muted:#98A5B3; --line:#2E3A47; --slot:#222D39;
+  --turf:#4FB685; --turf-soft:#1D3A2D; --amber:#E0B443; --amber-soft:#3A3120; --red:#E5675D; --red-soft:#3D2323;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--body);padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+:focus-visible{outline:2px solid var(--turf);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;padding:20px 16px 48px}
+header{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:flex-end;justify-content:space-between;border-bottom:3px solid var(--ink);padding-bottom:12px;margin-bottom:16px}
+h1{font:700 clamp(2rem,6vw,3.4rem)/.95 var(--cond);margin:0}
+.sub,.muted{color:var(--muted)}
+.score{display:flex;gap:18px;align-items:baseline;font-family:var(--cond)}
+.score b{font-size:2rem}
+.grid{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,8fr);gap:20px}
+@media (max-width:860px){.grid{grid-template-columns:1fr}}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px}
+h2{font:700 1.5rem/1.1 var(--cond);margin:0 0 10px}
+h3{font:600 1.1rem var(--cond);color:var(--muted);margin:14px 0 6px}
+.slot{display:grid;grid-template-columns:3.2rem 1fr auto;gap:10px;align-items:center;padding:6px 8px;border-radius:8px;background:var(--slot);margin-bottom:6px}
+.slot .pos{font:700 1.4rem/1 var(--cond);color:var(--turf);text-align:center}
+.slot.bn .pos{color:var(--muted);font-size:1.1rem}
+.slot .name{font-weight:600}
+.slot .meta{color:var(--muted);font-size:.85rem}
+.proj{font:600 1.1rem var(--cond)}
+.tag{font:600 .78rem var(--cond);padding:1px 6px;border-radius:4px;margin-left:6px}
+.tag.QUESTIONABLE,.tag.DOUBTFUL{background:var(--amber-soft);color:var(--amber)}
+.tag.OUT,.tag.INJURY_RESERVE,.tag.SUSPENSION{background:var(--red-soft);color:var(--red)}
+nav{display:flex;gap:4px;overflow-x:auto;margin-bottom:12px}
+nav button{font:600 1.15rem var(--cond);background:none;border:0;border-bottom:3px solid transparent;padding:6px 12px;color:var(--muted);cursor:pointer;white-space:nowrap}
+nav button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--turf)}
+.md{overflow-wrap:anywhere}
+.md table{border-collapse:collapse;width:100%;display:block;overflow-x:auto;font-size:.93rem}
+.md th,.md td{border-bottom:1px solid var(--line);padding:5px 8px;text-align:left;vertical-align:top}
+.md h1,.md h2,.md h3{font-family:var(--cond);color:var(--ink)}
+.md p,.md li{max-width:75ch}
+.md a{color:var(--turf)}
+.changes{border-left:4px solid var(--turf);background:var(--turf-soft);padding:8px 12px;border-radius:0 6px 6px 0;margin-bottom:12px;font-size:.93rem}
+.stale{border-left-color:var(--amber);background:var(--amber-soft)}
+table.std{border-collapse:collapse;width:100%;font-size:.93rem}
+table.std td,table.std th{padding:5px 8px;border-bottom:1px solid var(--line);text-align:left}
+table.std tr.me td{font-weight:600;color:var(--turf)}
+.scroll{overflow-x:auto}
+.hidden{display:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div><h1 id="team">Fantasy Coach</h1><div class="sub" id="sub">Loading…</div></div>
+    <div class="score" id="score"></div>
+  </header>
+  <div class="grid">
+    <div class="panel"><h2>Lineup</h2><div id="board"></div></div>
+    <div class="panel">
+      <nav role="tablist" id="tabs"></nav>
+      <div id="status"></div>
+      <div class="md" id="report"></div>
+    </div>
+  </div>
+</div>
+<script>
+const TABS = [["brief","Research brief"],["startsit","Start / sit"],["waivers","Waivers"],["matchup","Matchup"],["league","League"]];
+const ORDER = ["QB","RB","WR","TE","FLEX","D/ST","K","BN","IR"];
+let league, reports, tab = location.hash.slice(1) || "brief";
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const md = t => window.marked && window.DOMPurify ? DOMPurify.sanitize(marked.parse(t || "")) : `<pre>${esc(t)}</pre>`;
+const when = iso => iso ? new Date(iso).toLocaleString([], {weekday:"short", month:"short", day:"numeric", hour:"numeric", minute:"2-digit"}) : "never";
+
+async function load(){
+  const bust = "?t=" + Date.now();
+  [league, reports] = await Promise.all([
+    fetch("data/league.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch("data/reports.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
+  ]);
+  if (!league){ $("sub").textContent = "No league data yet. Run the workflow once from the Actions tab."; return; }
+  const me = league.teams.find(t => t.id === league.my_team_id);
+  const opp = league.teams.find(t => t.id === league.opponent_id);
+  $("team").textContent = me.name;
+  $("sub").textContent = `${league.league_name} · Week ${league.week} · ${me.wins}-${me.losses} · ${me.points_for} PF · league checked ${when(league.fetched_at)}`;
+  const p = league.projection || {};
+  $("score").innerHTML = opp ? `<span>You <b>${p.me ?? "–"}</b></span><span>${esc(opp.name)} <b>${p.opponent ?? "–"}</b></span>${p.my_win_prob != null ? `<span class="muted">${Math.round(p.my_win_prob*100)}% to win</span>` : ""}` : "";
+  renderBoard(me); renderTabs(); renderTab();
+}
+
+function renderBoard(me){
+  const rows = [...me.roster].sort((a,b) => ORDER.indexOf(a.slot) - ORDER.indexOf(b.slot));
+  let html = "", benchStarted = false;
+  for (const p of rows){
+    const bn = p.slot === "BN" || p.slot === "IR";
+    if (bn && !benchStarted){ html += "<h3>Bench</h3>"; benchStarted = true; }
+    const tag = p.injury && p.injury !== "ACTIVE" ? `<span class="tag ${esc(p.injury)}">${esc(p.injury.replace("_"," "))}</span>` : "";
+    html += `<div class="slot${bn ? " bn" : ""}"><div class="pos">${esc(p.slot)}</div>
+      <div><div class="name">${esc(p.name)}${tag}</div><div class="meta">${esc(p.pos)}, ${esc(p.team)}</div></div>
+      <div class="proj" title="ESPN projection">${p.proj ?? "–"}</div></div>`;
+  }
+  $("board").innerHTML = html;
+}
+
+function renderTabs(){
+  $("tabs").innerHTML = TABS.map(([k,l]) => `<button role="tab" data-k="${k}" aria-selected="${k===tab}">${l}</button>`).join("");
+}
+$("tabs").onclick = e => { const k = e.target.dataset.k; if (!k) return; tab = k; history.replaceState(null, "", "#"+k); renderTabs(); renderTab(); };
+
+function renderTab(){
+  if (tab === "league"){ $("status").innerHTML = ""; $("report").innerHTML = leagueView(); return; }
+  if (!reports){ $("status").innerHTML = `<div class="changes stale">No research yet. It runs on the schedule, or trigger it from the Actions tab.</div>`; $("report").innerHTML = ""; return; }
+  const staleWeek = reports.week !== league.week;
+  const changes = (reports.changes || []).length ? `<br>Triggered by: ${reports.changes.map(esc).join("; ")}` : "";
+  $("status").innerHTML = `<div class="changes${staleWeek ? " stale" : ""}">Research for week ${reports.week}, updated ${when(reports.generated_at)} (${esc(reports.trigger)} run).${staleWeek ? " A newer week has started; the next run will refresh this." : ""}${changes}</div>`;
+  let html = md(reports[tab] || "_Nothing in this section yet._");
+  if (tab === "brief" && reports.sources?.length){
+    html += "<h3>Sources</h3><ul>" + reports.sources.filter(s => /^https?:\/\//.test(s.url)).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a></li>`).join("") + "</ul>";
+  }
+  $("report").innerHTML = html;
+}
+
+function leagueView(){
+  const teams = [...league.teams].sort((a,b) => b.wins - a.wins || b.points_for - a.points_for);
+  const byPoints = [...league.teams].sort((a,b) => b.points_for - a.points_for).map(t => t.id);
+  let html = `<h2>Standings</h2><div class="scroll"><table class="std"><tr><th>Team</th><th>Record</th><th>Points for</th><th>Points rank</th><th>FAAB spent</th></tr>` +
+    teams.map(t => `<tr class="${t.id===league.my_team_id?"me":""}"><td>${esc(t.name)}</td><td>${t.wins}-${t.losses}${t.ties?"-"+t.ties:""}</td><td>${t.points_for}</td><td>${byPoints.indexOf(t.id)+1}</td><td>$${t.faab_spent}</td></tr>`).join("") + `</table></div>`;
+  html += `<h2 style="margin-top:20px">Recent moves</h2>`;
+  html += league.transactions.length ? "<ul>" + league.transactions.map(t =>
+    `<li><b>${esc(t.team)}</b>: ${t.items.map(i => `${esc(i.type.toLowerCase())} ${esc(i.player)}`).join(", ")}${t.bid ? ` ($${t.bid})` : ""}</li>`).join("") + "</ul>" : `<p class="muted">No adds, drops or trades yet this week.</p>`;
+  return html;
+}
+load();
+</script>
+</body>
+</html>

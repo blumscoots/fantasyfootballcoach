@@ -1,0 +1,10 @@
+{
+  "league_id": 26014871,
+  "season": 2026,
+  "team_id": 12,
+  "team_name": "Mr. Chow",
+  "model": "claude-sonnet-5",
+  "max_web_searches": 15,
+  "free_agent_limit": 150,
+  "min_hours_between_research": 3
+}
