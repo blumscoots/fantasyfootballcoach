@@ -1,0 +1,64 @@
+name: Update fantasy research
+
+on:
+  schedule:
+    # All times are UTC. Pacific Daylight Time = UTC-7 (UTC-8 after Nov 1).
+    - cron: "0 16 * * 2"     # Tue 9am PT: waivers after the week's games
+    - cron: "0 1 * * 4,5,6"  # Wed/Thu/Fri 6pm PT: practice and injury reports
+    - cron: "0 15 * * 0"     # Sun 8am PT: final start/sit check
+    - cron: "30 */4 * * *"   # every 4 hours: cheap league check, research only if something changed
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = always research, check = only if the league changed"
+        default: full
+        type: choice
+        options: [full, check]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fantasy-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Pick mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "30 */4 * * *" ]; then
+            echo "mode=check" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch league from ESPN
+        run: python scripts/fetch_league.py
+
+      - name: Research with Claude
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/research.py
+
+      - name: Save results
+        run: |
+          git config user.name "fantasy-coach-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && echo "Nothing new" && exit 0
+          git commit -m "Update research ($(date -u +%Y-%m-%dT%H:%MZ), ${{ steps.mode.outputs.mode }})"
+          git push
