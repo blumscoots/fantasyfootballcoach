@@ -1,5 +1,10 @@
 {
- "at": "2026-09-25T14:01:13+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-09-25T20:04:30+00:00",
+ "events": [
+  "Kyle Monangai (Madenspacher): QUESTIONABLE -> ACTIVE",
+  "Puka Nacua (Madenspacher): QUESTIONABLE -> DOUBTFUL",
+  "Tony Pollard (Madenspacher): QUESTIONABLE -> ACTIVE",
+  "Nico Collins (Mr. Chow): QUESTIONABLE -> OUT"
+ ],
+ "relevant": true
 }
