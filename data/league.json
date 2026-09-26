@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T05:14:58+00:00",
+ "fetched_at": "2026-09-26T05:57:54+00:00",
  "league_name": "Premier League",
  "week": 3,
  "settings": {
@@ -65,7 +65,7 @@
      "proj": 9.7,
      "last_week": 1.3,
      "owned_pct": 94.3,
-     "owned_change": -0.05,
+     "owned_change": -0.04,
      "outlook": "Colston Loveland will look to turn things around as the Bears play the Eagles in Week 3. Loveland disappointed again in Week 2, catching just one of three targets for three yards against the Vikings. The second-year tight end now has just one catch on the year, which is nowhere near the breakout season managers were projecting. He'll likely be thrown to by Tyson Bagent against Philly defense that's allowed the fewest PPR fantasy points per game to tight ends this season (5.1).",
      "slot": "TE"
     },
@@ -117,7 +117,7 @@
      "proj": 0.0,
      "last_week": 6.4,
      "owned_pct": 78.7,
-     "owned_change": -0.64,
+     "owned_change": -0.63,
      "outlook": "Rico Dowdle and the Steelers host the Bengals and their 14th-ranked run defense in Week 3. He finished Pittsburgh's loss last week with seven carries for 22 yards and caught both targets for 22 yards. Dowdle left the game in the second quarter with a toe injury, was cleared and returned to play in the second half but then left for good after appearing to re-injure the same toe. Keep an eye on his status in practice this week, as there's a good chance he'll be limited, thus leaving his status for Sunday's contest against the Bengals in question.",
      "slot": "BN"
     },
@@ -130,7 +130,7 @@
      "proj": 13.6,
      "last_week": 10.5,
      "owned_pct": 85.9,
-     "owned_change": 0.09,
+     "owned_change": 0.1,
      "outlook": "Aaron Jones should continue to have a high-usage role as the Vikings travel to Tampa Bay in Week 3. Jones saw a big workload in Week 2 with Jordan Mason (thumb) on IR, rushing the ball 23 times for 105 yards. The veteran running back should continue to have a huge role in the coming weeks, while questions remain with the passing game under returning quarterback Kyler Murray. Jones will face a Buccaneers defense that's allowed a middle-of-the-pack 19.5 PPR points per game to RBs.",
      "slot": "RB"
     },
@@ -182,7 +182,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 33.6,
-     "owned_change": -0.46,
+     "owned_change": -0.45,
      "outlook": "",
      "slot": "IR"
     },
@@ -195,7 +195,7 @@
      "proj": 3.7,
      "last_week": 0.7,
      "owned_pct": 22.8,
-     "owned_change": -0.35,
+     "owned_change": -0.34,
      "outlook": "Mike Washington hasn't seen much action to begin his NFL career, getting 10 carries through the Raiders' first two games and turning them into 48 yards. He also failed to bring in his only target. Ashton Jeanty is locked into the top spot in the backfield and has 54 touches, third in the league behind only Jahmyr Gibbs and Kenneth Walker, and unless he gets hurt, Washington's workload figures to be limited. The rookie will look to take advantage of the chances he does get in Week 3 against a Saints defense that ranks in the bottom four in rushing yards and rushing TDs allowed to RBs so far in 2026.",
      "slot": "BN"
     },
@@ -220,8 +220,8 @@
      "injury": "ACTIVE",
      "proj": 9.8,
      "last_week": 8.7,
-     "owned_pct": 11.9,
-     "owned_change": 0.54,
+     "owned_pct": 12.0,
+     "owned_change": 0.53,
      "outlook": "Malik Washington brings steady volume ahead of the Dolphins' Week 3 matchup with the Chiefs. With Malik Willis under center, Miami has completed just 29 passes through two games, but seven have gone to Washington, who's averaging 6.5 targets. Kansas City's rebuilt secondary has been terrific through two games, allowing just 204 yards to opposing wideouts. Washington seems unlikely to produce any massive numbers, but he also appears to be a steady cog in this limited offense, keeping him on WR3/Flex radars.",
      "slot": "BN"
     },
@@ -247,7 +247,7 @@
      "proj": 16.6,
      "last_week": 29.8,
      "owned_pct": 79.0,
-     "owned_change": 0.31,
+     "owned_change": 0.3,
      "outlook": "Jared Goff will look to keep his high production rolling as the Lions take on the Jets in Week 3. Goff benefited from playing from behind in Week 2 at Buffalo, racking up 327 passing yards and four touchdowns on a 68.4 percent completion rate. The veteran quarterback has now totaled 533 passing yards with a 6:0 TD:INT across his first two games, and Detroit's lacking defense has only helped his output so far. Goff will take on a Jets defense that's allowed a top-10 fantasy points per game (14.2) to quarterbacks in the first two games of the season.",
      "slot": "QB"
     }
@@ -339,7 +339,7 @@
      "proj": 0.0,
      "last_week": 7.7,
      "owned_pct": 91.0,
-     "owned_change": -0.07,
+     "owned_change": -0.06,
      "outlook": "Caleb Williams is not expected to play in Week 3 as the Bears take on the Eagles. Williams went down with what looked like a freak injury against the Vikings in Week 2, but he now sits week-to-week with a hamstring ailment. Tyson Bagent is slated to get the start versus an Eagles defense that's allowed a middle-of-the-pack 20.6 fantasy points per game to quarterbacks across two games.",
      "slot": "QB"
     },
@@ -391,7 +391,7 @@
      "proj": 11.5,
      "last_week": 12.6,
      "owned_pct": 64.6,
-     "owned_change": 0.31,
+     "owned_change": 0.3,
      "outlook": "Romeo Doubs will look to build on Week 2's uptick in workload in the Patriots offense when they face the Jaguars in Week 3. After not catching a pass in his Week 1 debut, Doubs snagged three of four targets for a team-high 96 yards in Week 2. New England's passing game is sputtering, and despite A.J. Brown missing the last game and a half, Doubs has not logged heavy volume. Jacksonville's secondary was just beaten for 138 yards by Jaylen Waddle, but otherwise, has held up with only one touchdown to opposing wideouts. Until his opportunities increase, Doubs presents a risky profile.",
      "slot": "BN"
     },
@@ -404,7 +404,7 @@
      "proj": 5.8,
      "last_week": 0.0,
      "owned_pct": 22.5,
-     "owned_change": -0.31,
+     "owned_change": -0.3,
      "outlook": "Jalen McMillan will look to bounce back from a lackluster 2026 debut in the Buccaneers' Week 3 matchup against the Vikings. McMillan returned from a knee injury in the Week 2 loss against the Browns but played just seven offensive snaps. He'll likely be more involved as the season progresses, but with Tampa Bay's offensive struggles (five turnovers and two total touchdowns through two weeks), he may struggle to find fantasy relevance. Additionally, he's in for a difficult Week 3 matchup against a Minnesota defense that allowed just three points to the Bears in Week 2.",
      "slot": "BN"
     },
@@ -416,8 +416,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 25.9,
-     "owned_change": -0.25,
+     "owned_pct": 25.8,
+     "owned_change": -0.24,
      "outlook": "Isiah Pacheco will remain sidelined in Week 3 as the Lions take on the Jets. Pacheco was placed on IR to start the season due to a back injury, and he recently underwent surgery. This puts the former Kansas City RB's return in jeopardy as the season progresses. He's currently expected to be back sometime in December, so Sione Vaki will handle any RB2 duties behind Jahmyr Gibbs.",
      "slot": "IR"
     },
@@ -430,7 +430,7 @@
      "proj": 3.8,
      "last_week": 9.0,
      "owned_pct": 83.4,
-     "owned_change": -0.66,
+     "owned_change": -0.65,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -469,7 +469,7 @@
      "proj": 6.3,
      "last_week": 5.3,
      "owned_pct": 17.4,
-     "owned_change": -0.61,
+     "owned_change": -0.6,
      "outlook": "Michael Mayer hasn't made much of an impact as the Raiders' top tight end through the first two weeks of the season, catching nine of 11 targets for 55 yards without scoring a touchdown. That role has come while Brock Bowers was recovering from minor knee surgery at the end of training camp, but with Bowers expected to return in Week 3, Mayer will see even his modest volume collapse. If Bowers' 2026 debut does get delayed further, Mayer will still be facing a Saints defense that has yet to allow a TD to a tight end so far.",
      "slot": "TE"
     },
@@ -561,7 +561,7 @@
      "proj": 16.9,
      "last_week": 39.5,
      "owned_pct": 98.8,
-     "owned_change": 0.08,
+     "owned_change": 0.07,
      "outlook": "Davante Adams is coming off an explosive Monday Night Football performance heading into the Rams' Week 3 matchup versus Denver. With Puka Nacua sidelined by a hip injury, Adams starred Monday against the Giants, posting a massive 10-195-2 line. Nacua's status for Week 3 is up in the air, and Adams would logically stand to be Matthew Stafford's top target again if Nacua can't suit up. However, Denver is a tough matchup, as the Broncos have yielded just 6.55 yards per target to wideouts this season (fifth-best in the NFL).",
      "slot": "WR"
     },
@@ -600,7 +600,7 @@
      "proj": 7.3,
      "last_week": 1.9,
      "owned_pct": 53.7,
-     "owned_change": -0.58,
+     "owned_change": -0.57,
      "outlook": "Makai Lemon had just one catch in Philadelphia's win over Tennessee. Lemon is battling with Darius Cooper for the No. 3 wideout spot, as Dontayvion Wicks has all but claimed No. 2 for his own. Lemon had just one target last game, while Cooper had three and Wicks managed six. In Week 3, Philadelphia will face a Bears defense allowing 240 passing yards per tilt thus far this season, which is 25th in the NFL.",
      "slot": "BN"
     },
@@ -626,7 +626,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 57.5,
-     "owned_change": -0.28,
+     "owned_change": -0.27,
      "outlook": "Jordan Mason will be out for Week 3 as the Vikings take on the Bears. Mason hurt his thumb after week one against the Packers, and he's been placed on IR for the injury. Mason will remain sidelined for at least the next three weeks, priming veteran Aaron Jones for a continued big role moving forward.",
      "slot": "IR"
     },
@@ -665,7 +665,7 @@
      "proj": 7.4,
      "last_week": 2.5,
      "owned_pct": 44.1,
-     "owned_change": -0.17,
+     "owned_change": -0.16,
      "outlook": "Kaelon Black enters a Week 3 tilt against Arizona having established himself as San Francisco's clear No. 2 back. While Black has caught only one pass (on one target) through two contests, he's carried the ball 21 times -- one more than starter Christian McCaffrey (20 carries) and well ahead of No. 3 RB Jordan James (four totes). Of course, McCaffrey is the unquestioned leader of the 49ers' backfield, but Black has at least carved out a significant role and put himself on the fantasy radar in his first NFL campaign. The Cardinals just gave up 144 total rushing yards to Seattle's Jadarian Price and Emanuel Wilson in a loss Sunday, so they could be vulnerable against San Francisco's ground game.",
      "slot": "BN"
     },
@@ -678,7 +678,7 @@
      "proj": 10.6,
      "last_week": 12.3,
      "owned_pct": 34.1,
-     "owned_change": 0.33,
+     "owned_change": 0.32,
      "outlook": "Adonai Mitchell hopes for a continued elevated workload in Week 3 when the Jets face the Lions. After just three targets in a run-heavy Week 1, Mitchell logged an eye-opening 12 targets in Week 2, with the Jets throwing 41 times. Detroit's defense has been a fantasy bonanza for opposing offenses, allowing the sixth-most fantasy points to wideouts. Assuming the Lions score plenty themselves, the Jets should throw heavily, giving Mitchell ample opportunities for a big play or two.",
      "slot": "BN"
     },
@@ -704,7 +704,7 @@
      "proj": 11.0,
      "last_week": 26.0,
      "owned_pct": 63.6,
-     "owned_change": 2.27,
+     "owned_change": 2.22,
      "outlook": "Dalton Schultz paced the Texans with 12 catches for 140 yards on 14 targets in the Week 2 loss to Cincinnati, working as C.J. Stroud's top target in the absence of WR Nico Collins (hamstring). The veteran TE is the favorite to lead the team in targets if Collins sits in Week 3 against a Colts defense that has allowed the most yards and TDs in the NFL this season. Indianapolis just allowed nine catches for 101 yards and a TD to Chiefs TE Travis Kelce in Week 2. Schultz is locked in as a fantasy TE1 for Week 3 if Collins sits and has a strong argument to stay in that range even if Collins suits up.",
      "slot": "BN"
     },
@@ -717,7 +717,7 @@
      "proj": 9.8,
      "last_week": 22.9,
      "owned_pct": 40.9,
-     "owned_change": 0.76,
+     "owned_change": 0.75,
      "outlook": "Tre Tucker produced his first ceiling game of 2026 in the Raiders' Week 2 win over the Chargers. churning out a 5-119-1 line on seven targets. The volatile wideout is showing some early chemistry with new quarterback Kirk Cousins, and no one else has yet shown any indication that they'll be able to challenge him for the top spot on the depth chart, even if Tucker's skill set would be better suited for a WR2 or even WR3 role. Tucker will try to build on last week's effort in Week 3 against a Saints secondary that ranks in the middle of the pack in terms of volume allowed to wide receivers so far, but which has given up three TDs to the position in two games.",
      "slot": "BN"
     }
@@ -809,7 +809,7 @@
      "proj": 10.9,
      "last_week": 5.5,
      "owned_pct": 85.8,
-     "owned_change": -0.12,
+     "owned_change": -0.11,
      "outlook": "Courtland Sutton has had a slow start to the season as the focus of the Broncos' passing game has shifted to Jaylen Waddle. Through two games, Sutton has posted only nine targets, catching five for a meager 36 yards. He still has plenty of existing chemistry with quarterback Bo Nix, and the duo could rekindle it once defenses begin shifting more attention to Waddle, but Sutton figures to be hard-pressed to reach 1,000 receiving yards in 2026 for a third straight season. He'll take on a Rams secondary in Week 3 that's allowed just 19 receptions to WRs through two weeks, tied for seventh in the NFL, though three of them have gone for touchdowns.",
      "slot": "BN"
     },
@@ -848,7 +848,7 @@
      "proj": 0.0,
      "last_week": 2.1,
      "owned_pct": 59.2,
-     "owned_change": -1.15,
+     "owned_change": -1.13,
      "outlook": "Jonathon Brooks (groin) is expected to operate as the Panthers' No. 2 running back if active for the Week 3 matchup against the Browns. Brooks is considered week-to-week after tweaking the same groin he first injured during training camp in the Week 2 win over the Falcons. Prior to his injury, the Texas product was clearly operating as Carolina's second RB, tallying just nine carries for 30 yards and two catches for 43 yards over the team's first two contests. Brooks will likely to find fantasy relevance if active in Week 3, with Cleveland's defense allowing just 16.9 PPR fantasy points per game to the position thus far.",
      "slot": "IR"
     },
@@ -861,7 +861,7 @@
      "proj": 12.7,
      "last_week": 25.1,
      "owned_pct": 94.3,
-     "owned_change": 0.15,
+     "owned_change": 0.14,
      "outlook": "Travis Kelce continued a strong start to his 14th NFL season in Kansas City's Week 2 overtime win over the Colts, posting a 9-101-1 line on 11 targets. The future Hall of Famer last delivered a 1,000-yard campaign in 2022, but he's jumped out to an early pace in 2026 that would see him top 1,400 receiving yards and set a new career high. With Patrick Mahomes spreading the ball around and the offense prioritizing Kenneth Walker and the run game, Kelce may need to rely on spike games rather than steady production for his fantasy value. He'll take on a Dolphins defense in Week 3 that's allowed 10.2 yards per target to tight ends through two weeks, 27th in the league.",
      "slot": "TE"
     },
@@ -874,7 +874,7 @@
      "proj": 12.3,
      "last_week": 6.5,
      "owned_pct": 84.3,
-     "owned_change": 0.28,
+     "owned_change": 0.27,
      "outlook": "Deebo Samuel is coming off a quiet game heading into San Francisco's Week 3 matchup against the Cardinals. Samuel caught three passes for 31 yards and rushed once for four yards in Sunday's rout of Miami. However, fellow wideouts Demarcus Robinson (ankle) and Mike Evans (hip) both exited that contest due to injury, and though early reports suggest Evans should be fine for Week 3, Samuel could see more looks come his way given his comparatively good health. Arizona has given up the sixth-most fantasy points per game to wideouts so far this year and was just torched by Seattle's Jaxon Smith-Njigba (9-155-3 receiving line) on Sunday.",
      "slot": "BN"
     },
@@ -900,7 +900,7 @@
      "proj": 18.8,
      "last_week": 22.4,
      "owned_pct": 80.3,
-     "owned_change": 0.9,
+     "owned_change": 0.88,
      "outlook": "Tyler Shough will lead the Saints' offense into a Week 3 matchup against the Raiders, whose defense has allowed just 17.4 fantasy points per game to opposing quarterbacks this season. Shough has been one of the NFL's most productive QBs through two weeks, leading the league in passing yards (662) while producing five total touchdowns. Despite throwing the ball 90 times in his first two contests, Shough remains one of the league leaders in completion percentage (68.9 percent). He's in for a difficult Week 3 matchup, however, with the Raiders' allowing just one passing touchdowns this season.",
      "slot": "QB"
     },
@@ -913,7 +913,7 @@
      "proj": 7.9,
      "last_week": 4.0,
      "owned_pct": 31.9,
-     "owned_change": -1.33,
+     "owned_change": -1.3,
      "outlook": "Cairo Santos will aim to do more as the Bears play the Eagles in Week 3. Santos made his first field-goal attempt against the Vikings in Week 2, but his second chance for a tie was blocked in the fourth quarter. The veteran kicker's potential for the rest of the season remains up in the air following the injury to Caleb Williams, but an inexperienced Tyson Bagent could get the field-goal team on the field more often rather than finding the end zone. Philly has allowed 6.0 fantasy points per game to kickers this year, a top-10 mark in the league.",
      "slot": "BN"
     },
@@ -951,8 +951,8 @@
      "injury": "ACTIVE",
      "proj": 7.8,
      "last_week": 12.0,
-     "owned_pct": 41.0,
-     "owned_change": 0.74,
+     "owned_pct": 41.1,
+     "owned_change": 0.73,
      "outlook": "Evan McPherson and the Bengals visit the Steelers for an AFC North divisional matchup in Week 3. He remained perfect on the season after connecting on both of his field-goal attempts and both PATs during Cincinnati's Week 2 win over Houston. McPherson drilled both of his field goals from 50-plus yards out, and he's now 6-for-6 on the season, with four of his makes coming beyond 50 yards. He'll continue to earn plenty of scoring opportunities on an elite offense, even despite Pittsburgh's strong defense.",
      "slot": "K"
     }
@@ -1044,7 +1044,7 @@
      "proj": 14.4,
      "last_week": 14.4,
      "owned_pct": 91.8,
-     "owned_change": 0.14,
+     "owned_change": 0.13,
      "outlook": "Chuba Hubbard is expected to remain the Panthers' top running back in the Week 3 matchup against the Browns. Hubbard appears to have returned to his 2024 form over Carolina's first two games this season, rushing for 102 yards (4.6 yards per carry) and a touchdown while catching all five of his targets for 49 yards and a score. Additionally, with Jonathon Brooks (groin) exiting the Week 2 win in the fourth quarter, Hubbard's role could continue growing. He faces a difficult matchup, however, as the Browns' defense has given up just 16.9 PPR fantasy points per game through two weeks.",
      "slot": "RB"
     },
@@ -1057,7 +1057,7 @@
      "proj": 10.7,
      "last_week": 7.0,
      "owned_pct": 76.5,
-     "owned_change": -0.06,
+     "owned_change": -0.05,
      "outlook": "Brian Thomas has notched exactly three catches for 40 yards in each of his first two games this season, providing a baseline expectation for the 2024 first-round pick's production in Jacksonville's Week 3 home game against the Patriots. Thomas is certainly capable of more, considering he averaged over 75 receiving yards per game as a rookie and scored 10 TDs that year, but has only two TDs in 16 games since then and is unlikely to score against a Patriots defense that has allowed only one touchdown this season. Perhaps breakout teammate Parker Washington will draw attention from top Patriots cornerback Christian Gonzalez to free up some space for Thomas to operate, but Thomas' lackluster production since the start of last season coupled with the tricky matchup make him a low-end flex play at best for Week 3.",
      "slot": "BN"
     },
@@ -1096,7 +1096,7 @@
      "proj": 10.2,
      "last_week": 10.9,
      "owned_pct": 82.1,
-     "owned_change": 0.01,
+     "owned_change": 0.02,
      "outlook": "Mark Andrews and the Ravens look to rebound from an upset defeat when they visit the Cowboys in Week 3. He caught six of seven targets for 49 yards during Baltimore's 24-17 Week 2 loss, making it two straight outings with exactly 49 receiving yards for the 31-year-old. Andrews draws a favorable matchup versus a Dallas defense that surrendered eight receptions for 78 yards and two TDs to Isaiah Likely in the season opener. The Cowboys rank 26th in fantasy points allowed (16.9) and are one of two teams with a catch rate of 100% to TEs.",
      "slot": "BN"
     },
@@ -1109,7 +1109,7 @@
      "proj": 11.4,
      "last_week": 13.5,
      "owned_pct": 76.3,
-     "owned_change": 0.21,
+     "owned_change": 0.2,
      "outlook": "Xavier Worthy scored his first touchdown of the season in Kansas City's Week 2 overtime win over the Colts, snagging a one-yard toss from Patrick Mahomes in the second quarter. Worthy has notched steady target volume early in the season, with 13 total looks, but that has resulted in just an 8-43-1 line, and he has yet to get a carry. With Mahomes spreading the ball around and the offense prioritizing Kenneth Walker and the run game, Worthy will need some big plays to make a real fantasy contribution. The third-year speedster will face a Dolphins defense in Week 3 that's given up five passing TDs through two games, but only one to a wide receiver.",
      "slot": "WR"
     },
@@ -1135,7 +1135,7 @@
      "proj": 1.7,
      "last_week": 14.8,
      "owned_pct": 38.7,
-     "owned_change": -1.49,
+     "owned_change": -1.5,
      "outlook": "Jonah Coleman didn't see the ball in his NFL debut during the Broncos' opener, but his role increased in Week 2's win over the Jaguars due to RJ Harvey's hamstring strain. Coleman ended up getting more touches than J.K. Dobbins, with the 2026 fourth-round pick turning 10 carries into 39 yards and his first career touchdown while also catching all three of his targets for 19 yards. It's not clear how much time Harvey might miss, but Coleman's solid showing in his first opportunity could begin the process of turning the backfield into a three-man committee, with the workload dependent on whoever happens to be healthy. Coleman could be a risky play in Week 3 against a Rams defense that just saw the return of Aaron Donald in Week 2 and has yet to allow a rushing TD this year.",
      "slot": "BN"
     },
@@ -1147,8 +1147,8 @@
      "injury": "ACTIVE",
      "proj": 16.7,
      "last_week": 24.1,
-     "owned_pct": 74.5,
-     "owned_change": 0.98,
+     "owned_pct": 74.6,
+     "owned_change": 0.95,
      "outlook": "Bryce Young will look to stay hot in the Panthers' Week 3 matchup against the Browns, whose defense has surrendered 22.1 fantasy points per game to quarterbacks this season. Young has been one of the most productive QBs in the NFL through two weeks, as he's tied for the most touchdown passes in the league (six) while ranking second in passing yards (648). He's also threatened defenses with his legs, adding 16 yards and a score on the ground. Young could very well finish as one of fantasy's top quarterbacks again in Week 3 while playing a Browns defense that's allowed five touchdown passes this season.",
      "slot": "BN"
     },
@@ -1161,7 +1161,7 @@
      "proj": 8.7,
      "last_week": 9.8,
      "owned_pct": 14.7,
-     "owned_change": 0.44,
+     "owned_change": 0.43,
      "outlook": "Oronde Gadsden hasn't logged much volume to begin the season, with just four targets through two games, but he's caught all four for 50 yards and scored his first touchdown of 2026 in the Chargers' loss last week to the Raiders. The second-year tight end's usage could increase significantly in the coming games. Both David Njoku and Charlie Kolar left the Week 2 loss to Las Vegas with injuries that are expected to land them on injured reserve, leaving Gadsden as the only healthy TE on the roster. He doesn't have the blocking skills of his veteran teammates, which could limit how much OC Mike McDaniel is willing to put him on the field, but Gadsden's workload will still increase almost by default unless the team is able to find immediate help from outside the organization. He'll face a Bills defense in Week 3 that ranks in the bottom 10 in catches and receiving yards allowed to tight ends this season.",
      "slot": "TE"
     },
@@ -1292,7 +1292,7 @@
      "proj": 14.9,
      "last_week": 9.7,
      "owned_pct": 88.9,
-     "owned_change": 0.09,
+     "owned_change": 0.1,
      "outlook": "Jaylen Warren and the Steelers welcome the Bengals to town for a Week 3 AFC North matchup. He rushed 11 times for 43 yards and brought in two of four targets for 34 yards during Pittsburgh's 20-3 loss to New England. Warren handled 11 of 20 carries from backs in this one, but the Steelers weren't able to get much going on offense. It looks like he's the 1A out of the backfield, and although it's not by a substantial amount, Rico Dowdle is considered questionable to suit up on Sunday with a toe injury. Warren faces a 14th-ranked Cincinnati defense in fantasy points allowed (19.0) to RBs.",
      "slot": "BN"
     },
@@ -1318,7 +1318,7 @@
      "proj": 13.8,
      "last_week": 14.6,
      "owned_pct": 88.2,
-     "owned_change": 0.19,
+     "owned_change": 0.18,
      "outlook": "Jalen Coker is expected to remain one of Bryce Young's favorite targets in Carolina's Week 3 matchup against the Browns. Coker has been incredibly productive, leading the Panthers in receptions (16) and yards (204) while being tied for first in targets (18) through two weeks. Across his last three games (including playoffs), the third-year pro has caught 25 of 30 targets for 338 yards and two touchdowns, emerging as one of the NFL's top young wideouts. He's in for a very favorable matchup in Week 3 as well, as the Browns' defense has surrendered 7.2 yards per pass attempt this season.",
      "slot": "FLEX"
     },
@@ -1357,7 +1357,7 @@
      "proj": 7.1,
      "last_week": 24.0,
      "owned_pct": 46.2,
-     "owned_change": 1.67,
+     "owned_change": 1.63,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1369,7 +1369,7 @@
      "injury": "ACTIVE",
      "proj": 7.6,
      "last_week": 21.8,
-     "owned_pct": 32.4,
+     "owned_pct": 32.5,
      "owned_change": 0.93,
      "outlook": "Rashod Bateman and the Ravens are on the road for a Week 3 matchup against the Cowboys. In the absence of top wideout Zay Flowers (hamstring), Bateman caught seven of nine targets for 88 yards and a touchdown during Baltimore's Week 2 loss. He'll likely slide back to a supporting role if Flowers is able to suit up this Sunday. However, if he's unable to do so, Bateman will have the chance to replicate his solid outing versus a Dallas defense that ranks 18th in fantasy points per game (31.2) allowed to WRs.",
      "slot": "BN"
@@ -1396,7 +1396,7 @@
      "proj": 8.9,
      "last_week": 9.2,
      "owned_pct": 35.1,
-     "owned_change": 0.78,
+     "owned_change": 0.71,
      "outlook": "Emanuel Wilson will look to build upon a big performance when Seattle faces Washington in Week 3. With Jadarian Price suffering a shoulder injury against Arizona on Sunday, Wilson stepped up and led the Seahawks with 21 rushes for 92 yards. Price's injury isn't considered serious, but it's not certain that he'll be able to return to action in Week 3. Whoever leads Seattle's backfield will be looking to score the first rushing touchdown against the Commanders this season.",
      "slot": "BN"
     }
@@ -1475,7 +1475,7 @@
      "proj": 11.8,
      "last_week": 7.0,
      "owned_pct": 92.7,
-     "owned_change": -0.01,
+     "owned_change": 0.0,
      "outlook": "Terry McLaurin led the Commanders in targets last game with nine opportunities. Unfortunately, Scary Terry could only cash in two of those chances for 50 yards in a loss to the Cowboys. Starting quarterback Jayden Daniels only played a half due to injury, and veteran backup Marcus Mariota will likely start in Week 3 versus a devastating Seattle defense. The Seahawks are allowing just 8.5 points per game thus far in 2026, which is second in the league. Seattle is also allowing the fewest passing yards per contest at 124.5 per tilt. None of this appears to be a recipe for success for McLaurin and the rest of the Washington offense.",
      "slot": "BN"
     },
@@ -1488,7 +1488,7 @@
      "proj": 0.0,
      "last_week": 14.7,
      "owned_pct": 86.0,
-     "owned_change": -0.39,
+     "owned_change": -0.37,
      "outlook": "Jayden Daniels dislocated his elbow against the Cowboys in Week 2, the same elbow he injured last year for the Commanders. While the elbow is not fractured, Daniels is almost certain to miss Week 3 vs. the Seahawks. Veteran backup Marcus Mariota will likely start versus a devastating Seattle defense that is allowing just 8.5 points and 214 yards per game thus far in 2026, which is second in the league in both categories. Seattle is also allowing the fewest passing yards per contest at 124.5 per tilt.",
      "slot": "BN"
     },
@@ -1527,7 +1527,7 @@
      "proj": 20.8,
      "last_week": 28.5,
      "owned_pct": 95.3,
-     "owned_change": 0.21,
+     "owned_change": 0.2,
      "outlook": "Brock Purdy will look to build upon a historic performance when San Francisco faces Arizona in Week 3. Purdy completed 20 of 22 passes for 287 yards and two touchdowns with no turnovers against Miami on Sunday, adding 30 yards and a touchdown on the ground. That stat line made Purdy the second passer in NFL history with 250 passing yards on a 90 performance completion rate in multiple games. The fifth-year signal caller may be without some of his weapons in Week 3 if Mike Evans (hip) and Demarcus Robinson (ankle) need to sit out, though early reports suggest Evans isn't dealing with a serious injury. The Cardinals could have a hard time containing Purdy after giving up 235 passing yards and three TDs to Seattle QB Drew Lock in a Week 2 loss.",
      "slot": "QB"
     },
@@ -1540,7 +1540,7 @@
      "proj": 0.0,
      "last_week": 1.4,
      "owned_pct": 83.7,
-     "owned_change": -0.41,
+     "owned_change": -0.4,
      "outlook": "Dallas Goedert suffered a knee injury last game for Philadelphia and did not return, leaving his status in question for Week 3 versus Chicago. Goedert is set to undergo testing to determine the nature and extent of the issue. Johnny Mundt caught two apsses in Goedert's place, and would be the next man up if Goedert cannot suit up. In Week 3, Philadelphia will face a Bears defense allowing 240 passing yards per tilt thus far this season, which is 25th in the NFL.",
      "slot": "BN"
     },
@@ -1579,7 +1579,7 @@
      "proj": 9.1,
      "last_week": 16.0,
      "owned_pct": 84.2,
-     "owned_change": 0.25,
+     "owned_change": 0.24,
      "outlook": "Harrison Butker missed a 51-yard field-goal attempt in the second quarter of Week 2, but he made up for it by converting the rest of his opportunities, including a 40-yard FG that gave Kansas City the overtime win over the Colts. The veteran kicker has been busy in the early going with six FG attempts and seven PATs, and a resurgent offense led by a healthy Patrick Mahomes and new bell-cow back Kenneth Walker should continue to supply Butker with volume. He'll face a Dolphins team in Week 3 that's giving up 31.0 points a game in the early going.",
      "slot": "K"
     },
@@ -1591,8 +1591,8 @@
      "injury": "ACTIVE",
      "proj": 10.6,
      "last_week": 17.4,
-     "owned_pct": 27.4,
-     "owned_change": 2.99,
+     "owned_pct": 27.5,
+     "owned_change": 2.96,
      "outlook": "Terrance Ferguson is coming off a big game as the Rams prepare to face Denver in Week 3. Ferguson notched six catches on nine targets for 54 yards and a touchdown on Monday Night Football, trailing only star wideout Davante Adams in receptions, targets and receiving yards. That followed Ferguson's quiet Week 1 performance, when he didn't catch his only target. Repeating Monday's big effort could be tough for Ferguson in Week 3, as he'll face a Broncos defense that limited Jacksonville's tight ends to a modest 24 receiving yards Sunday.",
      "slot": "TE"
     },
@@ -1605,7 +1605,7 @@
      "proj": 6.1,
      "last_week": 5.5,
      "owned_pct": 21.1,
-     "owned_change": 0.74,
+     "owned_change": 0.75,
      "outlook": "Emmett Johnson logged only four touches as Kenneth Walker's primary backup in Kansas City's Week 2 overtime win over the Colts, as the fifth-round rookie continues to get his feet wet in the NFL. Johnson also saw a little work as a kickoff returner as the team looks to find ways to get the ball in his hands. As long as Walker is healthy, Johnson's workload will remain limited, but he's flashed some big-play potential in the early going with 64 receiving yards on just four catches. He'll face a Dolphins defense in Week 3 that's been more vulnerable through the air than on the ground so far in 2026, allowing 3.5 yards per carry, which ranks sixth in the league.",
      "slot": "BN"
     },
@@ -1736,7 +1736,7 @@
      "proj": 9.5,
      "last_week": 0.0,
      "owned_pct": 68.4,
-     "owned_change": 0.22,
+     "owned_change": 0.23,
      "outlook": "RJ Harvey wasn't able to suit up in Week 2's win over the Jaguars due to a hamstring strain, putting his availability for a Week 3 matchup against the Rams in question. The second-year back was expected to be the pass-catching complement to J.K. Dobbins for the Broncos, but rookie Jonah Coleman handled that role and didn't look out of place. If Harvey misses too much time, Coleman could take his job, but Dobbins' own checkered injury history could leave Denver patching together a backfield from whoever is healthy.",
      "slot": "BN"
     },
@@ -1774,7 +1774,7 @@
      "injury": "ACTIVE",
      "proj": 5.7,
      "last_week": 0.0,
-     "owned_pct": 18.0,
+     "owned_pct": 17.9,
      "owned_change": -0.28,
      "outlook": "Jerry Jeudy and the Browns host the Panthers in Week 3, whose defense allowed just 145 yards through the air in Week 2. He failed to corral his lone target during Cleveland's upset win over the Buccaneers in Week 2, giving him a 2-26-0 receiving line on five targets through two games. Meanwhile, rookies Denzel Boston and KC Concepcion combined for 123 yards and one TD while catching 11 of 13 targets, and they look to be the leaders in the WR room. It will be difficult to start any of them until the Browns' offense consistently proves it can sustain any fantasy-relevant players.",
      "slot": "BN"
@@ -1788,7 +1788,7 @@
      "proj": 4.4,
      "last_week": 5.0,
      "owned_pct": 75.3,
-     "owned_change": -0.93,
+     "owned_change": -0.91,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1801,7 +1801,7 @@
      "proj": 3.5,
      "last_week": 0.0,
      "owned_pct": 45.2,
-     "owned_change": -0.6,
+     "owned_change": -0.59,
      "outlook": "Travis Hunter didn't have a target or carry in Week 2 and has played only a handful of snaps on offense for the Jaguars this season. He's off the fantasy radar heading into a Week 3 home game against the Patriots, outside of IDP formats that reward Hunter's contributions as a cornerback. Parker Washington, Brian Thomas, and Jakobi Meyers should continue to lead Jacksonville's wide receiver room.",
      "slot": "BN"
     },
@@ -1840,7 +1840,7 @@
      "proj": 16.1,
      "last_week": 17.0,
      "owned_pct": 38.2,
-     "owned_change": 0.54,
+     "owned_change": 0.52,
      "outlook": "C.J. Stroud threw for 353 yards but led the Texans to just six points in the absence of top WR Nico Collins (hamstring) during Week 2's loss to the Bengals. If Houston remains without Collins in Week 3 against the Colts, Stroud will likely lean heavily on TE Dalton Schultz once more against a Colts defense that allowed 41 points to the Ravens and then 33 to the Chiefs. Considering the Colts have surrendered the most points and yards in the NFL, Stroud is worth a look in superflex or multi-QB lineups, but he will likely remain ranked outside the starting range in single-QB formats, at least until Collins returns.",
      "slot": "BN"
     }
@@ -1958,7 +1958,7 @@
      "proj": 12.0,
      "last_week": 14.2,
      "owned_pct": 75.5,
-     "owned_change": 0.85,
+     "owned_change": 0.84,
      "outlook": "Josh Downs is poised to work as the Colts' top wide receiver in Week 3 against the Texans, making him a solid WR3 or flex option in fantasy. Alec Pierce (heel) is expected to sit out, and the Colts lack viable alternatives, with over-the-hill veteran Keenan Allen and recent signing Darius Slayton representing the top options behind Downs in the wide receiver room. Downs caught seven of nine targets for 72 yards to lead the Colts in all three categories during the Week 2 loss to the Chiefs, which Pierce exited in the first half. Downs figures to see plenty of star Texans CB Derek Stingley, but the 25-year-old WR should get plenty of targets from Daniel Jones despite the tricky matchup.",
      "slot": "BN"
     },
@@ -1997,7 +1997,7 @@
      "proj": 8.8,
      "last_week": 8.8,
      "owned_pct": 70.2,
-     "owned_change": -0.29,
+     "owned_change": -0.28,
      "outlook": "Chris Godwin will look to bounce back from a slow start in the Buccaneers' Week 3 matchup against the Vikings. Godwin leads Tampa Bay's receiving corps in offensive snaps played (101) and has caught all seven of his targets through two weeks. However, this hasn't translated to much production, as he's accumulated just 86 receiving yards. Expect Godwin to remain one of the Buccaneers' most reliable targets in a difficult matchup against a Vikings defense that's given up just 27 receptions to wideouts through two games.",
      "slot": "BN"
     },
@@ -2010,7 +2010,7 @@
      "proj": 9.6,
      "last_week": 7.2,
      "owned_pct": 50.9,
-     "owned_change": 0.95,
+     "owned_change": 0.93,
      "outlook": "Alvin Kamara is expected to operate as the Saints' top pass-catching back in the Week 3 matchup against the Raiders. In his return from a sprained MCL in the Week 2 win over the Ravens, Kamara led the Saints' backfield in carries (nine), targets (six) and receptions (five). Despite this, Travis Etienne was more efficient with his opportunities, averaging 3.1 yards per carry compared to Kamara's 1.7. Even so, the Saints' backfield is in for a tough Week 3 matchup against a Las Vegas defense that's allowed just 3.8 yards per carry thus far.",
      "slot": "BN"
     },
@@ -2036,7 +2036,7 @@
      "proj": 11.5,
      "last_week": 11.4,
      "owned_pct": 66.8,
-     "owned_change": 0.82,
+     "owned_change": 0.81,
      "outlook": "Devaughn Vele is expected to remain the Saints' No. 2 wideout in the Week 3 matchup against the Raiders, whose defense has given up just 15 receptions to WRs through two contests. Vele has clearly positioned himself as one of New Orleans' top receiving options early in the season, catching 12 of 16 targets for 133 yards and one touchdown thus far. He's expected to continue benefitting from the Saints' high volume of pass attempts, as Tyler Shough has already thrown the ball 90 times in two games, the second-most in the NFL. Despite this, Vele is in for a difficult Week 3 matchup against a Las Vegas defense that has yet to allow a receiving touchdown this season.",
      "slot": "BN"
     },
@@ -2062,7 +2062,7 @@
      "proj": 7.3,
      "last_week": 9.0,
      "owned_pct": 74.3,
-     "owned_change": 0.98,
+     "owned_change": 0.97,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2075,7 +2075,7 @@
      "proj": 10.1,
      "last_week": 7.0,
      "owned_pct": 51.0,
-     "owned_change": -0.07,
+     "owned_change": -0.06,
      "outlook": "Hunter Henry will look to keep expanding his role for the Patriots in Week 3 against the Jaguars. In their first full game without A.J. Brown in Week 2, Henry logged a 92% snap share but drew only five targets, turning them into three catches for 40 yards. Drake Maye has struggled to open the season, posting a 1:4 TD:INT ratio, and while someone has to catch the limited passes, Henry faces a challenging matchup against a defense that hasn't allowed an opposing tight end to top 32 yards against them so far.",
      "slot": "BN"
     }
@@ -2219,7 +2219,7 @@
      "proj": 8.0,
      "last_week": 1.9,
      "owned_pct": 65.4,
-     "owned_change": -0.62,
+     "owned_change": -0.61,
      "outlook": "Wan'Dale Robinson is off to a slow start with the Titans, but he'll try to recapture his magic from last season with the Giants when he faces the Giants in Week 3. The shifty WR was peppered with short targets during his last couple seasons with the Giants, racking up 140 targets apiece in 2024 and 2025. After exceeding 1,000 receiving yards in 2025, Robinson signed a four-year, $78 million contract to join former Giants head coach and current Titans offensive coordinator Brian Daboll in Tennessee. Robinson is on pace for just 60 targets with his new team, so his involvement is likely to grow moving forward. It will be tough to trust Robinson until Tennessee's passing game shows some signs of life, but there is some deep-league fantasy flex appeal here for Week 3, especially in PPR formats, against a banged-up Giants secondary.",
      "slot": "BN"
     },
@@ -2231,8 +2231,8 @@
      "injury": "ACTIVE",
      "proj": 11.3,
      "last_week": 20.5,
-     "owned_pct": 70.6,
-     "owned_change": 1.0,
+     "owned_pct": 70.7,
+     "owned_change": 0.98,
      "outlook": "Denzel Boston and the Browns host the Panthers in a Week 3 clash between 1-1 teams. The rookie followed up his 2-59-1 receiving line in the opener with an even better outing against the Buccaneers, tallying five catches on seven targets for 95 yards and another TD. Boston led the team in yardage and targets, as he's quickly becoming Deshaun Watson's preferred target, particularly downfield. He faces a vulnerable Carolina defense that ranks 18th in fantasy points allowed (30.3) to WRs.",
      "slot": "WR"
     },
@@ -2245,7 +2245,7 @@
      "proj": 3.4,
      "last_week": 11.8,
      "owned_pct": 23.8,
-     "owned_change": -0.48,
+     "owned_change": -0.49,
      "outlook": "Tank Bigsby had 15 touches and a touchdown in Week 2 versus the Titans after Saquon Barkley suffered a stinger injury. Saquon missed portions of the game due to the ailment, leaving his status in question for Week 3 versus the Bears. Barkley is slated to undergo an MRI to determine if he will miss any time. Bigsby and Will Shipley would likely split touches if Barkley cannot go, with Bigsby getting the slight edge. The Eagles will face a Bears run defense in Week 3 allowing 122 yards per clash on the ground, which is 22nd in the league.",
      "slot": "BN"
     },
@@ -2271,7 +2271,7 @@
      "proj": 0.0,
      "last_week": 3.9,
      "owned_pct": 25.6,
-     "owned_change": -0.89,
+     "owned_change": -0.88,
      "outlook": "Caleb Douglas' status for the Dolphins' Week 3 matchup with the Chiefs is uncertain due to an ankle injury. Douglas played a hefty 85% of the team's offensive snaps before suffering the injury late in Week 2 but recorded just 19 yards after a 94-yard career debut. Should he play, Douglas is a speculative upside play for fantasy teams in need of Week 3 help.",
      "slot": "BN"
     },
@@ -2283,8 +2283,8 @@
      "injury": "ACTIVE",
      "proj": 9.9,
      "last_week": 12.4,
-     "owned_pct": 45.2,
-     "owned_change": 1.67,
+     "owned_pct": 45.3,
+     "owned_change": 1.65,
      "outlook": "Dontayvion Wicks continues to cement himself as the No. 2 wideout in the Eagles offense. Wicks caught five passes for 74 yards in the 24-20 win over the Titans. Wicks was second on the team in targets for the game. In Week 3, Philadelphia will face a Bears defense allowing 240 passing yards per tilt thus far this season, which is 25th in the NFL. The Eagles could also rely even more on the passing game if Saquon Barkley is sidelined due to injury, and with Dallas Goedert also banged up, Wicks could be one of the chief beneficiaries.",
      "slot": "BN"
     },
@@ -2297,7 +2297,7 @@
      "proj": 6.5,
      "last_week": 16.0,
      "owned_pct": 43.9,
-     "owned_change": 1.34,
+     "owned_change": 1.31,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2402,7 +2402,7 @@
      "proj": 18.6,
      "last_week": 8.0,
      "owned_pct": 98.7,
-     "owned_change": 0.01,
+     "owned_change": 0.02,
      "outlook": "Drake Maye will look to get on track when the Patriots face the Jaguars in Week 3. He is averaging just 183 passing yards through two weeks, with only one touchdown pass and four interceptions. Maye was picked off just eight times all last season. Opponents seem to be pressuring Maye, though Jacksonville is middling at getting after the passer. However, they've allowed only two touchdown passes while limiting quarterbacks to 44 rushing yards. With A.J. Brown still sidelined, Maye will be challenged to exhibit his 2025 form.",
      "slot": "BN"
     },
@@ -2415,7 +2415,7 @@
      "proj": 0.0,
      "last_week": 2.1,
      "owned_pct": 69.3,
-     "owned_change": -0.62,
+     "owned_change": -0.61,
      "outlook": "Alec Pierce aggravated a left heel injury in Week 2, stemming from his offseason left ankle surgery. The Colts' leading receiver from last season probably faces a multi-week absence and won't play against the Texans in Week 3. Josh Downs and Keenan Allen are set to lead Indianapolis' underwhelming WR room versus Houston.",
      "slot": "BN"
     },
@@ -2441,7 +2441,7 @@
      "proj": 9.0,
      "last_week": 10.2,
      "owned_pct": 75.1,
-     "owned_change": 0.17,
+     "owned_change": 0.16,
      "outlook": "Blake Corum should continue to be a big part of the Rams' backfield versus the Broncos in Week 3. Against the Giants on Monday Night Football, Corum racked up 79 yards on 12 carries while adding a 13-yard reception. Through two weeks, Corum has 22 carries to Kyren Williams'  23, so the pair appear to be headed for a pretty even workload in 2026. Denver could be vulnerable to both ball carriers, as the Broncos have given up a whopping 5.40 YPC to RBs this season -- third worst in the league.",
      "slot": "BN"
     },
@@ -2454,7 +2454,7 @@
      "proj": 9.1,
      "last_week": 1.0,
      "owned_pct": 86.6,
-     "owned_change": -0.33,
+     "owned_change": -0.32,
      "outlook": "Cameron Dicker has had a rough start to the season as the Chargers adjust to a new offensive scheme under Mike McDaniel. The fifth-year kicker has converted all four of his PATs through two games, but his only field-goal attempt so far came from 58 yards out, and he clanked it off the upright. Better days should be ahead for Dicker and the offense, but his streak of seasons with 40-plus FG attempts could be about to come to an abrupt end. Dicker could be a little busier in Week 3 against a Bills team that's allowed 31.0 points a game in the early going, tied for the third-worst total in the league.",
      "slot": "K"
     },
@@ -2480,7 +2480,7 @@
      "proj": 5.0,
      "last_week": 20.0,
      "owned_pct": 63.5,
-     "owned_change": -0.17,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -2663,7 +2663,7 @@
      "proj": 10.6,
      "last_week": 4.1,
      "owned_pct": 70.9,
-     "owned_change": -0.11,
+     "owned_change": -0.1,
      "outlook": "Jordan Addison will seek to ramp things up as the Vikings travel to Tampa Bay in Week 3. Addison bounced back from a zero-catch performance in Week 1 this past Sunday, logging two catches for 21 yards against the Bears. Still, his output is nowhere near sufficient for fantasy owners, especially since he's put up WR2 numbers many times throughout the last three seasons. He'll face a Bucs defense that's allowed 24.9 PPR points per game against wide receivers this season, a top-10 mark.",
      "slot": "BN"
     },
@@ -2676,7 +2676,7 @@
      "proj": 11.6,
      "last_week": 22.5,
      "owned_pct": 91.2,
-     "owned_change": 0.27,
+     "owned_change": 0.26,
      "outlook": "Dalton Kincaid brings momentum into the Bills' Week 3 matchup with the Chargers. After a 130-yard opener, Kincaid posted seven catches for 95 yards and a touchdown in Week 2 against Detroit, playing on 66% of the offensive snaps. Opportunity, not talent, has been an issue as he hasn't played over a 50% snap share since Week 5 in 2025. The Chargers were dominated by Tre McBride in Week 1 but rebounded against the Brock Bowers-less Raiders tight end room last week. Kincaid's big numbers are poised to continue in Week 3.",
      "slot": "FLEX"
     },
@@ -2702,7 +2702,7 @@
      "proj": 6.1,
      "last_week": 8.0,
      "owned_pct": 90.1,
-     "owned_change": -0.12,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2784,7 +2784,7 @@
    "proj": 16.6,
    "last_week": null,
    "owned_pct": 79.0,
-   "owned_change": -0.1,
+   "owned_change": -0.09,
    "outlook": "Bo Nix rebounded from a sluggish opener to lead the Broncos to a comeback win over the Jaguars in Week 2. The third-year QB has a meager 2:2 TD:INT through two games and has yet to add any production on the ground, but his 288 passing yards In Week 2 were more than double the Week 1 total, and his completion rate jumped from 60.7% to 71.0%. Nix also began establishing some chemistry with new top wideout Jaylen Waddle, who erupted for an 8-138-0 line on 10 targets. Nix will face a Rams defense in Week 3 that has held opposition QBs under a 60% completion rate to begin the season."
   },
   {
@@ -2796,7 +2796,7 @@
    "proj": 8.3,
    "last_week": null,
    "owned_pct": 74.0,
-   "owned_change": -0.56,
+   "owned_change": -0.55,
    "outlook": "Harrison Mevis is still searching for his first field-goal conversion heading into the Rams' Week 3 clash against Denver. Mevis didn't try a FG in Week 1, and he missed his only attempt -- a 43-yarder -- on Monday Night Football. Mevis did make all four of his extra-point tries and figures to kick a lot of those given the Rams' explosive offense. Kickers have gone 3-for-4 on field-goal attempts against the Broncos so far this season."
   },
   {
@@ -2808,7 +2808,7 @@
    "proj": 7.6,
    "last_week": null,
    "owned_pct": 73.2,
-   "owned_change": -0.48,
+   "owned_change": -0.47,
    "outlook": "Kenneth Gainwell is expected to play as the Buccaneers' No. 2 running back in the Week 3 matchup against the Vikings. Gainwell was thought to be Tampa Bay's top receiving back heading into the season, but he's caught just three of four targets through two games, which is far less than Bucky Irving (11 receptions on 11 targets). Additionally, Gainwell has been relatively inefficient, averaging just 2.9 yards per touch. He's set to face one of the best defenses in the NFL in Minnesota, who have allowed just 3.4 yards per carry this season."
   },
   {
@@ -2820,7 +2820,7 @@
    "proj": 9.3,
    "last_week": null,
    "owned_pct": 70.4,
-   "owned_change": -0.41,
+   "owned_change": -0.4,
    "outlook": "Jakobi Meyers has been targeted just three times through Jacksonville's first two games. That lack of volume makes him hard to trust as anything more than a deep-league dart throw in Week 3 against a Patriots defense that held the Seahawks and Steelers to a combined 16 points. Parker Washington (18 targets), Brian Thomas (11 targets), and even TE Brenton Strange (five targets) have all been higher on Trevor Lawrence's priority list than Meyers. To the veteran wide receiver's credit, Meyers's 28-yard effort on one target in the Week 2 loss to Denver marked the first time in 11 games as a member of the Jaguars that he failed to record at least 39 receiving yards. Therefore, he could rebuild a solid fantasy floor if Lawrence starts looking Meyers's way more frequently."
   },
   {
@@ -2844,7 +2844,7 @@
    "proj": 10.9,
    "last_week": null,
    "owned_pct": 62.2,
-   "owned_change": -0.19,
+   "owned_change": -0.18,
    "outlook": "Quentin Johnston has struggled through the Chargers' first two games, catching just three of 11 targets for 24 yards. The fourth-year wideout had emerged as a deep option over the prior two seasons, but new offensive coordinator Mike McDaniel's scheme is built on quick passes and yards after the catch, giving little time for Johnston's typical downfield routes to develop. Tre' Harris and rookie speedster Brenan Thompson both seem better suited to that style of passing game, and Johnston runs a real risk of becoming an afterthought as the season progresses. He does at least get a potentially favorable matchup in Week 3 against a Bills secondary that's given up the fourth-most receiving yards to WRs so far this year."
   },
   {
@@ -2856,7 +2856,7 @@
    "proj": 17.3,
    "last_week": null,
    "owned_pct": 59.6,
-   "owned_change": 0.56,
+   "owned_change": 0.55,
    "outlook": "Kyler Murray will return to the field as the Vikings travel to Tampa Bay in Week 3. Murray has cleared concussion protocol after suffering a nasty hit early in Week 1. The veteran quarterback will finally get the chance to prove himself, especially given that he completed just three of five passes for 18 yards and one interception before his opening-game departure. He'll face a Bucs defense that's allowed a middle-of-the-pack 20.4 fantasy points per game to QBs across its first two games."
   },
   {
@@ -2892,7 +2892,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 48.5,
-   "owned_change": -2.72,
+   "owned_change": -2.66,
    "outlook": ""
   },
   {
@@ -2908,6 +2908,18 @@
    "outlook": "Rashid Shaheed enters Seattle's Week 3 game against Washington on the heels of a quiet but versatile start to the season. Shaheed logged a modest three catches for 35 yards against Arizona in a Week 2 win, though he promisingly ranked second on the Seahawks with six targets, added a four-yard rush and combined for 76 yards on three punt returns and two kickoff returns. Jaxon Smith-Njigba appears set to dominate Seattle's targets for a second straight campaign, so both Shaheed and Cooper Kupp may have to settle for complementary roles on offense. Nonetheless, Seattle's WR corps as a whole could thrive in Week 3 against a Washington defense that has yielded a 73.0 percent catch rate to the position, tied for fifth-highest in the league."
   },
   {
+   "id": -16004,
+   "name": "Bengals D/ST",
+   "pos": "D/ST",
+   "team": "CIN",
+   "injury": "ACTIVE",
+   "proj": 6.4,
+   "last_week": null,
+   "owned_pct": 33.3,
+   "owned_change": 1.46,
+   "outlook": ""
+  },
+  {
    "id": 4373626,
    "name": "Tyler Allgeier",
    "pos": "RB",
@@ -2920,18 +2932,6 @@
    "outlook": "Tyler Allgeier will seek to improve his efficiency on the ground during Arizona's Week 3 visit to San Francisco. Allgeier gained just 10 yards on five carries Sunday in a loss against Seattle, and he's averaging a meager 3.2 YPC through two contests. He paced the Cardinals with 17 carries in the team's season opener, but  Jeremiyah Love jumped ahead with him with nine carries Week 2 and could continue to settle in as the club's clear No. 1 RB moving forward. The 49ers have yielded 4.04 YPC to running backs so far, but that's led to just one rushing TD."
   },
   {
-   "id": -16004,
-   "name": "Bengals D/ST",
-   "pos": "D/ST",
-   "team": "CIN",
-   "injury": "ACTIVE",
-   "proj": 6.4,
-   "last_week": null,
-   "owned_pct": 33.3,
-   "owned_change": 1.49,
-   "outlook": ""
-  },
-  {
    "id": -16005,
    "name": "Browns D/ST",
    "pos": "D/ST",
@@ -2940,7 +2940,7 @@
    "proj": 5.4,
    "last_week": null,
    "owned_pct": 33.1,
-   "owned_change": -0.37,
+   "owned_change": -0.36,
    "outlook": ""
   },
   {
@@ -2963,8 +2963,8 @@
    "injury": "ACTIVE",
    "proj": 15.8,
    "last_week": null,
-   "owned_pct": 30.7,
-   "owned_change": 1.79,
+   "owned_pct": 30.8,
+   "owned_change": 1.76,
    "outlook": "Sam Darnold has a chance to return from a glute injury for Seattle's Week 3 matchup against the Commanders. It remains to be seen if the veteran QB will be able to suit up, but he reportedly has been ahead of schedule in his recovery. With Darnold out against Arizona in Week 2, Drew Lock took over and led the Seahawks to a win. Whichever signal-caller starts under center in Week 3 could feast upon a Washington defense that has allowed a 137.0 passer rating this season, the worst mark in the NFL."
   },
   {
@@ -2976,7 +2976,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 29.2,
-   "owned_change": -0.1,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -2999,8 +2999,8 @@
    "injury": "ACTIVE",
    "proj": 5.4,
    "last_week": null,
-   "owned_pct": 28.5,
-   "owned_change": -1.67,
+   "owned_pct": 28.4,
+   "owned_change": -1.64,
    "outlook": ""
   },
   {
@@ -3012,7 +3012,7 @@
    "proj": 8.4,
    "last_week": null,
    "owned_pct": 26.8,
-   "owned_change": 0.37,
+   "owned_change": 0.36,
    "outlook": "Chase McLaughlin could remain one of the top kickers in fantasy despite the Buccaneers' tough Week 3 matchup against the Vikings. McLaughlin remained perfect in the Week 2 loss to the Browns, as he's now converted on all six field-goal tries this season, including two from 50-plus yards. Despite McLaughlin being tied for the league-lead in field-goals made this season, he could struggle against a Minnesota defense that's allowed just 6.5 kicking points per game thus far."
   },
   {
@@ -3024,7 +3024,7 @@
    "proj": 4.9,
    "last_week": null,
    "owned_pct": 26.3,
-   "owned_change": -0.57,
+   "owned_change": -0.56,
    "outlook": ""
   },
   {
@@ -3048,7 +3048,7 @@
    "proj": 2.6,
    "last_week": null,
    "owned_pct": 23.2,
-   "owned_change": -1.05,
+   "owned_change": -1.03,
    "outlook": ""
   },
   {
@@ -3072,7 +3072,7 @@
    "proj": 4.3,
    "last_week": null,
    "owned_pct": 19.7,
-   "owned_change": -0.31,
+   "owned_change": -0.3,
    "outlook": "Chris Rodriguez has notched just six rushing attempts in each of his first two games with the Jaguars. He's averaging a paltry 3.0 yards per carry and has yet to earn a target in the passing game, where Rodriguez has been a non-factor his entire NFL career. Bhayshul Tuten has 28 carries this season and is the clear lead back for the Jaguars. Rodriguez isn't an advisable fantasy play in Week 3 against a Patriots defense that's allowing a minuscule 8.0 points per game."
   },
   {
@@ -3120,7 +3120,7 @@
    "proj": 6.6,
    "last_week": null,
    "owned_pct": 12.3,
-   "owned_change": 0.35,
+   "owned_change": 0.34,
    "outlook": ""
   },
   {
@@ -3132,7 +3132,7 @@
    "proj": 8.6,
    "last_week": null,
    "owned_pct": 11.3,
-   "owned_change": 0.41,
+   "owned_change": 0.4,
    "outlook": "Tyler Bass will attempt to bounce back from his first miss of the season when the Bills host the Chargers in Week 3. Bass wasn't afforded a field goal try in Week 2, with Buffalo's offense finding the end zone with ease, but still provided a reasonable floor, hitting five of six extra points. The Bills' offensive efficiency could cap Bass' scoring potential, but historically, the highest-scoring kickers come from the highest-scoring teams."
   },
   {
@@ -3144,7 +3144,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 11.2,
-   "owned_change": -0.14,
+   "owned_change": -0.13,
    "outlook": ""
   },
   {
@@ -3180,7 +3180,7 @@
    "proj": 5.6,
    "last_week": null,
    "owned_pct": 9.9,
-   "owned_change": 0.28,
+   "owned_change": 0.27,
    "outlook": "Darren Waller could remain a valuable part of the Panthers' offense in the Week 3 matchup against the Browns. Through two games, Waller appears to be the Panthers' top receiving option at tight end, leading the TE room in yards (66), receptions (five) and touchdowns (two). However, having only received five targets through two weeks, Waller is likely a touchdown-or-bust streaming option going forward. He's in for a tough Week 3 matchup against a Browns defense that's given up just 10.5 PPR fantasy points per game to the position this season."
   },
   {
@@ -3204,7 +3204,7 @@
    "proj": 13.0,
    "last_week": null,
    "owned_pct": 9.7,
-   "owned_change": 0.24,
+   "owned_change": 0.23,
    "outlook": "Kirk Cousins has had an impressive start to the season, throwing three touchdowns in back-to-back games for a Raiders team that's a surprising 2-0. The veteran quarterback hasn't played completely mistake-free football under Klint Kubiak, throwing three interceptions, but he's only been sacked twice and has completed 67.8 percent of his passes. As long as Cousins remains productive and the team is winning, there will be little incentive for Las Vegas to hand the reins to rookie Fernando Mendoza, but that switch still figures to be coming at some point in 2026. Cousins will face a Saints defense in Week 3 that has done a good job holding Jared Goff and Lamar Jackson in check through its first two contests."
   },
   {
@@ -3228,7 +3228,7 @@
    "proj": 5.1,
    "last_week": null,
    "owned_pct": 9.1,
-   "owned_change": -0.3,
+   "owned_change": -0.29,
    "outlook": "Antonio Williams snagged all three of his targets for 24 yards in the 37-20 loss to the Cowboys last game. Williams has seven catches for 98 yards and a touchdown through hsi first two NFL contests. Unfortunately, starting quarterback Jayden Daniels only played a half due to injury, so veteran backup Marcus Mariota will likely start in Week 3 versus a devastating Seattle defense. The Seahawks are allowing just 8.5 points per game thus far in 2026, which is second in the league. Seattle is also allowing the fewest passing yards per contest at 124.5 per tilt. None of this appears to be a recipe for success for Williams and the rest of the Washington offense."
   },
   {
@@ -3240,7 +3240,7 @@
    "proj": 6.6,
    "last_week": null,
    "owned_pct": 9.0,
-   "owned_change": -0.27,
+   "owned_change": -0.26,
    "outlook": "Mike Gesicki and the Bengals are in Pittsburgh for an AFC North showdown in Week 3. After leading Cincinnati in receptions, yards, and targets in the season opener, Gesicki failed to record a single target versus the Texans in Week 2. Some of that could be chalked up to game flow with the Bengals ahead for most of the game, but it's nonetheless worrisome. The Steelers rank second in fantasy points allowed per game (5.5) and are first in receptions allowed to TEs through two weeks."
   },
   {
@@ -3263,8 +3263,8 @@
    "injury": "ACTIVE",
    "proj": 4.2,
    "last_week": null,
-   "owned_pct": 8.3,
-   "owned_change": -0.3,
+   "owned_pct": 8.2,
+   "owned_change": -0.29,
    "outlook": ""
   },
   {
@@ -3312,7 +3312,7 @@
    "proj": 15.4,
    "last_week": null,
    "owned_pct": 7.2,
-   "owned_change": 0.27,
+   "owned_change": 0.26,
    "outlook": "Deshaun Watson and the Browns host the Panthers for their home opener in Week 3. He completed 24 of 30 pass attempts for 238 yards with two TDs and no INTs, while rushing seven times for 22 yards during Cleveland's surprising Week 2 win over the Buccaneers. Watson led the comeback victory with scoring strikes of 55 and 17 yards, and chemistry appears to be brewing between him and the Browns' young playmakers. He'll face a Carolina defense that held the Falcons to 129 yards passing and forced three INTs and two fumbles in Week 2."
   },
   {
@@ -3348,7 +3348,7 @@
    "proj": 1.4,
    "last_week": null,
    "owned_pct": 6.5,
-   "owned_change": -0.09,
+   "owned_change": -0.08,
    "outlook": "Ray Davis has limited involvement in Buffalo's offense entering Week 3 against the Chargers. Through two weeks, Davis has logged one carry and no targets as James Cook's primary backup, making his only contribution on kick returns. Facing a defense that's allowing just 2.98 yards per carry and with no clear path to an uptick in opportunities, Davis is an insurance policy for Cook managers only."
   },
   {
@@ -3371,8 +3371,8 @@
    "injury": "ACTIVE",
    "proj": 8.5,
    "last_week": null,
-   "owned_pct": 5.9,
-   "owned_change": 0.25,
+   "owned_pct": 6.0,
+   "owned_change": 0.24,
    "outlook": "Spencer Shrader has made all four of his field-goal attempts and five of six extra point tries through two games this season. The Colts are averaging a robust 26.5 points per game, but their success on offense has been overshadowed by a league-worst defensive performance en route to a 0-2 start. Shrader is gaining some streaming appeal heading into a Week 3 home game against the Texans, who are allowing 28.0 points per game in the early going after giving up just 17.4 points per game last season. He's a borderline fantasy starter at this point."
   },
   {
@@ -3540,7 +3540,7 @@
    "proj": 5.1,
    "last_week": null,
    "owned_pct": 4.3,
-   "owned_change": 0.19,
+   "owned_change": 0.18,
    "outlook": ""
   },
   {
@@ -3600,7 +3600,7 @@
    "proj": 14.7,
    "last_week": null,
    "owned_pct": 3.6,
-   "owned_change": 0.17,
+   "owned_change": 0.16,
    "outlook": "Jameis Winston will take the reins of the Giants offense in Week 3 versus the Titans. Jaxson Dart suffered a serious knee injury and may not return this year. Winston's performance in relief of Dart last game left much to be desired, as he completed just 11-of-27 passes for 111 yards and an interception. Against Tennessee, at least Winston will have a week to prepare and face a lower-tier defense. The Titans are giving up 233.5 passing yards per game in 2026, which is 20th in the NFL."
   },
   {
@@ -3624,7 +3624,7 @@
    "proj": 8.6,
    "last_week": null,
    "owned_pct": 3.4,
-   "owned_change": 0.83,
+   "owned_change": 0.84,
    "outlook": ""
   },
   {
@@ -3660,7 +3660,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.2,
-   "owned_change": -0.12,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -3708,7 +3708,7 @@
    "proj": 7.3,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.03,
+   "owned_change": -0.02,
    "outlook": "Chris Bell will look for a breakout opportunity in Week 3 when the Dolphins host the Chiefs. He has drawn only three targets through two weeks, resulting in one catch and a declining snap share, playing just 40% of offensive plays last week. A potential absence from Caleb Douglas (ankle) could elevate Bell to a WR2 role in a struggling offense that often throws while playing from behind. Kansas City's pass defense has been stingy, but should Douglas sit, Bell would be an intriguing high-upside option if chasing points in Week 3."
   },
   {
@@ -3720,7 +3720,7 @@
    "proj": 2.6,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": 0.15,
+   "owned_change": 0.14,
    "outlook": "Joshua Palmer will look to make another chunk play for the Bills in Week 3 against the Chargers. Palmer has just two catches on the year, but they've gone for 34- and 43-yard touchdowns. The Chargers are allowing 10.8 yards per target to wideouts, the third highest through two weeks, so while volume isn't likely, Palmer could still contribute."
   },
   {
@@ -3744,7 +3744,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 2.8,
-   "owned_change": -0.19,
+   "owned_change": -0.18,
    "outlook": "Carson Wentz will return to Minnesota's backup role in Week 3 against the Buccaneers. Wentz performed well while leading the Vikings to a 2-0 record, completing 23 of 39 passes for 276 yards and three touchdowns in that stretch. The veteran quarterback will remain a solid backup behind Kyler Murray, although anything can happen as the season progresses."
   },
   {
@@ -4056,7 +4056,7 @@
    "proj": 7.0,
    "last_week": null,
    "owned_pct": 1.3,
-   "owned_change": 0.07,
+   "owned_change": 0.06,
    "outlook": "Isaiah Williams will look to build on an expanding role in Week 3 when the Jets face the Lions. Elevated to No. 3 on the depth chart with Omar Cooper landing on IR, Williams recorded six targets last week, catching them all for just 34 yards. The Jets' offense is unlikely to score enough to sustain a third viable receiver, but if there were such a matchup, it would be Week 3 against a secondary that's already allowed 437 yards to wideouts through two games."
   },
   {
@@ -4140,7 +4140,7 @@
    "proj": 4.9,
    "last_week": null,
    "owned_pct": 1.1,
-   "owned_change": -0.04,
+   "owned_change": -0.03,
    "outlook": "Colby Parkinson has had a quiet start to the season heading into the Rams' Week 3 matchup versus Denver. Parkinson logged just one catch Week 1 and followed that with a 2-15-0 receiving line on Monday Night Football. Meanwhile, fellow TE Terrance Ferguson put up a 6-54-1 line, proving that there's room for players at the position to thrive with QB Matthew Stafford -- though who that tight end is could vary on a week-to-week basis. Denver was burned by Travis Kelce for 71 yards in Week 1 but held Jaguars TEs to just 24 receiving yards in Week 2."
   },
   {
@@ -4248,7 +4248,7 @@
    "proj": 7.7,
    "last_week": null,
    "owned_pct": 0.9,
-   "owned_change": 0.02,
+   "owned_change": 0.01,
    "outlook": "Ryan Fitzgerald is expected to have plenty of scoring opportunities in the Panthers' Week 3 matchup against the Browns. Fitzgerald has started the season strong, converting on all three of his field-goal tries and eight of nine point-after attempts. Additionally, he could continue to benefit from the Panthers' offensive success, as the team currently ranks second in points per game (35.5). Fitzgerald is in for a great Week 3 matchup as well, with Cleveland allowing 11.5 kicking points per game through two contests this season."
   },
   {
@@ -4344,7 +4344,7 @@
    "proj": 4.3,
    "last_week": null,
    "owned_pct": 0.7,
-   "owned_change": 0.0,
+   "owned_change": 0.01,
    "outlook": "Sione Vaki should remain Detroit's low-usage RB2 in Week 3 against the Jets. Vaki logged one carry for seven yards and caught one pass for 13 yards against the Bills in Week 2, showcasing that the secondary running back for the Lions is a graveyard role this year. The third-year ball carrier is still on pace to log career-high numbers given his small role so far in his career, but he's nothing more than a depth option with Jahmyr Gibbs healthy."
   },
   {
