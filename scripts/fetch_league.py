@@ -222,6 +222,9 @@ def main():
     all_leagues = leagues()
     for lg in all_leagues:
         platform = lg.get("platform", "espn")
+        if platform == "manual":
+            print(f"[{lg['key']}] manual league (updated through Claude chat); skipping.")
+            continue
         try:
             if platform not in FETCHERS:
                 raise ValueError(f"Platform '{platform}' isn't supported yet")
@@ -238,7 +241,8 @@ def main():
         json.dump(league, open(path, "w"), indent=1)
         json.dump(changes, open(os.path.join(folder, "changes.json"), "w"), indent=1)
         print(f"[{lg['key']}] week {league['week']}: {len(changes['events'])} change(s); relevant={changes['relevant']}")
-    if failures == len(all_leagues):
+    automatic = [l for l in all_leagues if l.get('platform', 'espn') != 'manual']
+    if automatic and failures == len(automatic):
         sys.exit(1)
 
 

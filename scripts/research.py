@@ -148,6 +148,8 @@ def main():
         return
     mode = os.environ.get("MODE", "check")
     for lg in CONFIG.get("leagues", []):
+        if lg.get("platform") == "manual":
+            continue  # researched in Claude chat
         folder = os.path.join(DATA, lg["key"])
         lpath = os.path.join(folder, "league.json")
         if not os.path.exists(lpath):
