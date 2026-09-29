@@ -1,0 +1,40 @@
+{
+ "generated_at": "2026-09-29T21:40:00+00:00",
+ "week": 4,
+ "trigger": "manual (Claude chat)",
+ "changes": [],
+ "sources": [
+  {
+   "title": "'Decent chance' Nico Collins returns for Week 4 \u2014 NBC Sports",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-27/decent-chance-nico-collins-returns-for-week-4"
+  },
+  {
+   "title": "Texans' Nico Collins: coach 'hopeful' for Week 4 return \u2014 CBS Sports",
+   "url": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-coach-hopeful-for-week-4-return/"
+  },
+  {
+   "title": "Eagles news: injury updates, next game \u2014 Philadelphia Inquirer",
+   "url": "https://www.inquirer.com/eagles/live/eagles-news-injury-report-next-game-jalen-hurts-20260929.html"
+  },
+  {
+   "title": "Justin Jefferson avoids serious injury, could play Week 4 \u2014 FantasyPros",
+   "url": "https://www.fantasypros.com/nfl/news/611316/justin-jefferson-ankle-avoids-serious-injury-could-play-week-4.php"
+  },
+  {
+   "title": "NFL Week 4 schedule \u2014 NFL.com",
+   "url": "https://www.nfl.com/schedules/2026/by-week/week-4"
+  },
+  {
+   "title": "Fantasy waiver wire, Week 4 \u2014 NFL.com",
+   "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-4-te-juwan-johnson-rb-braelon-allen-headline-targets"
+  },
+  {
+   "title": "ESPN league data feed (rosters, projections, player notes) via your GitHub site",
+   "url": "https://blumscoots.github.io/fantasyfootballcoach/data/league.json"
+  }
+ ],
+ "brief": "**Week 3 recap:** you won and moved to **2-1, 2nd in total points (397.8)**, just 1.3 behind Big D. Seeding is by total points, so you're in great shape.\n\n**Week 4:** you face **Sam Roush disliker** (2-1, 343.7 PF). ESPN projects **122.3 to 128.7**, a **47%** win chance. Their core: Ja'Marr Chase, Derrick Henry, Aaron Jones, Garrett Wilson, DJ Moore, Jared Goff.\n\n### Your players\n- **Nico Collins (WR, HOU) vs DAL, questionable.** ESPN's Adam Schefter reports a *decent chance* he returns (NBC Sports), and CBS/RotoWire say coach DeMeco Ryans is hopeful. Dallas allows 27.3 points per game and 7 passing TDs (ESPN). If he plays, he's a WR1 again.\n- **Drake London & Bijan Robinson (ATL) at NO, Monday night.** London went 9-194 on 10 targets with Penix back; Bijan scored 35.3. Both keep top-tier outlooks (ESPN).\n- **Jalen Hurts (QB, PHI) vs LAR.** He was briefly checked for a concussion after a hit in the Week 3 loss to Chicago but returned quickly and avoided a major injury (Philadelphia Inquirer). Eagles are also without TE Dallas Goedert and WR Hollywood Brown, which concentrates targets but weakens the offense.\n- **Jordan Addison (WR, MIN) vs MIA.** 5-90-1 on 9 targets after Justin Jefferson left Week 3 with an ankle sprain. Imaging was good and Jefferson may play Sunday (FantasyPros, via Ian Rapoport). Addison's value drops if Jefferson is active.\n- **D'Andre Swift (RB, CHI) vs NYJ.** Season-high 20 carries last week (ESPN).\n- **Tyler Warren (TE, IND) vs WSH in London.** Catches have risen every week (9 last week); Washington allows the most QB points (NFL.com). **Kicks off 6:30am PT Sunday.**\n- **DK Metcalf (WR, PIT) at CLE, Thursday.** Only 11-98-1 on 24 targets through three games (ESPN).\n- **Dalton Kincaid (TE, BUF).** Just 2-38 in Week 3 as DJ Moore returned; Buffalo stays run-heavy (ESPN).\n- **Keon Coleman (WR, BUF).** Limited role with Moore healthy, plus an ankle injury (ESPN). The pickup didn't pan out.\n\n### Opponent notes\n- **Braelon Allen** (bench) likely starts with Breece Hall week to week (NFL.com), which raises their projection.\n- **Rico Dowdle** is in their IR slot, out again (ESPN).\n- **DJ Moore** in their FLEX plays the Patriots, who have 8 giveaways.\n\n### Not yet verified\nWednesday\u2013Friday practice reports (Collins, Jefferson), Vegas lines, weather. Refresh Friday.",
+ "startsit": "| Slot | Start | Confidence | Why |\n|---|---|---|---|\n| QB | Jalen Hurts | High | Cleared after last week's hit; no real alternative (Cam Ward is a weak backup). |\n| RB | Bijan Robinson | High | 35.3 points last week; plays **Monday night**. |\n| RB | D'Andre Swift | Medium | 20 carries last week; Jets matchup is fine. |\n| WR | Drake London | High | 194 yards with Penix; **Monday night**. |\n| WR | **Nico Collins** *if active*, otherwise **Jordan Addison** | Medium | Collins is a WR1 vs a bad Dallas defense. Addison (11.5 proj) beats Metcalf (10.2) either way. |\n| TE | Tyler Warren | High | Rising target share; **6:30am PT Sunday**. |\n| FLEX | Jordan Addison (if Collins plays) / Dalton Kincaid (if not) | Low\u2013Medium | Addison's value depends on Jefferson sitting. |\n| D/ST | Steelers | Medium | 8.1 proj at CLE, higher than any free-agent defense. **Thursday.** |\n| K | Jason Myers | Medium | 4-for-4 on FGs, hit a 57-yarder. |\n\n### The key call: bench Metcalf\nMetcalf plays **Thursday**, before Collins' and Jefferson's statuses are known. He's also your lowest-projected WR option. Bench him Thursday; that keeps Collins, Addison and Kincaid open for Sunday.\n\n### Close calls\n- **Collins active:** start Collins + London at WR, Addison at FLEX, bench Kincaid.\n- **Collins out, Jefferson out:** Addison at WR, Kincaid at FLEX.\n- **Collins out, Jefferson active:** Addison at WR (11.5 still edges Kincaid), Kincaid FLEX.\n\n### Re-check before kickoff (Pacific time)\n- **Thursday before 5:15pm:** set D/ST (Steelers) and bench Metcalf.\n- **Friday afternoon:** Houston and Minnesota final injury reports (Collins, Jefferson).\n- **Sunday 5:00am:** Warren/London game inactives.\n- **Sunday ~8:30am:** inactives for 10am games (Collins, Swift, Hurts).\n- **Sunday ~11:30am:** Jefferson inactive status (Vikings kick at 1:05pm).",
+ "waivers": "You have **$490 FAAB** left and 9th waiver priority. Every player below is confirmed available in your league.\n\n| Priority | Add | Why | FAAB bid | Drop |\n|---|---|---|---|---|\n| 1 | **Ollie Gordon II** (RB, MIA) | De'Von Achane is out for the season with a torn ACL; Gordon scored a goal-line TD in relief (NFL.com). Shares the job with Jaylen Wright, who's banged up. Upgrade over Rachaad White and insurance for Swift. | **$45\u201360** | T.J. Hockenson |\n| 2 | **Kalif Raymond** (WR, CHI) | 6-90-1 Monday, 23.1% target share (NFL.com). Replaces a WR who hasn't earned volume. | $5\u201310 | Keon Coleman |\n| 3 | **Mack Hollins** (WR, NE) | A.J. Brown out into mid-October; 19.5% target share (NFL.com). Short-term only. | $1\u20133 | Only if you skip Raymond |\n\n### Why bid real money on Gordon\nStarting-caliber RBs rarely hit waivers after Week 3, and several teams have big budgets left (Torn Ligament Elite has spent only $130, most have spent under $90). You still keep $430+ for later.\n\n### Hold\n- **Nico Collins:** likely back this week.\n- **Brian Robinson Jr.:** scored last week; Bijan's handcuff.\n- **Cam Ward:** only backup QB, needed for Hurts's bye.\n\n### Streaming note\n**Bills D/ST** (Patriots have 8 giveaways, 9 sacks allowed) is available, but ESPN projects your Steelers higher this week. Not worth a roster spot.",
+ "matchup": "**Projection:** Mr. Chow 122.3 vs Sam Roush disliker 128.7 (ESPN). **Win probability: 47%.**\n\n### Swing players\n- **Nico Collins:** if he plays, ESPN's 15.3 projection (discounted for injury risk) likely undersells him against Dallas. He's the biggest lever you have.\n- **Jordan Addison vs. Justin Jefferson:** Addison's value hinges on Jefferson sitting.\n- **Their Braelon Allen:** if Breece Hall sits, they likely start Allen, adding points to their side.\n- **Monday night:** Bijan and London play last, so you'll know the exact deficit to chase.\n\n### Moves that raise your odds\n1. **Bench Metcalf Thursday** so you can use Collins or Addison Sunday.\n2. **Win Ollie Gordon II** \u2014 not a Week 4 starter for you, but the best long-term add available."
+}
