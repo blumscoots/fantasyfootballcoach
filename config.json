@@ -8,6 +8,16 @@
       "season": 2026,
       "team_id": 12,
       "team_name": "Mr. Chow"
+    },
+    {
+      "key": "yahoo",
+      "label": "Justin Sucks League",
+      "platform": "manual",
+      "source": "yahoo",
+      "league_id": 359202,
+      "season": 2026,
+      "team_id": 9,
+      "team_name": "Mr.Chow"
     }
   ],
   "model": "claude-sonnet-5",

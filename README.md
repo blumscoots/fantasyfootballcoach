@@ -59,7 +59,9 @@ To add a league, add an entry to the `leagues` list:
 - `key`: short name with no spaces; it becomes the folder name.
 - `league_id`: the number after `leagueId=` in the ESPN league URL. The league must be public.
 - `team_name` (or `team_id`): which team is yours. If the name doesn't match, the Actions log lists every team and its ID.
-- Only ESPN is supported for now.
+- `platform`: `espn` is fetched automatically. `manual` means the scheduled job skips the league and its data is
+  refreshed by asking Claude in chat (used for Yahoo, whose API now requires an approval process). Claude reads the
+  league through the Claude desktop app's browser and writes `data/<key>/league.json` and `reports.json` for upload.
 
 Reports for a league go in `data/<key>/reports.json`.
 
