@@ -30,7 +30,7 @@ h1{font:700 clamp(2rem,6vw,3.4rem)/.95 var(--cond);margin:0}
 .score{display:flex;gap:18px;align-items:baseline;font-family:var(--cond)}
 .score b{font-size:2rem}
 .grid{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,8fr);gap:20px}
-@media (max-width:860px){.grid{grid-template-columns:1fr}}
+@media (max-width:860px){.grid{grid-template-columns:minmax(0,1fr)}}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px}
 h2{font:700 1.5rem/1.1 var(--cond);margin:0 0 10px}
 h3{font:600 1.1rem var(--cond);color:var(--muted);margin:14px 0 6px}
@@ -49,6 +49,8 @@ nav button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--turf
 .md{overflow-wrap:anywhere}
 .md table{border-collapse:collapse;width:100%;display:block;overflow-x:auto;font-size:.93rem}
 .md th,.md td{border-bottom:1px solid var(--line);padding:5px 8px;text-align:left;vertical-align:top}
+.md th,.md td{overflow-wrap:normal;word-break:normal;min-width:6.5em}
+.md td:first-child,.md th:first-child{min-width:0}
 .md h1,.md h2,.md h3{font-family:var(--cond);color:var(--ink)}
 .md p,.md li{max-width:75ch}
 .md a{color:var(--turf)}
@@ -58,11 +60,19 @@ table.std{border-collapse:collapse;width:100%;font-size:.93rem}
 table.std td,table.std th{padding:5px 8px;border-bottom:1px solid var(--line);text-align:left}
 table.std tr.me td{font-weight:600;color:var(--turf)}
 .scroll{overflow-x:auto}
+nav.leagues{display:flex;gap:6px;overflow-x:auto;margin-bottom:14px}
+nav.leagues button{font:600 1rem var(--body);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:6px 14px;color:var(--muted);cursor:pointer;white-space:nowrap}
+nav.leagues button[aria-current="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+details.roster{border-bottom:1px solid var(--line);padding:6px 0}
+details.roster summary{cursor:pointer;font-weight:600}
+details.roster ul{margin:6px 0 4px;padding-left:18px;font-size:.93rem}
+.small{font-size:.9rem}
 .hidden{display:none}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <nav class="leagues" id="leagues" aria-label="Leagues"></nav>
   <header>
     <div><h1 id="team">Fantasy Coach</h1><div class="sub" id="sub">Loading…</div></div>
     <div class="score" id="score"></div>
@@ -77,21 +87,42 @@ table.std tr.me td{font-weight:600;color:var(--turf)}
   </div>
 </div>
 <script>
-const TABS = [["brief","Research brief"],["startsit","Start / sit"],["waivers","Waivers"],["matchup","Matchup"],["league","League"]];
+const TABS = [["brief","Research brief"],["startsit","Start / sit"],["waivers","Waivers"],["trades","Trades"],["matchup","Matchup"],["league","League"]];
 const ORDER = ["QB","RB","WR","TE","FLEX","D/ST","K","BN","IR"];
-let league, reports, tab = location.hash.slice(1) || "brief";
+let leagues = [], current = null, league = null, reports = null;
+const [hashLeague, hashTab] = location.hash.slice(1).split("/");
+let tab = hashTab || "brief";
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const md = t => window.marked && window.DOMPurify ? DOMPurify.sanitize(marked.parse(t || "")) : `<pre>${esc(t)}</pre>`;
 const when = iso => iso ? new Date(iso).toLocaleString([], {weekday:"short", month:"short", day:"numeric", hour:"numeric", minute:"2-digit"}) : "never";
+const getJSON = url => fetch(url + "?t=" + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null);
 
-async function load(){
-  const bust = "?t=" + Date.now();
-  [league, reports] = await Promise.all([
-    fetch("data/league.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
-    fetch("data/reports.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
-  ]);
-  if (!league){ $("sub").textContent = "No league data yet. Run the workflow once from the Actions tab."; return; }
+async function init(){
+  const cfg = await getJSON("config.json");
+  leagues = cfg?.leagues?.length ? cfg.leagues : [{key:"premier", label:"My League"}];
+  const start = leagues.find(l => l.key === hashLeague) || leagues[0];
+  renderLeagueTabs(start.key);
+  await openLeague(start.key);
+}
+
+function renderLeagueTabs(active){
+  $("leagues").innerHTML = leagues.map(l => `<button data-l="${esc(l.key)}" aria-current="${l.key===active}">${esc(l.label || l.key)}</button>`).join("");
+  $("leagues").classList.toggle("hidden", leagues.length < 2);
+}
+$("leagues").onclick = e => { const k = e.target.closest("[data-l]")?.dataset.l; if (k && k !== current) { renderLeagueTabs(k); openLeague(k); } };
+
+async function openLeague(key){
+  current = key;
+  history.replaceState(null, "", `#${key}/${tab}`);
+  $("sub").textContent = "Loading…"; $("board").innerHTML = ""; $("report").innerHTML = ""; $("score").innerHTML = "";
+  [league, reports] = await Promise.all([getJSON(`data/${key}/league.json`), getJSON(`data/${key}/reports.json`)]);
+  // Older single-league layout kept files directly in data/; fall back to them for the first league.
+  if (!league && key === leagues[0].key){
+    [league, reports] = await Promise.all([getJSON("data/league.json"), reports ? Promise.resolve(reports) : getJSON("data/reports.json")]);
+  }
+  if (key !== current) return;
+  if (!league){ $("team").textContent = leagues.find(l => l.key === key)?.label || key; $("sub").textContent = "No league data yet. It appears after the next scheduled run, or run the workflow from the Actions tab."; renderTabs(); renderTab(); return; }
   const me = league.teams.find(t => t.id === league.my_team_id);
   const opp = league.teams.find(t => t.id === league.opponent_id);
   $("team").textContent = me.name;
@@ -118,14 +149,14 @@ function renderBoard(me){
 function renderTabs(){
   $("tabs").innerHTML = TABS.map(([k,l]) => `<button role="tab" data-k="${k}" aria-selected="${k===tab}">${l}</button>`).join("");
 }
-$("tabs").onclick = e => { const k = e.target.dataset.k; if (!k) return; tab = k; history.replaceState(null, "", "#"+k); renderTabs(); renderTab(); };
+$("tabs").onclick = e => { const k = e.target.dataset.k; if (!k) return; tab = k; history.replaceState(null, "", `#${current}/${k}`); renderTabs(); renderTab(); };
 
 function renderTab(){
-  if (tab === "league"){ $("status").innerHTML = ""; $("report").innerHTML = leagueView(); return; }
-  if (!reports){ $("status").innerHTML = `<div class="changes stale">No research yet. It runs on the schedule, or trigger it from the Actions tab.</div>`; $("report").innerHTML = ""; return; }
-  const staleWeek = reports.week !== league.week;
+  if (tab === "league"){ $("status").innerHTML = ""; $("report").innerHTML = league ? leagueView() : ""; return; }
+  if (!reports){ $("status").innerHTML = `<div class="changes stale">No research for this league yet. Ask Claude for a refresh and upload the reports.json it gives you into data/${esc(current)}/.</div>`; $("report").innerHTML = ""; return; }
+  const staleWeek = league && reports.week !== league.week;
   const changes = (reports.changes || []).length ? `<br>Triggered by: ${reports.changes.map(esc).join("; ")}` : "";
-  $("status").innerHTML = `<div class="changes${staleWeek ? " stale" : ""}">Research for week ${reports.week}, updated ${when(reports.generated_at)} (${esc(reports.trigger)} run).${staleWeek ? " A newer week has started; the next run will refresh this." : ""}${changes}</div>`;
+  $("status").innerHTML = `<div class="changes${staleWeek ? " stale" : ""}">Research for week ${reports.week}, updated ${when(reports.generated_at)} (${esc(reports.trigger)} run).${staleWeek ? " A newer week has started; ask for a refresh." : ""}${changes}</div>`;
   let html = md(reports[tab] || "_Nothing in this section yet._");
   if (tab === "brief" && reports.sources?.length){
     html += "<h3>Sources</h3><ul>" + reports.sources.filter(s => /^https?:\/\//.test(s.url)).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a></li>`).join("") + "</ul>";
@@ -138,12 +169,15 @@ function leagueView(){
   const byPoints = [...league.teams].sort((a,b) => b.points_for - a.points_for).map(t => t.id);
   let html = `<h2>Standings</h2><div class="scroll"><table class="std"><tr><th>Team</th><th>Record</th><th>Points for</th><th>Points rank</th><th>FAAB spent</th></tr>` +
     teams.map(t => `<tr class="${t.id===league.my_team_id?"me":""}"><td>${esc(t.name)}</td><td>${t.wins}-${t.losses}${t.ties?"-"+t.ties:""}</td><td>${t.points_for}</td><td>${byPoints.indexOf(t.id)+1}</td><td>$${t.faab_spent}</td></tr>`).join("") + `</table></div>`;
+  html += `<h2 style="margin-top:20px">Other rosters</h2><p class="muted small">Tap a team to see its roster, useful for trade ideas.</p>` +
+    league.teams.filter(t => t.id !== league.my_team_id).map(t => `<details class="roster"><summary>${esc(t.name)} <span class="muted">(${t.wins}-${t.losses})</span></summary><ul>` +
+      [...t.roster].sort((a,b) => ORDER.indexOf(a.slot) - ORDER.indexOf(b.slot)).map(p => `<li>${esc(p.slot)} · ${esc(p.name)} <span class="muted">${esc(p.pos)}, ${esc(p.team)}${p.injury && p.injury !== "ACTIVE" ? ", " + esc(p.injury.replace("_"," ").toLowerCase()) : ""}</span></li>`).join("") + `</ul></details>`).join("");
   html += `<h2 style="margin-top:20px">Recent moves</h2>`;
   html += league.transactions.length ? "<ul>" + league.transactions.map(t =>
     `<li><b>${esc(t.team)}</b>: ${t.items.map(i => `${esc(i.type.toLowerCase())} ${esc(i.player)}`).join(", ")}${t.bid ? ` ($${t.bid})` : ""}</li>`).join("") + "</ul>" : `<p class="muted">No adds, drops or trades yet this week.</p>`;
   return html;
 }
-load();
+init();
 </script>
 </body>
 </html>

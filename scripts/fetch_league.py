@@ -1,8 +1,8 @@
-"""Pull the league from ESPN's public data feed, slim it down, and record what changed.
+"""Pull every league in config.json from ESPN's public data feed, slim it down, and record what changed.
 
-Writes:
-  data/league.json   compact snapshot (settings, standings, rosters, matchup, free agents)
-  data/changes.json  what changed since the previous snapshot, plus whether research should rerun
+For each league, writes:
+  data/<key>/league.json   compact snapshot (settings, standings, rosters, matchup, free agents)
+  data/<key>/changes.json  what changed since the previous snapshot, plus whether research should rerun
 """
 import json
 import os
@@ -14,9 +14,6 @@ import requests
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 CONFIG = json.load(open(os.path.join(ROOT, "config.json")))
-
-BASE = ("https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/"
-        f"{CONFIG['season']}/segments/0/leagues/{CONFIG['league_id']}")
 HEADERS = {"User-Agent": "fantasy-coach/1.0 (personal league tool)"}
 
 POSITIONS = {1: "QB", 2: "RB", 3: "WR", 4: "TE", 5: "K", 16: "D/ST"}
@@ -29,14 +26,27 @@ PRO_TEAMS = {
 }
 
 
-def get(views, extra=None, filter_header=None):
-    params = [("view", v) for v in views] + list((extra or {}).items())
-    headers = dict(HEADERS)
-    if filter_header:
-        headers["X-Fantasy-Filter"] = json.dumps(filter_header)
-    r = requests.get(BASE, params=params, headers=headers, timeout=60)
-    r.raise_for_status()
-    return r.json()
+def leagues():
+    """Supports the new {"leagues": [...]} config and the old single-league config."""
+    if "leagues" in CONFIG:
+        return CONFIG["leagues"]
+    return [{"key": "premier", "label": "My League", "platform": "espn", **{
+        k: CONFIG[k] for k in ("league_id", "season", "team_id", "team_name") if k in CONFIG}}]
+
+
+def make_get(lg):
+    base = ("https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/"
+            f"{lg['season']}/segments/0/leagues/{lg['league_id']}")
+
+    def get(views, extra=None, filter_header=None):
+        params = [("view", v) for v in views] + list((extra or {}).items())
+        headers = dict(HEADERS)
+        if filter_header:
+            headers["X-Fantasy-Filter"] = json.dumps(filter_header)
+        r = requests.get(base, params=params, headers=headers, timeout=60)
+        r.raise_for_status()
+        return r.json()
+    return get
 
 
 def stat_total(player, week, source):
@@ -65,7 +75,8 @@ def slim_player(player, week, slot_id=None):
     return out
 
 
-def main():
+def fetch_espn(lg):
+    get = make_get(lg)
     core = get(["mSettings", "mTeam", "mStatus"])
     week = core["status"]["currentMatchupPeriod"]
     settings = core["settings"]
@@ -78,7 +89,7 @@ def main():
             "filterStatus": {"value": ["FREEAGENT", "WAIVERS"]},
             "filterSlotIds": {"value": [0, 2, 4, 6, 16, 17, 23]},
             "sortPercOwned": {"sortAsc": False, "sortPriority": 1},
-            "limit": CONFIG["free_agent_limit"],
+            "limit": CONFIG.get("free_agent_limit", 150),
         }
     })
 
@@ -88,7 +99,7 @@ def main():
         rec = t["record"]["overall"]
         teams[t["id"]] = {
             "id": t["id"],
-            "name": t.get("name", t.get("abbrev")),
+            "name": (t.get("name") or t.get("abbrev") or "").strip(),
             "owner": members.get(t.get("primaryOwner"), ""),
             "wins": rec["wins"], "losses": rec["losses"], "ties": rec["ties"],
             "points_for": round(rec["pointsFor"], 2), "points_against": round(rec["pointsAgainst"], 2),
@@ -96,6 +107,14 @@ def main():
             "waiver_rank": t.get("waiverRank"),
             "roster": [],
         }
+
+    my_id = lg.get("team_id")
+    if my_id is None and lg.get("team_name"):
+        wanted = lg["team_name"].strip().lower()
+        my_id = next((tid for tid, t in teams.items() if t["name"].lower() == wanted), None)
+    if my_id not in teams:
+        listing = ", ".join("%s (id %s)" % (t["name"], tid) for tid, t in teams.items())
+        raise ValueError("Couldn't find your team. Set team_id or team_name for '%s'. Teams: %s" % (lg["key"], listing))
 
     id_to_name = {}
     for t in rosters["teams"]:
@@ -110,7 +129,6 @@ def main():
         free_agents.append(slim_player(p, week))
         id_to_name[p["id"]] = p.get("fullName")
 
-    my_id = CONFIG["team_id"]
     opponent_id, my_proj, opp_proj, my_win_prob = None, None, None, None
     for m in matchups.get("schedule", []):
         if m.get("matchupPeriodId") != week:
@@ -140,8 +158,12 @@ def main():
 
     acq = settings.get("acquisitionSettings", {})
     sched = settings.get("scheduleSettings", {})
-    league = {
+    trade = settings.get("tradeSettings", {})
+    return {
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "key": lg["key"],
+        "label": lg.get("label") or settings.get("name"),
+        "platform": "espn",
         "league_name": settings.get("name"),
         "week": week,
         "settings": {
@@ -151,6 +173,8 @@ def main():
             "playoff_teams": sched.get("playoffTeamCount"),
             "playoff_seeding": sched.get("playoffSeedingRule"),
             "regular_season_weeks": sched.get("matchupPeriodCount"),
+            "trade_deadline": trade.get("deadlineDate"),
+            "trade_veto_votes": trade.get("vetoVotesRequired"),
         },
         "my_team_id": my_id,
         "opponent_id": opponent_id,
@@ -160,13 +184,8 @@ def main():
         "transactions": transactions,
     }
 
-    path = os.path.join(DATA, "league.json")
-    previous = json.load(open(path)) if os.path.exists(path) else None
-    changes = diff(previous, league)
-    os.makedirs(DATA, exist_ok=True)
-    json.dump(league, open(path, "w"), indent=1)
-    json.dump(changes, open(os.path.join(DATA, "changes.json"), "w"), indent=1)
-    print(f"Week {week}: {len(changes['events'])} change(s); relevant={changes['relevant']}")
+
+FETCHERS = {"espn": fetch_espn}
 
 
 def diff(prev, cur):
@@ -198,9 +217,30 @@ def diff(prev, cur):
     return {"at": cur["fetched_at"], "events": events, "relevant": relevant}
 
 
-if __name__ == "__main__":
-    try:
-        main()
-    except requests.HTTPError as e:
-        print(f"ESPN request failed: {e}", file=sys.stderr)
+def main():
+    failures = 0
+    all_leagues = leagues()
+    for lg in all_leagues:
+        platform = lg.get("platform", "espn")
+        try:
+            if platform not in FETCHERS:
+                raise ValueError(f"Platform '{platform}' isn't supported yet")
+            league = FETCHERS[platform](lg)
+        except Exception as e:  # one broken league shouldn't stop the others
+            failures += 1
+            print(f"[{lg.get('key')}] fetch failed: {e}", file=sys.stderr)
+            continue
+        folder = os.path.join(DATA, lg["key"])
+        os.makedirs(folder, exist_ok=True)
+        path = os.path.join(folder, "league.json")
+        previous = json.load(open(path)) if os.path.exists(path) else None
+        changes = diff(previous, league)
+        json.dump(league, open(path, "w"), indent=1)
+        json.dump(changes, open(os.path.join(folder, "changes.json"), "w"), indent=1)
+        print(f"[{lg['key']}] week {league['week']}: {len(changes['events'])} change(s); relevant={changes['relevant']}")
+    if failures == len(all_leagues):
         sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

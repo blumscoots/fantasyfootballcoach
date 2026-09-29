@@ -39,14 +39,37 @@ GitHub can delay scheduled runs by several minutes to over an hour, so don't rel
 6. **Run it once.** **Actions → Update fantasy research → Run workflow** (mode: `full`).
    When it finishes (a few minutes), refresh the site.
 
+## Leagues
+
+Each league in `config.json` gets its own tab on the site and its own folder: `data/<key>/`.
+
+To add a league, add an entry to the `leagues` list:
+
+```json
+{
+  "key": "work",
+  "label": "Work League",
+  "platform": "espn",
+  "league_id": 12345678,
+  "season": 2026,
+  "team_name": "My Team Name"
+}
+```
+
+- `key`: short name with no spaces; it becomes the folder name.
+- `league_id`: the number after `leagueId=` in the ESPN league URL. The league must be public.
+- `team_name` (or `team_id`): which team is yours. If the name doesn't match, the Actions log lists every team and its ID.
+- Only ESPN is supported for now.
+
+Reports for a league go in `data/<key>/reports.json`.
+
 ## Settings
 
-Edit `config.json`:
+Also in `config.json`:
 
-- `model`: the Claude model used for research. Check docs.claude.com for current model names.
-- `max_web_searches`: cap on searches per research run (controls cost).
+- `model`: the Claude model used for automatic research (only if you add an API key).
+- `max_web_searches`: cap on searches per research run.
 - `min_hours_between_research`: cooldown for change-triggered runs.
-- `team_id`: your team's ESPN ID (Mr. Chow is 12).
 
 ## Notes and limits
 
