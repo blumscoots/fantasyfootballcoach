@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T22:15:00+00:00",
+ "fetched_at": "2026-09-30T20:40:00+00:00",
  "key": "yahoo",
  "label": "Justin Sucks League",
  "platform": "yahoo (read via browser)",
@@ -19,8 +19,8 @@
  "my_team_id": 9,
  "opponent_id": 11,
  "projection": {
-  "me": 124.3,
-  "opponent": 125.3,
+  "me": 125.2,
+  "opponent": 125.7,
   "my_win_prob": 0.49
  },
  "teams": [
@@ -158,28 +158,6 @@
      "outlook": ""
     },
     {
-     "id": "Keaton Mitchell",
-     "name": "Keaton Mitchell",
-     "pos": "?",
-     "team": "LAC",
-     "injury": "ACTIVE",
-     "proj": null,
-     "last_week": null,
-     "slot": "BN",
-     "outlook": ""
-    },
-    {
-     "id": "Emmett Johnson",
-     "name": "Emmett Johnson",
-     "pos": "?",
-     "team": "KC",
-     "injury": "ACTIVE",
-     "proj": null,
-     "last_week": null,
-     "slot": "BN",
-     "outlook": ""
-    },
-    {
      "id": "Harrison Butker",
      "name": "Harrison Butker",
      "pos": "K",
@@ -199,6 +177,28 @@
      "proj": null,
      "last_week": null,
      "slot": "D/ST",
+     "outlook": ""
+    },
+    {
+     "id": "Ollie Gordon II",
+     "name": "Ollie Gordon II",
+     "pos": "RB",
+     "team": "MIA",
+     "injury": "ACTIVE",
+     "proj": null,
+     "last_week": null,
+     "slot": "BN",
+     "outlook": ""
+    },
+    {
+     "id": "Kalif Raymond",
+     "name": "Kalif Raymond",
+     "pos": "WR",
+     "team": "CHI",
+     "injury": "ACTIVE",
+     "proj": null,
+     "last_week": null,
+     "slot": "BN",
      "outlook": ""
     }
    ]
@@ -527,17 +527,6 @@
      "outlook": ""
     },
     {
-     "id": "Makai Lemon",
-     "name": "Makai Lemon",
-     "pos": "?",
-     "team": "PHI",
-     "injury": "ACTIVE",
-     "proj": null,
-     "last_week": null,
-     "slot": "BN",
-     "outlook": ""
-    },
-    {
      "id": "Tank Dell",
      "name": "Tank Dell",
      "pos": "?",
@@ -568,6 +557,17 @@
      "proj": null,
      "last_week": null,
      "slot": "D/ST",
+     "outlook": ""
+    },
+    {
+     "id": "Jaylen Wright",
+     "name": "Jaylen Wright",
+     "pos": "RB",
+     "team": "MIA",
+     "injury": "QUESTIONABLE",
+     "proj": null,
+     "last_week": null,
+     "slot": "BN",
      "outlook": ""
     }
    ]
@@ -677,7 +677,7 @@
      "name": "Rico Dowdle",
      "pos": "?",
      "team": "PIT",
-     "injury": "QUESTIONABLE",
+     "injury": "OUT",
      "proj": null,
      "last_week": null,
      "slot": "BN",
@@ -728,14 +728,25 @@
      "outlook": ""
     },
     {
-     "id": "Chiefs",
-     "name": "Chiefs",
-     "pos": "D/ST",
-     "team": "KC",
+     "id": "Malik Washington",
+     "name": "Malik Washington",
+     "pos": "WR",
+     "team": "MIA",
      "injury": "ACTIVE",
      "proj": null,
      "last_week": null,
-     "slot": "D/ST",
+     "slot": "BN",
+     "outlook": ""
+    },
+    {
+     "id": "Bills D/ST",
+     "name": "Bills D/ST",
+     "pos": "D/ST",
+     "team": "BUF",
+     "injury": "ACTIVE",
+     "proj": null,
+     "last_week": null,
+     "slot": "BN",
      "outlook": ""
     }
    ]
@@ -1115,7 +1126,7 @@
      "name": "Lamar Jackson",
      "pos": "QB",
      "team": "BAL",
-     "injury": "ACTIVE",
+     "injury": "QUESTIONABLE",
      "proj": null,
      "last_week": null,
      "slot": "QB",
@@ -1243,17 +1254,6 @@
      "outlook": ""
     },
     {
-     "id": "Dontayvion Wicks",
-     "name": "Dontayvion Wicks",
-     "pos": "?",
-     "team": "PHI",
-     "injury": "ACTIVE",
-     "proj": null,
-     "last_week": null,
-     "slot": "BN",
-     "outlook": ""
-    },
-    {
      "id": "Jordyn Tyson",
      "name": "Jordyn Tyson",
      "pos": "?",
@@ -1284,6 +1284,17 @@
      "proj": null,
      "last_week": null,
      "slot": "D/ST",
+     "outlook": ""
+    },
+    {
+     "id": "Darren Waller",
+     "name": "Darren Waller",
+     "pos": "TE",
+     "team": "CAR",
+     "injury": "ACTIVE",
+     "proj": null,
+     "last_week": null,
+     "slot": "BN",
      "outlook": ""
     }
    ]
@@ -1496,18 +1507,18 @@
      "pos": "RB",
      "team": "LV",
      "injury": "ACTIVE",
-     "proj": 15.4,
+     "proj": 15.3,
      "last_week": null,
      "slot": "RB",
      "outlook": ""
     },
     {
-     "id": "Jadarian Price",
-     "name": "Jadarian Price",
+     "id": "Braelon Allen",
+     "name": "Braelon Allen",
      "pos": "RB",
-     "team": "SEA",
+     "team": "NYJ",
      "injury": "ACTIVE",
-     "proj": 9.6,
+     "proj": 10.9,
      "last_week": null,
      "slot": "RB",
      "outlook": ""
@@ -1518,7 +1529,7 @@
      "pos": "WR",
      "team": "SEA",
      "injury": "ACTIVE",
-     "proj": 21.2,
+     "proj": 21.1,
      "last_week": null,
      "slot": "WR",
      "outlook": ""
@@ -1529,7 +1540,7 @@
      "pos": "WR",
      "team": "BAL",
      "injury": "ACTIVE",
-     "proj": 16.9,
+     "proj": 17.0,
      "last_week": null,
      "slot": "WR",
      "outlook": ""
@@ -1551,7 +1562,7 @@
      "pos": "WR",
      "team": "CHI",
      "injury": "ACTIVE",
-     "proj": 12.9,
+     "proj": 12.8,
      "last_week": null,
      "slot": "FLEX",
      "outlook": ""
@@ -1573,7 +1584,7 @@
      "pos": "D/ST",
      "team": "PIT",
      "injury": "ACTIVE",
-     "proj": 7.8,
+     "proj": 7.5,
      "last_week": null,
      "slot": "D/ST",
      "outlook": ""
@@ -1584,7 +1595,18 @@
      "pos": "QB",
      "team": "DEN",
      "injury": "ACTIVE",
-     "proj": 21.2,
+     "proj": 21.6,
+     "last_week": null,
+     "slot": "BN",
+     "outlook": ""
+    },
+    {
+     "id": "Jadarian Price",
+     "name": "Jadarian Price",
+     "pos": "RB",
+     "team": "SEA",
+     "injury": "ACTIVE",
+     "proj": 9.6,
      "last_week": null,
      "slot": "BN",
      "outlook": ""
@@ -1605,7 +1627,7 @@
      "name": "Dallas Goedert",
      "pos": "TE",
      "team": "PHI",
-     "injury": "DOUBTFUL",
+     "injury": "OUT",
      "proj": 0.0,
      "last_week": null,
      "slot": "BN",
@@ -1617,18 +1639,7 @@
      "pos": "WR",
      "team": "ARI",
      "injury": "ACTIVE",
-     "proj": 8.7,
-     "last_week": null,
-     "slot": "BN",
-     "outlook": ""
-    },
-    {
-     "id": "MarShawn Lloyd",
-     "name": "MarShawn Lloyd",
-     "pos": "RB",
-     "team": "GB",
-     "injury": "ACTIVE",
-     "proj": 8.1,
+     "proj": 7.9,
      "last_week": null,
      "slot": "BN",
      "outlook": ""
@@ -1639,7 +1650,7 @@
      "pos": "RB",
      "team": "HOU",
      "injury": "ACTIVE",
-     "proj": 8.4,
+     "proj": 8.6,
      "last_week": null,
      "slot": "BN",
      "outlook": ""
@@ -2197,42 +2208,6 @@
  ],
  "free_agents": [
   {
-   "id": "Braelon Allen",
-   "name": "Braelon Allen",
-   "pos": "RB",
-   "team": "NYJ",
-   "injury": "ACTIVE",
-   "proj": null,
-   "last_week": null,
-   "owned_pct": null,
-   "owned_change": 0,
-   "outlook": ""
-  },
-  {
-   "id": "Ollie Gordon II",
-   "name": "Ollie Gordon II",
-   "pos": "RB",
-   "team": "MIA",
-   "injury": "ACTIVE",
-   "proj": null,
-   "last_week": null,
-   "owned_pct": null,
-   "owned_change": 0,
-   "outlook": ""
-  },
-  {
-   "id": "Kalif Raymond",
-   "name": "Kalif Raymond",
-   "pos": "WR",
-   "team": "CHI",
-   "injury": "ACTIVE",
-   "proj": null,
-   "last_week": null,
-   "owned_pct": null,
-   "owned_change": 0,
-   "outlook": ""
-  },
-  {
    "id": "Mack Hollins",
    "name": "Mack Hollins",
    "pos": "WR",
@@ -2257,18 +2232,6 @@
    "outlook": ""
   },
   {
-   "id": "Malik Washington",
-   "name": "Malik Washington",
-   "pos": "WR",
-   "team": "MIA",
-   "injury": "ACTIVE",
-   "proj": null,
-   "last_week": null,
-   "owned_pct": null,
-   "owned_change": 0,
-   "outlook": ""
-  },
-  {
    "id": "T.J. Hockenson",
    "name": "T.J. Hockenson",
    "pos": "TE",
@@ -2285,18 +2248,6 @@
    "name": "Brenton Strange",
    "pos": "TE",
    "team": "JAX",
-   "injury": "ACTIVE",
-   "proj": null,
-   "last_week": null,
-   "owned_pct": null,
-   "owned_change": 0,
-   "outlook": ""
-  },
-  {
-   "id": "Darren Waller",
-   "name": "Darren Waller",
-   "pos": "TE",
-   "team": "CAR",
    "injury": "ACTIVE",
    "proj": null,
    "last_week": null,
@@ -2375,24 +2326,12 @@
    "owned_pct": null,
    "owned_change": 0,
    "outlook": ""
-  },
-  {
-   "id": "Bills D/ST",
-   "name": "Bills D/ST",
-   "pos": "D/ST",
-   "team": "BUF",
-   "injury": "ACTIVE",
-   "proj": null,
-   "last_week": null,
-   "owned_pct": null,
-   "owned_change": 0,
-   "outlook": ""
   }
  ],
  "transactions": [
   {
-   "id": "pending",
-   "type": "WAIVER (pending)",
+   "id": "w1",
+   "type": "WAIVER",
    "team": "Mr.Chow",
    "bid": 0,
    "date": null,
@@ -2404,6 +2343,108 @@
     {
      "type": "DROP",
      "player": "MarShawn Lloyd"
+    }
+   ]
+  },
+  {
+   "id": "w2",
+   "type": "WAIVER",
+   "team": "Madenspacher",
+   "bid": 0,
+   "date": null,
+   "items": [
+    {
+     "type": "ADD",
+     "player": "Ollie Gordon II"
+    },
+    {
+     "type": "DROP",
+     "player": "Keaton Mitchell"
+    }
+   ]
+  },
+  {
+   "id": "w3",
+   "type": "WAIVER",
+   "team": "Madenspacher",
+   "bid": 0,
+   "date": null,
+   "items": [
+    {
+     "type": "ADD",
+     "player": "Kalif Raymond"
+    },
+    {
+     "type": "DROP",
+     "player": "Emmett Johnson"
+    }
+   ]
+  },
+  {
+   "id": "w4",
+   "type": "WAIVER",
+   "team": "LionsWonAgain",
+   "bid": 0,
+   "date": null,
+   "items": [
+    {
+     "type": "ADD",
+     "player": "Jaylen Wright"
+    },
+    {
+     "type": "DROP",
+     "player": "Makai Lemon"
+    }
+   ]
+  },
+  {
+   "id": "w5",
+   "type": "WAIVER",
+   "team": "IonRunIt",
+   "bid": 0,
+   "date": null,
+   "items": [
+    {
+     "type": "ADD",
+     "player": "Malik Washington"
+    },
+    {
+     "type": "ADD",
+     "player": "Bills D/ST"
+    },
+    {
+     "type": "DROP",
+     "player": "Chiefs D/ST"
+    }
+   ]
+  },
+  {
+   "id": "w6",
+   "type": "WAIVER",
+   "team": "Deshaun Don\u2019t Touchdown There",
+   "bid": 0,
+   "date": null,
+   "items": [
+    {
+     "type": "ADD",
+     "player": "Darren Waller"
+    },
+    {
+     "type": "DROP",
+     "player": "Dontayvion Wicks"
+    }
+   ]
+  },
+  {
+   "id": "t1",
+   "type": "TRADE (pending review)",
+   "team": "Deshaun Don\u2019t Touchdown There & IonRunIt",
+   "bid": 0,
+   "date": null,
+   "items": [
+    {
+     "type": "trade",
+     "player": "Lamar Jackson, TreVeyon Henderson, DJ Moore, Cam Skattebo, Davante Adams (listed Sep 29, not yet on rosters)"
     }
    ]
   }
