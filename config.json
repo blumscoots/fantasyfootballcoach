@@ -18,6 +18,15 @@
       "season": 2026,
       "team_id": 9,
       "team_name": "Mr.Chow"
+    },
+    {
+      "key": "espn2",
+      "label": "ESPN League 2",
+      "platform": "espn",
+      "league_id": 1829267144,
+      "season": 2026,
+      "team_id": 6,
+      "team_name": "Mr. Chow"
     }
   ],
   "model": "claude-sonnet-5",
