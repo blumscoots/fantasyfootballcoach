@@ -10,10 +10,11 @@
   "scoring": "PPR",
   "faab_budget": 500,
   "playoff_teams": 6,
-  "playoff_seeding": "TOTAL_POINTS_SCORED",
+  "playoff_seeding": "record",
   "regular_season_weeks": 14,
   "trade_deadline": 1796230800000,
-  "trade_veto_votes": 5
+  "trade_veto_votes": 5,
+  "playoff_tiebreaker": "TOTAL_POINTS_SCORED"
  },
  "my_team_id": 12,
  "opponent_id": 1,

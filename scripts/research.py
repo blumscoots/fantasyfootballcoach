@@ -59,9 +59,9 @@ def build_prompt(league, changes):
 Today is {datetime.now(timezone.utc).strftime('%A, %B %d, %Y')} (UTC). It is NFL week {league['week']}.
 
 LEAGUE RULES: {s['teams']} teams, {s['scoring']} scoring, FAAB budget ${s['faab_budget']} (this team has spent ${me['faab_spent']}),
-{s['playoff_teams']} playoff teams seeded by {s['playoff_seeding']} over {s['regular_season_weeks']} regular-season weeks.
+{s['playoff_teams']} playoff teams, seeded by record (tiebreaker: {s.get('playoff_tiebreaker')}) over {s['regular_season_weeks']} regular-season weeks.
 Trade deadline (epoch ms): {s.get('trade_deadline')}; veto votes needed: {s.get('trade_veto_votes')}.
-If seeding is by total points, weekly point maximization matters more than any single win.
+Wins decide playoff seeding; total points only break ties, so treat each matchup as must-win when the record is poor.
 
 STANDINGS:
 {chr(10).join(f"- {t['name']}: {t['wins']}-{t['losses']}, {t['points_for']} PF" for t in standings)}
