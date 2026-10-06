@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-06T20:42:34+00:00",
+ "fetched_at": "2026-10-06T23:55:47+00:00",
  "key": "espn2",
  "label": "Goldstein Gooners",
  "platform": "espn",
@@ -46,7 +46,7 @@
      "last_week": 12.6,
      "owned_pct": 99.8,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Jaxon Smith-Njigba should once again be the centerpiece of Seattle's passing game in a big Week 5 clash against the 49ers. The star wideout posted a fine 5-76-0 receiving line against the Chargers this past Sunday, though he didn't get into the end zone for the first time this season. It's telling that despite his final stats being quite adequate, Smith-Njigba's targets, catches and yards were each a season-low mark in what has been a standout campaign thus far. San Francisco is allowing just 6.96 yards per target to wideouts though four weeks (fifth-best in the league), though Smith-Njigba has proven to be essentially matchup-proof since the beginning of last season.",
      "slot": "WR"
     },
     {
@@ -58,8 +58,8 @@
      "proj": 0.0,
      "last_week": 2.0,
      "owned_pct": 99.4,
-     "owned_change": -0.22,
-     "outlook": "",
+     "owned_change": -0.24,
+     "outlook": "Saquon Barkley left Philadelphia's last game due to a hamstring ailment. While the injury is not considered serious, it remains to be seen whether Barkley will be able to suit up in London in Week 5 versus the Jags. If Barkley can play, he will face a stiff test, as Jacksonville is allowing just 74.3 rushing yards per tilt, which is second in the NFL. In addition, the Jags have given up just two rushing touchdowns through the first four games of the season.",
      "slot": "BN"
     },
     {
@@ -71,7 +71,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 98.7,
-     "owned_change": -0.22,
+     "owned_change": -0.23,
      "outlook": "",
      "slot": "BN"
     },
@@ -84,8 +84,8 @@
      "proj": 9.7,
      "last_week": 11.7,
      "owned_pct": 91.4,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_change": -0.09,
+     "outlook": "Colston Loveland will look to build off a season-best performance as the Bears travel to Green Bay in Week 5. Loveland commanded nine targets in Week 4 against the Jets, which allowed him to finish with six catches for 57 yards. The second-year tight end has now increased his yardage from zero to three to 31 to 57 in the first four games of the year. He'll aim to find the end zone for the first time of the campaign against a Packers defense that's ranked middle-of-the-pack against TEs so far this season.",
      "slot": "TE"
     },
     {
@@ -96,8 +96,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 82.4,
-     "owned_change": -0.71,
+     "owned_pct": 82.3,
+     "owned_change": -0.81,
      "outlook": "",
      "slot": "BN"
     },
@@ -110,8 +110,8 @@
      "proj": 10.9,
      "last_week": 16.2,
      "owned_pct": 90.5,
-     "owned_change": -0.07,
-     "outlook": "",
+     "owned_change": -0.08,
+     "outlook": "Jameson Williams will look to build off a big outing as the Lions travel to Arizona in Week 5. Williams had his best game of the year in Week 4 against the Panthers, bringing in six of eight targets for 102 yards. The speedster has still posted just a 16-229-0 receiving line to start the season, but he has seen eight or more targets in two games, which could bode well for his output. He'll also face a Cardinals defense that's ranked 27th in fantasy points allowed to WRs.",
      "slot": "WR"
     },
     {
@@ -122,9 +122,9 @@
      "injury": "ACTIVE",
      "proj": 14.1,
      "last_week": 2.0,
-     "owned_pct": 94.8,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_pct": 94.7,
+     "owned_change": -0.16,
+     "outlook": "Parker Washington has recorded just 47 receiving yards on eight targets over Jacksonville's last two games after turning 18 targets into 181 yards over the preceding two games. Washington could have an easier time getting back on track in Week 5 if the Eagles are without top cornerback Quinyon Mitchell (knee). Philadelphia's secondary still has plenty of talent but hasn't been nearly as effective this year, allowing four touchdown catches to WRs after holding the position to six TDs in the entire 2025 regular season. Washington leads the Jaguars in all receiving categories and remains a fantasy WR2 at worst despite the recent hiccup.",
      "slot": "FLEX"
     },
     {
@@ -136,8 +136,8 @@
      "proj": 10.6,
      "last_week": 7.2,
      "owned_pct": 78.5,
-     "owned_change": -0.18,
-     "outlook": "",
+     "owned_change": -0.2,
+     "outlook": "J.K. Dobbins continues to struggle as the primary early-down back for the Broncos. In a Week 4 loss to the 49ers, he managed just 40 rushing yards on 11 carries. This marks the fourth straight game to begin the season he's failed to reach 50 rushing yards or get into the end zone. Dobbins' 3.5 yards per carry would be a career low; he's never had a mark below 4.6 in any year he's played at least eight games. The veteran RB has at least stayed healthy, but that hasn't led to much production. He'll try to get going in Week 5 against a Chargers defense that ranks 22nd in fantasy points per game allowed to RBs.",
      "slot": "RB"
     },
     {
@@ -149,8 +149,8 @@
      "proj": 8.4,
      "last_week": 3.1,
      "owned_pct": 71.2,
-     "owned_change": -0.21,
-     "outlook": "",
+     "owned_change": -0.23,
+     "outlook": "Blake Corum will aim to rebound from a pair of quiet games when the Rams host the Bills in Week 5. After after averaging 66.5 rushing yards in Los Angeles' first two games, Corum has totaled just 29 yards on the ground over his past two contests. He's been quite inefficient with his carries, logging just 2.6 yards per carry on his 11 totes while Kyren Williams has dominated backfield touches. Buffalo has given up six TDs to running backs this season, but three have come through the air. That's not Corum's forte -- he has just four catches for 20 yards with no scores as a receiver through four weeks.",
      "slot": "BN"
     },
     {
@@ -161,8 +161,8 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 57.9,
-     "owned_change": -0.17,
+     "owned_pct": 57.8,
+     "owned_change": -0.19,
      "outlook": "",
      "slot": "IR"
     },
@@ -176,7 +176,7 @@
      "last_week": 11.4,
      "owned_pct": 50.7,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "KC Concepcion and the Browns visit the Jets for a Week 5 showdown. The rookie receiver finished second on the team in receptions (5) and yardage (64), while his eight targets led the way in Cleveland's Week 4 victory. Concepcion also returned two punts for 10 yards, as it remains clear the Browns want the ball in his hands in a variety of ways for him to shine as a playmaker. However, he'll face a talented Jets secondary that allows 28.5 fantasy points per game to WRs, which ranks ninth in the league.",
      "slot": "BN"
     },
     {
@@ -188,8 +188,8 @@
      "proj": 8.0,
      "last_week": 2.0,
      "owned_pct": 27.7,
-     "owned_change": -0.24,
-     "outlook": "",
+     "owned_change": -0.28,
+     "outlook": "Chase McLaughlin is expected to have plenty of scoring opportunities in the Buccaneers' Week 5 matchup against the Cowboys. McLaughlin didn't attempt a field goal in the Week 4 loss to the Packers but made both of his point-after attempts. On the season, he's converted on all nine of his field-goal tries, including three from beyond 50 yards. McLaughlin could get fewer kicking chances with Jalon Daniels starting at quarterback for the injured Baker Mayfield (thumb), but the Cowboys remain a favorable matchup, allowing 8.5 kicking points per game this season.",
      "slot": "K"
     },
     {
@@ -200,9 +200,9 @@
      "injury": "ACTIVE",
      "proj": 13.6,
      "last_week": 27.0,
-     "owned_pct": 50.1,
-     "owned_change": 0.09,
-     "outlook": "",
+     "owned_pct": 50.2,
+     "owned_change": 0.11,
+     "outlook": "Emanuel Wilson will look to build upon a big Week 4 performance when Seattle faces San Francisco in Week 5. Wilson led his team's backfield this past Sunday against the Chargers, posting a 21-81-1 line on the ground. Equally promising was his 3-39-1 line as a pass catcher after he logged zero receptions over the first three weeks of the campaign. With Jadarian Price (chest) on IR, Wilson figures to continue to work as Seattle's No. 1 RB, though the eventual return of Zach Charbonnet (knee) could shake up the backfield. Charbonnet isn't expected to be ready for Week 5, however, so Wilson will likely get plenty of work against the 49ers, who are middle-of-the-pack so far in giving up 17.4 fantasy points per game to running backs.",
      "slot": "RB"
     },
     {
@@ -215,7 +215,7 @@
      "last_week": 12.9,
      "owned_pct": 69.5,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Denzel Boston and the Browns are on the road to take on the Jets in Week 5. He caught four of seven targets for a team-high 89 yards during Cleveland's 27-24 win in Week 4. Boston tied for third in targets and continued to prove himself as a big-play option, generating 60 yards on one reception that helped set up a Browns' touchdown run. He'll face a strong Jets secondary that allows 28.5 fantasy points per game to WRs, which ranks ninth in the league.",
      "slot": "BN"
     },
     {
@@ -227,7 +227,7 @@
      "proj": 0.0,
      "last_week": 21.5,
      "owned_pct": 84.4,
-     "owned_change": -0.12,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "QB"
     },
@@ -240,7 +240,7 @@
      "proj": 6.7,
      "last_week": 10.0,
      "owned_pct": 89.5,
-     "owned_change": -0.11,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -268,7 +268,7 @@
      "last_week": 16.3,
      "owned_pct": 99.8,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "James Cook will likely require volume to exploit a Rams defense when the Bills face them in their Week 5 Monday night affair. Cook has now scored in three straight games, but his workload was minimal in Week 4 against New England, rushing a season-low 12 times. The Rams have been stout against the run, not allowing a running back to score through four games and allowing just 3.9 yards per carry, and Cook's lack of involvement in the passing game further dampens the outlook. So long as Buffalo doesn't fall behind early and is forced to throw often, Cook remains stable, but Week 5 profiles as a night to temper lofty expectations.",
      "slot": "RB"
     },
     {
@@ -281,7 +281,7 @@
      "last_week": 19.1,
      "owned_pct": 99.4,
      "owned_change": -0.04,
-     "outlook": "",
+     "outlook": "Chase Brown and the Bengals visit the 0-4 Dolphins for a Week 5 showdown. He had nine carries for 10 yards but caught all 11 of his targets for 71 yards during Cincinnati's 22-17 loss in Week 4. Brown set a career high in receptions with Ja'Marr Chase (concussion) leaving in the first half, and with Tee Higgins (adductor) picking up a questionable tag, the running back could again get high volume through the air while still handling the bulk of carries. Miami's defense ranks last in fantasy points (29.7) and receiving TDs (4) allowed to the position, giving Brown a very favorable matchup.",
      "slot": "RB"
     },
     {
@@ -294,7 +294,7 @@
      "last_week": 30.8,
      "owned_pct": 99.0,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Nico Collins returned from a two-game absence due to a hamstring injury in Week 5 and reclaimed his customary spot as Houston's top receiver and a fantasy WR1. He scored twice against the Cowboys and has compiled 14 catches for 194 yards and three TDs in two appearances this season. Collins can be started with confidence in Week 5 against the Titans, who are allowing 167 receiving yards per game to wideouts. DeVonta Smith and Zay Flowers each compiled at least 117 yards and a TD against Tennessee's secondary.",
      "slot": "WR"
     },
     {
@@ -306,8 +306,8 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 98.7,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_change": -0.16,
+     "outlook": "DeVonta Smith missed last game for the Eagles with a hamstring issue, and his status is very much up in the air for Week 5 versus the Jags. Philadelphia's passing offense struggled mightily without Smith and tight end Dallas Goedert, and the early departure of Saquon Barkley due to an injury of his own did not help matters. If Smith misses additional time, Dontayvion Wicks, Darius Cooper and rookie Makai Lemon will have some big shoes to fill. An intriguing matchup lurks in Week 5 versus the Jags. Jacksonville has surrendered 280.3 passing yards per game this season, which is second-to-last in the league. In an odd twist, though, the Jags have yielded just three passing scores, which is tied for first in the NFL.",
      "slot": "BN"
     },
     {
@@ -320,7 +320,7 @@
      "last_week": 7.4,
      "owned_pct": 96.5,
      "owned_change": -0.1,
-     "outlook": "",
+     "outlook": "D'Andre Swift will seek to get back on track as the Bears travel to Green Bay in Week 5. Swift rushed the ball 15 times for 58 yards and caught two targets for 16 yards against the Jets in Week 4, but he also lost a fumble and was stopped at the goal line twice. The veteran was outplayed by his younger counterpart, Kyle Monangai, who posted a 30-146-2 rushing line. Either way, Swift should still get plenty of usage against a Packers defense that's ranked 31st in fantasy points allowed to running backs this campaign.",
      "slot": "FLEX"
     },
     {
@@ -333,7 +333,7 @@
      "last_week": 15.4,
      "owned_pct": 88.1,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Rome Odunze will look to build off a big performance as the Bears play the Packers in Week 5. Odunze was on fire in Week 4 against the Jets with Tyson Bagent under center, bringing in six of seven targets for 94 yards. The starting wide receiver has now posted a 14-233-0 receiving line on the year, which leaves plenty of room to grow. He'll face a Green Bay defense that's allowed a middle-of-the-pack 31.8 fantasy points per game to wide receivers.",
      "slot": "BN"
     },
     {
@@ -346,7 +346,7 @@
      "last_week": 7.7,
      "owned_pct": 94.6,
      "owned_change": -0.1,
-     "outlook": "",
+     "outlook": "Christian Watson will remain a top option in Green Bay's passing game against the Bears in Week 5. Watson finished Week 4 at Tampa Bay with a quiet three catches for 47 yards, but Jordan Love threw for just 197 yards. The go-to wideout has now posted a 20-331-4 receiving line on 32 targets so far this campaign, and he's on pace for his first 1,000-yard season if he can stay healthy. Watson could have a tough task versus a Chicago defense that's ranked top five in fantasy points allowed to wide receivers so far this season.",
      "slot": "BN"
     },
     {
@@ -358,8 +358,8 @@
      "proj": 13.9,
      "last_week": 9.6,
      "owned_pct": 72.3,
-     "owned_change": -0.4,
-     "outlook": "",
+     "owned_change": -0.45,
+     "outlook": "Justin Herbert continues to struggle in offensive coordinator Mike McDaniel's scheme. The 28-year-old quarterback posted season lows with 189 passing yards and 6.1 yards per attempt in the Chargers' Week 4 loss to the Seahawks. Through four games, he has a career-low 59.7% completion rate and a weak 4:6 TD:INT. An ineffective running game, along with injuries to the offensive line and his wide receiver corps, have contributed to the team's 0-4 start, but Herbert has been the focal point of the offense's woes. He'll try to turn things around in Week 5 against a Broncos defense that could be missing its top two cornerbacks, including Patrick Surtain, and which ranks 21st in fantasy points per game allowed to QBs.",
      "slot": "QB"
     },
     {
@@ -371,7 +371,7 @@
      "proj": 0.0,
      "last_week": 3.5,
      "owned_pct": 95.1,
-     "owned_change": -0.17,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "TE"
     },
@@ -385,7 +385,7 @@
      "last_week": 11.7,
      "owned_pct": 87.4,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Matthew Golden will look to do more as the Packers play the Bears in Week 5. Golden finished Week 4 against the Buccaneers with a season-low three catches for 21 yards, but he was able to salvage his performance with a touchdown. The second-year pass catcher remains a top option for quarterback Jordan Love, and he has an 18-274-2 receiving line through four games. Golden will be a major factor in Green Bay's success against their big rival, but he will face a Chicago defense that's ranked top five in fantasy points allowed to wide receivers.",
      "slot": "BN"
     },
     {
@@ -398,7 +398,7 @@
      "last_week": 19.3,
      "owned_pct": 71.0,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "RJ Harvey is coming off the best performance of his career as a pass catcher, posting a 10-68-0 line on 10 targets while adding 25 rushing yards on seven carries in the Broncos' Week 4 loss to the 49ers. Denver trailed most of the game, which helped boost the second-year back's usage, but J.K. Dobbins' struggles in the early-down role are also opening the door for Harvey to log more touches in general, as his seven carries were also a season high. The eventual return of rookie Jonah Coleman from a high-ankle sprain could shake up the backfield further, but until then Harvey's arrow appears to be pointed up. He'll look to build on last week's effort in Week 5 against a Chargers defense that ranks 22nd in fantasy points per game allowed to RBs..",
      "slot": "BN"
     },
     {
@@ -409,9 +409,9 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 37.0,
-     "owned_change": -0.7,
-     "outlook": "",
+     "owned_pct": 36.9,
+     "owned_change": -0.82,
+     "outlook": "Jayden Reed will not play in Week 5 as the Packers play the Bears. Reed sustained a neck injury against the Jets in Week 2, and he'll now require season-ending surgery. His absence should continue to pave the way for Skyy Moore and Bo Melton to get more opportunities in Green Bay's passing game.",
      "slot": "BN"
     },
     {
@@ -423,8 +423,8 @@
      "proj": 8.6,
      "last_week": 5.0,
      "owned_pct": 78.2,
-     "owned_change": -0.19,
-     "outlook": "",
+     "owned_change": -0.2,
+     "outlook": "Eddy Pineiro's leg could be key for the 49ers in Week 5 versus Seattle in a battle of tough defenses. Pineiro has been mostly asked to kick extra points this season, making 14 of 16 PAT tries while attempting just six field goals (and making four of them). He missed a 54-yard try against Denver this past Sunday, though it was blocked by the Broncos. There may not be many opportunities for Pineiro against the Seahawks, who are giving up the fifth-fewest points (18.3) in the league this season.",
      "slot": "K"
     },
     {
@@ -436,7 +436,7 @@
      "proj": 5.9,
      "last_week": 8.0,
      "owned_pct": 41.3,
-     "owned_change": -0.1,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -450,7 +450,7 @@
      "last_week": 9.5,
      "owned_pct": 99.2,
      "owned_change": -0.11,
-     "outlook": "",
+     "outlook": "George Pickens has had back-to-back games with at least 75 yards receiving for the Cowboys. On the downside, Pickens was targeted just three times last game as compared to a staggering 21 targets for fellow wideout CeeDee Lamb. The targets are unlikely to be so lopsided in Week 5 versus the Bucs, but Pickens certainly appears to be playing second-fiddle to the aforementioned Lamb in 2026. Tampa Bay's defense has been fairly stingy against the pass in terms of yardage. The Bucs are allowing just 204.3 passing yards per tilt, which is ninth in the NFL. However, Tampa Bay has also given up seven throwing scores, which is tied for 23rd in the league.",
      "slot": "WR"
     }
    ]
@@ -477,7 +477,7 @@
      "last_week": 15.5,
      "owned_pct": 99.9,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Amon-Ra St. Brown will look to find the end zone again as the Lions travel to Arizona in Week 5. St. Brown returned to a solid eight catches for 75 yards against the Panthers in Week 4, but he also broke his three-game touchdown streak. The star pass catcher has now totaled 31 receptions for 303 yards and five touchdowns this season. He'll take on a Cardinals defense that's ranked 27th in fantasy points allowed to WRs.",
      "slot": "WR"
     },
     {
@@ -489,8 +489,8 @@
      "proj": 13.5,
      "last_week": 23.2,
      "owned_pct": 98.2,
-     "owned_change": -0.02,
-     "outlook": "",
+     "owned_change": -0.03,
+     "outlook": "Malik Nabers exploded last game for 112 yards and a touchdown to help the Giants to victory. Nabers snagged six passes on seven targets for a season-high in terms of receiving yardage. He and quarterback Jameis Winston finally appeared to be on the same page. In Week 5, Nabers and company will face a Commanders defense that has struggled to defend the pass.  Washington has allowed 11 passing scores, which is tied for last in the NFL. In addition, the Commanders are yielding 242.5 passing yards per tilt, which is 25th in the league.",
      "slot": "WR"
     },
     {
@@ -502,8 +502,8 @@
      "proj": 13.2,
      "last_week": 7.6,
      "owned_pct": 98.0,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_change": -0.12,
+     "outlook": "Cam Skattebo has struggled to find room to roam for the Giants thus far this season. Skattebo rushed 18 times for 58 yards in the 36-24 win over the Cardinals last game. He is averaging just 3.5 yards per carry as teams dare the Giants to throw with backup quarterback Jameis Winston. In Week 5, Skattebo will face a rather stingy Washington run defense as well. The Commanders are allowing just 93.5 yards per tilt on the ground, which is sixth in the league. However, Washington did allow three rushing touchdowns last game versus the Colts.",
      "slot": "RB"
     },
     {
@@ -516,7 +516,7 @@
      "last_week": 6.1,
      "owned_pct": 96.6,
      "owned_change": -0.13,
-     "outlook": "",
+     "outlook": "Bucky Irving is expected to remain the Buccaneers' main offensive weapon in the Week 5 matchup against the Cowboys. Irving was largely ineffective against the Packers in a Week 4 loss, rushing for 61 yards on 16 carries. Additionally, the Oregon product was held without a target after accumulating 15 in Tampa Bay's first three games, suggesting Irving is likely in for less pass-catching opportunities while Jalon Daniels remains the starting quarterback. Irving could still thrive in Week 5 against a Cowboys defense that's given up 22.4 fantasy points per game to opposing RBs this season.",
      "slot": "RB"
     },
     {
@@ -529,7 +529,7 @@
      "last_week": 16.5,
      "owned_pct": 85.3,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Tucker Kraft will seek to build on his best performance of the season as the Packers take on Chicago in Week 5. Kraft recorded a season-high six catches in Week 4 against the Buccaneers, which he converted for 42 yards and a touchdown. The star tight end has started the campaign with a 15-148-1 receiving line, which he could expand on well against Green Bay's biggest rival. Kraft will have a tough task against a Bears defense that's ranked top five against fantasy TEs across four games.",
      "slot": "BN"
     },
     {
@@ -541,8 +541,8 @@
      "proj": 6.7,
      "last_week": 8.2,
      "owned_pct": 72.2,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_change": -0.19,
+     "outlook": "Marvin Harrison heads into Arizona's Week 5 matchup against Detroit struggling to build chemistry with QB Jacoby Brissett. Though Harrison recorded a 12-yard touchdown reception in Week 4 against the Giants, that was his only catch on four targets. The third-year wideout has exceeded one reception just once through four games this season and has totaled only 12 targets, remarkably far behind the 44 targets fellow wideout Michael Wilson has logged. With that said, the Lions could provide a prime opportunity for Harrison to get back on track, as Detroit has surrendered 207.3 receiving yards per game to wideouts, third-worst in the league.",
      "slot": "BN"
     },
     {
@@ -555,7 +555,7 @@
      "last_week": 13.1,
      "owned_pct": 88.5,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Trevor Lawrence is off to an inconsistent start this season, with seven touchdown passes in two home games but just one touchdown pass in two road games. The Jaguars are the nominal home team in Week 5 against the Eagles, but the game will be played in London at Tottenham Hotspur Stadium rather than in Jacksonville. Given Lawrence's struggles away from home coupled with a matchup against an Eagles defense that has allowed just four touchdown passes in as many games, this could be a week to look elsewhere at QB if a viable alternative is available on your bench or waiver wire. Jacksonville's passing game has enough upside for Lawrence to deliver a starter-level performance, but his floor is well below that.",
      "slot": "QB"
     },
     {
@@ -566,9 +566,9 @@
      "injury": "ACTIVE",
      "proj": 9.0,
      "last_week": 7.0,
-     "owned_pct": 72.0,
-     "owned_change": -0.24,
-     "outlook": "",
+     "owned_pct": 71.9,
+     "owned_change": -0.26,
+     "outlook": "Jacory Croskey-Merritt was stymied last game in a dismal loss for the Commanders. Bill had nine carries for a season-low 15 yards in the 30-13 defeat to the Colts. Even with Rachaad White sidelined due to injury, Croskey-Merritt could find little room to roam. Bill is struggling overall this season, averaging just 2.8 yards per tote. In Week 5, Washington will face a Giants run defense that has vastly improved from a season ago. New York is allowing 109 rushing yards per tilt, which is tied for 15th in the league. In addition, the G-Men have surrendered only two rushing touchdowns through four contests.",
      "slot": "BN"
     },
     {
@@ -579,9 +579,9 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 53.7,
-     "owned_change": -0.28,
-     "outlook": "",
+     "owned_pct": 53.6,
+     "owned_change": -0.31,
+     "outlook": "Jordan Mason will remain out for Week 5 as the Vikings travel to New Orleans. Mason hurt his thumb in Week 1 against the Packers, and he's been on IR since. The fifth-year running back will remain sidelined for at least the next week, priming veteran Aaron Jones for a continued big role.",
      "slot": "IR"
     },
     {
@@ -593,8 +593,8 @@
      "proj": 9.4,
      "last_week": 6.0,
      "owned_pct": 70.0,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_change": -0.09,
+     "outlook": "Harrison Mevis heads into the Rams' Week 5 matchup against Buffalo with a modest four field goals on the season. Four of those came in Week 3 against Denver, and Mevis missed a 48-yard try this past Sunday against Philadelphia. The second-year pro is a perfect 10-for-10 on point-after tries this year and has made all 49 of his PAT attempts in his career. Buffalo has yielded just six FG tries through four weeks, with kickers making five of those attempts.",
      "slot": "K"
     },
     {
@@ -605,9 +605,9 @@
      "injury": "ACTIVE",
      "proj": 6.8,
      "last_week": 8.7,
-     "owned_pct": 75.1,
-     "owned_change": -0.77,
-     "outlook": "",
+     "owned_pct": 75.0,
+     "owned_change": -0.86,
+     "outlook": "Braelon Allen could be slated for bulk carries in Week 5 when the Jets face the Browns with Breece Hall's (quad) uncertain availability. Filling in for Hall in Week 4, Allen was the only Jet to receive a carry, putting him in line to potentially exploit a Cleveland defense that's allowed at least 82 yards to opposing lead backs in three straight weeks and an appealing 4.8 yards per carry. If Hall returns, he can't be guaranteed a full workload, lending flex appeal to Allen.",
      "slot": "BN"
     },
     {
@@ -620,7 +620,7 @@
      "last_week": 18.0,
      "owned_pct": 62.3,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Ollie Gordon could be emerging in the Dolphins' backfield heading into a Week 5 matchup with the Bengals. With De'Von Achane (knee) out, Gordon ran for 100 yards on just nine carries in Week 4, vastly outperforming Jaylen Wright, while also scoring a touchdown for the second straight week. Touches figure to remain low if the Dolphins are forced to play from behind early, but facing a defense that's allowing 4.5 yards per carry could lead to steady yardage without high volume, and Gordon will remain an option near the goal line.",
      "slot": "BN"
     },
     {
@@ -631,9 +631,9 @@
      "injury": "ACTIVE",
      "proj": 8.8,
      "last_week": 0.0,
-     "owned_pct": 57.8,
-     "owned_change": -0.44,
-     "outlook": "",
+     "owned_pct": 57.7,
+     "owned_change": -0.48,
+     "outlook": "Kenyon Sadiq faces an unsettled role in the Jets' limited passing game ahead of a Week 5 matchup with the Browns. After a Week 3 breakthrough performance, Sadiq failed to record a catch on four targets in Week 4 and now has 21 or fewer yards in three of his first four games. The Browns haven't allowed an opposing tight end to top 51 yards while surrendering just 6.7 yards per target, not boding well for Sadiq in Week 5. A potential Mason Taylor return would further dampen Sadiq's potential.",
      "slot": "BN"
     },
     {
@@ -645,8 +645,8 @@
      "proj": 10.1,
      "last_week": 11.9,
      "owned_pct": 75.3,
-     "owned_change": -0.26,
-     "outlook": "",
+     "owned_change": -0.12,
+     "outlook": "Juwan Johnson is expected to remain one of the Saints' top pass catchers in the Week 5 matchup against the Vikings. Johnson had another productive outing in the Week 4 loss to the Falcons, catching six of eight targets for 59 yards. He's now tallied 232 receiving yards through four contests this season, the fourth-most amongst tight ends. Johnson will likely continue to benefit from head coach Kellen Moore's pass-heavy offense that's averaged 45 pass attempts per game this year. Despite this, Johnson is in for a difficult Week 5 matchup against a Vikings defense that's given up just 7.7 fantasy points per game to opposing TEs.",
      "slot": "TE"
     },
     {
@@ -657,8 +657,8 @@
      "injury": "ACTIVE",
      "proj": 3.3,
      "last_week": 1.0,
-     "owned_pct": 46.3,
-     "owned_change": -1.18,
+     "owned_pct": 46.1,
+     "owned_change": -1.32,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -672,7 +672,7 @@
      "last_week": 15.6,
      "owned_pct": 91.3,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Jaylen Warren and the Steelers welcome the Colts to town in Week 5. He tallied 17 carries for 93 yards while catching three of six targets for 33 yards during Pittsburgh's Week 4 loss. Warren handled a massive workload for the second straight week with Rico Dowdle (toe) on the sidelines. There's a chance Dowdle remains out against Indianapolis, leaving Warren as the unquestioned lead back versus the Colts' 23rd-ranked defense, which has allowed 24.2 fantasy points per game to RBs.",
      "slot": "FLEX"
     }
    ]
@@ -699,7 +699,7 @@
      "last_week": 17.7,
      "owned_pct": 99.9,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Jahmyr Gibbs will aim to return to dominance as the Lions play the Cardinals in Week 5. Gibbs produced for fantasy managers in Week 4, but he still rushed 15 times for a season-low 46 yards with a touchdown, tacking on four catches for 31 yards. Either way, the superstar running back has found the end zone in every game this season, and he's surpassed 100 total yards in three of four games. He'll face an Arizona defense that's ranked top five against fantasy RBs this season.",
      "slot": "RB"
     },
     {
@@ -711,8 +711,8 @@
      "proj": 15.0,
      "last_week": 6.5,
      "owned_pct": 98.7,
-     "owned_change": -0.14,
-     "outlook": "",
+     "owned_change": -0.15,
+     "outlook": "Jeremiyah Love is dealing with an ankle injury, and his status is uncertain for Arizona's Week 5 matchup against Detroit. The rookie running back logged a full workload Week 4 against the Giants, finishing with 14 carries for 63 yards and one catch for minus-8 yards. Fantasy managers who roster Love will likely keep a close eye on the Cardinals' injury reports throughout the week to get a sense of his odds of playing in Week 5. If he does suit up, Love will face a Lions defense that allowed Carolina RB Chuba Hubbard to rumble for 122 rushing yards and two touchdowns in Week 4.",
      "slot": "RB"
     },
     {
@@ -724,7 +724,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 95.1,
-     "owned_change": -0.14,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "IR"
     },
@@ -738,7 +738,7 @@
      "last_week": 25.8,
      "owned_pct": 98.7,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Zay Flowers looks to continue his hot start in 2026 when the Ravens visit the Falcons in Week 5. He grabbed eight of 10 targets for 118 yards and a touchdown during Baltimore's 24-18 win in Week 4. The fourth-year wideout owns an 18-352-2 receiving line on 22 targets across three contests. However, if Lamar Jackson (ankle) is unable to suit up, Flowers will be catching passes from Tyler Huntley, who completed eight of nine passes for 63 yards in relief of Jackson. He'll have the added benefit of facing an Atlanta defense that allows 38.4 fantasy points per game (T-27th) to WRs and gave up eight receptions for 116 yards to Chris Olave.",
      "slot": "WR"
     },
     {
@@ -750,8 +750,8 @@
      "proj": 10.5,
      "last_week": 0.0,
      "owned_pct": 95.8,
-     "owned_change": -0.21,
-     "outlook": "",
+     "owned_change": -0.23,
+     "outlook": "Ladd McConkey failed to catch either of his targets in the Chargers' Week 4 loss to the Seahawks, leaving the game early after aggravating a foot injury he picked up in practice during the week. The third-year wideout was already playing through a rib issue, and an absence of one or more games seems almost assured. The Chargers' passing game has struggled with or without him on the field, but if McConkey does miss time, Quentin Johnston and Tre' Harris would become Justin Herbert's top downfield options in Week 5 against a Broncos secondary that ranks eighth in fantasy points per game allowed to WRs but which could be missing its top two cornerbacks, including Patrick Surtain.",
      "slot": "BN"
     },
     {
@@ -764,7 +764,7 @@
      "last_week": 23.7,
      "owned_pct": 97.1,
      "owned_change": -0.04,
-     "outlook": "",
+     "outlook": "Joe Burrow and the Bengals travel to take on the 0-4 Dolphins in Week 5. He completed 39 of 54 pass attempts for 428 yards with one TD and two INTs while rushing three times for six yards and another score during Cincinnati's 22-17 loss in Week 4. The Bengals leaned on Burrow while playing from behind most of the game, but with Ja'Marr Chase (concussion) and Tee Higgins (adductor) both questionable to suit up against Miami, they're hoping a better start will allow them to rely on the ground game a bit more. The Dolphins' defense is certainly beatable, allowing 21.2 fantasy points to QBs (T-18th) and 29.7 to RBs, which ranks dead last.",
      "slot": "QB"
     },
     {
@@ -777,7 +777,7 @@
      "last_week": 11.7,
      "owned_pct": 91.6,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Harold Fannin Jr. and the Browns look to stay hot and earn a fourth consecutive victory against the Jets in a Week 5 road clash. He caught three of five targets for 27 yards and a touchdown during Cleveland's 27-24 win in Week 4. The second-year tight end now has three combined TDs over his last two outings. Fannin should once again be a featured target for Deshaun Watson versus the Jets' ninth-ranked defense in fantasy points allowed (10.2) to TEs. They have yet to surrender a TD to the position.",
      "slot": "TE"
     },
     {
@@ -789,8 +789,8 @@
      "proj": 12.0,
      "last_week": 16.5,
      "owned_pct": 88.2,
-     "owned_change": -0.06,
-     "outlook": "",
+     "owned_change": -0.07,
+     "outlook": "DK Metcalf and the Steelers host the Colts in a Week 5 clash between 2-2 teams. He caught five of nine targets for 115 yards during Pittsburgh's 27-24 loss in Week 4. Metcalf turned in his best performance of the season by far while leading his team in receptions, yardage, and targets. He'll look to stay hot against a beatable Indianapolis secondary that allows 35.0 fantasy points per game (20th) to WRs.",
      "slot": "WR"
     },
     {
@@ -801,9 +801,9 @@
      "injury": "ACTIVE",
      "proj": 7.3,
      "last_week": 10.7,
-     "owned_pct": 66.4,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_pct": 66.3,
+     "owned_change": -0.18,
+     "outlook": "Kenny Gainwell is expected to remain Tampa Bay's No. 2 running back in the Week 5 matchup against the Cowboys. Gainwell found the end zone for the first time this season during the Week 4 loss to the Packers. However, he remains firmly behind Bucky Irving in the Buccaneers' backfield, as Irving out-touched Gainwell 16 to five. Gainwell will likely struggle maintaining fantasy relevance in Week 5 without scoring another touchdown, though the Cowboys defense has already allowed four rushing TDs this season.",
      "slot": "BN"
     },
     {
@@ -828,8 +828,8 @@
      "proj": 8.9,
      "last_week": 12.0,
      "owned_pct": 78.7,
-     "owned_change": -0.05,
-     "outlook": "",
+     "owned_change": -0.06,
+     "outlook": "Cameron Dicker's volume increased for a second straight week in the Chargers' Week 4 loss to the Seahawks, converting all three of his field-goal attempts and both of his PATs. While the team's offense continues to struggle, Justin Herbert is at least putting together longer drives, and during those two contests Dicker has gone 6-for-7 on FG tries with all of his attempts coming from inside 50 yards. He likely won't be able to squander many chances in Week 5 against a Broncos team allowing 23.5 points per game, 17th in the league.",
      "slot": "K"
     },
     {
@@ -841,7 +841,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 86.8,
-     "owned_change": -0.24,
+     "owned_change": -0.26,
      "outlook": "",
      "slot": "BN"
     },
@@ -854,7 +854,7 @@
      "proj": 2.7,
      "last_week": 7.0,
      "owned_pct": 88.7,
-     "owned_change": -0.46,
+     "owned_change": -0.53,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -868,7 +868,7 @@
      "last_week": 19.6,
      "owned_pct": 96.5,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Brock Purdy will look to help keep San Francisco's perfect record alive with a win over Seattle in Week 5. Purdy has been outstanding to the begin the campaign, completing 70% of his passes and recording an 11:1 TD:INT. He's also getting great protection from the offensive line, as he's yet to take a sack this season. The Seahawks could pose a stiff challenge, however, as they've collected seven sacks through five games and have allowed the fifth-lowest passer rating (76.2) in the league.",
      "slot": "BN"
     },
     {
@@ -880,8 +880,8 @@
      "proj": 8.8,
      "last_week": 1.7,
      "owned_pct": 91.2,
-     "owned_change": -0.25,
-     "outlook": "",
+     "owned_change": -0.26,
+     "outlook": "Dalton Kincaid faces an uphill battle for a bounce-back performance when the Bills face the Rams in Week 5. He is coming off a season-low seven yards on two targets (one catch), and after a productive two-game start, has only five targets in Weeks 3 and 4. The Rams have defended tight ends at an elite level, allowing a mere 2.9 yards per target and only 85 total yards through four games.",
      "slot": "BN"
     },
     {
@@ -894,7 +894,7 @@
      "last_week": 18.0,
      "owned_pct": 84.7,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Deebo Samuel has been a versatile cog for the 49ers heading into a Week 5 matchup against Seattle. Samuel has scored three receiving TDs though four games, and he's also racked up 185 receiving yards, 74 rushing yads and 231 kick-return yards. The veteran wideout has drawn a modest 17 targets so far, but he's been very efficient in hauling in 14 of them. San Francisco may look to use Samuel creatively against a Seahawks defense that is allowing just 246.8 yards per game this season, fewest in the league.",
      "slot": "FLEX"
     }
    ]
@@ -921,7 +921,7 @@
      "last_week": 27.7,
      "owned_pct": 99.9,
      "owned_change": -0.03,
-     "outlook": "",
+     "outlook": "Bijan Robinson is expected to continue leading Atlanta's offense during the Week 5 matchup against the Ravens. Robinson has excelled through the Falcons' first four games, averaging 153.5 total yards per game and scoring five touchdowns on 99 touches. He ranks second in the NFL in total yards and will likely remain the focal point of a Falcons offense that's averaged 40 points per game over their last two contests. Despite this, Robinson is in for a difficult Wek 5 matchup against a Ravens defense that's allowed just 19.1 fantasy points per game to RBs this year.",
      "slot": "RB"
     },
     {
@@ -932,9 +932,9 @@
      "injury": "ACTIVE",
      "proj": 19.9,
      "last_week": 18.5,
-     "owned_pct": 99.9,
+     "owned_pct": 99.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Josh Allen brings a multi-touchdown streak into the Bills' Week 5 matchup at the Rams. Allen has provided multiple scores in each of Buffalo's first four games, throwing six scores while rushing for seven, though his yardage has topped 253 just once. The Rams, however, have allowed only one rushing touchdown and a mere 4.84 yards per pass attempt in what looks to be a battle of elite versus elite.",
      "slot": "QB"
     },
     {
@@ -959,8 +959,8 @@
      "proj": 9.8,
      "last_week": 3.3,
      "owned_pct": 96.5,
-     "owned_change": -0.18,
-     "outlook": "",
+     "owned_change": -0.2,
+     "outlook": "Emeka Egbuka will look to bounce back from a poor performance in the Buccaneers' Week 5 matchup against the Cowboys. Egbuka was targeted just four times during the Week 4 loss to the Packers, his lowest mark of the season. While Baker Mayfield (thumb) remains sidelined and Jalon Daniels acts as the Buccaneers' signal caller, Egbuka may continue receiving less opportunities. However, he's in for a great Week 5 matchup against a Dallas defense that's given up 36.9 fantasy points per game to opposing wideouts this season.",
      "slot": "FLEX"
     },
     {
@@ -972,8 +972,8 @@
      "proj": 12.6,
      "last_week": 2.7,
      "owned_pct": 94.9,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_change": -0.19,
+     "outlook": "DJ Moore continues to battle a shoulder issue as the Bills get set to travel in Week 5 to face the Rams. Moore exited Week 4's game against New England after aggravating the injury, his second early departure in four games. When playing an entire four quarters, Moore has dominated targets from Josh Allen, averaging nine looks. However, pairing injury concerns with the Rams' secondary not allowing an opposing receiver to top 50 yards, Moore could struggle in Week 5.",
      "slot": "WR"
     },
     {
@@ -986,7 +986,7 @@
      "last_week": 11.4,
      "owned_pct": 90.4,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Luther Burden will aim to stay involved as the Bears travel to Green Bay in Week 5. Burden tied his season high of 63 receiving yards in Week 4 against the Jets, and he's now recorded 60 or more yards in all but one game this season. The second-year wide receiver appears to be a pivotal part of Chicago's offense, and he could be a key piece towards a win in Tundratown. He'll face a Packers defense that's ranked middle-of-the-pack against fantasy WRs so far this campaign.",
      "slot": "WR"
     },
     {
@@ -998,8 +998,8 @@
      "proj": 7.1,
      "last_week": 7.7,
      "owned_pct": 76.8,
-     "owned_change": -0.65,
-     "outlook": "",
+     "owned_change": -0.35,
+     "outlook": "Kyle Pitts is expected to remain one of the Falcons' top pass catchers in the Week 5 matchup against the Ravens. Pitts had his most productive game of the season in the Week 4 win over the Saints, catching all three of his targets for 47 yards. Despite this, he played just 50% of Atlanta's offensive snaps and has now logged an average of 2.3 targets per game, suggesting he may not be as involved in the team's offensive game plan as he has been in past years. Additionally, Pitts in in for a difficult Week 5 matchup against a Ravens defense that's allowed just 10.4 fantasy points per game to opposing tight ends this season.",
      "slot": "BN"
     },
     {
@@ -1010,9 +1010,9 @@
      "injury": "ACTIVE",
      "proj": 10.2,
      "last_week": 1.4,
-     "owned_pct": 82.2,
-     "owned_change": -0.33,
-     "outlook": "",
+     "owned_pct": 82.1,
+     "owned_change": -0.36,
+     "outlook": "Courtland Sutton was nearly invisible in the Broncos' Week 4 loss to the 49ers, catching only one of six targets for a measly four yards. The veteran wideout remains firmly behind Jaylen Waddle on the depth chart, but the entire Denver offense is struggling under first-time play caller Davis Webb, and Sutton has produced a weak 9-86-0 line on 22 targets through four games. How long Sean Payton lets that situation last before reclaiming play-calling duties is an open question. Sutton will try to get going in Week 5 against a Chargers secondary that ranks 18th in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
     {
@@ -1024,8 +1024,8 @@
      "proj": 8.0,
      "last_week": 9.9,
      "owned_pct": 48.7,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_change": -0.17,
+     "outlook": "MarShawn Lloyd remains in the mix of Green Bay's backfield ahead of Week 5 against Chicago. Lloyd remained extremely inefficient on the ground in Week 4, rushing the ball seven times for 13 yards, but he did salvage his performance with five catches for 36 yards. The second-year running back looks to be in direct competition with Kaleb Johnson for carries as of late, but the Packers have utilized Lloyd in different ways even when Johnson has been more effective. Chicago has ranked 26th in yards per carry allowed (4.73) to RBs this season, which could give Lloyd the opening he needs to do more as a rusher.",
      "slot": "BN"
     },
     {
@@ -1037,8 +1037,8 @@
      "proj": 7.6,
      "last_week": 9.7,
      "owned_pct": 66.7,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_change": -0.2,
+     "outlook": "Brian Thomas has just 25 receiving yards over Jacksonville's last two games after kicking off the season with consecutive 40-yard performances. The 2024 first-round pick has played fewer than 50% of snaps on offense while being outperformed by Parker Washington and Jakobi Meyers. Thomas is too talented to overlook completely, but he's a risky flex option for Week 5 against the Eagles in London. The matchup would become more favorable if Eagles CB Quinyon Mitchell (knee) sits. Philadelphia is allowing 162 receiving yards per game to wide receivers.",
      "slot": "BN"
     },
     {
@@ -1051,7 +1051,7 @@
      "last_week": 28.0,
      "owned_pct": 76.8,
      "owned_change": -0.01,
-     "outlook": "",
+     "outlook": "Kyle Monangai will look to shed a questionable tag after a huge performance as the Bears play the Packers in Week 5. Monangai dominated the Jets on the ground in Week 4 with 30 rushes for 146 yards and two touchdowns, but he also injured his thumb and is currently day-to-day. The second-year ball carrier's practice availability should dictate whether he's able to play in Chicago's rivalry debut of the 2026 season. If he's active, he'll face a Green Bay defense that's ranked 31st in fantasy points allowed to running backs this campaign.",
      "slot": "BN"
     },
     {
@@ -1062,9 +1062,9 @@
      "injury": "ACTIVE",
      "proj": 6.9,
      "last_week": 4.1,
-     "owned_pct": 78.6,
-     "owned_change": -0.23,
-     "outlook": "",
+     "owned_pct": 78.5,
+     "owned_change": -0.25,
+     "outlook": "Jake Ferguson had a two-game scoring streak snapped for the Cowboys. Ferguson managed three catches for just 11 yards in the 34-30 win over the Texans. Ferguson has just 12 catches for 83 yards through the first four games of the season, though has scored three times over that span. In Week 5, Dallas will face a Tampa Bay defense that has been fairly stingy against the pass in terms of yardage. The Bucs are allowing just 204.3 passing yards per tilt, which is ninth in the NFL. However, Tampa Bay has also given up seven throwing scores, which is tied for 23rd in the league.",
      "slot": "TE"
     },
     {
@@ -1090,7 +1090,7 @@
      "last_week": 14.0,
      "owned_pct": 80.6,
      "owned_change": -0.03,
-     "outlook": "",
+     "outlook": "Cam Little made all three of his field-goal attempts in Jacksonville's Week 4 win over the Bengals. The big-legged kicker has yet to miss from inside 50 yards and has tremendous range, as Little made an NFL-record 68-yard field goal last season and narrowly missed a 70-yard attempt this season. Little remains a viable fantasy starter as usual in Week 5 against an Eagles team that's allowing 23.3 points per game but has given up only six successful field goals through four games. This game will be played at Tottenham Hotspur Stadium in London, where Spencer Shrader and Drew Stevens combined to make all five of their field-goal attempts in Week 4.",
      "slot": "K"
     },
     {
@@ -1102,8 +1102,8 @@
      "proj": 16.5,
      "last_week": 15.9,
      "owned_pct": 87.0,
-     "owned_change": -0.23,
-     "outlook": "",
+     "owned_change": -0.18,
+     "outlook": "Tyler Shough is expected to lead the Saints' offense into the Week 5 matchup against the Vikings. Despite a loss in Week 4, Shough remained productive, throwing for 286 yards and a touchdown with no turnovers. The second-year pro is now averaging a whopping 45 pass attempts per game, suggesting he'll remain productive for fantasy purposes as the season progresses. Despite this, he's in for a very tough Week 5 matchup against a Vikings defense that's allowed just 15.7 fantasy points per game to opposing quarterbacks this season, the best mark in the NFL.",
      "slot": "BN"
     }
    ]
@@ -1130,7 +1130,7 @@
      "last_week": 5.7,
      "owned_pct": 99.8,
      "owned_change": -0.12,
-     "outlook": "",
+     "outlook": "Ja'Marr Chase and the Bengals travel to face the winless Dolphins in Week 5. He caught all three of his targets for 27 yards in Week 4 before leaving Cincinnati's 22-17 loss with a concussion in the second quarter. Chase was evaluated for the injury after his facemask was pulled following a catch, and he'll have to clear the NFL's five-step concussion protocol before he can return to practice and play in the upcoming contest versus Miami. If he is indeed active, Chase will be going up against the Dolphins, who rank third in fewest fantasy points allowed (22.2) to WRs.",
      "slot": "WR"
     },
     {
@@ -1143,7 +1143,7 @@
      "last_week": 14.6,
      "owned_pct": 99.6,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Drake London is expected to remain the Falcons' top wideout in the Week 5 matchup against the Ravens. London has excelled since the return of Michael Penix in Week 3, catching 14 of 16 targets for 290 yards across his last two contests. With Penix at the helm, London has averaged a whopping 6.6 receptions and 98.5 yards per game, suggesting that he'll remain one of fantasy's top wideouts as the season progresses. Additionally, London is in for a terrific matchup against a Ravens secondary that's allowed 37.9 fantasy points per game to wideouts this season.",
      "slot": "WR"
     },
     {
@@ -1155,8 +1155,8 @@
      "proj": 16.4,
      "last_week": 0.0,
      "owned_pct": 97.6,
-     "owned_change": -0.14,
-     "outlook": "",
+     "owned_change": -0.15,
+     "outlook": "Breece Hall is uncertain to face the Browns in the Jets' Week 5 matchup due to a quad injury. He missed Week 4 with the issue, and when healthy, he was limited to 32 or fewer yards in his last two outings. Should he suit up, it's possible he'd be eased into his return and share snaps with Braelon Allen, but it's a favorable spot if a normal workload can be anticipated. While Cleveland has yet to allow a running back to score, they're allowing 4.8 yards per carry, with the last three lead backs all reaching at least 82 yards.",
      "slot": "BN"
     },
     {
@@ -1169,7 +1169,7 @@
      "last_week": 21.6,
      "owned_pct": 94.7,
      "owned_change": -0.03,
-     "outlook": "",
+     "outlook": "Quinshon Judkins and the Browns visit the Jets in Week 5, looking for their fourth consecutive win. He had his best performance of 2026 in Week 4, rushing 17 times for 53 yards and his first TD of the season while catching six of seven targets for 43 yards during Cleveland's 27-24 victory. No other back recorded more than two carries, and Judkins led the team in receptions and tied for third in targets. Up next is a Jets defense that allows 28.3 fantasy points per game to RBs, which ranks 30th.",
      "slot": "RB"
     },
     {
@@ -1182,7 +1182,7 @@
      "last_week": 18.9,
      "owned_pct": 99.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Lamar Jackson and the Ravens travel to face the Falcons on Sunday Night Football in Week 5. Prior to missing the entire second half of Baltimore's 24-18 win in Week 4, the two-time MVP threw for 222 yards (15-for-20) with two TDs and no INTs while rushing twice for 20 yards. Jackson was well on his way to a stellar outing with his team up 24-7 at halftime, but an ankle injury forced him out early and has him in jeopardy of missing the upcoming road tilt in Atlanta. Head coach Jesse Minter said Monday that the Ravens are uncertain of Jackson's status for Week 5, and if he's unable to suit up, Tyler Huntley will get the nod at quarterback.",
      "slot": "QB"
     },
     {
@@ -1194,8 +1194,8 @@
      "proj": 11.9,
      "last_week": 4.3,
      "owned_pct": 94.7,
-     "owned_change": -0.19,
-     "outlook": "",
+     "owned_change": -0.2,
+     "outlook": "David Montgomery has plodded to 2.7 yards per carry and has failed to find the end zone since scoring three TDs in Week 1, his Texans debut. Fellow Houston RB Woody Marks has scored twice during Montgomery's three-game touchdown drought. Montgomery and Marks will likely split carries again in Week 5 against the Titans, who are allowing 100 rushing yards per game to RBs, though Tennessee is giving up only 3.6 yards per carry. If Houston's defense can recapture last season's elite form and stifle the underwhelming Titans offense, Montgomery could get enough volume to wear down Tennessee's defense and make up for a lack of quality with quantity. With Houston's running game stuck in first gear, Montgomery is an unexciting flex candidate for Week 5.",
      "slot": "RB"
     },
     {
@@ -1208,7 +1208,7 @@
      "last_week": 21.5,
      "owned_pct": 85.6,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Carnell Tate broke out in Week 4 against the Ravens, recording 145 receiving yards after totaling just 123 yards over his first three games for the Titans. The rookie fourth-overall pick has been limited by the struggles of second-year QB Cam Ward, who is averaging just 182 passing yards per game. Tate is likely to match up frequently with top Texans CB Derek Stingley in Week 5, but Stingley and company have allowed the second-most catches (60), receiving yards (830), and touchdown receptions (six) to wide receivers. With Tate trending in the right direction, he's a high-upside flex option for Week 5 as the promising rookie continues to search for his first NFL touchdown.",
      "slot": "FLEX"
     },
     {
@@ -1221,7 +1221,7 @@
      "last_week": 22.4,
      "owned_pct": 95.9,
      "owned_change": -0.04,
-     "outlook": "",
+     "outlook": "Sam LaPorta will look to build on a season-best showing as the Lions travel to Arizona in Week 5. LaPorta impressed even in a Week 4 loss to Carolina, reeling in eight of 13 targets for 84 yards and a touchdown. The fourth-year tight end has now registered a 22-228-2  receiving line this season, and he remains a consistent option for Jared Goff, especially in important situations. LaPorta will face a Cardinals defense that's ranked 28th in fantasy points allowed to TEs.",
      "slot": "TE"
     },
     {
@@ -1233,7 +1233,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 81.8,
-     "owned_change": -0.17,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "BN"
     },
@@ -1246,8 +1246,8 @@
      "proj": 8.8,
      "last_week": 6.0,
      "owned_pct": 93.3,
-     "owned_change": -0.16,
-     "outlook": "",
+     "owned_change": -0.17,
+     "outlook": "Jason Myers has had a quiet campaign so far with Seattle on tap to host San Francisco in Week 5. After attempting a career-high 48 field goals in 2025, Myers has had just five FG tries so far this season, making all of them. He's been more active kicking extra points, making 12 of 13 PATs. Perhaps Myers will be relied upon more versus the 49ers, who have allowed just five extra-point tries as opposed to nine FG attempts so far in 2026.",
      "slot": "K"
     },
     {
@@ -1259,7 +1259,7 @@
      "proj": 6.7,
      "last_week": 3.0,
      "owned_pct": 87.0,
-     "owned_change": -0.09,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1272,8 +1272,8 @@
      "proj": 10.4,
      "last_week": 5.7,
      "owned_pct": 53.3,
-     "owned_change": -0.26,
-     "outlook": "",
+     "owned_change": -0.29,
+     "outlook": "Makai Lemon saw a career-high six targets last game for the Eagles. With DeVonta Smith shelved due to a hamstring ailment, Lemon finished with the second-most targets on the team behind Darius Cooper.  However, the Philadelphia passing game struggled mightily overall, with no wideout gaining more than 33 yards through the air. While Smith should remain sidelined for Week 5, it remains to be seen how the targets will be divided between Lemon, Cooper and Dontayvion Wicks. Nevertheless, an intriguing matchup lurks in Week 5 against the Jags. Jacksonville has surrendered 280.3 passing yards per game this season, which is second-to-last in the league. In an odd twist, though, the Jags have yielded just three passing scores, which is tied for first in the NFL.",
      "slot": "BN"
     },
     {
@@ -1284,9 +1284,9 @@
      "injury": "ACTIVE",
      "proj": 6.5,
      "last_week": 1.6,
-     "owned_pct": 40.5,
-     "owned_change": -0.22,
-     "outlook": "",
+     "owned_pct": 40.4,
+     "owned_change": -0.26,
+     "outlook": "Tyjae Spears has been limited to three touches in each of Tennessee's Week 3 and Week 4 games while playing through an ankle injury. Typically, his total is in the high single digits, but Spears' injury concerns, coupled with Tennessee's struggles on offense (13.8 points per game), make the change-of-pace RB a fantasy non-factor ahead of a Week 5 home game against the Texans, who are allowing just 3.5 yards per carry. Tony Pollard should continue to get the majority of opportunities in Tennessee's backfield.",
      "slot": "BN"
     },
     {
@@ -1299,7 +1299,7 @@
      "last_week": 23.8,
      "owned_pct": 58.4,
      "owned_change": 0.0,
-     "outlook": "",
+     "outlook": "Romeo Doubs has an ascending role in the Patriots' passing game ahead of a Week 5 matchup with the Raiders. He collected a season-high nine targets in Week 4, and while it resulted in just six catches and 58 yards, he found the end zone twice. Las Vegas will rush the passer, which has troubled Drake Maye. The secondary is allowing 8.2 yards per target to wideouts, so Doubs can capitalize on whatever volume he receives.",
      "slot": "BN"
     },
     {
@@ -1311,8 +1311,8 @@
      "proj": 7.6,
      "last_week": 8.2,
      "owned_pct": 51.7,
-     "owned_change": -0.16,
-     "outlook": "",
+     "owned_change": -0.17,
+     "outlook": "Woody Marks takes a two-game touchdown streak into the Texans' Week 5 trip to Tennessee, though he has been out-touched 54-35 by David Montgomery in Houston's backfield. Marks has pulled within one touchdown of Montgomery this season, and neither running back has been efficient behind Houston's struggling offensive line, as Marks is averaging 3.1 yards per carry to Montgomery's 2.7. The Titans are giving up 100 yards per game on the ground to RBs, but Marks' position on the short end of a backfield platoon makes him a deep-league flex candidate at best for Week 5.",
      "slot": "BN"
     }
    ]
@@ -1339,7 +1339,7 @@
      "last_week": 41.3,
      "owned_pct": 99.9,
      "owned_change": -0.01,
-     "outlook": "",
+     "outlook": "CeeDee Lamb is coming off a game for the ages. Lamb was targeted a staggering 21 times en route to an absurd 17 catches for 189 yards and a touchdown in the comeback win over the Texans. It was the third-straight 100-yard outing of the season for Lamb, and he scored for the fourth time in four contests. Following this outing, Lamb leads the NFL in receiving yards and receptions, and is tied for third in the NFL with four receiving scores. In Week 5, Dallas will face a Tampa Bay defense that has been fairly stingy against the pass in terms of yardage. The Bucs are allowing just 204.3 passing yards per tilt, which is ninth in the NFL. However, Tampa Bay has also given up seven throwing scores, which is tied for 23rd in the league.",
      "slot": "WR"
     },
     {
@@ -1352,7 +1352,7 @@
      "last_week": 0.0,
      "owned_pct": 99.8,
      "owned_change": -0.11,
-     "outlook": "",
+     "outlook": "Justin Jefferson will aim to make a return for Minnesota's Week 5 clash at New Orleans. Jefferson sat out of the Vikings' Week 4 win over the Dolphins with an ankle injury, but the hope is that his absences will be limited to that game. The star pass catcher has totaled a quieter 13-179-2 receiving line over his first two-plus games, so he'll look to make a bang if he does return to action. The Saints have ranked middle-of-the-pack against fantasy WRs so far this season, which could provide everything Jefferson needs to deliver.",
      "slot": "WR"
     },
     {
@@ -1365,7 +1365,7 @@
      "last_week": 5.7,
      "owned_pct": 99.0,
      "owned_change": -0.12,
-     "outlook": "",
+     "outlook": "Garrett Wilson seeks a rebound in Week 5 when the Jets face the Browns. After collecting seven or more targets in each of his first three games, Wilson bottomed out with only four looks in Week 4, finishing with a season-low 27 yards. Cleveland's secondary has allowed at least 291 passing yards in each of the last two weeks, and three opposing wideouts have topped 70 yards. With his usual volume, Wilson appears to be in a favorable Week 5 spot.",
      "slot": "FLEX"
     },
     {
@@ -1378,7 +1378,7 @@
      "last_week": 31.3,
      "owned_pct": 98.9,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Javonte Williams scored three times in the second half of the last game for the Cowboys, leading a thrilling comeback victory over the Texans. Williams is averaging just 3.7 yards per tote this season, but has six combined touchdowns through four outings. He has also made his presence felt in the passing game with 15 receptions over that span. In Week 5, Dallas will face a Tampa Bay defense that has been stellar against the run in 2026. The Bucs are allowing just 78.5 rushing yards per tilt, which is third in the NFL. In addition, Tampa Bay has yielded just one rushing touchdown through four games.",
      "slot": "RB"
     },
     {
@@ -1391,7 +1391,7 @@
      "last_week": 11.1,
      "owned_pct": 92.7,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Bhayshul Tuten has recorded at least 88 scrimmage yards in three of the first four games of his second season with the Jaguars. The 2025 fourth-round pick has thrived in the lead role, establishing himself as an every-week fantasy RB2. He'll face an Eagles defense in Week 5 that's allowing 106 rushing yards per game to RBs and just surrendered a pair of late rushing scores to the Rams' Kyren Williams in a Week 4 loss. Tuten and the Jaguars will have a 9:30 a.m. ET kickoff Sunday in Week 5 when they face the Eagles at Tottenham Hotspur Stadium.",
      "slot": "RB"
     },
     {
@@ -1404,7 +1404,7 @@
      "last_week": 9.1,
      "owned_pct": 98.8,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Tyler Warren has emerged with a consistent role as a short outlet for Colts QB Daniel Jones. Warren has caught 23 of 27 targets for 130 yards and two TDs, averaging almost six catches per game but just 5.7 yards per catch. His floor is high enough to be trusted as a weekly fantasy starter at TE, as Warren leads the Colts in catches and is one target shy of Josh Downs' team-leading total. Week 5 at Pittsburgh is no exception, even though the Steelers are tied for the fourth-fewest catches allowed to TEs with 13. Two of those 13 receptions have resulted in touchdowns.",
      "slot": "TE"
     },
     {
@@ -1417,7 +1417,7 @@
      "last_week": 18.1,
      "owned_pct": 93.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Dak Prescott crossed the 300-yard passing mark last game for the Cowboys for the first time in 2026. Prescott actually threw for 335 yards in the thrilling comeback win over the Texans. More than half of the yards came via CeeDee Lamb, as the duo combined for a staggering 17 of Dak's 32 completions. Dak has eight passing scores and just one interception through four games. In Week 5, Dallas will face a Tampa Bay defense that has been fairly stingy against the pass in terms of yardage. The Bucs are allowing just 204.3 passing yards per tilt, which is ninth in the NFL. However, Tampa Bay has also given up seven throwing scores, which is tied for 23rd in the league.",
      "slot": "QB"
     },
     {
@@ -1430,7 +1430,7 @@
      "last_week": 12.6,
      "owned_pct": 91.5,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Mike Evans seems likely to continue playing through an injury to his ribs for San Francisco's Week 5 matchup against the Seahawks. The veteran wideout toughed out the injury in Week 4 and posted a 5-76-0 receiving line against a tough Broncos secondary. That receiving yardage was a season-high mark for Evans, as were his eight targets. Seattle could pose a significant challenge to the 49ers' receiving corps, however, as the Seahawks have yielded just 12.8 fantasy points per game to wideouts this season -- third-fewest in the NFL.",
      "slot": "BN"
     },
     {
@@ -1443,7 +1443,7 @@
      "last_week": 16.5,
      "owned_pct": 86.3,
      "owned_change": -0.01,
-     "outlook": "",
+     "outlook": "Michael Wilson has settled in atop Arizona's WR depth chart heading into a Week 5 tilt against the Lions. Wilson caught seven passes on 13 targets for 95 yards against the Giants in Week 4, leading or co-leading the Cardinals in all three categories. He's drawn a whopping 30 targets over his past two contests, making it clear that QB Jacoby Brissett sees him as the top option among the team's wideouts. Wilson could be in store for a big game against a Detroit defense that has yielded 28.3 fantasy points per game to wide receivers, third-most in the league.",
      "slot": "BN"
     },
     {
@@ -1455,8 +1455,8 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 88.6,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_change": -0.18,
+     "outlook": "Caleb Williams is set to miss another game as the Bears travel to Green Bay in Week 5. Williams went down with what looked like a freak injury against the Vikings in Week 2, but he now sits week-to-week with a hamstring ailment. Tyson Bagent is set to get the start again versus a Packers defense that gave up 148 passing yards, one touchdown and two interceptions to Buccaneers rookie Jalon Daniels in Week 4.",
      "slot": "BN"
     },
     {
@@ -1468,8 +1468,8 @@
      "proj": 6.8,
      "last_week": 9.1,
      "owned_pct": 59.9,
-     "owned_change": -0.19,
-     "outlook": "",
+     "owned_change": -0.22,
+     "outlook": "Chris Godwin is expected to remain one of the Buccaneers' top weapons in the Week 5 matchup against the Cowboys. Godwin was targeted a season-high seven times in the Week 4 loss to the Packers, catching six of them for just 31 yards. The veteran wideout may actually benefit from Jalon Daniels acting as Tampa Bay's starting quarterback while Baker Mayfield (thumb) is sidelined, as Godwin could act as the rookie's safety blanket. Additionally, Godwin is in for a good Week 5 matchup against a Dallas defense that's allowed five receiving touchdowns to WRs through four contests this year.",
      "slot": "BN"
     },
     {
@@ -1481,8 +1481,8 @@
      "proj": 11.3,
      "last_week": 9.1,
      "owned_pct": 83.5,
-     "owned_change": -0.21,
-     "outlook": "",
+     "owned_change": -0.23,
+     "outlook": "Jordan Addison will aim to do more as the Vikings travel to New Orleans in Week 5. Addison logged just four catches for 52 yards in Week 4 against the Dolphins, which was a bit of a disappointment given that Justin Jefferson (ankle) was inactive. Quarterback Kyler Murray also seemed to have built a connection with T.J. Hockenson against Miami, making it less likely that Addison will produce when Jefferson inevitably returns. The Saints have ranked middle-of-the-pack against fantasy WRs this campaign.",
      "slot": "BN"
     },
     {
@@ -1494,8 +1494,8 @@
      "proj": 9.5,
      "last_week": 13.7,
      "owned_pct": 78.9,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_change": -0.09,
+     "outlook": "Mark Andrews and the Ravens are on the road for the first time since the season opener to face the Falcons in Week 5. He corralled five of six targets for 27 yards and his first touchdown of the season in Baltimore's Week 4 win. Andrews has yet to top 50 yards receiving through four outings to date, and that trend could continue if Lamar Jackson (ankle) is unable to play on Sunday Night Football. The veteran tight end will aim to find paydirt for the second straight week against Atlanta's 21st-ranked defense in fantasy points allowed (15.9) per game to the position.",
      "slot": "BN"
     },
     {
@@ -1506,9 +1506,9 @@
      "injury": "ACTIVE",
      "proj": 9.0,
      "last_week": 16.0,
-     "owned_pct": 86.8,
+     "owned_pct": 86.7,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Ka'imi Fairbairn connected on all three of his Week 4 field-goal attempts, improving to 7-for-8 this season. Houston's excellent kicker could be busy in Week 5 against the Titans, whose nine made field goals allowed are tied for fifth-most in the NFL. Fairbairn has established himself as one of the busiest and most accurate kickers in the league, which is an excellent combination for fantasy purposes. He remains a set-and-forget fantasy starter.",
      "slot": "K"
     },
     {
@@ -1520,7 +1520,7 @@
      "proj": 5.1,
      "last_week": -1.0,
      "owned_pct": 39.8,
-     "owned_change": -0.22,
+     "owned_change": -0.24,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1548,7 +1548,7 @@
      "last_week": 27.7,
      "owned_pct": 99.9,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Puka Nacua appears to be past his early-season injury woes as the Rams prepare to host Buffalo in Week 5. The star wideout missed Weeks 2 and 3 due to a hip/groin issue, but he returned this past Sunday against the Eagles and put up a 9-125-0 receiving line on 12 targets while adding a two-yard rushing touchdown. Nacua logged a 90% percent offensive snap share in the contest, so it doesn't appear that he is going to be inhibited by the injury, at least in terms of playing time, moving forward. The Bills present a good matchup on paper, as they've given up the fourth-most fantasy points (27.8) to wideouts so far this season.",
      "slot": "WR"
     },
     {
@@ -1561,7 +1561,7 @@
      "last_week": 18.6,
      "owned_pct": 99.7,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "Ashton Jeanty continues to bolster his lackluster rushing numbers with big production through the air. In the Raiders' Week 4 loss to Kansas City, the second-year RB managed just 58 rushing yards on 15 carries, but he added six catches for 68 yards on a season-high eight targets. Jeanty's 3.4 yards per carry and zero TDs on the ground through four weeks are a concern, but his 19-165-2 line on 24 targets softens the blow. He'll take on a Patriots defense in Week 5 that ranks 15th in fantasy points per game allowed to RBs.",
      "slot": "RB"
     },
     {
@@ -1574,7 +1574,7 @@
      "last_week": 10.1,
      "owned_pct": 99.8,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Trey McBride enters Arizona's Week 5 matchup against Detroit coming off his quietest performance of the season. While the star tight end logged a healthy 12 targets and seven catches against the Giants in Week 4, he finished with just 31 receiving yards. It's a testament to McBride's excellence that such a stat line represents a downturn by his standards, and he'll have a good chance of bouncing back against the Lions. Detroit has allowed a whopping 19.2 fantasy points per game to tight ends so far this season, by far the most in the league.",
      "slot": "TE"
     },
     {
@@ -1599,8 +1599,8 @@
      "proj": 14.2,
      "last_week": 26.7,
      "owned_pct": 96.8,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_change": -0.04,
+     "outlook": "Tee Higgins and the Bengals are on the road to take on Miami's third-ranked defense against wide receivers in Week 5. He erupted for 11 catches and 157 yards on 16 targets during Cincinnati's Week 4 loss. With Ja'Marr Chase (concussion) exiting in the second quarter, Joe Burrow relied heavily on Higgins, as he paced the team in yardage and targets while tying for the lead in receptions. Unfortunately for the Bengals, Higgins sustained an adductor injury in the final minutes of the game, leaving his status questionable for Week 5.",
      "slot": "FLEX"
     },
     {
@@ -1612,8 +1612,8 @@
      "proj": 18.5,
      "last_week": 26.2,
      "owned_pct": 87.3,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_change": -0.04,
+     "outlook": "Drake Maye will look to carry momentum in Week 5 when the Patriots face the Raiders. After a dismal 1:6 TD:INT ratio through three games, Maye provided a season-high 269 yards and three touchdowns while adding 54 yards on eight rushes in Week 4 against Buffalo. Las Vegas is surrendering a 7:4 TD:INT ratio through four games, with six of those touchdowns coming in the last two weeks, suggesting Maye can provide the 2025 version expected by his fantasy managers in Week 5.",
      "slot": "QB"
     },
     {
@@ -1625,8 +1625,8 @@
      "proj": 10.5,
      "last_week": 4.2,
      "owned_pct": 89.2,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_change": -0.18,
+     "outlook": "TreVeyon Henderson will seek chunk plays in the Patriots' Week 5 matchup against a vulnerable Raiders run defense. Henderson had one more rush than Rhamondre Stevenson in this shared backfield in Week 4 but converted his 14 carries into only 42 yards. Henderson has not been a factor in the passing game, catching just one ball on the season. Las Vegas is allowing 4.97 yards per carry and has been picked apart by Kenneth Walker and Omarion Hampton, so Henderson appears set up for an ideal opportunity at a few long runs even if the volume won't be high.",
      "slot": "BN"
     },
     {
@@ -1638,8 +1638,8 @@
      "proj": 13.0,
      "last_week": 13.0,
      "owned_pct": 85.9,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_change": -0.09,
+     "outlook": "Tony Pollard is averaging 61 scrimmage yards per game and scored his first touchdown of the season in Week 4 against the Ravens, though that wasn't enough to keep the Titans from dropping to 0-4. In Week 5, Tennessee hosts the AFC South rival Texans, who are also 0-4. The Titans should manage to stay within striking distance and give Pollard his full workload on the ground, though Houston has held RBs to just 91 scrimmage yards per game. Pollard is a high-floor, low-ceiling flex play as usual for Week 5 given his role as the lead back in a struggling Titans offense that's averaging the fewest yards and second-fewest points per game.",
      "slot": "BN"
     },
     {
@@ -1651,8 +1651,8 @@
      "proj": 10.8,
      "last_week": 10.0,
      "owned_pct": 99.4,
-     "owned_change": -0.05,
-     "outlook": "",
+     "owned_change": -0.06,
+     "outlook": "Brandon Aubrey missed two field goals last game for Dallas. Such a sensational headline needs explanation, though, as both of Aubrey's misses came from over 60 yards away. Aubrey had a 62-yarder blocked, and missed a 65-yarder wide left. Otherwise, Aubrey connected on two field goals from 50 yards and in, while also making all four of his extra points. In Week 5, Dallas will face a Tampa Bay squad allowing 24.0 points per clash, which is tied for 19th in the NFL.",
      "slot": "K"
     },
     {
@@ -1664,8 +1664,8 @@
      "proj": 0.1,
      "last_week": 0.0,
      "owned_pct": 37.6,
-     "owned_change": -0.24,
-     "outlook": "",
+     "owned_change": -0.28,
+     "outlook": "Travis Hunter hasn't touched the ball on offense for the Jaguars since Week 1. He played every defensive snap in Week 4 and is focusing primarily on playing cornerback rather than wide receiver. Hunter is a fantasy non-factor except in formats that reward his defensive contributions. Jacksonville will face the Eagles in Week 5 in London, where Hunter showcased his upside on offense last season with eight catches for 101 yards and a TD against the Rams. Don't expect a repeat performance anytime soon, if ever.",
      "slot": "BN"
     },
     {
@@ -1678,7 +1678,7 @@
      "last_week": 16.8,
      "owned_pct": 92.7,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Aaron Jones will remain a high-usage option as the Vikings travel to New Orleans in Week 5. Jones saw a big workload in Week 4 once again with Jordan Mason (thumb) on IR, rushing the ball 20 times for 94 yards and recording four catches for 34 yards. The veteran running back's high share in the backfield shouldn't change with Mason out another week, even with DeeJay Dallas and Demond Claiborne fighting for touches. Jones will face a Saints defense that's ranked middle-of-the-pack versus fantasy RBs this campaign.",
      "slot": "RB"
     },
     {
@@ -1690,8 +1690,8 @@
      "proj": 9.5,
      "last_week": 13.2,
      "owned_pct": 61.8,
-     "owned_change": -0.09,
-     "outlook": "",
+     "owned_change": -0.1,
+     "outlook": "Khalil Shakir maintains a steady role out of the slot for Buffalo as they prepare to face the Rams in Week 5. Shakir is coming off a season-high 82 yards in Week 4, his third game with at least six targets. His workload is independent of DJ Moore's shoulder status. Shakir will either garner more targets if Moore is out, or benefit from the attention Moore usually draws. However, the Rams defense hasn't allowed an opposing receiver to top 50 yards, suggesting Shakir is a risky floor and limited ceiling option.",
      "slot": "BN"
     },
     {
@@ -1704,7 +1704,7 @@
      "last_week": 13.6,
      "owned_pct": 88.9,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Isaiah Likely led the Giants in targets last game. Likely saw a staggering 12 balls thrown his way en route to seven catches for 66 yards in the win over Arizona. However, fellow tight end Theo Johnson stole a touchdown from him. Still, Likely's renewed usage with quarterback Jameis Winston under center was a pleasant surprise, as Likely only had five targets in the prior game versus Tennessee. A tasty matchup lurks in Week 5 versus Washington. The Commanders defense has struggled to defend the pass in 2026. Washington has allowed 11 passing scores, which is tied for last in the NFL. In addition, the Commanders are yielding 242.5 passing yards per tilt, which is 25th in the league.",
      "slot": "BN"
     },
     {
@@ -1716,7 +1716,7 @@
      "proj": 0.0,
      "last_week": 11.0,
      "owned_pct": 71.4,
-     "owned_change": -0.14,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "BN"
     },
@@ -1728,8 +1728,8 @@
      "injury": "ACTIVE",
      "proj": 3.8,
      "last_week": 2.0,
-     "owned_pct": 63.3,
-     "owned_change": -0.24,
+     "owned_pct": 63.2,
+     "owned_change": -0.27,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1757,7 +1757,7 @@
      "last_week": 22.7,
      "owned_pct": 99.9,
      "owned_change": -0.04,
-     "outlook": "",
+     "outlook": "Jonathan Taylor has three multi-TD performances through four games and is averaging 88 rushing yards per game heading into the Colts' Week 5 trip to Pittsburgh. The Steelers rank among the 10 most generous defenses against RBs, allowing 138 scrimmage yards and one TD per game to the position. Taylor remains locked in as a fantasy RB1 while working as the focal point of the Colts' offense, which lacked talent at wide receiver even before injuries further depleted that position. His 26 scrimmage touchdowns since the start of last season are the most in the NFL over that span.",
      "slot": "RB"
     },
     {
@@ -1770,7 +1770,7 @@
      "last_week": 15.9,
      "owned_pct": 99.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Derrick Henry and the Ravens are on the road for a Week 5 clash against the Falcons. He tallied 23 carries for 73 yards and one touchdown while catching both of his targets for six yards during Baltimore's Week 4 victory. Henry notched his seventh rushing TD of the season and now has at least one score in all four outings. With Lamar Jackson's (ankle) status up in the air, Henry should continue to be the focal point of the Ravens' offense versus Atlanta's ninth-ranked defense in fantasy points allowed (17.9) per game to RBs.",
      "slot": "RB"
     },
     {
@@ -1783,7 +1783,7 @@
      "last_week": 20.6,
      "owned_pct": 99.8,
      "owned_change": -0.03,
-     "outlook": "",
+     "outlook": "Brock Bowers shook off an illness to once again be the Raiders' top receiving option in a Week 4 loss to Kansas City. He caught six of 11 targets for 86 yards and a touchdown, finding the end zone for a second straight game after missing the first two weeks of the year while completing his recovery from knee surgery. The star tight end is the most dangerous weapon in Kirk Cousins' arsenal, and he's likely to continue getting double-digit targets on a weekly basis while posting elite numbers. Bowers faces his toughest test of the season so far in Week 5 against a Patriots defense that has allowed the fewest fantasy points per game to TEs in 2026.",
      "slot": "TE"
     },
     {
@@ -1795,7 +1795,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 89.7,
-     "owned_change": -0.56,
+     "owned_change": -0.41,
      "outlook": "",
      "slot": "BN"
     },
@@ -1809,7 +1809,7 @@
      "last_week": 7.2,
      "owned_pct": 99.0,
      "owned_change": -0.1,
-     "outlook": "",
+     "outlook": "Davante Adams is coming off a quiet performance as the Rams prepare to host the Bills in Week 5. Against Philadelphia in Week 4, Adams was held to four catches for 32 yards. That was a substantial downturn after Adams averaged 7.5 catches and 166 yards over the previous two contests, though he still got a healthy nine targets against the Eagles. It has to be mentioned that star wideout Puka Nacua returned to action in Week 4 and posted a 9-125-0 line, while Adams' big performances the previous two weeks took place in games Nacua missed due to injury. Both WRs could find success against the Bills, who have allowed the fourth-most receiving yards to wideouts this year.",
      "slot": "WR"
     },
     {
@@ -1821,8 +1821,8 @@
      "proj": 13.2,
      "last_week": 0.0,
      "owned_pct": 92.7,
-     "owned_change": -0.21,
-     "outlook": "",
+     "owned_change": -0.22,
+     "outlook": "Terry McLaurin missed last game for the Commanders due to a hamstring injury. McLaurin allegedly pushed hard to play, though, meaning he could very well return to the field in Week 5 versus the Giants. He also could have his starting quarterback Jayden Daniels back under center. New York has been stingy against the pass in 2026 thus far, allowing just 205.3 passing yards per tilt, which is 10th in the NFL. Likewise, the G-Men are tied for the league-lead with six picks.",
      "slot": "WR"
     },
     {
@@ -1834,8 +1834,8 @@
      "proj": 16.1,
      "last_week": 13.5,
      "owned_pct": 98.5,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_change": -0.19,
+     "outlook": "Jalen Hurts tossed two touchdowns last game for the Eagles. Unfortunately, he threw for just 93 yards in the 24-20 loss to the Rams. Hurts was missing DeVonta Smith and Dallas Goedert in the passing game, while Saquon Barkley left early due to an injury of his own, so Hurts cannot shoulder all the blame for this meager performance. Still, he has thrown for less than 250 yards combined in the last two contests. An intriguing matchup lurks in Week 5 versus the Jags, though. Jacksonville has surrendered 280.3 passing yards per game this season, which is second-to-last in the league. In an odd twist, though, the Jags have yielded just three passing scores, which is tied for first in the NFL.",
      "slot": "BN"
     },
     {
@@ -1846,9 +1846,9 @@
      "injury": "ACTIVE",
      "proj": 8.4,
      "last_week": 3.5,
-     "owned_pct": 77.8,
-     "owned_change": -0.44,
-     "outlook": "",
+     "owned_pct": 77.7,
+     "owned_change": -0.5,
+     "outlook": "Michael Pittman and the Steelers host the receiver's former team when the Colts come to town in Week 5. He hauled in two of four targets for 15 yards during Pittsburgh's Week 4 loss, giving him a 7-89-0 receiving line on 12 targets across three contests. It's been a slow start for Pittman in his debut season for the Steelers, but Week 5 offers a shot at some payback against the team that drafted him in 2020. Indianapolis' defense ranks 20th in fantasy points allowed (35.0) to WRs, a matchup that could help Pittman's chemistry with Aaron Rodgers.",
      "slot": "BN"
     },
     {
@@ -1860,8 +1860,8 @@
      "proj": 9.0,
      "last_week": 11.0,
      "owned_pct": 64.7,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_change": -0.11,
+     "outlook": "Wan'Dale Robinson takes a two-game touchdown streak into Tennessee's Week 5 home game against the Texans, but he's averaging just 31 receiving yards per game as a Titan after coming over from the Giants in free agency. Houston has been surprisingly poor at defending wide receivers, allowing the second-most catches (60), receiving yards (830), and TDs (six) to the position. Robinson's inconsistent usage in a low-octane passing game makes him hard to trust, but he's a viable flex option for Week 5 given the Texans' struggles against his position.",
      "slot": "BN"
     },
     {
@@ -1873,7 +1873,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 62.9,
-     "owned_change": -0.31,
+     "owned_change": -0.35,
      "outlook": "",
      "slot": "IR"
     },
@@ -1886,7 +1886,7 @@
      "proj": 0.0,
      "last_week": 17.0,
      "owned_pct": 95.7,
-     "owned_change": -0.1,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "QB"
     },
@@ -1899,8 +1899,8 @@
      "proj": 7.0,
      "last_week": 5.0,
      "owned_pct": 52.1,
-     "owned_change": -0.29,
-     "outlook": "",
+     "owned_change": -0.33,
+     "outlook": "Quentin Johnston saw only two targets in the Chargers' Week 4 loss to the Seahawks, but he was able to turn one of them into a 44-yard gain for his only catch. The season-low volume was especially disappointing given that Ladd McConkey left the game early with a foot injury. The passing game as a whole is struggling, and Johnston could end up getting passed on the depth chart by Tre' Harris if he doesn't begin to make a more consistent impact. Johnston will try to earn more look from Justin Herbert in Week 5 against a Broncos secondary that ranks eighth in fantasy points per game allowed to WRs, but which could be missing its top two cornerbacks including Patrick Surtain.",
      "slot": "BN"
     },
     {
@@ -1912,7 +1912,7 @@
      "proj": 6.8,
      "last_week": 5.0,
      "owned_pct": 94.6,
-     "owned_change": -0.13,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1924,8 +1924,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 6.0,
-     "owned_pct": 79.7,
-     "owned_change": -0.55,
+     "owned_pct": 79.6,
+     "owned_change": -0.63,
      "outlook": "",
      "slot": "K"
     },
@@ -1939,7 +1939,7 @@
      "last_week": 16.2,
      "owned_pct": 12.0,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Michael Mayer was busy in the Raiders' Week 4 loss to Kansas City, turning a season-high 10 targets into eight catches for 82 yards. The additional volume came after wide receiver Jalen Nailor left the game with a concussion, forcing Kirk Cousins to lean even more heavily on his tight end duo of Mayer and Brock Bowers to move the chains. Even with a healthy Bowers back in action the last two weeks, Mayer has delivered an 11-114-1 line on 13 targets. However, he'll struggle to maintain that pace in Week 5 against a Patriots defense that has allowed the fewest fantasy points per game to TEs in 2026.",
      "slot": "BN"
     },
     {
@@ -1951,8 +1951,8 @@
      "proj": 10.0,
      "last_week": 0.0,
      "owned_pct": 43.5,
-     "owned_change": -0.39,
-     "outlook": "",
+     "owned_change": -0.42,
+     "outlook": "Keenan Allen missed the Colts' Week 4 win over the Commanders due to a groin injury. If the 34-year-old WR is cleared to return in Week 5, he could play a prominent role opposite Josh Downs in a Colts WR room that remains without Alec Pierce (heel), who is on IR. Concerns about Allen's injury and performance limit his viability to deeper formats, even against a Steelers secondary that's giving up 149 receiving yards per game to wide receivers. Allen snapped a 12-game touchdown drought in the Colts' Week 3 win over Houston.",
      "slot": "FLEX"
     }
    ]
@@ -1979,7 +1979,7 @@
      "last_week": 16.0,
      "owned_pct": 99.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Christian McCaffrey will look to reach the end zone again for San Francisco in a Week 5 NFC West clash against the Seahawks. McCaffrey has scored at least one touchdown in three straight games and has four rushing TDs on the season. The scoring has helped keep his fantasy value high despite the fact that he's averaging a modest 16.5 touches per game so far after leading the NFL with 24.3 touches per game last season. Seattle has yielded just 3.35 yards per carry and one total rushing touchdown to running backs this season, but they've been more vulnerable through the air, allowing two receiving scores and an 88.5% catch rate to the position.",
      "slot": "RB"
     },
     {
@@ -1992,7 +1992,7 @@
      "last_week": 13.3,
      "owned_pct": 98.4,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Omarion Hampton scored a touchdown for the third time in four games during the Chargers' Week 4 loss to the Seahawks, but his role in the backfield continues to slip. The second-year back's nine carries and 11 touches were season lows for a spark for his unit. Hampton has still been the most productive of the trio this season with 267 scrimmage yards and three rushing TDs, but his 4.0 yards per carry trails Mitchell's, while Keaton Mitchell handled 15 touches and Kimani Vidal got seven, indicating that offensive coordinator Mike McDaniel is moving toward a full-blown committee as he searches 4.6 mark. Hampton will try to re-establish himself as the clear No. 1 on the depth chart in Week 5 against a Broncos defense that ranks 26th in fantasy points per game allowed to RBs.",
      "slot": "RB"
     },
     {
@@ -2005,7 +2005,7 @@
      "last_week": 19.6,
      "owned_pct": 99.7,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "Chris Olave is expected to lead New Orleans' receiving corps again in the Week 5 matchup against the Vikings. Olave has been spectacular through the Saints' first four games this season, catching 35 of 48 targets for 491 yards (second in the NFL) and a touchdown. He's expected to continue benefitting from head coach Kellen Moore's pass-heavy offense, which has led to ample opportunities for Olave this season. Despite this, Olave could struggle in Week 5 against a tough Vikings secondary that's given up just 30.1 fantasy points per game to opposing wideouts this season.",
      "slot": "WR"
     },
     {
@@ -2018,7 +2018,7 @@
      "last_week": 36.7,
      "owned_pct": 98.5,
      "owned_change": 0.0,
-     "outlook": "",
+     "outlook": "Kyren Williams enters the Rams' Week 5 matchup against the Bills with plenty of momentum. Williams totaled 147 yards and two touchdowns in a comeback win over Philadelphia in Week 4, pushing him up to four total TDs on the season. The star running back has logged at least 80 rushing yards in three straight games, and he's averaged 68.5 receiving yards across his past two contests. Buffalo has yielded 22.2 fantasy points per game to running backs so far, sixth-most in the NFL.",
      "slot": "FLEX"
     },
     {
@@ -2031,7 +2031,7 @@
      "last_week": 14.5,
      "owned_pct": 94.6,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Jaylen Waddle scored his first touchdown with the Broncos in a Week 4 loss to the 49ers, but it was overall another disappointing performance from the former Dolphin. Waddle has recorded double-digit targets only once in four games to begin the season, leading to a modest 16-185-1 line on 26 looks from Bo Nix. That's still better numbers than Courtland Sutton, and the issue seems to be the overall struggles of the offense under first-time play caller Davis Webb. How long Sean Payton lets that situation last before reclaiming those duties is an open question for Denver. Waddle will try to hit paydirt again in Week 5 against a Chargers secondary that ranks 18th in fantasy points per game allowed to WRs.",
      "slot": "WR"
     },
     {
@@ -2043,8 +2043,8 @@
      "proj": 20.5,
      "last_week": 0.0,
      "owned_pct": 82.9,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_change": -0.17,
+     "outlook": "Jayden Daniels could return in Week 5 for the Commanders from a dislocated elbow. Backup quarterback Marcus Mariota left Washington's last game with a knee injury, which could hasten the need for Daniels to return versus the Giants. if neither quarterback can suit up, seventh-round rookie Athan Kaliakmanis would get the nod. The defense for the Giants looks totally revamped in 2026, allowing 205.3 yards per tilt through the air, which is 10th in the league. The Giants are tied for the league-lead with six interceptions.",
      "slot": "BN"
     },
     {
@@ -2057,7 +2057,7 @@
      "last_week": 17.0,
      "owned_pct": 97.1,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "George Kittle could again be a key component of San Francisco's offense in Week 5 against Seattle. Kittle has scored a touchdown in three straight games, and he got into the end zone on a game-sealing 56-yard reception in Week 4 versus the Broncos. The veteran tight end enters the clash against Seattle with 244 receiving yards on the season, third-most among NFL tight ends. With that said, the Seahawks' defense has given up the fourth-fewest receiving yards to tight ends, so Kittle has his work cut out for him in Week 5.",
      "slot": "TE"
     },
     {
@@ -2070,7 +2070,7 @@
      "last_week": 18.4,
      "owned_pct": 89.5,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Rhamondre Stevenson continues to share work in the Patriots backfield ahead of an inviting Week 5 matchup against the Raiders. He amassed 13 carries in Week 4, one fewer than TreVeyon Henderson's 14, but Stevenson found the end zone while catching three passes for the third time in four weeks. Las Vegas is allowing 4.97 yards per carry and was just solved by Kansas City's Kenneth Walker for 177 yards, so while split work will limit Stevenson's ceiling, his continued involvement as a pass-catcher paired with double-digit carries can result in fantasy-worthy production in Week 5.",
      "slot": "BN"
     },
     {
@@ -2081,8 +2081,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 48.7,
-     "owned_change": -0.41,
+     "owned_pct": 48.6,
+     "owned_change": -0.47,
      "outlook": "",
      "slot": "BN"
     },
@@ -2095,8 +2095,8 @@
      "proj": 10.8,
      "last_week": 8.5,
      "owned_pct": 86.4,
-     "owned_change": -0.13,
-     "outlook": "",
+     "owned_change": -0.14,
+     "outlook": "Stefon Diggs led the Commanders in targets and receptions last game. With Terry McLaurin sidelined due to a hamstring issue, Diggs managed five catches on nine targets. However, he could only muster 35 yards in the dismal 30-13 loss to the Colts. Starting quarterback Jayden Daniels could return to the fold in Week 5 versus the Giants, which would certainly be a boost for Diggs, regardless of whether McLaurin also suits up. New York has been fairly stingy against the pass in 2026, though, allowing just 205.3 passing yards per tilt, which is 10th in the NFL.",
      "slot": "BN"
     },
     {
@@ -2108,8 +2108,8 @@
      "proj": 8.0,
      "last_week": 0.0,
      "owned_pct": 64.6,
-     "owned_change": -0.28,
-     "outlook": "",
+     "owned_change": -0.31,
+     "outlook": "Rachaad White missed Washington's last game due to a shoulder issue, leaving his status in question for Week 5 versus the Giants. An argument can be made that White has been more productive than fellow rusher Jacory Croskey-Merritt in 2026, though that point may be moot as long as White is sidelined. Austin Ekeler will be the backup to Bill if White remains shelved. In Week 5, Washington will face a Giants run defense that has vastly improved from a season ago. New York is allowing 109 rushing yards per tilt, which is tied for 15th in the league. In addition, the G-Men have surrendered only two rushing touchdowns through four contests.",
      "slot": "BN"
     },
     {
@@ -2121,8 +2121,8 @@
      "proj": 12.0,
      "last_week": 4.6,
      "owned_pct": 83.6,
-     "owned_change": -0.22,
-     "outlook": "",
+     "owned_change": -0.23,
+     "outlook": "Josh Downs disappointed with 16 receiving yards against Washington's vulnerable secondary in Week 4 after notching at least 72 yards in each of the Colts' previous two games. Downs remains the de facto No. 1 WR for the Colts, as Alec Pierce (knee) is still on IR heading into a Week 5 road game at Pittsburgh. The Steelers are allowing 149 receiving yards per game to wideouts and traded starting CB Joey Porter to Dallas prior to Week 4. Downs is well-positioned to shake off his Week 4 dud and deliver as a solid Week 5 flex play.",
      "slot": "BN"
     },
     {
@@ -2134,7 +2134,7 @@
      "proj": 6.2,
      "last_week": 1.0,
      "owned_pct": 76.6,
-     "owned_change": -0.07,
+     "owned_change": -0.08,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2146,9 +2146,9 @@
      "injury": "ACTIVE",
      "proj": 17.9,
      "last_week": 11.5,
-     "owned_pct": 64.7,
-     "owned_change": -0.38,
-     "outlook": "",
+     "owned_pct": 64.6,
+     "owned_change": -0.43,
+     "outlook": "Kyler Murray will look to do more as the Vikings travel to New Orleans in Week 5. In his second full start of the year, Murray completed 27 of 37 passes for 247 yards, but he was unable to find the end zone. The veteran quarterback also now holds a 1:2 TD:INT through his three appearances this season, so he'll need to do more for Minnesota to lock him down as a long-term option. The Saints have ranked middle-of-the-pack against fantasy quarterbacks this season.",
      "slot": "QB"
     },
     {
@@ -2161,7 +2161,7 @@
      "last_week": 18.0,
      "owned_pct": 60.3,
      "owned_change": -0.03,
-     "outlook": "",
+     "outlook": "Jake Bates will aim to stay perfect as the Lions play the Cardinals in Week 5. Bates logged his best game of the season in Week 4 against the Panthers, nailing all four of his field-goal attempts and converting two XPAs. The second-year kicker has now gone a perfect 21-for-21 on boots (seven field goals, 14 extra points) this season. He'll face an Arizona defense that's ranked top 10 against fantasy kickers.",
      "slot": "K"
     }
    ]
@@ -2177,8 +2177,8 @@
    "proj": 18.2,
    "last_week": null,
    "owned_pct": 89.5,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_change": -0.16,
+   "outlook": "Matthew Stafford will look to clean things up in the turnover department when the Rams host Buffalo in Week 5. Stafford was picked off twice and didn't throw any touchdowns in Week 4 against Philadelphia, but he also threw for 317 yards and led Los Angeles to a comeback victory. Still, Stafford has recorded a mediocre 6:6 TD:INT through four games, with the pickoff total nearly reaching the eight interceptions he tossed across 17 regular-season contests during his MVP campaign last year. The Bills have given up 10 passing touchdowns and have picked off just two passes this year, so Week 5 may be a good opportunity for Stafford to get back on track."
   },
   {
    "id": -16014,
@@ -2189,7 +2189,7 @@
    "proj": 4.4,
    "last_week": null,
    "owned_pct": 84.7,
-   "owned_change": -0.17,
+   "owned_change": -0.19,
    "outlook": ""
   },
   {
@@ -2202,7 +2202,7 @@
    "last_week": null,
    "owned_pct": 82.2,
    "owned_change": -0.03,
-   "outlook": ""
+   "outlook": "Jared Goff will remain a high-volume option as the Lions travel to Arizona in Week 5. No matter the outcome of each game so far, Goff has delivered consistent output, and Week 4 against the Panthers was no different. The veteran quarterback recorded season-high totals in completions, pass attempts and passing yards, completing 32 of 52 passes for 412 yards and one touchdown in what was an eventual loss. He's now thrown for 250 or more yards in his last three games, and he's yet to commit a turnover this year. Goff will face a Cardinals defense that's ranked 28th against fantasy quarterbacks this season."
   },
   {
    "id": 3121023,
@@ -2213,8 +2213,8 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 77.9,
-   "owned_change": -0.19,
-   "outlook": ""
+   "owned_change": -0.21,
+   "outlook": "Dallas Goedert missed last game for the Eagles with a knee issue, and his status is very much up in the air for Week 5 versus the Jags. Philadelphia's passing offense struggled mightily without Goedert and No. 1 wideout DeVonta Smith, and the early departure of Saquon Barkley due to an injury of his own did not help matters. If Goedert misses additional time, Zach Ertz would be the next man up.  An intriguing matchup lurks in Week 5 versus the Jags. Jacksonville has surrendered 280.3 passing yards per game this season, which is second-to-last in the league. In an odd twist, though, the Jags have yielded just three passing scores, which is tied for first in the NFL."
   },
   {
    "id": 4426338,
@@ -2224,9 +2224,9 @@
    "injury": "ACTIVE",
    "proj": 16.2,
    "last_week": null,
-   "owned_pct": 76.3,
-   "owned_change": -0.16,
-   "outlook": ""
+   "owned_pct": 76.2,
+   "owned_change": -0.17,
+   "outlook": "Bo Nix wasn't able to pull off another comeback win for the Broncos in a Week 4 loss to the 49ers. The third-year QB failed to complete 60% of his passes for a second straight game, and through four weeks, he's produced just six touchdowns (five passing, one rushing) while committing four turnovers. Denver's lack of a consistent running game isn't helping the offense find a rhythm, but Nix shoulders plenty of responsibility for the team's 2-2 start to the season. He'll try to bounce back in a Week 5 road game against a Chargers defense that's tied for 22nd in fantasy points per game allowed to quarterbacks."
   },
   {
    "id": 3916433,
@@ -2237,8 +2237,8 @@
    "proj": 10.7,
    "last_week": null,
    "owned_pct": 75.2,
-   "owned_change": -0.13,
-   "outlook": ""
+   "owned_change": -0.14,
+   "outlook": "Jakobi Meyers has been efficient with his opportunities for the Jaguars, catching 13 of 15 targets for 165 yards and two touchdowns heading into a Week 5 trip to London to face the Eagles. His usage has fluctuated in a Jacksonville passing game with many mouths to feed, but Meyers is a viable flex option for Week 5, especially in deeper leagues. The Eagles are giving up 164 yards and one receiving touchdown per game to WRs, and they could be without top CB Quinyon Mitchell (knee) in Week 5, which would make things easier for some combination of Meyers, Parker Washington, Brian Thomas, and Josh Cameron."
   },
   {
    "id": 4038815,
@@ -2248,9 +2248,9 @@
    "injury": "QUESTIONABLE",
    "proj": 7.9,
    "last_week": null,
-   "owned_pct": 71.3,
-   "owned_change": -0.38,
-   "outlook": ""
+   "owned_pct": 71.2,
+   "owned_change": -0.43,
+   "outlook": "Rico Dowdle and the Steelers host the Colts in a battle between 2-2 teams in Week 5. He missed his second consecutive game with a toe injury sustained in Week 2. Jaylen Warren accounted for 20 of 22 touches by running backs during Pittsburgh's Week 4 loss, a pattern that would surely continue if Dowdle remains sidelined against Indianapolis. Monitor his practice participation leading up to a favorable matchup versus the Colts' 23rd-ranked defense in fantasy points allowed (24.2) to RBs."
   },
   {
    "id": 4569559,
@@ -2261,8 +2261,8 @@
    "proj": 10.2,
    "last_week": null,
    "owned_pct": 64.7,
-   "owned_change": -0.79,
-   "outlook": ""
+   "owned_change": -0.23,
+   "outlook": "Devaughn Vele is expected to remain very involved in the Saints' offensive game plan in the Week 5 matchup against the Vikings. Vele has been targeted 30 times (second-most on the team) through New Orleans' first four contests this season, logging 226 receiving yards and a pair of touchdowns. With Tyler Shough averaging a whopping 45 pass attempts per game this season, Vele will likely remain a solid fantasy option as the year progresses, at least until the return of Jordyn Tyson (hamstring, IR). However, Vele is in for a difficult Week 5 matchup against a Minnesota defense that's allowed just 7.7 yards per target to opposing WRs this season."
   },
   {
    "id": 3054850,
@@ -2272,9 +2272,9 @@
    "injury": "ACTIVE",
    "proj": 11.2,
    "last_week": null,
-   "owned_pct": 64.7,
-   "owned_change": -0.59,
-   "outlook": ""
+   "owned_pct": 64.6,
+   "owned_change": -0.13,
+   "outlook": "Alvin Kamara is expected to remain the Saints' top running back while Travis Etienne (hamstring) is sidelined during the Week 5 matchup against the Vikings. In his first game without Etienne this season, Kamara totaled 58 yards on 12 touches, but his workload was largely impacted by the game script. He led New Orleans' backfield in targets (seven), which is a positive sign for his fantasy outlook going forward. Even so, Kamara is in for a tough Week 5 matchup against a Minnesota defense that's allowed just 14.7 fantasy points per game to running backs this season, the fewest in the NFL."
   },
   {
    "id": 4697745,
@@ -2285,8 +2285,8 @@
    "proj": 7.9,
    "last_week": null,
    "owned_pct": 63.0,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_change": -0.16,
+   "outlook": "Tyler Loop and the Ravens pay a visit to the surging Falcons for a Week 5 interconference clash on Sunday Night Football. The second-year kicker went 1-for-2 on field-goal attempts and connected on all three PATs during Baltimore's 24-18 win in Week 4. Loop missed his second field goal of the season but set a new career high with his make from 64 yards out, and he's now 6-for-8 on field goals and a perfect 14-for-14 on extra points. Atlanta has scored the most points in the league over its last two games (80), meaning Loop and the Ravens will have to keep up in a potential high-scoring game."
   },
   {
    "id": -16012,
@@ -2296,8 +2296,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 62.6,
-   "owned_change": -0.95,
+   "owned_pct": 62.5,
+   "owned_change": -1.06,
    "outlook": ""
   },
   {
@@ -2308,9 +2308,9 @@
    "injury": "ACTIVE",
    "proj": 8.1,
    "last_week": null,
-   "owned_pct": 57.1,
-   "owned_change": -0.58,
-   "outlook": ""
+   "owned_pct": 57.0,
+   "owned_change": -0.64,
+   "outlook": "Dalton Schultz has recorded just 39 yards in two games since his 140-yard outburst for the Texans in Week 2. He's back to working as a supporting piece in Houston's passing game now that Nico Collins has recovered from a hamstring injury. The 30-year-old TE's inconsistent workloads keep him from being a reliable fantasy starter, and Schultz will be tough to trust in Week 5 against a Titans defense that's holding his position to 27 receiving yards per game, fourth-fewest in the NFL."
   },
   {
    "id": 4428850,
@@ -2320,9 +2320,9 @@
    "injury": "ACTIVE",
    "proj": 10.4,
    "last_week": null,
-   "owned_pct": 54.9,
-   "owned_change": -0.45,
-   "outlook": ""
+   "owned_pct": 54.8,
+   "owned_change": -0.5,
+   "outlook": "Dontayvion Wicks was expected to operate as the No. 1 wideout for the Eagles last game due to the injury to DeVonta Smith. Unfortunately, Philadelphia's offense was stymied, and Wicks managed three catches for just 18 yards in the 24-20 loss to the Rams. Smith appears unlikely to play in Week 5 versus the Jags, so Wicks should continue to play a prominent role in the offense. However, it was Darius Cooper who scored twice last game, and rookie Makai Lemon outpaced Wicks in both targets as well as receiving yards. An intriguing matchup lurks in Week 5 against the Jags. Jacksonville has surrendered 280.3 passing yards per game this season, which is second-to-last in the league. In an odd twist, though, the Jags have yielded just three passing scores, which is tied for first in the NFL."
   },
   {
    "id": 4036133,
@@ -2334,7 +2334,7 @@
    "last_week": null,
    "owned_pct": 54.7,
    "owned_change": 0.01,
-   "outlook": ""
+   "outlook": "T.J. Hockenson will look to build on a huge performance as the Vikings play New Orleans in Week 5. Hockenson finished Week 4 with a bang after starting the season quietly, catching all 13 of his targets for a whopping 119 yards. The veteran tight end could continue to be an outlet for quarterback Kyler Murray, especially with some struggles from the quarterback so far. The Saints have ranked bottom five against fantasy TEs so far this season."
   },
   {
    "id": 3912547,
@@ -2345,8 +2345,8 @@
    "proj": 15.5,
    "last_week": null,
    "owned_pct": 53.0,
-   "owned_change": -0.27,
-   "outlook": ""
+   "owned_change": -0.3,
+   "outlook": "Sam Darnold will look to lead Seattle to victory in a key NFC West clash versus San Francisco in Week 5. Darnold threw for a modest 168 yards and was picked off once against the Chargers in Week 4, but he tossed two touchdowns and guided his team to a win. After playing only five snaps over the first two weeks due to a glute injury, Darnold looks to be back to full health and has posted a 6:3 TD:INT over the Seahawks' past two games. He could face a stiff challenge against the 49ers, who have yielded only three passing TDs through four weeks."
   },
   {
    "id": 4036378,
@@ -2356,9 +2356,9 @@
    "injury": "ACTIVE",
    "proj": 15.3,
    "last_week": null,
-   "owned_pct": 51.0,
-   "owned_change": -0.18,
-   "outlook": ""
+   "owned_pct": 50.9,
+   "owned_change": -0.2,
+   "outlook": "Jordan Love will look to deliver a big win for the Packers in Week 5 against the Bears. Love completed 22 of 30 passes for 197 yards with a 2:1 TD:INT in a close win over Tampa Bay in Week 4. The veteran quarterback has now completed a career-low 56 percent of passes for 1,041 yards with eight touchdowns and three interceptions this season, with 300 or more passing yards in two of four outings. Love will take on a Chicago defense that's ranked 12th in fantasy points allowed to quarterbacks this season."
   },
   {
    "id": 2973405,
@@ -2368,9 +2368,9 @@
    "injury": "ACTIVE",
    "proj": 7.9,
    "last_week": null,
-   "owned_pct": 50.7,
-   "owned_change": -0.68,
-   "outlook": ""
+   "owned_pct": 50.6,
+   "owned_change": -0.75,
+   "outlook": "Kalif Raymond will seek to reestablish himself as a consistent option in Chicago's passing game against the Packers in Week 5. After totaling 19 catches for 214 yards and one touchdown across the Bears' first three games of the season, Raymond recorded just two catches for six yards versus the Jets in Week 4 with Tyson Bagent under center. The veteran pass catcher will have Bagent throwing to him once again this Sunday, but he will also face a Green Bay defense that's ranked middle-of-the-pack against wide receivers so far this campaign."
   },
   {
    "id": 4360234,
@@ -2381,8 +2381,8 @@
    "proj": 8.7,
    "last_week": null,
    "owned_pct": 49.0,
-   "owned_change": -0.13,
-   "outlook": ""
+   "owned_change": -0.14,
+   "outlook": "Evan McPherson and the Bengals visit the Dolphins for a Week 5 road tilt. He made his only field-goal attempt from 29 yards out and connected on both of his PATs during Cincinnati's 22-17 loss in Week 4. McPherson remained perfect on his kicks through four outings, but he'll hope to get more involved against a Miami defense that ranks 21st in the league, allowing 25.3 points per game."
   },
   {
    "id": 4429160,
@@ -2392,8 +2392,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 48.7,
-   "owned_change": -0.84,
+   "owned_pct": 48.5,
+   "owned_change": -1.0,
    "outlook": ""
   },
   {
@@ -2405,7 +2405,7 @@
    "proj": 6.0,
    "last_week": null,
    "owned_pct": 48.3,
-   "owned_change": -0.07,
+   "owned_change": -0.08,
    "outlook": ""
   },
   {
@@ -2417,7 +2417,7 @@
    "proj": 5.0,
    "last_week": null,
    "owned_pct": 47.6,
-   "owned_change": -0.22,
+   "owned_change": -0.24,
    "outlook": ""
   },
   {
@@ -2429,8 +2429,8 @@
    "proj": 7.7,
    "last_week": null,
    "owned_pct": 43.4,
-   "owned_change": -0.13,
-   "outlook": ""
+   "owned_change": -0.14,
+   "outlook": "Hunter Henry could have an expanded role in Week 5 when the Patriots face the Raiders with Eli Raridon (ankle) uncertain. Henry was already playing at least 70% of the snaps, and he posted a season-high five catches for 62 yards in Week 4, collecting five targets for the second time this season. Las Vegas has allowed five touchdown catches to opposing tight ends, but also just 6.1 yards per target through four games, suggesting Henry may need to find the end zone for the first time in 2026 to be a fantasy asset."
   },
   {
    "id": 4567104,
@@ -2441,8 +2441,8 @@
    "proj": 9.5,
    "last_week": null,
    "owned_pct": 40.5,
-   "owned_change": 0.12,
-   "outlook": ""
+   "owned_change": 0.14,
+   "outlook": "Will Reichard should be a high-volume option once again as the Vikings travel to New Orleans in Week 5. Reichard stayed busy in Week 4 against the Dolphins, scoring all 15 of Minnesota's points from field goals. The third-year boot has now made three or more field goals in each of his last three games, and he's yet to miss a kick this year. He'll face a Saints squad that's ranked middle-of-the-pack against kickers this season,"
   },
   {
    "id": -16003,
@@ -2452,8 +2452,8 @@
    "injury": "ACTIVE",
    "proj": 5.5,
    "last_week": null,
-   "owned_pct": 38.0,
-   "owned_change": -0.21,
+   "owned_pct": 37.9,
+   "owned_change": -0.24,
    "outlook": ""
   },
   {
@@ -2465,8 +2465,8 @@
    "proj": 9.1,
    "last_week": null,
    "owned_pct": 37.2,
-   "owned_change": -0.21,
-   "outlook": ""
+   "owned_change": -0.23,
+   "outlook": "Tre Tucker handled a season-high eight targets in the Raiders' Week 4 loss to Kansas City, but he turned them into just four catches for 44 yards. The fourth-year wideout has reached 50 receiving yards only once in four games to begin the season, producing a 15-233-1 line on 23 targets. With a healthy Brock Bowers back as Kirk Cousins' No. 1 option, Tucker's chances of another ceiling game have shrunk. He'll face a Patriots secondary in Week 5 that ranks 21st in fantasy points per game allowed to WRs and could be without top cornerback Christian Gonzalez."
   },
   {
    "id": 4432577,
@@ -2478,7 +2478,7 @@
    "last_week": null,
    "owned_pct": 37.1,
    "owned_change": -0.07,
-   "outlook": ""
+   "outlook": "C.J. Stroud has some streaming appeal in single-QB formats for Week 5, when the Texans travel to Tennessee for a battle between 0-4 AFC South squads. He has thrown for at least 347 yards in two of Houston's four losses and has a 5:0 TD:INT. The Titans have been respectable against the pass, with only four touchdowns allowed through the air this season, but other teams were able to build leads and run effectively on Tennessee. The Texans are unlikely to find as much success on the ground, considering RBs David Montgomery and Woody Marks have combined to average 2.9 yards per carry this season. Stroud has been asked to throw the ball 38 times per game, and he's likely to remain busy in Week 5. The Texans got top WR Nico Collins (hamstring) back from a two-game absence in Week 4, and Collins contributed immediately in his return by catching both of Stroud's touchdown passes in a 34-30 loss to the Cowboys."
   },
   {
    "id": 3052587,
@@ -2489,19 +2489,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 34.9,
-   "owned_change": -0.41,
-   "outlook": ""
-  },
-  {
-   "id": 4689114,
-   "name": "Jaxson Dart",
-   "pos": "QB",
-   "team": "NYG",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 34.5,
-   "owned_change": -0.46,
+   "owned_change": -0.47,
    "outlook": ""
   },
   {
@@ -2513,19 +2501,19 @@
    "proj": 5.2,
    "last_week": null,
    "owned_pct": 34.4,
-   "owned_change": -0.22,
-   "outlook": ""
+   "owned_change": -0.24,
+   "outlook": "Kaelon Black should continue to back up 49ers star RB Christian McCaffrey in Week 5 against Seattle. Black surprisingly logged 14 carries in Week 1 against the Rams, but since then he's topped out at seven totes as McCaffrey has dominated touches out of the backfield. Black also has just one catch this season, so he hasn't been able to establish much fantasy value except as an insurance policy in case of a McCaffrey injury. It may be hard for Black to find success on what will likely be limited opportunities against Seattle, as the Seahawks are allowing a paltry 3.35 yards per carry to RBs this season."
   },
   {
-   "id": 2576925,
-   "name": "Darren Waller",
-   "pos": "TE",
-   "team": "CAR",
-   "injury": "ACTIVE",
+   "id": 4689114,
+   "name": "Jaxson Dart",
+   "pos": "QB",
+   "team": "NYG",
+   "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 34.4,
-   "owned_change": -0.85,
+   "owned_change": -0.55,
    "outlook": ""
   },
   {
@@ -2537,7 +2525,19 @@
    "proj": 9.5,
    "last_week": null,
    "owned_pct": 34.3,
-   "owned_change": -0.11,
+   "owned_change": -0.12,
+   "outlook": "Rashid Shaheed should continue to operate in a versatile role for Seattle in a big Week 5 battle against San Francisco. Though Shaheed had just one catch for 20 yards versus the Chargers in Week 4, he added two carries for 33 yards and a touchdown while also returning kickoffs and punts. The 49ers have a similarly versatile player in Deebo Samuel, and the pair of Swiss-army-knife wideouts could be keys in what figures to be a battle of tough defenses. San Francisco has allowed just 17.0 fantasy points per game to WRs this season, sixth-best in the NFL."
+  },
+  {
+   "id": 2576925,
+   "name": "Darren Waller",
+   "pos": "TE",
+   "team": "CAR",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 34.3,
+   "owned_change": -0.95,
    "outlook": ""
   },
   {
@@ -2549,7 +2549,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 33.9,
-   "owned_change": -0.35,
+   "owned_change": -0.24,
    "outlook": ""
   },
   {
@@ -2561,8 +2561,8 @@
    "proj": 8.9,
    "last_week": null,
    "owned_pct": 30.8,
-   "owned_change": 0.09,
-   "outlook": ""
+   "owned_change": 0.1,
+   "outlook": "Spencer Shrader has made all seven of his field-goal attempts over the Colts' last two games and all 11 attempts this season. He has been one of the hottest waiver-wire options at kicker over the past couple of weeks and could be worth picking up if he's still available ahead of a Week 5 trip to Pittsburgh. The Steelers have allowed eight made field goals in four games and 21.8 points per game. Those who streamed Shrader against Washington in Week 4 may as well keep rolling with him in Week 5."
   },
   {
    "id": 17372,
@@ -2573,8 +2573,8 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 30.1,
-   "owned_change": -0.13,
-   "outlook": ""
+   "owned_change": -0.14,
+   "outlook": "Chris Boswell and the Steelers return home to take on the Colts in Week 5. He finished Pittsburgh's 27-24 loss in Week 4 converting one of two field-goal attempts while connecting on his lone extra-point try. Boswell's miss came from 48 yards out, and he's now 1-for-4 on kicks equal to or longer than that across four games in 2026. He'll aim to bounce back versus an Indianapolis defense giving up 26.0 points per contest, which ranks 21st in the league."
   },
   {
    "id": -16009,
@@ -2585,7 +2585,7 @@
    "proj": 3.8,
    "last_week": null,
    "owned_pct": 29.4,
-   "owned_change": -0.65,
+   "owned_change": -0.73,
    "outlook": ""
   },
   {
@@ -2597,7 +2597,7 @@
    "proj": null,
    "last_week": null,
    "owned_pct": 29.2,
-   "owned_change": 0.67,
+   "owned_change": 0.38,
    "outlook": ""
   },
   {
@@ -2610,7 +2610,7 @@
    "last_week": null,
    "owned_pct": 28.6,
    "owned_change": -0.06,
-   "outlook": ""
+   "outlook": "Cairo Santos will look to deliver on high volume again as the Bears play the Packers in Week 5. Bagent converted a season-high three field goals against the Jets in Week 3, and he also nailed both of his XPAs. The veteran kicker has now gone 7-for-8 on field-goal attempts while making all 13 of his extra-point tries across four weeks this season. He'll face a Green Bay defense that's ranked top five against fantasy kickers so far."
   },
   {
    "id": -16030,
@@ -2621,7 +2621,7 @@
    "proj": 7.2,
    "last_week": null,
    "owned_pct": 28.5,
-   "owned_change": 0.06,
+   "owned_change": 0.07,
    "outlook": ""
   },
   {
@@ -2633,8 +2633,8 @@
    "proj": 10.6,
    "last_week": null,
    "owned_pct": 28.2,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_change": -0.1,
+   "outlook": "Malik Washington's volume continues to be steady for the Dolphins as they enter a Week 5 matchup with the Bengals. He hauled in five of QB Malik WIllis' nine completions in Week 4, his fourth-straight week with at least five targets while increasing his yardage in each of the last three outings. Cincinnati's secondary hasn't allowed an opposing receiver to top 63 yards, and while Washington's workload shouldn't be questioned, his potential remains capped by Miami's low-scoring offense."
   },
   {
    "id": 4373626,
@@ -2646,7 +2646,7 @@
    "last_week": null,
    "owned_pct": 28.1,
    "owned_change": -0.03,
-   "outlook": ""
+   "outlook": "Tyler Allgeier may be lined up for a big role for Arizona in Week 5 against the Lions. Rookie Jeremiyah Love is dealing with an ankle injury, and if he can't suit up Sunday, Allgeier will likely lead the team's backfield. Even with Love healthy for nearly the entire game in Week 4, Allgeier posted good production, recording an 8-42-1 rushing line and two catches for seven yards. The Cardinals' RB group could find success against a Lions defense that is giving up 4.64 yards per carry to running backs, eighth-worst in the league."
   },
   {
    "id": 4710714,
@@ -2657,7 +2657,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 28.1,
-   "owned_change": -0.28,
+   "owned_change": -0.33,
    "outlook": ""
   },
   {
@@ -2669,8 +2669,8 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 28.0,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_change": -0.17,
+   "outlook": "Tank Dell (knee) is expected to have his practice window opened ahead of the Texans' Week 5 road game against the Titans. The 2023 third-round pick hasn't played since sustaining a significant knee injury in Week 16 of the 2024 season. Dell is currently on injured reserve and will likely take some time to ramp up. He's unlikely to return in Week 5 against Tennessee, but forward-looking fantasy managers should take notice of Dell's impending return, as he averaged 55 receiving yards and scored 10 TDs in 25 games prior to his injury."
   },
   {
    "id": 4597500,
@@ -2681,8 +2681,8 @@
    "proj": 10.1,
    "last_week": null,
    "owned_pct": 27.2,
-   "owned_change": -0.19,
-   "outlook": ""
+   "owned_change": -0.21,
+   "outlook": "Adonai Mitchell needs to overcome a finger injury that has cost him the last two weeks if he's to help the Jets against the Browns in Week 5. Prior to injury, Mitchell was giving the Jets a field-stretching option, averaging 13.7 yards per catch on nine grabs. Targets will continue to be heavily funneled toward Garrett Wilson, but Mitchell will be in a favorable spot if cleared to play, as Cleveland has allowed six touchdowns to opposing receivers through four games. Sterling Shepard and Isaiah Williams would continue to register additional snaps should Mitchell miss his third straight game."
   },
   {
    "id": 4241474,
@@ -2693,8 +2693,8 @@
    "proj": 8.1,
    "last_week": null,
    "owned_pct": 27.0,
-   "owned_change": -0.29,
-   "outlook": ""
+   "owned_change": 0.01,
+   "outlook": "Brian Robinson is expected to remain involved in Atlanta's offensive game plan in the Week 5 matchup against the Ravens. Robinson had his best game of the season in the Week 4 win over the Saints, accumulating 67 yards on 15 touches while scoring three touchdowns. The Alabama product has now logged double-digit carries in three straight games, suggesting that he's established himself as a valuable portion of this Falcons offense. Expect Robinson to remain Atlanta's No. 2 running back behind Bijan Robinson in a tougher Week 5 matchup against a Baltimore defense that's given up just 3.8 yards per carry to RBs this year."
   },
   {
    "id": 4682745,
@@ -2704,9 +2704,9 @@
    "injury": "ACTIVE",
    "proj": 7.6,
    "last_week": null,
-   "owned_pct": 25.1,
-   "owned_change": -0.68,
-   "outlook": ""
+   "owned_pct": 25.0,
+   "owned_change": -0.76,
+   "outlook": "Jaylen Wright hasn't emerged from the Dolphins' backfield ahead of a Week 5 tilt against the Bengals. After missing Week 3, Wright was thought to have an ascending role following De'Von Achane's season-ending knee injury but received only five carries in Week 4 while Ollie Gordon shined with 100 yards and a touchdown on nine carries. It doesn't appear Wright was limited by the foot issue that cost him a game, as he remained the team's primary kick returner. Facing a defense that's allowing 4.5 yards per carry should afford Wright additional running lanes, but the role uncertainty puts Wright in wait-and-see territory rather than as a viable flex option."
   },
   {
    "id": 4702555,
@@ -2717,7 +2717,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 24.1,
-   "owned_change": -0.29,
+   "owned_change": -0.32,
    "outlook": ""
   },
   {
@@ -2729,8 +2729,8 @@
    "proj": 5.7,
    "last_week": null,
    "owned_pct": 23.9,
-   "owned_change": -0.24,
-   "outlook": ""
+   "owned_change": -0.28,
+   "outlook": "Rashod Bateman and the Ravens square off against the 2-2 Falcons on the road in Week 5. He caught both of his targets for 46 yards during Baltimore's 24-18 victory in Week 4. Bateman tied with five other Ravens in targets while finishing second on the team in yardage, but Zay Flowers (8-118-1) and Mark Andrews (5-27-1) did most of the damage on offense. He'll try to make more of a contribution versus an Atlanta defense that's tied for 27th in fantasy points allowed (38.4) per game to WRs, although that could be challenging given Lamar Jackson's (ankle) uncertain status for Week 5."
   },
   {
    "id": 3917792,
@@ -2741,8 +2741,8 @@
    "proj": 12.8,
    "last_week": null,
    "owned_pct": 22.9,
-   "owned_change": -0.19,
-   "outlook": ""
+   "owned_change": -0.21,
+   "outlook": "Daniel Jones is averaging 189 passing yards per game heading into the Colts' Week 5 trip to Pittsburgh. Jones threw for a season-high 342 yards against the Steelers last season but had five turnovers in that game. His passing production is likely to be much more muted in this rematch while throwing to a depleted Colts receiving corps that remains without Alec Pierce (heel; IR) and played without Keenan Allen (groin) in the Week 4 win over the Commanders in London. Pittsburgh's defense has limited QBs to a 5:4 TD:INT, while Jones has an even worse 3:4 TD:INT this season. Even superflex and multi-QB league managers are better off looking elsewhere."
   },
   {
    "id": 4361529,
@@ -2753,8 +2753,8 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 22.2,
-   "owned_change": -0.27,
-   "outlook": ""
+   "owned_change": -0.31,
+   "outlook": "Isiah Pacheco will remain out in Week 5 when Detroit travels to Arizona. Pacheco was placed on IR to start the season due to a back injury, and he underwent surgery in mid-September. This puts the former Kansas City RB's return this season in jeopardy. He's currently expected to be back sometime in December, so Sione Vaki will continue to handle RB2 duties behind Jahmyr Gibbs."
   },
   {
    "id": 4686658,
@@ -2765,8 +2765,8 @@
    "proj": 4.9,
    "last_week": null,
    "owned_pct": 21.1,
-   "owned_change": -0.11,
-   "outlook": ""
+   "owned_change": -0.12,
+   "outlook": "Mike Washington failed to produce another big play in the Raiders' Week 4 loss to Kansas City, managing only 18 rushing yards on nine carries while catching one of two targets for minus-1 yard. Ashton Jeanty continues to struggle on the ground, but Washington hasn't yet shown enough consistency to be any kind of threat to his workload on early downs. The rookie is averaging 5.0 yards on his first 24 NFL carries, though, well clear of Jeanty's 3.4 mark, so volume could begin to tilt his way a little more if that trend continues. Washington will try to break free in Week 5 against a Patriots defense that ranked 15th in fantasy points per game allowed to RBs."
   },
   {
    "id": -16027,
@@ -2777,7 +2777,7 @@
    "proj": 3.2,
    "last_week": null,
    "owned_pct": 20.1,
-   "owned_change": -0.16,
+   "owned_change": -0.18,
    "outlook": ""
   },
   {
@@ -2789,7 +2789,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 20.1,
-   "owned_change": -0.19,
+   "owned_change": -0.21,
    "outlook": ""
   },
   {
@@ -2801,8 +2801,8 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 19.7,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_change": -0.09,
+   "outlook": "Pat Freiermuth and the Steelers welcome the Colts to town for a Week 5 home tilt. He played 75% of snaps on offense and caught three of five targets for 17 yards and his second touchdown of the season. Fellow tight end Darnell Washington (3-27-1) was slightly more productive while playing 70% of the offensive snaps during Pittsburgh's 27-24 loss in Week 4. They're both listed as starting tight ends for the Steelers, and it looks like it'll be a toss-up between the two on any given week as long as they're healthy. Indianapolis allows 13.7 fantasy points per game to TEs, which ranks 17th."
   },
   {
    "id": 4570037,
@@ -2813,7 +2813,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 19.5,
-   "owned_change": -0.31,
+   "owned_change": -0.36,
    "outlook": ""
   },
   {
@@ -2824,8 +2824,8 @@
    "injury": "DOUBTFUL",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 19.0,
-   "owned_change": -1.75,
+   "owned_pct": 18.8,
+   "owned_change": -1.97,
    "outlook": ""
   },
   {
@@ -2838,7 +2838,7 @@
    "last_week": null,
    "owned_pct": 18.1,
    "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "Keaton Mitchell's role in the Chargers' backfield continues to grow. The former Raven handled a season-high 15 touches in a Week 4 loss to the Seahawks, turning them into 63 scrimmage yards, while Omarion Hampton produced 53 yards and a rushing TD on 11 touches, and Kimani Vidal added 36 yards and a receiving score on seven touches. That split points toward offensive coordinator Mike McDaniel moving into a full-blown backfield committee, and while Mitchell's volume has been trending up, he hasn't done much yet to make a case for the No. 1 spot on the depth chart. He'll look to make his own trip to the end zone in Week 5 against a Broncos defense that ranks 26th in fantasy points per game allowed to RBs."
   },
   {
    "id": 4869645,
@@ -2849,8 +2849,8 @@
    "proj": 8.0,
    "last_week": null,
    "owned_pct": 18.1,
-   "owned_change": -0.16,
-   "outlook": ""
+   "owned_change": -0.17,
+   "outlook": "Caleb Douglas will need to overcome an ankle injury to help the Dolphins against the Bengals in Week 5. He missed the last two weeks, and his role in this low-volume passing offense is questionable; he drew seven targets in Week 1 and only three in Week 2. The Bengals defense is much improved and ranks 14th in points allowed to opposing wideouts, with no receiver topping 63 yards against them. While Douglas can stretch the field, availability and usage remain question marks."
   },
   {
    "id": -16024,
@@ -2873,7 +2873,7 @@
    "proj": 6.8,
    "last_week": null,
    "owned_pct": 17.5,
-   "owned_change": 0.09,
+   "owned_change": 0.1,
    "outlook": ""
   },
   {
@@ -2885,8 +2885,8 @@
    "proj": 8.4,
    "last_week": null,
    "owned_pct": 17.5,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_change": -0.09,
+   "outlook": "Trey Smack will look to be consistent for the Packers once again in Week 5 against the Bears. Smack nailed a 58-yard field goal and both of his extra-point tries against the Buccaneers in Week 4. The rookie kicker has now gone 6-for-7 on field-goal kicks this season, with three of them from 50-plus yards. He'll face a Chicago defense that's ranked top five against fantasy kickers this campaign."
   },
   {
    "id": 4362619,
@@ -2897,8 +2897,8 @@
    "proj": 5.2,
    "last_week": null,
    "owned_pct": 17.2,
-   "owned_change": -0.07,
-   "outlook": ""
+   "owned_change": -0.08,
+   "outlook": "Chris Rodriguez has a consistent role as the Jaguars' No. 2 RB behind Bhayshul Tuten, but Rodriguez's usage level is too low to warrant lineup consideration in most formats. Rodriguez has recorded between six and eight carries in each of his first four games with the Jaguars. He's riding a two-game TD streak but has been a complete non-factor in the passing game with zero targets while averaging a mediocre 4.2 yards per carry. Jacksonville faces an Eagles defense in Week 5 that ranks among the 10 most generous to RBs on the ground, allowing 106 rushing yards per game to the position."
   },
   {
    "id": 14880,
@@ -2910,7 +2910,7 @@
    "last_week": null,
    "owned_pct": 16.9,
    "owned_change": 0.08,
-   "outlook": ""
+   "outlook": "Kirk Cousins went down swinging in the Raiders' Week 4 loss to Kansas City, setting season highs with 52 pass attempts and 365 yards while throwing multiple TDs for a fourth straight game to begin the season. While rookie first-overall pick Fernando Mendoza waits in the wings, Cousins' 11 touchdowns are tied for the league lead, and he sits just outside the top 10 in passing yards and completion rate, which should give him plenty of job security. The veteran quarterback will try to keep rolling in Week 5 against a Patriots defense that is tied for ninth in fantasy points per game allowed to the position."
   },
   {
    "id": 4430539,
@@ -2922,7 +2922,7 @@
    "last_week": null,
    "owned_pct": 16.7,
    "owned_change": -0.01,
-   "outlook": ""
+   "outlook": "Brenton Strange became the latest TE to take advantage of a Bengals defense that has allowed the most yards in the league to the position. He compiled 95 receiving yards in Week 4 against Cincinnati to lead the Jaguars. Strange had recorded just 72 yards over the preceding three games combined, and he's likely to return to a reduced role in Week 5 against an Eagles defense that's holding TEs to 39 yards per game and has yet to allow a TD to the position. While Strange can be worth streaming in the right matchups, Week 5 isn't one of those."
   },
   {
    "id": 4599739,
@@ -2933,8 +2933,8 @@
    "proj": 7.8,
    "last_week": null,
    "owned_pct": 16.3,
-   "owned_change": -0.96,
-   "outlook": ""
+   "owned_change": -0.51,
+   "outlook": "Kendre Miller is likely to remain one of the Saints' top rushers while Travis Etienne (hamstring) is out during the Week 5 matchup against the Vikings. Miller received the second-most carries (six) on New Orleans in the Week 4 loss to the Falcons but was largely ineffective, averaging just 1.5 yards per carry. Even if Miller continues splitting work with Alvin Kamara, he likely won't have much fantasy value, as the Saints' offense is averaging a whopping 45 pass attempts per game. Additionally, Miller is in for a difficult Week 5 matchup against a Vikings defense that's allowed just 307 rushing yards all season."
   },
   {
    "id": 4430834,
@@ -2944,8 +2944,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 16.2,
-   "owned_change": -0.17,
+   "owned_pct": 16.1,
+   "owned_change": -0.2,
    "outlook": ""
   },
   {
@@ -2957,20 +2957,20 @@
    "proj": 7.5,
    "last_week": null,
    "owned_pct": 16.0,
-   "owned_change": -0.54,
-   "outlook": ""
+   "owned_change": -0.6,
+   "outlook": "George Holani looks to be locked in as Seattle's No. 2 RB heading into a Week 5 clash against the 49ers. That role didn't yield much fruit for Holani in Week 4, however, as he recorded just 18 yards on seven carries and two yards on one reception. Meanwhile, Emanuel Wilson recorded 120 total yards and two TDs on 24 touches, so he looks to be in full control of the backfield for the time being. San Francisco has given up just two touchdowns (one rushing, one receiving) to running backs this season, so they aren't a great draw for a player like Holani who probably needs to get into the end zone to put up meaningful fantasy points."
   },
   {
    "id": 4429013,
    "name": "Tank Bigsby",
    "pos": "RB",
    "team": "PHI",
-   "injury": "OUT",
+   "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 15.1,
-   "owned_change": -0.51,
-   "outlook": ""
+   "owned_pct": 15.0,
+   "owned_change": -0.59,
+   "outlook": "Tank Bigsby replaced an injured Saquon Barkley last game for the Eagles, only to suffer an injury of his own late in the contest. Bigsby rushed 14 times for 55 yards to lead the Eagles before exiting with a lower-body issue. His status is up in the air for Week 5 versus the Jags. If neither Bigsby nor Barkley can play, Will Shipley would be in line for an expanded role. However, Jacksonville has played the run extremely well thus far in 2026. The Jags are allowing just 74.3 rushing yards per tote, which us second in the NFL."
   },
   {
    "id": 4241463,
@@ -2981,8 +2981,8 @@
    "proj": 4.7,
    "last_week": null,
    "owned_pct": 15.0,
-   "owned_change": -0.11,
-   "outlook": ""
+   "owned_change": -0.12,
+   "outlook": "Jerry Jeudy and the Browns travel to take on the Jets in Week 5. He hauled in all three of his targets for 36 yards during Cleveland's 27-24 win in Week 4, setting new season highs in receptions and yardage. Jeudy had a solid bounce-back effort after failing to record a target in Week 3, but he remains behind Denzel Boston, KC Concepcion, and Harold Fannin Jr. in the offensive pecking order. Jeudy belongs on fantasy benches against a Jets defense that ranks ninth in fantasy points allowed (28.5) per game to WRs."
   },
   {
    "id": 2991662,
@@ -2993,8 +2993,8 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 13.4,
-   "owned_change": -0.22,
-   "outlook": ""
+   "owned_change": -0.24,
+   "outlook": "Mack Hollins' availability for Week 5 against the Raiders is in doubt due to a calf injury. Hollins has been a steady but unspectacular piece for the Patriots' receiving corps, going for 51 or more yards three times despite topping five targets just once with A.J. Brown sidelined by an ankle injury. Las Vegas can be vulnerable to opposing receivers, surrendering 70 or more yards four times. Efton Chism filled in after Hollins' early Week 4 exit and would likely do so again if Hollins does not suit up."
   },
   {
    "id": 2977187,
@@ -3005,8 +3005,8 @@
    "proj": 5.9,
    "last_week": null,
    "owned_pct": 12.7,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_change": -0.16,
+   "outlook": "Cooper Kupp will look to rebound from a quiet performance when Seattle faces San Francisco in Week 5. Against the Chargers this past Sunday, Kupp caught just one of two targets for 13 yards. It was his lowest offensive output of the season, though he's been pretty quiet overall with two or fewer receptions in three of four contests so far. The 49ers are yielding just 123.5 receiving yards per game to wideouts, seventh-fewest in the league."
   },
   {
    "id": 4038441,
@@ -3017,8 +3017,8 @@
    "proj": 3.8,
    "last_week": null,
    "owned_pct": 11.8,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_change": -0.09,
+   "outlook": "Justice Hill and the Ravens visit the Falcons for a Week 5 showdown. He rushed once for three yards and caught two of three targets for 22 yards during Baltimore's 24-18 victory in Week 4. Derrick Henry out-carried Hill 23-1, even with Lamar Jackson missing the entire second half with an ankle injury. It appears that regardless of who's under center, the Ravens' backfield belongs to Henry. Hill should remain on fantasy benches against an Atlanta defense allowing just 17.9 points per game to RBs, which ranks ninth."
   },
   {
    "id": -16013,
@@ -3029,7 +3029,7 @@
    "proj": 4.9,
    "last_week": null,
    "owned_pct": 11.7,
-   "owned_change": -0.05,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3041,8 +3041,8 @@
    "proj": 2.8,
    "last_week": null,
    "owned_pct": 11.7,
-   "owned_change": -0.1,
-   "outlook": ""
+   "owned_change": -0.11,
+   "outlook": "Calvin Ridley has just three catches for 48 yards on five targets through four games. He's barely contributing as the No. 4 WR in a Titans offense that's averaging just 13.8 points per game, which is the second-fewest in the NFL. Even in a Week 5 matchup against a Texans defense that has struggled to defend wide receivers, Ridley remains a non-factor in fantasy."
   },
   {
    "id": -16020,
@@ -3064,8 +3064,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 11.4,
-   "owned_change": -0.22,
+   "owned_pct": 11.3,
+   "owned_change": -0.25,
    "outlook": ""
   },
   {
@@ -3077,8 +3077,8 @@
    "proj": 13.4,
    "last_week": null,
    "owned_pct": 10.8,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_change": -0.1,
+   "outlook": "Malik Willis will seek a breakthrough outing in Week 5 when the Dolphins face the Bengals. He has accounted for just two total touchdowns through four games and completed a mere nine passes for 85 yards in Week 4, both season-lows. An improved Cincinnati defense has allowed only four touchdown passes, but all of them have come over the last two weeks. With Miami's defense likely to give up points, Willis will at least have the opportunity to produce at a higher level than he's shown thus far."
   },
   {
    "id": 2578570,
@@ -3089,8 +3089,8 @@
    "proj": 18.8,
    "last_week": null,
    "owned_pct": 9.9,
-   "owned_change": 0.01,
-   "outlook": ""
+   "owned_change": 0.02,
+   "outlook": "Jacoby Brissett will aim to clean up his mistakes when Arizona hosts Detroit in Week 5. Brissett threw three interceptions against the Giants in Week 4 after getting picked off just once through his first three games of the season. The veteran quarterback has still been pretty productive with 818 passing yards, six touchdowns and 43 rushing yards (with one touchdown) overall this season. He next draws a juicy matchup against the Lions, who have given up the most fantasy points per game (32.7) to quarterbacks on the campaign."
   },
   {
    "id": 3917232,
@@ -3102,7 +3102,7 @@
    "last_week": null,
    "owned_pct": 9.8,
    "owned_change": -0.05,
-   "outlook": ""
+   "outlook": "Tyler Bass remains a stable floor, low ceiling kicking option for the Bills as they enter a Week 5 matchup with the Rams. Bass has collected 14 extra points through four weeks as Buffalo routinely converts drives into touchdowns, but only six field goal attempts, where he's perfect, keeping his scoring capacity limited. The Rams' defense has been stingy to opposing kickers, so don't expect Week 5 to be Bass' breakout party."
   },
   {
    "id": 5081397,
@@ -3113,7 +3113,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 9.7,
-   "owned_change": -0.15,
+   "owned_change": -0.17,
    "outlook": ""
   },
   {
@@ -3126,7 +3126,7 @@
    "last_week": null,
    "owned_pct": 9.6,
    "owned_change": 0.0,
-   "outlook": ""
+   "outlook": "Mike Gesicki and the Bengals travel to take on the winless Dolphins in Week 5. He grabbed three of five targets for 40 yards and a touchdown during Cincinnati's Week 4 loss. Gesicki now has two straight outings with a TD and recorded his third overall, and he could be in line for an uptick in opportunities in a favorable matchup versus a Miami defense that allows 18.6 fantasy points to TEs, which is tied for 28th. Ja'Marr Chase (concussion), Tee Higgins (adductor), and Colbie Young (knee) are all questionable, potentially leaving Gesicki as one of Joe Burrow's primary receivers against a Dolphins unit that just gave up 13 receptions and 119 yards to T.J. Hockenson"
   },
   {
    "id": 4429022,
@@ -3137,8 +3137,8 @@
    "proj": 4.8,
    "last_week": null,
    "owned_pct": 8.8,
-   "owned_change": -0.1,
-   "outlook": ""
+   "owned_change": -0.11,
+   "outlook": "Kayshon Boutte is averaging 29 receiving yards per game and has yet to score this season for the Texans. The former Patriots wide receiver hasn't shown enough with his new team to warrant lineup consideration in most fantasy formats in Week 5 against a Titans defense that has allowed three TDs to WRs through four games. Three other Texans wideouts have more yards than Boutte this season, as does TE Dalton Schultz."
   },
   {
    "id": 15864,
@@ -3148,9 +3148,9 @@
    "injury": "ACTIVE",
    "proj": 14.7,
    "last_week": null,
-   "owned_pct": 8.8,
-   "owned_change": -0.12,
-   "outlook": ""
+   "owned_pct": 8.7,
+   "owned_change": -0.13,
+   "outlook": "Geno Smith hopes for more opportunities in the Jets' Week 5 game against a vulnerable Browns secondary. After completing 31 passes in Week 3, Smith went just 8-for-15 in Week 4 against the Bears. Despite the lack of volume, he has a 5:0 TD:INT ratio and a 7.7 yards-per-attempt average, his highest mark since playing just two games in 2016. Cleveland has allowed nine touchdown passes in four games and at least 291 yards in each of the last two weeks, putting Smith in a spot to exceed his season norms."
   },
   {
    "id": 4870847,
@@ -3161,7 +3161,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 8.6,
-   "owned_change": -0.1,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -3174,7 +3174,7 @@
    "last_week": null,
    "owned_pct": 8.6,
    "owned_change": 0.0,
-   "outlook": ""
+   "outlook": "Deshaun Watson and the Browns take their surprising 3-1 record into a road battle against the Jets in Week 5. In Week 4's 27-24 victory, he threw for 268 yards (24-for-33) with one TD and one INT, while rushing seven times for 22 yards. Watson lost one of his two fumbles, but he was able to do enough to lead his team to a third straight win. He hit seven different receivers en route to his highest passing yardage total since 2023. Watson aims to keep improving in a tough matchup versus the Jets, who have the second-ranked defense in fantasy points allowed (16.0) to QBs."
   },
   {
    "id": 4576297,
@@ -3185,8 +3185,8 @@
    "proj": 8.1,
    "last_week": null,
    "owned_pct": 8.4,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_change": -0.16,
+   "outlook": "AJ Barner will look to amp up his production for Seattle in a Week 5 clash against the 49ers. Barner caught just one of three targets for 12 yards against the Chargers this past Sunday after posting a promising 5-69-0 receiving line the previous week. Barner logged nine targets in that Week 3 win over Washington, but he's drawn three or fewer targets in each of his other three contests. San Francisco has been tough against tight ends this season, giving up just 4.0 points per game to the position (fifth-best in the NFL)."
   },
   {
    "id": 3149687,
@@ -3197,8 +3197,8 @@
    "proj": 3.8,
    "last_week": null,
    "owned_pct": 8.4,
-   "owned_change": -0.1,
-   "outlook": ""
+   "owned_change": -0.11,
+   "outlook": "Chris Brooks will remain an option in Green Bay's crowded backfield if he's healthy in Week 5 against the Bears. Brooks rushed a solid four times for 30 yards and caught one ball for five yards in the first quarter of Week 4, but he then injured his ankle and did not record a stat after. The fourth-year running back will need to log some healthy practices this week if he hopes to play against the Packers' big rival. If he's able to suit up, Brooks will face a Bears defense that's allowed bottom-10 (4.73) yards per carry for RBs this season."
   },
   {
    "id": 3116385,
@@ -3208,8 +3208,8 @@
    "injury": "QUESTIONABLE",
    "proj": null,
    "last_week": null,
-   "owned_pct": 8.3,
-   "owned_change": 5.08,
+   "owned_pct": 8.0,
+   "owned_change": 0.33,
    "outlook": ""
   },
   {
@@ -3222,7 +3222,7 @@
    "last_week": null,
    "owned_pct": 7.9,
    "owned_change": -0.07,
-   "outlook": ""
+   "outlook": "Najee Harris has received nine carries in each of the last two games for the Giants. However, he is averaging just 4.0 yards per carry as teams dare the Giants to throw with backup quarterback Jameis Winston, and remains behind Cam Skattebo on the depth chart. In Week 5, the G-Men will face a rather stingy Washington run defense. The Commanders are allowing just 93.5 yards per tilt on the ground, which is sixth in the league. However, Washington did allow three rushing touchdowns last game versus the Colts."
   },
   {
    "id": 4695404,
@@ -3233,8 +3233,8 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 7.8,
-   "owned_change": -0.58,
-   "outlook": ""
+   "owned_change": -0.65,
+   "outlook": "Isaiah Davis hasn't factored into the Jets' offensive plans ahead of a Week 5 matchup with the Browns. Despite Breece Hall's (quad) Week 4 absence, Davis didn't receive a rushing opportunity and has no official offensive touches to date. Braelon Allen would again lead the Jets' backfield should Hall sit out again in Week 5."
   },
   {
    "id": -16019,
@@ -3245,7 +3245,7 @@
    "proj": 3.8,
    "last_week": null,
    "owned_pct": 7.8,
-   "owned_change": -0.04,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3257,8 +3257,8 @@
    "proj": 2.4,
    "last_week": null,
    "owned_pct": 7.6,
-   "owned_change": -0.31,
-   "outlook": ""
+   "owned_change": -0.35,
+   "outlook": "Jauan Jennings remains a secondary option in the passing game ahead of Minnesota's Week 5 matchup at New Orleans. Jennings was projected to benefit from Justin Jefferson sitting out Week 4 with an ankle injury, but the veteran wideout logged just one catch for eight yards. He's now recorded two catches for nine yards in two weeks mostly without Jefferson, which especially doesn't bode well for his value when the star pass catcher returns to the field. He'll face a Saints defense that's ranked middle-of-the-pack against fantasy WRs so far this season."
   },
   {
    "id": 3116389,
@@ -3269,8 +3269,8 @@
    "proj": 5.8,
    "last_week": null,
    "owned_pct": 7.5,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_change": -0.06,
+   "outlook": "Samaje Perine and the Bengals are on the road to take on the Dolphins in Week 5. He tallied three carries for seven yards and failed to bring in his only target during Cincinnati's Week 4 defeat. Perine's offensive snaps and involvement continue to fluctuate as the clear back behind Chase Brown, even despite his team playing from behind more recently. Miami's defense ranks last in fantasy points (29.7) allowed to RBs, but Perine should remain on fantasy benches."
   },
   {
    "id": 4682648,
@@ -3282,7 +3282,7 @@
    "last_week": null,
    "owned_pct": 7.5,
    "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "Malachi Fields scored his first NFL touchdown last game for the Giants. The rookie flashed his big-play ability, snagging a 40-yarder from quarterback Jameis Winston along with the 12-yard score. He finished with two catches for a career-best 52 yards and the touchdown. In Week 5, Fields and company will face a Commanders defense that has struggled to defend the pass. Washington has allowed 11 passing scores, which is tied for last in the NFL. In addition, the Commanders are yielding 242.5 passing yards per tilt, which is 25th in the league."
   },
   {
    "id": 3050478,
@@ -3294,7 +3294,7 @@
    "last_week": null,
    "owned_pct": 7.0,
    "owned_change": -0.02,
-   "outlook": ""
+   "outlook": "Jake Elliott still managed two field goals and two extra points last game for Philadelphia, despite massive struggles on offense for the Eagles. Elliott has just four field goals through four contests, as the Philadelphia offense has sputtered in part due to a bevy of injuries to skill players. With DeVonta Smith, Dallas Goedert and potentially Saquon Barkley sidelined for Week 5 versus the Jags, points may be at a premium. The Jags have also been extremely stingy in terms of points allowed this season. Jacksonville is giving up only 13.3 points per tilt, which is second in the league."
   },
   {
    "id": 4595342,
@@ -3305,8 +3305,8 @@
    "proj": 5.8,
    "last_week": null,
    "owned_pct": 6.6,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_change": -0.1,
+   "outlook": "Oronde Gadsden garnered his first significant target volume of the season in the Chargers' Week 4 loss to the Seahawks, catching five of eight targets for 36 yards. The second-year tight end doesn't have the blocking chops offensive coordinator Mike McDaniel prefers, but with Charlie Kolar and David Njoku both injured and the team's wide receiver room also banged up, Gadsden is one of Justin Herbert's best remaining pass catchers. He'll try to build on this performance in Week 5 against a Broncos defense that ranks 26th in receiving yards allowed to TEs through four weeks."
   },
   {
    "id": 5081432,
@@ -3317,8 +3317,8 @@
    "proj": 6.0,
    "last_week": null,
    "owned_pct": 6.6,
-   "owned_change": -0.1,
-   "outlook": ""
+   "owned_change": -0.11,
+   "outlook": "Antonio Williams had eight targets last game for Washington, which was second on the squad behind Stefon Diggs. Unfortunately, Williams could muster just three catches for 21 yards in the lackluster loss to the Colts. Starting quarterback Jayden Daniels could return to the fold in Week 5 versus the Giants, which would certainly be a boost for Williams, regardless of whether Terry McLaurin also suits up. McLaurin was sidelined with a hamstring issue. New York has been fairly stingy against the pass in 2026, though, allowing just 205.3 passing yards per tilt, which is 10th in the NFL."
   },
   {
    "id": 4382466,
@@ -3329,7 +3329,19 @@
    "proj": 5.7,
    "last_week": null,
    "owned_pct": 6.6,
-   "owned_change": -0.08,
+   "owned_change": -0.09,
+   "outlook": "Jalen Nailor's tough start to his Raiders tenure continued in Week 4, as he failed to get a target before leaving the game early due to a concussion. The former Viking has a meager 5-52-0 line on just 11 targets through four weeks, and while his spot in the lineup seems secure when he's healthy due to his blocking ability, he hasn't established much chemistry with Kirk Cousins despite the fact that the duo played together in Minnesota. If Nailor does clear the concussion protocol in time, he'll be little more than a dart throw in Week 5, even against a Patriots secondary that ranks 21st in fantasy points per game allowed to WRs and which could be without top cornerback Christian Gonzalez."
+  },
+  {
+   "id": -16006,
+   "name": "Cowboys D/ST",
+   "pos": "D/ST",
+   "team": "DAL",
+   "injury": "ACTIVE",
+   "proj": 7.4,
+   "last_week": null,
+   "owned_pct": 6.5,
+   "owned_change": 0.09,
    "outlook": ""
   },
   {
@@ -3341,20 +3353,8 @@
    "proj": 15.9,
    "last_week": null,
    "owned_pct": 6.5,
-   "owned_change": 0.01,
-   "outlook": ""
-  },
-  {
-   "id": -16006,
-   "name": "Cowboys D/ST",
-   "pos": "D/ST",
-   "team": "DAL",
-   "injury": "ACTIVE",
-   "proj": 7.4,
-   "last_week": null,
-   "owned_pct": 6.5,
-   "owned_change": 0.08,
-   "outlook": ""
+   "owned_change": 0.02,
+   "outlook": "Aaron Rodgers and the Steelers host the Colts for a Week 5 showdown. He threw for 299 yards (22-for-40) with three TDs and two INTs during Pittsburgh's 27-24 loss in Week 4. That's two straight outings with three passing TDs and nearly 300 yards through the air, but the 42-year-old was sacked five times in addition to his two turnovers. Rodgers will look to clean up the mistakes against a Colts defense allowing 24.3 fantasy points per game to QBs (27th) and 261.3 passing yards (29th)."
   },
   {
    "id": 4819231,
@@ -3365,8 +3365,8 @@
    "proj": 5.4,
    "last_week": null,
    "owned_pct": 6.1,
-   "owned_change": -0.11,
-   "outlook": ""
+   "owned_change": -0.12,
+   "outlook": "Kaleb Johnson will seek to stay involved as the Packers take on the Bears in Week 5. Johnson finished Week 4 against the Buccaneers with a solid eight carries for 42 yards, but he also lost a critical fumble in the fourth quarter. This makes it unclear what the backfield split will look like moving forward, not that there's been much of a clear breakdown so far. Chicago has ranked 26th in yards per carry allowed to RBs this season, which could carve a path for Johnson to stay productive if he can hold onto the ball."
   },
   {
    "id": 4688380,
@@ -3377,8 +3377,8 @@
    "proj": 13.2,
    "last_week": null,
    "owned_pct": 6.0,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_change": -0.05,
+   "outlook": "Cam Ward hasn't thrown multiple touchdown passes in a game during the Titans' 0-4 start, and he's just 3-18 as a starter with 18 touchdown passes in 21 games. The 2025 first overall pick isn't an advisable fantasy option in Week 5 against the Texans, who have surprisingly surrendered the third-most passing yards in the league this season but still boast plenty of talent on defense and allowed the sixth-fewest passing yards in 2025. Dynasty managers looking for a silver lining with Ward can point to his season-high 222 passing yards in the Week 4 loss to Baltimore, 145 of which went to rookie fourth overall pick Carnell Tate."
   },
   {
    "id": 4360423,
@@ -3389,8 +3389,8 @@
    "proj": 14.6,
    "last_week": null,
    "owned_pct": 6.0,
-   "owned_change": -0.07,
-   "outlook": ""
+   "owned_change": -0.04,
+   "outlook": "Michael Penix will look to stay hot in the Falcons' Week 5 matchup against the Ravens. Penix has been great through two starts in 2026, throwing for 479 yards, two touchdowns and an interception. He's helped rejuvenate Atlanta's offense, as the team has scored a whopping 40 points per game since his return. Despite this, Penix is in for a tougher Week 5 matchup against a Ravens defense that's allowed just 18.8 fantasy points per game to quarterbacks this season."
   },
   {
    "id": 4686612,
@@ -3402,7 +3402,7 @@
    "last_week": null,
    "owned_pct": 5.7,
    "owned_change": -0.07,
-   "outlook": ""
+   "outlook": "Tre' Harris is still looking for his first touchdown of the season, but he's been Justin Herbert's most reliable option, topping 50 receiving yards in each of the Chargers' last three games. Harris has put together a 13-209-0 line on 21 targets over four weeks, and he could make a push for the top spot on the WR depth chart with Ladd McConkey now dealing with both rib and foot injuries and Quentin Johnston failing to do much with his opportunities. Harris will aim for his first trip to the end zone in 2026 in Week 5 against a Broncos secondary that ranks eighth in fantasy points per game allowed to WRs, but which could be missing its top two cornerbacks, including Patrick Surtain."
   },
   {
    "id": 4869961,
@@ -3412,9 +3412,9 @@
    "injury": "ACTIVE",
    "proj": 7.1,
    "last_week": null,
-   "owned_pct": 5.3,
-   "owned_change": -0.13,
-   "outlook": ""
+   "owned_pct": 5.2,
+   "owned_change": -0.14,
+   "outlook": "Chris Bell is failing to gain traction in the Dolphins' limited passing attack ahead of a Week 5 tilt with the Bengals. Bell failed to record a catch on three targets in Week 4 in a game where Miami threw only 17 times, completing nine of them. Bell remains long on potential, but he's garnered three or fewer looks in three of Miami's first four games, and a breakout against a middling Bengals defense that hasn't allowed more than 63 yards to an opposing receiver seems unlikely."
   },
   {
    "id": 4429501,
@@ -3425,8 +3425,8 @@
    "proj": 1.1,
    "last_week": null,
    "owned_pct": 5.2,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_change": -0.05,
+   "outlook": "Ray Davis has not been a part of the Bills' game plan entering a Week 5 matchup with the Rams. He has only two carries through four weeks, adding one catch while factoring in on kickoff returns. Seemingly losing snaps to Ty Johnson on passing downs in what was already a limited role, Davis's only fantasy appeal would be to James Cook managers in the event of an injury."
   },
   {
    "id": 4586312,
@@ -3438,7 +3438,7 @@
    "last_week": null,
    "owned_pct": 4.7,
    "owned_change": -0.03,
-   "outlook": ""
+   "outlook": "Jaylin Noel turned three targets into 85 yards for the Texans in their Week 4 loss to Dallas, and the 2025 third-round pick continues to make the most of his opportunities. Heading into a Week 5 road game against the Titans, Noel has caught eight of 12 targets for 186 yards while leading the league with 23.3 yards per reception. Noel's big-play potential makes him worth a flier in deeper formats against a Titans secondary that has been prone to breakdowns, but he hasn't garnered consistent enough volume from C.J. Stroud to be started comfortably in any matchup."
   },
   {
    "id": 4686422,
@@ -3450,7 +3450,7 @@
    "last_week": null,
    "owned_pct": 4.7,
    "owned_change": -0.05,
-   "outlook": ""
+   "outlook": "Xavier Hutchinson has exactly three catches in every game this season for the Texans and is averaging 42 receiving yards per game heading into a Week 5 road game against the Titans. He has drawn 11 targets in two games playing alongside Nico Collins and 15 targets during the two games Collins missed due to a hamstring injury. Collins should continue to work as C.J. Stroud's No. 1 option against Tennessee's beatable secondary, while the remainder of Houston's receiving corps is best left on the bench or waiver wire, Hutchinson included."
   },
   {
    "id": 5083754,
@@ -3461,8 +3461,8 @@
    "proj": 8.4,
    "last_week": null,
    "owned_pct": 4.7,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_change": -0.06,
+   "outlook": "Ryan Flournoy has been targeted at least four times in every game this season for the Cowboys. However, he has yet to cross 40 yards receiving in any contest. Versus the Texans, he had four catches but only for a season-high 37 yards. With a lot of mouths to feed like CeeDee Lamb, George Pickens and even tight end Jake Ferguson, Flournoy's output may continue to be depressed. In Week 5, Dallas will face a Tampa Bay defense that has been fairly stingy against the pass in terms of yardage. The Bucs are allowing just 204.3 passing yards per tilt, which is ninth in the NFL. However, Tampa Bay has also given up seven throwing scores, which is tied for 23rd in the league. Flournoy is still looking for his first score of the season."
   },
   {
    "id": 4040761,
@@ -3473,7 +3473,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 4.5,
-   "owned_change": -0.09,
+   "owned_change": -0.1,
    "outlook": ""
   },
   {
@@ -3486,7 +3486,7 @@
    "last_week": null,
    "owned_pct": 4.5,
    "owned_change": -0.03,
-   "outlook": ""
+   "outlook": "Wil Lutz continues to get little volume thanks to the struggles of the Broncos' offense. Through four games, the veteran kicker has attempted only five extra points, converting all, while going just 5-for-7 on FG attempts, with one of his misses coming from 58 yards out. Lutz is reliable, especially with most of his games coming either at altitude or indoors, but without more opportunities, he won't be able to make much of a contribution. He could get more chances in Week 5 against a Chargers team that has allowed 26.5 points per game, 24th in the league."
   },
   {
    "id": 3051909,
@@ -3497,8 +3497,20 @@
    "proj": 8.0,
    "last_week": null,
    "owned_pct": 4.4,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_change": -0.07,
+   "outlook": "Daniel Carlson could get few scoring chances in the Saints' Week 5 matchup against the Vikings. Carlson missed another field goal in the Week 4 loss to the Falcons and is now just one of three on tries from 50-or-more yards. On the season, he's converted five of seven field-goal tries and 10 of 11 point-after attempts. Carlson likely won't have many scoring opportunities in the Week 5 matchup as well, with Minnesota's defense allowing just 12.8 points and 6.8 kicking points per game."
+  },
+  {
+   "id": 4635008,
+   "name": "Keon Coleman",
+   "pos": "WR",
+   "team": "BUF",
+   "injury": "ACTIVE",
+   "proj": 7.7,
+   "last_week": null,
+   "owned_pct": 4.3,
+   "owned_change": 0.19,
+   "outlook": "Keon Coleman's role in the Bills offense remains unsettled ahead of a Week 5 matchup with the Rams. DJ Moore exited Week 4 after aggravating a shoulder injury that forced a similar result in Week 2, and Coleman again shined. In the two games with Moore leaving early, Coleman has 12 catches on 13 targets for 179 yards and a touchdown. With Moore playing four quarters, Coleman has two catches for 38 yards. Facing a defense that hasn't allowed an opposing receiver to top 50 yards leaves Coleman as a fantasy risk regardless of Moore's status."
   },
   {
    "id": 4837248,
@@ -3510,18 +3522,6 @@
    "last_week": null,
    "owned_pct": 4.3,
    "owned_change": -0.03,
-   "outlook": ""
-  },
-  {
-   "id": 4635008,
-   "name": "Keon Coleman",
-   "pos": "WR",
-   "team": "BUF",
-   "injury": "ACTIVE",
-   "proj": 7.7,
-   "last_week": null,
-   "owned_pct": 4.3,
-   "owned_change": 0.18,
    "outlook": ""
   },
   {
@@ -3545,7 +3545,7 @@
    "proj": 3.8,
    "last_week": null,
    "owned_pct": 3.8,
-   "owned_change": -0.09,
+   "owned_change": -0.08,
    "outlook": ""
   },
   {
@@ -3557,8 +3557,8 @@
    "proj": 9.2,
    "last_week": null,
    "owned_pct": 3.7,
-   "owned_change": 0.1,
-   "outlook": ""
+   "owned_change": 0.11,
+   "outlook": "Roman Wilson and the Steelers take on the Colts at home in Week 5. He caught three of six targets for 74 yards and one touchdown during Pittsburgh's Week 4 loss. Wilson tied for second on the team in receptions and targets while finishing second in yardage, and he now has a TD catch in two consecutive contests. He's been a reliable option for Aaron Rodgers, as he's generated six targets in all four outings this season en route to a 14-188-2 line. Wilson's next opportunity comes against the Colts' 20th-ranked defense in fantasy points allowed (35.0) to WRs."
   },
   {
    "id": 10621,
@@ -3570,7 +3570,7 @@
    "last_week": null,
    "owned_pct": 3.6,
    "owned_change": -0.02,
-   "outlook": ""
+   "outlook": "Nick Folk is expected to have plenty of scoring opportunities in the Falcons' Week 5 matchup against the Ravens. Since the return of Michael Penix in Week 3, Folk has converted all 12 of his kicks (three field goals and nine extra points), averaging 9.0 kicking points per game. With Atlanta's recent offensive success (40.0 points per game over the last two weeks) and Baltimore's defense having allowed 24.0 points and 7.5 kicking points per game, Folk is expected to have a favorable Week 5 matchup."
   },
   {
    "id": 4360635,
@@ -3582,7 +3582,7 @@
    "last_week": null,
    "owned_pct": 3.6,
    "owned_change": -0.07,
-   "outlook": ""
+   "outlook": "Chig Okonkwo returned to the lineup for the Commanders following a two-game absence due to a hamstring ailment. Okonkwo was targeted four times, but managed two catches for a mere five yards in the dismal 30-13 loss to the Colts. Starting quarterback Jayden Daniels could return to the fold in Week 5 versus the Giants, though, which would certainly be a boost for the passing game. However, New York has been fairly stingy against the pass in 2026, allowing just 205.3 passing yards per tilt, which is 10th in the NFL."
   },
   {
    "id": 3051876,
@@ -3594,7 +3594,7 @@
    "last_week": null,
    "owned_pct": 3.6,
    "owned_change": -0.06,
-   "outlook": ""
+   "outlook": "Evan Engram tied his season high with five targets in the Broncos' Week 4 loss to the 49ers, but the additional volume didn't lead to much production as he caught only one of them for six yards. Over the last three games, the veteran tight end has a meager 2-23-0 line on eight targets, remaining an afterthought in the offense. No. 3 wide receiver Pat Bryant left the loss to San Francisco with an ankle sprain, which could result in more volume for Engram, but that may not be enough to make him relevant again. Engram will try to take advantage of his opportunities in Week 5 against a Chargers defense that's tied for 11th in fantasy points per game allowed to TEs."
   },
   {
    "id": 4686728,
@@ -3605,8 +3605,8 @@
    "proj": 5.9,
    "last_week": null,
    "owned_pct": 3.4,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_change": -0.05,
+   "outlook": "Gunnar Helm is averaging just 15 receiving yards per game heading into Tennessee's Week 5 home game against the Texans. The second-year TE has exceeded 70% of offensive snaps in every game this season, but Helm is being used more as a blocker than a pass catcher in Tennessee's struggling offense. Houston is allowing 56 yards per game to TEs but hasn't given up a TD to the position, while Helm has scored just twice in 20 career NFL games. Helm hasn't done enough to warrant fantasy consideration."
   },
   {
    "id": 4685261,
@@ -3618,19 +3618,7 @@
    "last_week": null,
    "owned_pct": 3.3,
    "owned_change": -0.04,
-   "outlook": ""
-  },
-  {
-   "id": 3045147,
-   "name": "James Conner",
-   "pos": "RB",
-   "team": "ARI",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 3.1,
-   "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "Germie Bernard and the Steelers return home to square off against the Colts in Week 5. The rookie wideout caught both of his targets for 11 yards during Pittsburgh's 27-24 loss in Week 4. Bernard should remain on fantasy benches while playing behind veterans DK Metcalf, Michael Pittman, and Jaylen Warren, along with tight ends Pat Freiermuth and Darnell Washington. Indianapolis allows 35.0 fantasy points per game to WRs, which ranks 20th, but his limited involvement on offense doesn't inspire much confidence."
   },
   {
    "id": 4243331,
@@ -3639,6 +3627,18 @@
    "team": "TB",
    "injury": "ACTIVE",
    "proj": 8.0,
+   "last_week": null,
+   "owned_pct": 3.1,
+   "owned_change": -0.04,
+   "outlook": "Cade Otton will operate as the Buccaneers' top tight end in the Week 5 matchup against the Cowboys. Otton led Tampa Bay in receiving yards during the Week 4 loss to the Packers, hauling in four of six targets for 37 yards. He appears to have a connection with rookie quarterback Jalon Daniels and could be a solid spot-start in Week 5, especially while facing a Dallas defense that's given up 15.3 fantasy points per game and three receiving touchdowns to opposing tight ends this season."
+  },
+  {
+   "id": 3045147,
+   "name": "James Conner",
+   "pos": "RB",
+   "team": "ARI",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.1,
    "owned_change": -0.04,
@@ -3664,9 +3664,9 @@
    "injury": "DOUBTFUL",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 3.0,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_pct": 2.9,
+   "owned_change": -0.1,
+   "outlook": "Pat Bryant caught all three of his targets for 47 yards in the Broncos' Week 4 loss to the 49ers, but an ankle sprain knocked him out of the contest early. The second-year wide receiver is expected to miss multiple weeks, but Denver hasn't placed him on IR yet. In Bryant's absence, Marvin Mims and Troy Franklin will get more work behind Jaylen Waddle and Courtland Sutton, beginning with a Week 5 matchup against a Chargers secondary that ranks 18th in fantasy points per game allowed to WRs."
   },
   {
    "id": 4568263,
@@ -3677,7 +3677,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.11,
+   "owned_change": -0.13,
    "outlook": ""
   },
   {
@@ -3689,8 +3689,8 @@
    "proj": 13.3,
    "last_week": null,
    "owned_pct": 2.8,
-   "owned_change": 0.0,
-   "outlook": ""
+   "owned_change": -0.01,
+   "outlook": "Jameis Winston tossed three touchdowns last game for the Giants. It was the full Jameis Winston experience, though, as the veteran also threw two interceptions. However, he finished 18-of-29 for 250 yards in the 36-24 win over the Cardinals. Miraculously, the G-Men currently sit in first place in the NFC East. In Week 5, Jameis and company will face a Commanders defense that has struggled to defend the pass.  Washington has allowed 11 passing scores, which is tied for last in the NFL. In addition, the Commanders are yielding 242.5 passing yards per tilt, which is 25th in the league."
   },
   {
    "id": -16022,
@@ -3701,18 +3701,6 @@
    "proj": 2.4,
    "last_week": null,
    "owned_pct": 2.7,
-   "owned_change": -0.13,
-   "outlook": ""
-  },
-  {
-   "id": 15168,
-   "name": "Case Keenum",
-   "pos": "QB",
-   "team": "CHI",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 2.5,
    "owned_change": -0.14,
    "outlook": ""
   },
@@ -3726,7 +3714,19 @@
    "last_week": null,
    "owned_pct": 2.5,
    "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "DeMario Douglas hasn't emerged in the Patriots' receiving corps ahead of a Week 5 matchup against the Raiders. Despite A.J. Brown's continued absence, Douglas has just four total catches over the last three weeks, tallying 62 yards. An uptick in volume appears unlikely against an exploitable secondary that allows 8.2 yards per target, leaving Douglas as a dart throw as opposed to a reliable lineup option."
+  },
+  {
+   "id": 15168,
+   "name": "Case Keenum",
+   "pos": "QB",
+   "team": "CHI",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 2.5,
+   "owned_change": -0.16,
+   "outlook": "Case Keenum is set to serve as the backup quarterback as the Bears travel to play the Packers in Week 5. Keenum started on the field at quarterback with Tyson Bagent lined up as a receiver in Week 5 against the Jets, but Bagent ultimately played the game, and Keenum served as his backup. Keenum's role should remain minimal, if not null, so long as Bagent stays healthy in Green Bay. The Green and Gold defense gave up 148 passing yards, one touchdown and two interceptions to Buccaneers rookie Jalon Daniels in Week 4."
   },
   {
    "id": 2573401,
@@ -3738,7 +3738,7 @@
    "last_week": null,
    "owned_pct": 2.4,
    "owned_change": -0.02,
-   "outlook": ""
+   "outlook": "Tyler Higbee may have worked his way back up to the Rams' No. 1 tight-end role with a Week 5 matchup against Buffalo on tap. After logging just two catches over the first two weeks of the season, Higbee has tallied a 13-129-1 line over the past two weeks. He's led Los Angeles tight ends in offensive snaps in each of those contests, with injuries to Colby Parkinson (shoulder) and Terrance Ferguson (ankle - IR) contributing to the uptick in playing time. Buffalo has given up just one touchdown to tight ends so far this season."
   },
   {
    "id": 3123076,
@@ -3749,7 +3749,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 2.4,
-   "owned_change": -0.04,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3773,8 +3773,8 @@
    "proj": 3.1,
    "last_week": null,
    "owned_pct": 2.3,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_change": -0.03,
+   "outlook": "Zachariah Branch's offensive role could continue to grow in the Falcons' Week 5 matchup against the Ravens. Branch has received two targets in each of his last three games, even out-targeting Olamide Zaccheaus over the last two weeks (four to three). Additionally, Branch played a career-high 23% of the Falcons' offensive snaps in the Week 4 win over the Saints, suggesting his offensive role may be growing. He's also in for a favorable Week 5 matchup against a Ravens secondary that's given up 734 receiving yards to wideouts through four contests this season, the sixth-most in the NFL."
   },
   {
    "id": 4428209,
@@ -3822,7 +3822,7 @@
    "last_week": null,
    "owned_pct": 2.2,
    "owned_change": 0.01,
-   "outlook": ""
+   "outlook": "Dominic Zvada continues to shine for the Giants as a rookie. Zvada made all three of his field goals, as well as an extra point, in the 36-24 win over the Cardinals. Two of Zvada's field goals were from 50-plus yards out. He is perfect to begin his NFL career, with five field goals already from 50-plus yards away. He could be primed for a big output in Week 5 versus a Commanders squad allowing 30.5 points per tilt, which is 31st in the NFL."
   },
   {
    "id": 15835,
@@ -3834,7 +3834,7 @@
    "last_week": null,
    "owned_pct": 2.0,
    "owned_change": -0.05,
-   "outlook": ""
+   "outlook": "Zach Ertz caught two passes last game for the Eagles, as he continues to fill in for his injured former understudy, Dallas Goedert. It appears that Goedert is unlikely to suit up in  Week 5 versus the Jags. Philadelphia's passing offense struggled mightily without Goedert and No. 1 wideout DeVonta Smith, and the early departure of Saquon Barkley due to an injury of his own did not help matters. Ertz had four targets last game and could prove a useful safety valve with an otherwise young, inexperienced pass-catching corps. An intriguing matchup lurks in Week 5 versus the Jags. Jacksonville has surrendered 280.3 passing yards per game this season, which is second-to-last in the league. In an odd twist, though, the Jags have yielded just three passing scores, which is tied for first in the NFL."
   },
   {
    "id": 4249087,
@@ -3846,7 +3846,7 @@
    "last_week": null,
    "owned_pct": 2.0,
    "owned_change": 0.03,
-   "outlook": ""
+   "outlook": "Matt Gay continues to benefit from the Raiders' surprisingly strong start to the season on offense with Kirk Cousins under center. In a Week 4 loss to Kansas City, Gay was a perfect 4-for-4 on FG tries while also converting his only PAT. The veteran has yet to miss an attempt in 2026, going 10-for-10 on FGs and 9-for-9 on extra points, putting him third in the NFL in kicker scoring behind the Vikings' Will Reichard and the Colts' Spencer Shrader. Gay likely won't be able to afford to start squandering opportunities in Week 5 against a Patriots team that's allowed 19.3 points per game so far, tied for sixth in the league."
   },
   {
    "id": 5123663,
@@ -3858,19 +3858,7 @@
    "last_week": null,
    "owned_pct": 2.0,
    "owned_change": -0.02,
-   "outlook": ""
-  },
-  {
-   "id": 4360763,
-   "name": "Brycen Tremayne",
-   "pos": "WR",
-   "team": "CAR",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 1.8,
-   "owned_change": -0.19,
-   "outlook": ""
+   "outlook": "Isaac TeSlaa could continue to have a big role as the Lions play the Cardinals in Week 5. TeSlaa finished Week 4 against the Panthers with season-high targets, catches and yards, reeling in four of eight looks for four catches and 95 yards. After a slow start to the season, the second-year pass catcher has now posted a 7-161-0 receiving line in the last two games. He'll face an Arizona defense that's ranked 27th in fantasy points allowed to the wide receiver position."
   },
   {
    "id": 4569923,
@@ -3882,6 +3870,18 @@
    "last_week": null,
    "owned_pct": 1.8,
    "owned_change": -0.04,
+   "outlook": "Andy Borregales' opportunities have been scant for the Patriots ahead of a Week 5 matchup with the Raiders. After not attempting an extra point in Week 3, Borregales drilled three extra points but did not attempt a field goal for the first time this season in Week 4. Las Vegas has allowed the second-fewest points to opposing kickers, surrendering 10 PATs but only five field goal tries through four games, and though the Patriots' offense may be righting its early-season struggles, Borregales has yet to regain fantasy trust."
+  },
+  {
+   "id": 4360763,
+   "name": "Brycen Tremayne",
+   "pos": "WR",
+   "team": "CAR",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 1.8,
+   "owned_change": -0.21,
    "outlook": ""
   },
   {
@@ -3905,7 +3905,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 1.6,
-   "owned_change": -0.05,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3917,8 +3917,8 @@
    "proj": 4.4,
    "last_week": null,
    "owned_pct": 1.6,
-   "owned_change": -0.01,
-   "outlook": ""
+   "owned_change": -0.02,
+   "outlook": "Ty Johnson continues to factor in the Bills' passing game out of the backfield ahead of a Week 5 matchup with the Rams. After missing Weeks 1 and 2, Johnson has amassed six catches in Weeks 3 and 4, adding one three-yard carry. The Rams have allowed only 19 catches and 103 yards to opposing backs as receivers, and James Cook will likely continue to dominate backfield touches, rendering Johnson's fantasy potential minimal."
   },
   {
    "id": 4367209,
@@ -3930,7 +3930,7 @@
    "last_week": null,
    "owned_pct": 1.6,
    "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "Greg Dulcich hasn't played a meaningful role for the Dolphins as they enter a Week 5 matchup with the Bengals. After amassing seven targets in Week 3, Dulcich didn't get a look in Week 4 in a game where Miami completed only nine passes, giving him three or fewer targets in three of Miami's first four outings. While Cincinnati remains a defense that struggles against the position, allowing 67 or more yards to an opposing tight end in three straight weeks, Dulcich hasn't factored heavily enough to benefit."
   },
   {
    "id": 4242433,
@@ -3942,7 +3942,7 @@
    "last_week": null,
    "owned_pct": 1.6,
    "owned_change": -0.03,
-   "outlook": ""
+   "outlook": "Joshua Palmer was not a factor in the Bills' passing game in Weeks 3 and 4, and now Buffalo travels to face the Rams in Week 5. Palmer has totaled three catches all season, and over the last two weeks has only one grab for three yards. He's primarily a deep option and as such, not much of a fantasy option against a defense that's allowing a stingy 6.5 yards per target to opposing wideouts."
   },
   {
    "id": 4596472,
@@ -3954,7 +3954,7 @@
    "last_week": null,
    "owned_pct": 1.5,
    "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "Jalon Daniels is expected to lead the Buccaneers' offense into the Week 5 matchup against the Cowboys. Daniels struggled during his first NFL start in Week 4, throwing for 148 yards, two interceptions and a touchdown while adding 55 yards on the ground. However, he showed flashes of potential and could take advantage of a Cowboys defense that's allowing 25.8 fantasy points per game to opposing quarterbacks this season. Daniels could really thrive getting out of the pocket, as Dallas' defense has given up the most rushing yards to quarterbacks (188) in the NFL through four games."
   },
   {
    "id": -16011,
