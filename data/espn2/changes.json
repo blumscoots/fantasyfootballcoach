@@ -1,7 +1,9 @@
 {
- "at": "2026-10-10T20:12:37+00:00",
+ "at": "2026-10-10T23:41:56+00:00",
  "events": [
-  "Marvin Harrison Jr. (Mr. Chow): ACTIVE -> OUT"
+  "ranel added Blake Corum",
+  "ranel added Dallas Goedert",
+  "ranel dropped Dalton Kincaid"
  ],
  "relevant": true
 }
