@@ -1,65 +1,67 @@
 {
- "generated_at": "2026-09-30T20:50:00+00:00",
- "week": 4,
- "trigger": "manual (Claude chat, Yahoo via browser, Wednesday refresh)",
+ "generated_at": "2026-10-13T20:30:00+00:00",
+ "week": 6,
+ "trigger": "chat",
  "changes": [
-  "Your Braelon Allen claim went through (dropped MarShawn Lloyd)",
-  "Madenspacher claimed Ollie Gordon II and Kalif Raymond",
-  "Trade listed between Deshaun Don\u2019t Touchdown There and IonRunIt, not yet on rosters"
+  "Week 6 refresh (Yahoo read via browser)"
  ],
  "sources": [
   {
-   "title": "Yahoo Fantasy: Justin Sucks League (your team, matchup, standings, settings, rosters, free agents)",
+   "title": "Yahoo Fantasy: Justin Sucks League (team, matchup, standings, rosters, free agents)",
    "url": "https://football.fantasysports.yahoo.com/f1/359202/9"
   },
   {
-   "title": "Sources: Jets RB Breece Hall week-to-week with quad injury \u2014 ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50053866/sources-jets-rb-breece-hall-week-week-quad-injury"
+   "title": "Fantasy Football Week 6 Injury Report \u2014 Forbes (Oct 13)",
+   "url": "https://www.forbes.com/sites/bryantoporek/2026/10/13/fantasy-football-week-6-injury-report-ceedee-lamb-david-montgomery-deebo-samuel-more/"
   },
   {
-   "title": "Fantasy waiver wire, Week 4 \u2014 NFL.com",
-   "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-4-te-juwan-johnson-rb-braelon-allen-headline-targets"
+   "title": "Week 5 Fantasy Football Injury Recap \u2014 Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/analysis/week-5-fantasy-football-injury-recap-6/"
   },
   {
-   "title": "'Decent chance' Nico Collins returns for Week 4 \u2014 NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-27/decent-chance-nico-collins-returns-for-week-4"
+   "title": "Week 6 Fantasy Waiver Wire Targets \u2014 Sports Illustrated",
+   "url": "https://www.si.com/fantasy/week-6-waiver-wire-targets"
   },
   {
-   "title": "Jayden Daniels going to London, may sit again \u2014 RotoWire",
-   "url": "https://www.rotowire.com/football/headlines/jayden-daniels-injury-going-to-london-but-may-sit-again-week-4-639672"
+   "title": "Woody Marks and the Best Week 6 Waiver Pickups \u2014 Bleacher Report",
+   "url": "https://bleacherreport.com/articles/25509809-woody-marks-and-best-week-6-fantasy-football-waiver-wire-pickups"
   },
   {
-   "title": "Injury expert on Josh Allen's Week 4 availability \u2014 SI",
-   "url": "https://www.si.com/nfl/bills/onsi/josh-allen-reputable-nfl-injury-expert-projects-hurt-qb-week-4-availability-for-bills"
+   "title": "2026 NFL Odds Week 6: Lines and Spreads \u2014 FOX Sports",
+   "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games"
   },
   {
-   "title": "Eagles injury updates \u2014 Philadelphia Inquirer",
-   "url": "https://www.inquirer.com/eagles/live/eagles-news-injury-report-next-game-jalen-hurts-20260929.html"
+   "title": "Rams release K Harrison Mevis, sign Blake Grupe \u2014 ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50175234/rams-release-kicker-mevis-miscues-ot-loss"
   },
   {
-   "title": "Texans' Nico Collins: practicing Wednesday \u2014 CBS Sports",
-   "url": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-practicing-wednesday/"
+   "title": "Marvin Harrison Jr. traded to Texans \u2014 FOX Sports",
+   "url": "https://www.foxsports.com/stories/nfl/marvin-harrison-jr-trade-details-cardinals"
   },
   {
-   "title": "McVay 'hopeful' Puka Nacua will play in Week 4 \u2014 NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-28/mcvay-hopeful-puka-nacua-will-play-in-week-4"
+   "title": "Rap: 'Some hope' Lamar (ankle) plays in Week 6 \u2014 NBC Sports",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-12/rap-some-hope-lamar-ankle-plays-in-week-6"
   },
   {
-   "title": "Rams unlikely to have Puka Nacua back against Eagles \u2014 Bleeding Green Nation",
-   "url": "https://www.bleedinggreennation.com/news/184472/rams-unlikely-to-have-puka-nacua-back-against-eagles"
+   "title": "Smith-Njigba (ankle) limited Monday \u2014 NBC Sports",
+   "url": "https://nbcsports.com/fantasy/football/player-news/2026-10-12/smith-njigba-ankle-listed-as-limited-on-monday"
   },
   {
-   "title": "Ravens' Lamar Jackson: nursing minor injury \u2014 CBS Sports",
-   "url": "https://www.cbssports.com/fantasy/football/news/ravens-lamar-jackson-nursing-minor-injury/"
+   "title": "Week 6 QB start/sit: Cousins, Herbert, Nix, Shough \u2014 The Big Lead",
+   "url": "https://www.thebiglead.com/week-6-fantasy-football-qb-start-sit-kirk-cousins-justin-herbert-bo-nix-tyler-shough/"
   },
   {
-   "title": "NFL injury report, Week 4 \u2014 DraftKings Network",
-   "url": "https://dknetwork.draftkings.com/2026/09/29/nfl-injury-report-week-4"
+   "title": "Skattebo loses fumble in OT in tie with Commanders \u2014 NBC Sports",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/skattebo-loses-fumble-in-ot-in-tie-with-commanders"
+  },
+  {
+   "title": "Raiders RB Jeanty questionable with ankle/foot \u2014 ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50142192/raiders-rb-ashton-jeanty-ankle-foot-questionable-vs-pats"
   }
  ],
- "brief": "**Wednesday update.** You're **2-1, 3rd place, 2nd in total points**. Yahoo projects **125.2 to 125.7** vs **stop harrison me**, still a **49%** coin flip.\n\n### What changed since Tuesday\n- **Your Braelon Allen claim went through** (MarShawn Lloyd dropped), and he's already in your RB slot. Better news: Breece Hall's MRI showed his injury is less severe than feared, though he's still week to week (DraftKings Network). Allen should start again this week.\n- **Ollie Gordon II is gone:** Madenspacher claimed him, plus Kalif Raymond.\n- **A trade is listed** between league leader **Deshaun Don\u2019t Touchdown There** and **IonRunIt** (Lamar Jackson, TreVeyon Henderson, DJ Moore, Cam Skattebo and Davante Adams), but it isn't on either roster yet, so it's likely waiting on commissioner review. Lamar Jackson was limited in Wednesday practice with what the Ravens call \"something small\" (CBS Sports).\n\n### Your players\n- **Bryce Young (QB, CAR) vs DET, Sunday night.** Projected 22.2.\n- **Bo Nix (QB, DEN).** Now projected slightly higher (21.6), but still your bench QB; he's your best trade chip.\n- **Dallas Goedert (TE, PHI) is out** with an MCL sprain expected to cost several weeks (DraftKings Network).\n- **Steelers D/ST plays Thursday night.**\n\n### Your opponent (stop harrison me)\n- **Nico Collins returned to practice Wednesday**; Houston is \"hopeful\" he plays (CBS Sports). Expect him active.\n- **Puka Nacua** (hip/groin) has missed two games; coach Sean McVay said Monday he's \"hopeful\" Nacua returns (NBC Sports), but Philadelphia outlets expect him to sit (Bleeding Green Nation). The biggest swing factor in your matchup.\n\n### Still to verify\nFriday's final injury reports for Nacua and Collins.",
- "startsit": "| Slot | Start | Confidence | Why |\n|---|---|---|---|\n| QB | Bryce Young | Medium | 22.2 vs Nix's 21.6, a near-tie. Young at home vs Detroit, Nix at San Francisco's tougher defense. |\n| RB | Ashton Jeanty | High | Your RB1. |\n| RB | Braelon Allen | Medium | Claim went through; should lead the Jets with Breece Hall out (10.9 proj). |\n| WR | Jaxon Smith-Njigba | High | 40.4 points last week. |\n| WR | Zay Flowers | High | 17.0 proj vs Tennessee. |\n| TE | Juwan Johnson | Medium | Goedert is out for weeks. **Monday night.** |\n| FLEX | Luther Burden III | Medium | 12.8 proj beats Wan'Dale Robinson (10.2). |\n| K | Cam Little | Medium | Keep. |\n| DEF | Steelers | Medium | **Thursday night** at Cleveland. |\n\nYour lineup in Yahoo already matches this. No changes needed.\n\n### Re-check before kickoff (Pacific time)\n- **Thursday before 5:15pm:** Steelers D/ST locks.\n- **Friday afternoon:** Jets final injury report (confirms Allen's role).\n- **Sunday ~8:30am:** inactives for Flowers and Burden (10am games).\n- **Sunday ~1:00pm:** inactives for Jeanty and Smith-Njigba (1:25pm games).",
- "waivers": "Your claim used your waiver spot, so you're **last (12th)** in the rolling order now.\n\n### What happened\n- **Braelon Allen:** yours.\n- **Ollie Gordon II and Kalif Raymond:** both went to Madenspacher.\n\n### Consider\n| Move | Why |\n|---|---|\n| **Drop Dallas Goedert for a flier** | He's out for several weeks with an MCL sprain (DraftKings Network), and you already have Juwan Johnson at TE. Only worth it if you find a player with a clear role; free agents added now go straight to your roster, no waiver needed. |\n\n### Hold\n- **Bo Nix:** trade him instead (see Trades).\n- **Jadarian Price:** now your RB3; keep for bye weeks.",
- "trades": "### Your roster: surplus and needs\n- **Surplus: QB.** Bryce Young and Bo Nix project almost identically (22.2 and 21.2). You only start one.\n- **Surplus: WR depth.** Wan'Dale Robinson (18.7 last week) and Marvin Harrison Jr.\n- **Need: RB depth.** Braelon Allen fills RB2 for now, but only until Breece Hall returns.\n- **Trade deadline:** Nov 28. The commissioner reviews trades.\n\n### Offers to send\n\n| # | Partner | You give | You get | Why it works for you | Why they'd accept | Confidence |\n|---|---|---|---|---|---|---|\n| 1 | **Crashee Rice** (1-2) | Bo Nix | **Bhayshul Tuten** (RB, JAX) or **RJ Harvey** (RB, DEN) | A real RB2/flex option for a player you don't start. | They carry four RBs, and their backup QB Baker Mayfield is out, leaving Dak Prescott with no cover. | Medium |\n| 2 | **LionsWonAgain** (1-2) | Bo Nix | **Breece Hall** (RB, NYJ) \u2014 buy-low | Hall's MRI showed a less severe injury than feared (DraftKings Network). With Braelon Allen now yours, you'd own the whole Jets backfield. | Their backup QB Jayden Daniels has a dislocated elbow and may sit again (RotoWire). They just added RB Jaylen Wright, so they can spare Hall. | Medium\u2013High |\n| 3 | **Mixon round 1 K.O** (1-2) | Bo Nix + Wan'Dale Robinson | **Alvin Kamara** (RB, NO) | A steady RB2 in PPR. | Josh Allen is listed questionable with a knee bruise and they have no backup QB. An injury doctor expects Allen to play (SI), so this is weaker. | Low |\n\n**Nix can only go once.** Start with #2 if you want upside, #1 if you want help right now.\n\n### Rival check\nThe only teams ahead of you are **Deshaun Don\u2019t Touchdown There** (3-0, most points) and **Matt Gay** (3-0). None of the offers above help them. Deshaun also has a trade pending with IonRunIt; if it goes through, check whether it strengthens them.\n\n### Sell high\n- **Juwan Johnson:** 2 TDs last week. But he's your starting TE while Goedert is hurt, so hold for now.\n- **Wan'Dale Robinson:** 18.7 points last week; package him while his value is up.\n\n### Don't trade\nJaxon Smith-Njigba, Ashton Jeanty, Zay Flowers.\n\n*Trade ideas use Yahoo's rosters as of Tuesday. Confirm injury news before sending.*",
- "matchup": "**Projection:** Mr.Chow 125.2 vs stop harrison me 125.7 (Yahoo). **Win probability: 49%.**\n\n### Swing players\n- **Their Puka Nacua:** if he sits, their FLEX drops to Chris Godwin or Khalil Shakir, and you become the favorite.\n- **Their Nico Collins:** back at practice, likely plays.\n- **Your Braelon Allen:** a starting role for the Jets adds real upside over Jadarian Price.\n\n### Moves that raise your odds\n1. **Nothing to change now.** Your lineup is set correctly.\n2. **Check Friday's Rams report for Nacua** so you know what you're up against."
+ "brief": "### Week 6 at a glance (updated Tue Oct 13)\n**You're 2-3 (8th) after a 178\u2013110 loss to Mixon round 1 K.O.** Opponent: **Madenspacher** (4-1, 2nd). Yahoo projects **124.3 to 57.7**, because their current lineup has Burrow, Jefferson and Ollie Gordon on byes and Montgomery out. They'll fix some of it (Mahomes, Walker, McMillan are on their bench), but their RB room is thin. Etienne is on IR, Gordon is on bye and Montgomery is out, so they likely start Walker plus a WR or TE at RB. **Week 6 byes:** Bengals, Lions, Dolphins, Vikings.\n\n**News on your players**\n- **Jaxon Smith-Njigba (SEA):** Ankle. **Limited** on Monday's report. Seattle plays **Thursday** at Denver. *(NBC Sports)*\n- **Woody Marks (HOU):** David Montgomery (groin) is **week-to-week**. Marks is now Houston's lead back and a must-start, though at Jacksonville is a tough matchup. *(Forbes, Bleacher Report)*\n- **Ashton Jeanty (LV):** Ankle/foot. Played through it in Week 5. Bills at Raiders has the slate's highest total (53.5). *(ESPN)*\n- **Zay Flowers (BAL):** Lamar (ankle) has \"some hope\" to play. *(NBC Sports)*\n- **Bo Nix (DEN):** The Big Lead says **sit** him: Seattle allows the 7th-fewest QB points, and it's a Thursday game. *(The Big Lead)*\n- **Marvin Harrison Jr.:** Traded to Houston. Projects 1.4 this week.\n- **Emanuel Wilson (SEA):** Charbonnet (PUP) and Price (IR) are out, so he keeps the lead job.",
+ "startsit": "### Week 6 lineup\n| Slot | Start | Proj | Confidence | Why |\n|---|---|---|---|---|\n| QB | **Bryce Young** \u2b06 | 19.6 | Medium | Yahoo projects him 2 points over Nix, and Nix has a bad Thursday matchup. |\n| RB | **Ashton Jeanty** | 15.7 | Medium-High | Highest game total of the week. |\n| RB | **Woody Marks** \u2b06 | 13.1 | Medium | Lead back with Montgomery out. **Bench Braelon Allen** (10.7); the Jets are 7.5-point underdogs at New England. |\n| WR | **Jaxon Smith-Njigba** | 26.4 | High (if active) | Check Thursday's report. |\n| WR | **Zay Flowers** | 16.0 | Medium | |\n| TE | **Juwan Johnson** | 10.0 | Medium | Saints at Giants (45.5 total). |\n| W/R/T | **Luther Burden III** | 12.6 | Medium | Bears at Falcons (49.5). Emanuel Wilson (12.8) is about even, but Burden's game is the better environment. |\n| K | **Cam Little** | 7.9 | Medium | |\n| DEF | **Steelers** | 7.4 | Medium | |\n\n**Bench:** Braelon Allen, Emanuel Wilson, Wan'Dale Robinson, Marvin Harrison Jr., Price (IR), plus a new add.\n\n**Re-check:** **Thursday Oct 15 by 5pm PT.** If JSN is out, start Emanuel Wilson in the FLEX and Burden at WR. JSN and E. Wilson both play Thursday night, so you must decide before that game.",
+ "waivers": "### Waivers (rolling list. You're **6th** in priority, and these players clear Wed Oct 14)\n| # | Add | Why | Drop |\n|---|---|---|---|\n| 1 | **MarShawn Lloyd** (RB, GB) | Leads Green Bay's backfield with Jacobs on the commissioner-exempt list. Two TDs on 11 touches last week. Proj 11.7 vs. Dallas (52.5 total). *(SI)* | **Bo Nix.** Young's bye (Week 5) has passed, and streaming QBs are available (Cousins proj 21.2, Rodgers 20.6). |\n| 2 | Germie Bernard (WR, PIT) | Led Pittsburgh's WRs with 6 catches for 80 yards. Pittman (IR) and R. Wilson are out. | Jadarian Price (IR, but stuck on your bench because your IR slot is full) |\n| \u2014 | Dallas Goedert (TE, PHI) | Proj 10.7, about the same as Juwan. **Only if Juwan gets hurt.** | \u2014 |",
+ "trades": "### Trades\n**Surplus:** RBs (Jeanty, Marks, Allen, E. Wilson, and Lloyd once added). **Need:** WR depth while JSN's ankle is shaky, and an upgrade at TE.\n\n| Partner | You give | You get | Why it works | Why they'd accept | Confidence |\n|---|---|---|---|---|---|\n| **Mixon round 1 K.O** (2-3) | Braelon Allen | **Emeka Egbuka** (WR, TB) | A WR3 with upside. | Their RBs are thin: Kamara (back), Achane (IR), Shipley (out). They have 7 WRs. | Medium |\n| **Rodgers 1st round** (4-1) | Emanuel Wilson + Wan'Dale Robinson | **Jakobi Meyers** + **Rachaad White** | A depth swap. Low priority. | Stevenson's role is growing, and they could use another RB. | Low |\n| **Njibger** (1-4) | Woody Marks | **Tucker Kraft** (TE) | Kraft over Juwan is about +2 a week, and better rest of season. | They need RBs (Barkley's hamstring, Brooks on IR). | Low-Medium. Only do it after Lloyd clears waivers. |\n\n**Don't trade** Jeanty, JSN or Flowers.",
+ "matchup": "### Matchup: Mr.Chow vs. Madenspacher (4-1)\n**Projection:** Yahoo says **124.3 \u2013 57.7**, but that counts their bye players. A realistic number for them after lineup fixes is **105\u2013115**. Your win chance is about **65\u201370%**.\n\n**Swing players:** JSN's ankle (Thursday), and Mahomes plus Kenneth Walker (Chiefs -8.5 vs. the Chargers).\n\n**One move that raises your odds:** start **Woody Marks over Braelon Allen** (+2.3 projected, and a better game script).\n\n**Prediction:** **Win, 122\u2013108.** Confidence: Medium."
 }

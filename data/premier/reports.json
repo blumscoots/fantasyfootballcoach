@@ -1,73 +1,63 @@
 {
- "generated_at": "2026-09-30T20:45:00+00:00",
- "week": 4,
- "trigger": "manual (Claude chat, Wednesday refresh)",
+ "generated_at": "2026-10-13T20:30:00+00:00",
+ "week": 6,
+ "trigger": "chat",
  "changes": [
-  "Madenspacher won Ollie Gordon II ($156) and Kalif Raymond ($30)",
-  "Sam Roush disliker added Jaylen Wright ($71) and Bills D/ST",
-  "Rachaad White: questionable (shoulder)"
+  "Week 6 refresh"
  ],
  "sources": [
   {
-   "title": "'Decent chance' Nico Collins returns for Week 4 \u2014 NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-27/decent-chance-nico-collins-returns-for-week-4"
+   "title": "Fantasy Football Week 6 Injury Report \u2014 Forbes (Oct 13)",
+   "url": "https://www.forbes.com/sites/bryantoporek/2026/10/13/fantasy-football-week-6-injury-report-ceedee-lamb-david-montgomery-deebo-samuel-more/"
   },
   {
-   "title": "Texans' Nico Collins: coach 'hopeful' for Week 4 return \u2014 CBS Sports",
-   "url": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-coach-hopeful-for-week-4-return/"
+   "title": "Week 5 Fantasy Football Injury Recap \u2014 Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/analysis/week-5-fantasy-football-injury-recap-6/"
   },
   {
-   "title": "Eagles news: injury updates, next game \u2014 Philadelphia Inquirer",
-   "url": "https://www.inquirer.com/eagles/live/eagles-news-injury-report-next-game-jalen-hurts-20260929.html"
+   "title": "Week 6 Fantasy Waiver Wire Targets \u2014 Sports Illustrated",
+   "url": "https://www.si.com/fantasy/week-6-waiver-wire-targets"
   },
   {
-   "title": "Justin Jefferson avoids serious injury, could play Week 4 \u2014 FantasyPros",
-   "url": "https://www.fantasypros.com/nfl/news/611316/justin-jefferson-ankle-avoids-serious-injury-could-play-week-4.php"
+   "title": "Woody Marks and the Best Week 6 Waiver Pickups \u2014 Bleacher Report",
+   "url": "https://bleacherreport.com/articles/25509809-woody-marks-and-best-week-6-fantasy-football-waiver-wire-pickups"
   },
   {
-   "title": "NFL Week 4 schedule \u2014 NFL.com",
-   "url": "https://www.nfl.com/schedules/2026/by-week/week-4"
+   "title": "2026 NFL Odds Week 6: Lines and Spreads \u2014 FOX Sports",
+   "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games"
   },
   {
-   "title": "Fantasy waiver wire, Week 4 \u2014 NFL.com",
-   "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-4-te-juwan-johnson-rb-braelon-allen-headline-targets"
+   "title": "Rams release K Harrison Mevis, sign Blake Grupe \u2014 ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50175234/rams-release-kicker-mevis-miscues-ot-loss"
   },
   {
-   "title": "ESPN league data feed (rosters, projections, player notes) via your GitHub site",
-   "url": "https://blumscoots.github.io/fantasyfootballcoach/data/premier/league.json"
+   "title": "Marvin Harrison Jr. traded to Texans \u2014 FOX Sports",
+   "url": "https://www.foxsports.com/stories/nfl/marvin-harrison-jr-trade-details-cardinals"
   },
   {
-   "title": "Sources: Jets RB Breece Hall week-to-week with quad injury \u2014 ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50053866/sources-jets-rb-breece-hall-week-week-quad-injury"
+   "title": "Rap: 'Some hope' Lamar (ankle) plays in Week 6 \u2014 NBC Sports",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-12/rap-some-hope-lamar-ankle-plays-in-week-6"
   },
   {
-   "title": "Texans' Nico Collins: practicing Wednesday \u2014 CBS Sports",
-   "url": "https://www.cbssports.com/fantasy/football/news/texans-nico-collins-practicing-wednesday/"
+   "title": "Smith-Njigba (ankle) limited Monday \u2014 NBC Sports",
+   "url": "https://nbcsports.com/fantasy/football/player-news/2026-10-12/smith-njigba-ankle-listed-as-limited-on-monday"
   },
   {
-   "title": "Nico Collins returns to practice \u2014 NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/nico-collins-hamstring-returns-to-practice"
+   "title": "Week 6 QB start/sit: Cousins, Herbert, Nix, Shough \u2014 The Big Lead",
+   "url": "https://www.thebiglead.com/week-6-fantasy-football-qb-start-sit-kirk-cousins-justin-herbert-bo-nix-tyler-shough/"
   },
   {
-   "title": "Justin Jefferson not practicing, day-to-day \u2014 RotoWire",
-   "url": "https://www.rotowire.com/football/headlines/justin-jefferson-injury-not-practicing-day-to-day-639989"
+   "title": "Skattebo loses fumble in OT in tie with Commanders \u2014 NBC Sports",
+   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/skattebo-loses-fumble-in-ot-in-tie-with-commanders"
   },
   {
-   "title": "Rachaad White getting treatment for shoulder injury \u2014 NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/rachaad-white-getting-treatment-for-shoulder-injury"
-  },
-  {
-   "title": "NFL injury report, Week 4 \u2014 DraftKings Network",
-   "url": "https://dknetwork.draftkings.com/2026/09/29/nfl-injury-report-week-4"
-  },
-  {
-   "title": "Woody Marks splits snaps 50-50 with Montgomery \u2014 RotoWire",
-   "url": "https://www.rotowire.com/football/headlines/woody-marks-news-splits-snaps-50-50-with-montgomery-637240"
+   "title": "Raiders RB Jeanty questionable with ankle/foot \u2014 ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50142192/raiders-rb-ashton-jeanty-ankle-foot-questionable-vs-pats"
   }
  ],
- "brief": "**Wednesday update.** You're **2-1**, and 2nd in total points (the tiebreaker for playoff seeding; record comes first). ESPN now projects **127.5 to 129.6** vs **Sam Roush disliker**, a **49%** coin flip.\n\n### What changed since Tuesday\n- **Nico Collins returned to practice Wednesday** after missing two games; coach DeMeco Ryans is \"hopeful\" he plays Sunday vs Dallas (CBS Sports, NBC Sports). You already have him in a WR slot, which is right for now.\n- **Justin Jefferson did not practice Wednesday** and is day to day with an ankle sprain (RotoWire, FOX 9). That's good news for **Jordan Addison**.\n- **Rachaad White is questionable with a shoulder injury** and getting treatment (NBC Sports). He was a bench player anyway, but it lowers his trade value.\n- **Waivers:** Madenspacher won **Ollie Gordon II for $156** and Kalif Raymond for $30. Your opponent added **Jaylen Wright ($71)** and swapped to the **Bills D/ST**.\n- **Metcalf is benched**, which frees up your Sunday options. Good move.\n\n### Your players (unchanged from Tuesday)\n- **Bijan & London (ATL) play Monday night** at New Orleans; both are high-confidence starts after London's 194-yard game with Penix.\n- **Jalen Hurts** avoided a major injury after last week's hit (Philadelphia Inquirer). Dallas Goedert remains out with an MCL sprain expected to cost several weeks (DraftKings Network).\n- **Tyler Warren** plays in London at **6:30am PT Sunday**.\n- **Steelers D/ST plays Thursday night.**\n\n### Your opponent\n- Their new **Jaylen Wright** is questionable; Miami's backfield is split after Achane's injury.\n- **Braelon Allen** (their bench) should start for the Jets with Breece Hall week to week, but they'd have to bench someone to use him.\n\n### Still to verify\nThursday and Friday practice reports for Collins and Jefferson.",
- "startsit": "| Slot | Start | Confidence | Why |\n|---|---|---|---|\n| QB | Jalen Hurts | High | Healthy; no real alternative. |\n| RB | Bijan Robinson | High | **Monday night.** |\n| RB | D'Andre Swift | Medium | 20 carries last week. |\n| WR | Drake London | High | **Monday night.** |\n| WR | Nico Collins | Medium | Back at practice Wednesday. **Swap to Addison if Collins is ruled out Friday.** |\n| TE | Tyler Warren | High | **6:30am PT Sunday.** |\n| FLEX | **Jordan Addison** if Jefferson is out; otherwise Dalton Kincaid | Medium | Jefferson missed Wednesday's practice. Addison went 5-90-1 without him. |\n| D/ST | Steelers | Medium | **Thursday night.** |\n| K | Jason Myers | Medium | 4-for-4 on FGs. |\n\n### Decision tree for Sunday\n- **Collins active, Jefferson out:** Collins + London at WR, Addison at FLEX, bench Kincaid.\n- **Collins active, Jefferson active:** Collins + London, Kincaid at FLEX (Addison's role shrinks).\n- **Collins out, Jefferson out:** London + Addison at WR, Kincaid at FLEX.\n- **Collins out, Jefferson active:** London + Addison at WR, Kincaid at FLEX.\n\n### Re-check before kickoff (Pacific time)\n- **Thursday before 5:15pm:** Steelers D/ST locks. Metcalf stays benched.\n- **Friday afternoon:** Houston and Minnesota final injury reports.\n- **Sunday 5:00am:** Warren's game (London) inactives.\n- **Sunday ~8:30am:** Collins, Swift, Hurts inactives (10am games).\n- **Sunday ~11:30am:** Jefferson inactive status (Vikings kick 1:05pm). Addison is still movable until then.",
- "waivers": "Waivers ran Wednesday. You have **$490 FAAB** left.\n\n### What happened\n- **Ollie Gordon II went for $156** to Madenspacher, far above the $45\u201360 I suggested. The league is spending aggressively early, which is worth knowing for future bids.\n- **Kalif Raymond went for $30** to Madenspacher.\n\n### Remaining options (free agents, no bid needed)\n| Add | Why | Drop |\n|---|---|---|\n| **Mack Hollins** (WR, NE) | A.J. Brown is out into mid-October; 19.5% target share (NFL.com). Short-term depth only. | Keon Coleman |\n\nNothing on the wire is worth a big bid right now. **Save your $490** for the next injury-driven breakout; the rest of the league is burning budget.\n\n### Hold\n- **Nico Collins:** back at practice.\n- **Brian Robinson Jr.:** Bijan's handcuff.\n- **Rachaad White:** questionable with a shoulder injury; hold until the severity is clear.\n- **Cam Ward:** only backup QB.",
- "matchup": "**Projection:** Mr. Chow 127.5 vs Sam Roush disliker 129.6 (ESPN). **Win probability: 49%.**\n\n### Swing players\n- **Nico Collins:** back at practice. If he plays against Dallas's weak pass defense, he's your biggest edge.\n- **Jordan Addison vs. Justin Jefferson:** Jefferson missed Wednesday's practice. If he sits Sunday, start Addison at FLEX.\n- **Monday night:** Bijan and London play last, so you'll know exactly what you need.\n\n### Moves that raise your odds\n1. **Follow the Sunday decision tree** on the Start / sit tab once the Collins and Jefferson statuses are out.\n2. **Keep Metcalf benched.** Done.",
- "trades": "### Your roster: surplus and needs\n- **Surplus: TE.** You carry three (Warren, Kincaid, Hockenson) but start one. Kincaid (10.7 proj) is your best trade chip.\n- **Surplus: depth WRs.** Addison (sell-high after a 20-point week while Justin Jefferson was out), Metcalf, Keon Coleman.\n- **Need: RB2.** Swift is a solid but low-ceiling RB2, and Rachaad White is in a committee.\n- **Trade deadline:** Dec 2. Five veto votes kill a trade, so keep offers fair.\n\n### Offers to send\n\n| # | Partner | You give | You get | Why it works for you | Why they'd accept | Confidence |\n|---|---|---|---|---|---|---|\n| 1 | **Torn Ligament Elite** (1-2) | Dalton Kincaid + Keon Coleman | **David Montgomery** (RB, HOU) | RB2 upgrade (13.5 proj) with a great Week 4 matchup vs Dallas. | Their TEs are Tucker Kraft and Hunter Henry (8.9 each). They also roster Woody Marks, who splits Houston's backfield 50-50 with Montgomery (RotoWire), so they lose little. | Medium |\n| 2 | **Torn Ligament Elite** (alternative to #1) | Dalton Kincaid + Jordan Addison | **Kyren Williams** (RB, LAR) | A true lead back: 21.8 points last week. | Same TE need; Addison adds WR depth at the peak of his value. | Low\u2013Medium |\n| 3 | **Fort le JOHN** (3-0) | Jordan Addison | **Breece Hall** (RB, NYJ) \u2014 buy-low | Hall is week to week, but Monday's MRI showed it's less severe than feared (DraftKings Network). Buy before he's back. Stash him for a second-half RB boost. | They're 3-0 with CMC and Chase Brown starting, and they just dropped WR Adonai Mitchell; Mike Evans is questionable. They need a healthy WR now. | Medium |\n| 4 | **Shough** (2-1) | DK Metcalf + Keon Coleman | **Luther Burden III** (WR, CHI) | Younger WR3 with more upside (19.8 last week) than Metcalf. | They're overloaded at WR (six) and down to Bucky Irving at RB with Josh Jacobs and Jonathon Brooks hurt. | Low\u2013Medium |\n\n**Kincaid can only go once.** Send #1 first. If they decline, try #2. Offer #3 works alongside either one.\n\n### Rival check\nBig D (1st in points) and Shough (3rd) are your direct rivals near the top. A trade with Shough (#4) helps them too, so only do it if you clearly win it. Torn Ligament Elite and Fort le JOHN rank lower in points, so helping them costs you less.\n\n### Buy low\n- **Breece Hall** (see #3).\n- **Puka Nacua** (Madenspacher, 0-3, questionable, 0 points last week). A winless team may sell cheaply, but he's a WR1 when healthy; expect to pay real value. Long shot.\n\n### Sell high\n- **Jordan Addison:** his 20-point game came with Jefferson out. Sell before Jefferson is back to full speed.\n- **Rachaad White:** now questionable with a shoulder injury (NBC Sports), so his trade value has dropped. I swapped him out of offers #1 and #4 for Keon Coleman.\n\n### Don't trade\nBijan, London, Hurts, Warren, and Nico Collins (don't sell him at his lowest point).\n\n*Trade ideas use this week's ESPN projections and news. Player values change weekly, so confirm injury news before sending.*"
+ "brief": "### Week 6 at a glance (updated Tue Oct 13)\n**You're 3-2, with the 3rd-most points in the league.** This week you play **artusdaudin**, who is 0-5. ESPN projects you **126.3 to 98.5** (64%). **Week 6 byes:** Bengals, Lions, Dolphins, Vikings.\n\n**News on your players**\n- **Drake London / Bijan Robinson (ATL):** Michael Penix Jr. hurt his ribs at the end of Week 5. ESPN reports it is \"not considered serious,\" but if he sits, Tua Tagovailoa starts, which is a downgrade for London. Bears at Falcons has the slate's 5th-highest total (49.5). *(Forbes)*\n- **Nico Collins (HOU):** Houston traded for **Marvin Harrison Jr.**, who adds another mouth to feed. Collins is still the WR1. *(FOX Sports)*\n- **DK Metcalf (PIT):** Pittsburgh's WR room is thin. Pittman is on IR, and Roman Wilson and Ben Skowronek are both out for Week 6. Metcalf's target share should go **up**. *(Forbes)*\n- **Jalen Hurts (PHI):** He's struggling (21 of 40, 220 yards, 1 TD in the London loss), and the Eagles' backfield is depleted: Barkley (hamstring), Bigsby (IR), Shipley (plantar fascia). DeVonta Smith has \"a shot\" to return. *(Forbes, The Big Lead)*\n- **T.J. Hockenson:** Concussion, plus a Minnesota bye. Likely back in Week 7. **Jordan Addison:** Minnesota bye.\n- **Jason Myers:** 23 points last week. Seattle is at Denver Thursday (total 40.5).\n\n**News on your opponent's players**\n- **KC Concepcion** is in the concussion protocol (questionable). Their WR2 slot is basically empty unless they pick someone up.\n- **Drake Maye** scored 39.5 last week and faces the Jets. He's their only real threat, along with James Cook.",
+ "startsit": "### Week 6 lineup\n| Slot | Start | Proj | Confidence | Why |\n|---|---|---|---|---|\n| QB | **Jalen Hurts** | 17.8 | Medium | Rushing floor vs. Carolina (Eagles -1.5). Cam Ward (13.0) at Indianapolis is the fallback. |\n| RB | **Bijan Robinson** | 23.1 | High | Bears at Falcons has a 49.5 total. |\n| RB | **D'Andre Swift** | 13.6 | Medium-High | Same shootout, on the other side. |\n| WR | **Drake London** | 16.0 | High | Hold even if Penix sits. |\n| WR | **Nico Collins** | 15.9 | High | MHJ's arrival dents him a little, not enough to bench him. |\n| TE | **Tyler Warren** | 12.4 | High | Titans at Colts (Colts -7). 21.4 points last week. |\n| FLEX | **DK Metcalf** | 11.8 | Medium | Pittsburgh's next two WRs are out, so targets funnel to him. Better than Rachaad White (7.4) or Keon Coleman (7.1). |\n| D/ST | **Steelers** | 7.0 | Medium | At Tampa Bay (40.5 total). |\n| K | **Jason Myers** | 8.6 | Medium | |\n\n**Bench:** Cam Ward, Rachaad White, Brian Robinson Jr., Kincaid, Keon Coleman, Addison (bye), Hockenson (bye/concussion), Conner (IR).\n\n**Re-check before kickoff**\n- **Fri Oct 16:** Penix's practice status. If he's out, London still starts, but expect about 2\u20133 fewer points.\n- **Sun 9:30am PT:** nothing on your roster plays early. Everyone else plays at 10am PT or later.",
+ "waivers": "### Waivers (FAAB: you have about $490 of $500)\n| Player | Why | Bid | Drop |\n|---|---|---|---|\n| **Kendre Miller** (RB, NO) | Alvin Kamara has a back issue. Miller took about 30% of backfield touches and scored on 10 touches. Plays at the Giants (45.5 total). *(SI, Bleacher Report)* | **$12** | T.J. Hockenson (concussion, bye; you have Warren and Kincaid) |\n| Jakobi Meyers (WR, JAX) | Steady WR4 for bye weeks. | $3 | Keon Coleman |\n| Tyjae Spears (RB, TEN) | Led Tennessee in snaps with 9 catches. A speculative stash. | $1 | Rachaad White |\n\n**Hold:** Brian Robinson Jr. (Bijan's handcuff) and Cam Ward (you need a QB for Hurts's bye).",
+ "trades": "### Trades\nYou're 3-2 with the 3rd-best scoring, so there's **no need to force anything**. Your only soft spots are FLEX (Metcalf) and a struggling Hurts.\n\n| Partner | You give | You get | Why it works | Why they'd accept | Confidence |\n|---|---|---|---|---|---|\n| **Torn Ligament Elite** (1-4) | Rachaad White + Keon Coleman | **Devaughn Vele** or **Josh Downs** | A cheap WR3 upgrade. | Their RBs are banged up (Montgomery out, Charbonnet out, Kamara's back). | Low-Medium |\n| **Projected Last** (1-4) | Cam Ward + D'Andre Swift | **Rhamondre Stevenson** + **Denzel Boston** | Stevenson is a must-start with Henderson out multiple weeks, and you add a WR. | They're 1-4 and need any spark. | Low |\n\n**Don't trade:** Bijan, London, Collins or Tyler Warren.",
+ "matchup": "### Matchup: Mr. Chow vs. artusdaudin (0-5)\n**Projection:** **126.3 \u2013 98.5**, **64%** win chance per ESPN. That's conservative given that their WR2 (Concepcion) is in the concussion protocol.\n\n**Swing players:** Drake Maye (39.5 last week, vs. the Jets) and James Cook (Bills at Raiders, 53.5 total, the slate's highest).\n\n**One move that raises your odds:** confirm Metcalf at FLEX over Rachaad White. It's about +4.4 projected. Then add Kendre Miller as insurance.\n\n**Prediction:** **Win, 128\u2013104.** Confidence: Medium-High."
 }
