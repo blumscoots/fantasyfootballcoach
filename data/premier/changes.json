@@ -1,5 +1,10 @@
 {
- "at": "2026-10-16T13:23:41+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-10-16T19:37:19+00:00",
+ "events": [
+  "Baker Mayfield (artusdaudin@gmail.com): DOUBTFUL -> OUT",
+  "Jeremiyah Love (artusdaudin@gmail.com): QUESTIONABLE -> OUT",
+  "KC Concepcion (artusdaudin@gmail.com): QUESTIONABLE -> ACTIVE",
+  "DK Metcalf (Mr. Chow): ACTIVE -> QUESTIONABLE"
+ ],
+ "relevant": true
 }
