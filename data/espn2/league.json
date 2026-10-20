@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T19:46:11+00:00",
+ "fetched_at": "2026-10-20T20:03:16+00:00",
  "key": "espn2",
  "label": "Goldstein Gooners",
  "platform": "espn",
@@ -1826,32 +1826,6 @@
      "slot": "BN"
     },
     {
-     "id": 3121422,
-     "name": "Terry McLaurin",
-     "pos": "WR",
-     "team": "WSH",
-     "injury": "OUT",
-     "proj": 0.0,
-     "last_week": 3.7,
-     "owned_pct": 88.2,
-     "owned_change": -3.32,
-     "outlook": "",
-     "slot": "BN"
-    },
-    {
-     "id": 4040715,
-     "name": "Jalen Hurts",
-     "pos": "QB",
-     "team": "PHI",
-     "injury": "INJURY_RESERVE",
-     "proj": 0.0,
-     "last_week": 0.0,
-     "owned_pct": 76.6,
-     "owned_change": -9.22,
-     "outlook": "",
-     "slot": "BN"
-    },
-    {
      "id": 4035687,
      "name": "Michael Pittman Jr.",
      "pos": "WR",
@@ -2194,6 +2168,18 @@
    "outlook": ""
   },
   {
+   "id": 3121422,
+   "name": "Terry McLaurin",
+   "pos": "WR",
+   "team": "WSH",
+   "injury": "OUT",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 88.2,
+   "owned_change": -3.32,
+   "outlook": ""
+  },
+  {
    "id": 3046779,
    "name": "Jared Goff",
    "pos": "QB",
@@ -2239,6 +2225,18 @@
    "last_week": null,
    "owned_pct": 81.9,
    "owned_change": -0.19,
+   "outlook": ""
+  },
+  {
+   "id": 4040715,
+   "name": "Jalen Hurts",
+   "pos": "QB",
+   "team": "PHI",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 76.6,
+   "owned_change": -9.22,
    "outlook": ""
   },
   {
@@ -3956,30 +3954,6 @@
    "owned_pct": 2.1,
    "owned_change": -0.04,
    "outlook": "Isaac TeSlaa will aim to bounce back as the Lions play the Packers in Week 7. After it appeared the second-year pass catcher was starting to carve out a role for himself again, TeSlaa recorded zero catches against the Cardinals before Detroit's bye. Hopefully the second game this year with zero catches was another anomaly, as there is plenty of love to spread with the Lions' high-volume offense. Green Bay has ranked middle-of-the-pack against fantasy WRs this campaign."
-  },
-  {
-   "id": 4430802,
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "team": "PIT",
-   "injury": "ACTIVE",
-   "proj": 7.9,
-   "last_week": null,
-   "owned_pct": 2.1,
-   "owned_change": -0.02,
-   "outlook": "Darnell Washington and the Steelers are in Paris for an interconference tilt against the Saints in Week 7. He brought in four of six targets for 25 yards and a touchdown during Pittsburgh's thrilling comeback victory in overtime in Week 6. Washington and fellow tight end Pat Freiermuth each played 71% of the offensive snaps, lending more credibility to the \"your turn, my turn\" trend that's developing in 2026. He'll look to exploit New Orleans' 26th-ranked defense in fantasy points allowed per game (17.6) to TEs."
-  },
-  {
-   "id": 4428209,
-   "name": "Ricky Pearsall",
-   "pos": "WR",
-   "team": "SF",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 2.0,
-   "owned_change": -0.01,
-   "outlook": ""
   }
  ],
  "transactions": [
