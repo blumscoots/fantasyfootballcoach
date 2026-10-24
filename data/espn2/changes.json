@@ -1,5 +1,8 @@
 {
- "at": "2026-10-24T18:54:36+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-10-24T22:36:40+00:00",
+ "events": [
+  "Jordan Mason (Mr. Chow): INJURY_RESERVE -> ACTIVE",
+  "Dallas Goedert (ranel): QUESTIONABLE -> ACTIVE"
+ ],
+ "relevant": true
 }
