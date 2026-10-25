@@ -1,5 +1,11 @@
 {
- "at": "2026-10-25T19:09:39+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-10-25T22:42:58+00:00",
+ "events": [
+  "Cam Skattebo (Mr. Chow): ACTIVE -> QUESTIONABLE",
+  "Vivek's Handshakes added Tanner McKee",
+  "Vivek's Handshakes added George Holani",
+  "Vivek's Handshakes dropped Stefon Diggs",
+  "Vivek's Handshakes dropped Rachaad White"
+ ],
+ "relevant": true
 }
