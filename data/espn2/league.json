@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T18:38:34+00:00",
+ "fetched_at": "2026-11-03T02:30:15+00:00",
  "key": "espn2",
  "label": "Goldstein Gooners",
  "platform": "espn",
@@ -71,7 +71,7 @@
      "proj": 12.6,
      "last_week": 0.0,
      "owned_pct": 95.0,
-     "owned_change": 0.05,
+     "owned_change": 0.01,
      "outlook": "Rashee Rice continues to work his way back from a hamstring strain, missing his second straight game in Kansas City's Week 7 loss to the Seahawks. Before getting injured in Week 4, Rice had produced an 11-171-0 line on 15 targets over the prior two games. Once he's cleared to return, he should immediately be Patrick Mahomes' top option in the passing game. If Rice does get back in the lineup in Week 8, he'll be facing a Broncos secondary that could once again be without Pat Surtain but still ranks sixth in fantasy points per game allowed to WRs.",
      "slot": "FLEX"
     },
@@ -84,7 +84,7 @@
      "proj": 11.7,
      "last_week": 19.9,
      "owned_pct": 96.1,
-     "owned_change": 0.05,
+     "owned_change": 0.01,
      "outlook": "Colston Loveland will aim to continue producing as the Bears play the Seahawks in Week 8. Loveland stayed hot in a Week 7 win over New England, finishing with season highs in catches (7), targets (12), yards (69) and tacking on a touchdown. The second-year tight end has had a promising turnaround to the season, with 50 or more yards in three of his last four games and back-to-back outings with a score. He'll face a Seattle defense that's ranked fourth in fantasy points allowed to TEs.",
      "slot": "TE"
     },
@@ -93,11 +93,11 @@
      "name": "Jadarian Price",
      "pos": "RB",
      "team": "SEA",
-     "injury": "INJURY_RESERVE",
+     "injury": "ACTIVE",
      "proj": 7.7,
      "last_week": 0.0,
-     "owned_pct": 66.1,
-     "owned_change": 0.11,
+     "owned_pct": 66.2,
+     "owned_change": 0.15,
      "outlook": "Jadarian Price (chest) is eligible to return from IR for Seattle's Week 8 matchup against Chicago. Price hasn't played since Week 3, but he's expected to be designated to return this week. It remains to be seen if the rookie will be able to suit up against the Bears, and even if he does play, he may be part of a backfield committee that also includes Emanuel Wilson and the potentially returning Zach Charbonnet (knee). With that said, Seattle's backfield could find success against a Chicago defense that has given up 4.33 yards per carry to running backs, 25th in the league.",
      "slot": "IR"
     },
@@ -136,7 +136,7 @@
      "proj": 9.0,
      "last_week": 8.3,
      "owned_pct": 77.4,
-     "owned_change": -0.03,
+     "owned_change": -0.04,
      "outlook": "J.K. Dobbins may be in danger of losing his spot in the Broncos' offense. During a Week 7 win over the Cardinals, rookie Jonah Coleman led the backfield with nine carries compared to Dobbins' six, and Coleman's 11 touches were also more than RJ Harvey's five. Both Dobbins and Harvey got into the end zone while Coleman didn't, suggesting that this could be turning into a full-blown committee. Dobbins doesn't contribute as a pass catcher the way Harvey does, so if he gets supplanted on early downs by Coleman, he may fade out of the game plan entirely. Dobbins will have trouble producing on limited volume in Week 8 versus a Kansas City defense that ranks seventh in fantasy points per game allowed to RBs.",
      "slot": "BN"
     },
@@ -149,7 +149,7 @@
      "proj": 10.4,
      "last_week": 0.0,
      "owned_pct": 73.0,
-     "owned_change": 0.36,
+     "owned_change": 0.18,
      "outlook": "Zach Charbonnet (knee) has a chance to return to Seattle's backfield in Week 8 against Chicago. Charbonnet has yet to play since tearing his ACL in January, but he was activated off the reserve/PUP list last week and logged a trio of full practices. Though he ultimately didn't play Sunday against Kansas City, another week of practice could be enough for Charbonnet to make his return Monday against the Bears. Should that happen, he'll face a Chicago defense that has given up five total touchdowns (three rushing, two receiving) to running backs through seven games.",
      "slot": "RB"
     },
@@ -162,7 +162,7 @@
      "proj": 10.2,
      "last_week": 23.2,
      "owned_pct": 60.6,
-     "owned_change": -0.03,
+     "owned_change": -0.02,
      "outlook": "KC Concepcion and the Browns travel to Pittsburgh for a Week 8 divisional clash. He caught eight of 10 targets for 129 yards and had three carries for another 23 yards during Cleveland's comeback victory in Week 7. The rookie broke out with season highs in receptions, yardage and targets while leading the Browns in every category. Concepcion will aim to score his first touchdown of his career versus the Steelers 14th-ranked defense in fantasy points allowed per game (30.5) to WRs.",
      "slot": "BN"
     },
@@ -175,7 +175,7 @@
      "proj": 9.5,
      "last_week": 12.0,
      "owned_pct": 42.3,
-     "owned_change": 0.0,
+     "owned_change": 0.01,
      "outlook": "Chase McLaughlin could have few scoring opportunities in the Buccaneers' Week 8 matchup against the Falcons. McLaughlin converted on all seven of his kicks in the Week 7 win over the Panthers, making two field goals and five extra points. On the season, McLaughlin has been perfect, making all 16 of his field-goal tries and all 16 of his point-after attempts. Despite this, McLaughlin could struggle against a solid Falcons defense that's allowed just 6.4 kicking points per game this season.",
      "slot": "K"
     },
@@ -187,8 +187,8 @@
      "injury": "ACTIVE",
      "proj": 6.9,
      "last_week": 18.5,
-     "owned_pct": 65.6,
-     "owned_change": -0.5,
+     "owned_pct": 65.4,
+     "owned_change": -0.4,
      "outlook": "Emanuel Wilson's role for Week 8 against the Bears could depend on whether Zach Charbonnet (knee) and/or Jadarian Price (chest) is ready to rejoin Seattle's backfield. As the Seahawks' lead RB in Week 7 against Kansas City, Wilson racked up 100 yards and a touchdown on a hearty 24 carries and added one catch for 15 yards. It was the third time over his past four contests that Wilson logged 20 or more totes, but should Charbonnet and/or Price be ready to return to the fold, Wilson will likely handle a reduced workload. Either way, he could find room to run against a Chicago defense that ranks 25th in the league with 4.33 yards per carry allowed to running backs.",
      "slot": "BN"
     },
@@ -201,7 +201,7 @@
      "proj": 11.4,
      "last_week": 5.7,
      "owned_pct": 78.4,
-     "owned_change": -0.08,
+     "owned_change": -0.07,
      "outlook": "Denzel Boston and the Browns head to Pittsburgh for an AFC North clash in Week 8. He hauled in three of eight targets for 27 yards in Cleveland's 27-24 victory in Week 7. Boston finished third on the team in targets but was a distant fourth in yardage behind fellow rookie KC Concepcion (129), Harold Fannin Jr. (91) and Dylan Sampson (32). Boston will look to rebound against a Steelers defense he posted a 4-89-0 receiving line on seven targets back in Week 4.",
      "slot": "BN"
     },
@@ -239,8 +239,8 @@
      "injury": "ACTIVE",
      "proj": 5.8,
      "last_week": -1.0,
-     "owned_pct": 73.0,
-     "owned_change": 0.16,
+     "owned_pct": 72.9,
+     "owned_change": -0.03,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -280,7 +280,7 @@
      "proj": 0.0,
      "last_week": 2.6,
      "owned_pct": 98.8,
-     "owned_change": -0.06,
+     "owned_change": -0.02,
      "outlook": "",
      "slot": "BN"
     },
@@ -293,7 +293,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 96.7,
-     "owned_change": -0.18,
+     "owned_change": -0.01,
      "outlook": "DeVonta Smith missed Philadelphia's last game after aggravating a hamstring injury. Smith has played in just four games this season due to the nagging issue, which could also leave him sidelined in Week 8 versus the Commanders. If he is able to suit up, Smith could have a tasty matchup, even with backup quarterback Tanner McKee under center. Washington is allowing 254 passing yards per game, which is 28th in the NFL. In addition, the Commanders have surrendered 15 passing scores, which is tied for 28th in the league.",
      "slot": "BN"
     },
@@ -319,7 +319,7 @@
      "proj": 9.3,
      "last_week": 10.9,
      "owned_pct": 83.5,
-     "owned_change": -0.06,
+     "owned_change": -0.03,
      "outlook": "Rome Odunze will look to capitalize on his opportunities as the Bears travel to Seattle in Week 8. Odunze was outperformed by teammate Luther Burden once again in Week 7 against the Patriots, logging four catches for 69 yards to Burden's four catches for 130 yards and a touchdown. Odunze has still been solid throughout this year, with a 24-381-0 receiving line over the first seven games of the season. He'll face a Seahawks defense that's ranked first in fantasy points allowed to WRs.",
      "slot": "WR"
     },
@@ -332,7 +332,7 @@
      "proj": 14.6,
      "last_week": 10.7,
      "owned_pct": 97.0,
-     "owned_change": -0.05,
+     "owned_change": -0.04,
      "outlook": "Christian Watson will aim to return to dominance as the Packers play the Panthers in Week 8. Watson brought in five of eight targets for a team-leading 57 yards in a Week 7 loss to the Lions, which was his lowest yardage total since Week 4. The wideout still has a 34-595-6 receiving line through the first seven games of the season, and he's not far off from outpacing his stat totals from the 2024 and 2025 season. Carolina has ranked a stern fifth in fantasy points allowed to WRs this campaign.",
      "slot": "WR"
     },
@@ -345,7 +345,7 @@
      "proj": 10.9,
      "last_week": null,
      "owned_pct": 34.4,
-     "owned_change": -0.03,
+     "owned_change": 0.0,
      "outlook": "Justin Herbert is hoping the Chargers' Week 7 bye will help the offense get sorted out. Through six games under offensive coordinator Mike McDaniel and working behind a patchwork offensive line, the 28-year-old quarterback is on pace for career worst in every major category, including a 59.4% completion rate, 6.3 yards per attempt and a weak 5:8 TD:INT. He's even failed to score a rushing TD, after running for multiple scores in five of his first six NFL seasons. Herbert will try to right the ship in Week 8 against a Rams defense that ranks 16th in fantasy points per game allowed to QBs.",
      "slot": "BN"
     },
@@ -358,7 +358,7 @@
      "proj": 9.3,
      "last_week": 8.4,
      "owned_pct": 92.2,
-     "owned_change": -0.05,
+     "owned_change": -0.04,
      "outlook": "Travis Kelce made history again in Week 7, moving into fifth place on the NFL's all-time reception list with 1,104 as Kansas City fell to the Seahawks. The veteran tight end remains Patrick Mahomes' most reliable pass catcher, and through six games, Kelce's delivered a 24-343-2 line on 35 targets. The 37-year-old is no longer as dangerous with the ball in his hands, but he can still move the chains consistently. Kelce will take on a Broncos defense in Week 8 that ranks 23rd in fantasy points per game allowed to TEs.",
      "slot": "TE"
     },
@@ -371,7 +371,7 @@
      "proj": 15.1,
      "last_week": 9.9,
      "owned_pct": 94.3,
-     "owned_change": -0.06,
+     "owned_change": -0.05,
      "outlook": "Matthew Golden will look to bounce back as the Packers play the Panthers in Week 8. Golden wasn't abysmal in a Week 7 loss to the Lions, but he logged a season-low 39 yards on six catches. The second-year pass catcher has still totaled 36 grabs for 540 yards and three touchdowns across the seven games of the season, completely obliterating his 39-361-0 receiving line from the 2025 season across 14 games. He'll face a Carolina defense that's ranked a tough fifth in fantasy points allowed to wide receivers.",
      "slot": "FLEX"
     },
@@ -384,7 +384,7 @@
      "proj": 0.0,
      "last_week": 14.0,
      "owned_pct": 68.7,
-     "owned_change": -0.72,
+     "owned_change": -0.18,
      "outlook": "RJ Harvey logged just five touches in the Broncos' Week 7 win over the Cardinals, but he turned one of them into a 52-yard TD reception in the third quarter to salvage his day. The second-year back finished third in the backfield in workload behind rookie Jonah Coleman (11 touches) and veteran J.K. Dobbins (six touches), but Harvey seems to have a steady role as a passing-down option for Bo Nix. Even if Sean Payton continues to roll with a committee approach to his ground game, Harvey's floor should be relatively secure, even if his ceiling is limited to occasional big plays. He's unlikely to make a splash in Week 8 against a Kansas City defense that ranks seventh in fantasy points per game allowed to RBs.",
      "slot": "BN"
     },
@@ -396,8 +396,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 2.0,
-     "owned_pct": 36.8,
-     "owned_change": -0.84,
+     "owned_pct": 36.7,
+     "owned_change": -0.23,
      "outlook": "",
      "slot": "K"
     },
@@ -410,7 +410,7 @@
      "proj": 11.2,
      "last_week": 13.5,
      "owned_pct": 80.0,
-     "owned_change": -0.05,
+     "owned_change": -0.04,
      "outlook": "T.J. Hockenson remains a top option in Minnesota's passing game heading into Week 8 against the Lions. Hockenson found the end zone for the second time of the season in a Week 7 win over the Colts, and he complemented his score with four catches for 35 yards. The veteran tight end has now brought in 27 catches for 237 yards and two touchdowns this season. He enters a favorable matchup versus a Detroit defense that's ranked 32nd in fantasy points allowed to TEs.",
      "slot": "BN"
     },
@@ -476,7 +476,7 @@
      "proj": 0.0,
      "last_week": 18.1,
      "owned_pct": 99.3,
-     "owned_change": -0.04,
+     "owned_change": -0.01,
      "outlook": "",
      "slot": "BN"
     },
@@ -489,7 +489,7 @@
      "proj": 0.0,
      "last_week": 19.1,
      "owned_pct": 91.8,
-     "owned_change": -0.1,
+     "owned_change": -0.03,
      "outlook": "",
      "slot": "BN"
     },
@@ -554,7 +554,7 @@
      "proj": 17.4,
      "last_week": 19.4,
      "owned_pct": 83.4,
-     "owned_change": 0.01,
+     "owned_change": 0.02,
      "outlook": "Braelon Allen's workload is unclear heading into the Jets' Week 8 matchup with the Raiders. He has shined over the last four games with Breece Hall (quad) sidelined, topping 100 total yards three times, but would likely be in a timeshare if Hall can return in Week 8. Both backs can still offer sound production as the matchup is one of the most favorable available. Las Vegas is surrendering 5.2 yards per carry and the second-most fantasy points per game, last week allowing two 90-plus yard rushers to the Rams.",
      "slot": "BN"
     },
@@ -567,7 +567,7 @@
      "proj": 14.2,
      "last_week": 17.3,
      "owned_pct": 86.0,
-     "owned_change": 0.0,
+     "owned_change": -0.07,
      "outlook": "Ollie Gordon may be hindered by an unfavorable game flow in Week 8 when the Dolphins host the Patriots. He has scored in four straight games, topping 100 yards twice while amassing at least 17 carries three times. Jaylen Wright is uncertain to play in Week 8, which could result in 20-plus carries for Miami's only option in the backfield if they remain competitive and aren't forced to throw the entire second half. New England brings a mid-tier run defense into Week 8, allowing 4.1 yards per carry but just five rushing scores in seven games.",
      "slot": "BN"
     },
@@ -579,8 +579,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 1.7,
-     "owned_pct": 50.3,
-     "owned_change": -0.43,
+     "owned_pct": 50.2,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "BN"
     },
@@ -632,7 +632,7 @@
      "proj": 10.2,
      "last_week": 3.0,
      "owned_pct": 86.5,
-     "owned_change": -0.09,
+     "owned_change": -0.08,
      "outlook": "Spencer Shrader leads the league in field goals made (19) and attempted (21), but he was just 1-for-3 in the Week 7 loss to Minnesota after starting 18-for-18 through six games. The Colts' kicker will attempt to bounce back in Week 8 against the Jaguars, who boast the league's third-stingiest scoring defense, allowing just 17.3 points per game. Shrader has earned some goodwill from fantasy managers with his hot start, but he could find himself back on the waiver wire before long if the misses start to pile up.",
      "slot": "K"
     },
@@ -645,7 +645,7 @@
      "proj": 10.6,
      "last_week": 22.5,
      "owned_pct": 69.6,
-     "owned_change": -0.07,
+     "owned_change": -0.05,
      "outlook": "Omar Cooper's two-week surge is set to extend into Week 8 when the Jets have an inviting matchup with the Raiders. Cooper has topped 100 yards and scored in consecutive outings since returning from an ankle injury, while snagging 11 of his 12 targets. The volume remains modest in a run-first offense, but Las Vegas is allowing 8.9 yards per target to opposing wide receivers with seven similar players registering at least 53 receiving yards.",
      "slot": "WR"
     },
@@ -658,7 +658,7 @@
      "proj": 7.4,
      "last_week": null,
      "owned_pct": 81.1,
-     "owned_change": -0.03,
+     "owned_change": -0.02,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -711,7 +711,7 @@
      "proj": 0.0,
      "last_week": 7.8,
      "owned_pct": 95.0,
-     "owned_change": -0.2,
+     "owned_change": -0.02,
      "outlook": "A.J. Brown will look to get on track when the Patriots face the Dolphins in Week 8. Brown has caught three passes in each of his three outings for his new squad, failing to score or top 48 receiving yards. While Miami has surrendered 14 touchdown passes overall, only three have gone to wide receivers, resulting in the second-fewest fantasy points allowed despite an appealing 8.8 yards per target. Brown may still be a week away from a breakout in his new uniform.",
      "slot": "BN"
     },
@@ -724,7 +724,7 @@
      "proj": 10.4,
      "last_week": null,
      "owned_pct": 85.1,
-     "owned_change": 0.05,
+     "owned_change": 0.01,
      "outlook": "Ladd McConkey has only missed one game so far in 2026, but injuries have marred the season for the Chargers' top wide receiver, and he comes out of the team's bye still in the league's concussion protocol. The offense as a whole has struggled, but McConkey's been productive when reasonably healthy, posting a 12-182-1 line on 15 targets over the first three weeks. If he's cleared to return in Week 8, he'll take on a stingy Rams secondary that ranks fifth in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -750,7 +750,7 @@
      "proj": 12.2,
      "last_week": 7.6,
      "owned_pct": 90.9,
-     "owned_change": -0.05,
+     "owned_change": -0.04,
      "outlook": "DK Metcalf and the Steelers host the Browns for a Week 8 showdown with first place in the AFC North on the line. He brought in two of six targets for 56 yards in Week 7 during Pittsburgh's 16-10 win in Paris. Metcalf tied for the lead in targets while pacing the team in yardage despite his low reception count. He'll be ready to face a Cleveland defense he cooked for a season-high 115 yards on five catches in Week 4.",
      "slot": "WR"
     },
@@ -763,7 +763,7 @@
      "proj": 7.3,
      "last_week": null,
      "owned_pct": 42.4,
-     "owned_change": 0.02,
+     "owned_change": 0.05,
      "outlook": "Cameron Dicker failed to get an extra-point attempt in Week 6 for the first time this season, accounting for all the Chargers' points with two field goals in a 22-6 loss to Kansas City. Coming out of a bye, the offense will hopefully be a bit healthier and energized, providing Dicker with more opportunities, but he has kicked multiple field goals in three of the last four contests. In Week 8, he'll take aim at a Rams team that's allowing 22.7 points per game, 16th in the league.",
      "slot": "BN"
     },
@@ -776,7 +776,7 @@
      "proj": 14.5,
      "last_week": 1.9,
      "owned_pct": 90.3,
-     "owned_change": -0.07,
+     "owned_change": -0.06,
      "outlook": "Jalen Coker (shoulder) is expected to remain one of Bryce Young's top targets if active for Carolina's Week 8 matchup against the Packers. Coker underwhelmed in the Week 7 loss to the Buccaneers, catching just one of four targets for nine yards, his least productive game since Week 7 of 2025. Coker has been one of the league's best wideouts when healthy this season, averaging 5.8 receptions and 77.5 yards per game in his four full games in 2026. If active for Week 8, he could have plenty of scoring opportunities against a Packers secondary that's allowed 35.4 fantasy points per game to opposing wideouts this season.",
      "slot": "WR"
     },
@@ -789,7 +789,7 @@
      "proj": 0.0,
      "last_week": 12.0,
      "owned_pct": 98.0,
-     "owned_change": -0.1,
+     "owned_change": -0.04,
      "outlook": "",
      "slot": "BN"
     },
@@ -801,8 +801,8 @@
      "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 70.7,
-     "owned_change": -0.18,
+     "owned_pct": 70.6,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "IR"
     },
@@ -841,7 +841,7 @@
      "proj": 11.0,
      "last_week": 9.8,
      "owned_pct": 85.2,
-     "owned_change": 0.03,
+     "owned_change": -0.04,
      "outlook": "Dallas Goedert finished second on the Eagles last game in receptions, receiving yards and targets. Goedert caught five passes on seven looks for 48 yards in the 38-21 loss to the Cowboys. Goedert has at least seven targets in three-straight outings. If DeVonta Smith and/or Dontayvion Wicks are unable to suit up in Week 8 versus the Commanders, Goedert should remain a focal point of the passing attack, even with backup quarterback Tanner McKee under center. Washington is allowing 254 passing yards per game, which is 28th in the NFL. In addition, the Commanders have surrendered 15 passing scores, which is tied for 28th in the league.",
      "slot": "TE"
     },
@@ -854,7 +854,7 @@
      "proj": 11.5,
      "last_week": 17.1,
      "owned_pct": 80.0,
-     "owned_change": 0.02,
+     "owned_change": -0.04,
      "outlook": "Blake Corum is coming off his biggest workload of the campaign with the Rams' Week 8 matchup versus the Chargers on tap. After entering Sunday with fewer than 10 carries in four straight contests, Corum rumbled for 93 yards and a touchdown on a season-high 17 totes against the Raiders. Backfield mate Kyren Williams equaled Corum with 18 touches and figures to continue to lead the team's backfield, but Corum certainly reminded fantasy managers that he's worth consideration even in the No. 2 RB role. Both Corum and Williams could find room to run against a Chargers defense that ranks 21st in the league with 4.19 yards per carry allowed to running backs.",
      "slot": "RB"
     },
@@ -880,7 +880,7 @@
      "proj": 7.6,
      "last_week": 1.0,
      "owned_pct": 93.4,
-     "owned_change": 0.04,
+     "owned_change": -0.01,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -945,7 +945,7 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 94.0,
+     "owned_pct": 93.9,
      "owned_change": -0.02,
      "outlook": "Emeka Egbuka (concussion/foot) is expected to operate as the Buccaneers' top wideout if active for the Week 8 matchup against the Falcons. Egbuka was sidelined for the Week 7 win over the Panthers but still leads Tampa Bay in targets (49), receptions (28) and receiving touchdowns (two) this season. With Baker Mayfield at quarterback this year, Egbuka has averaged 4.3 receptions, 47 yards and 0.3 touchdowns per game. He could find success against a Falcons defense that's given up 34.4 fantasy points per game to opposing wideouts this season.",
      "slot": "FLEX"
@@ -972,7 +972,7 @@
      "proj": 13.4,
      "last_week": 23.7,
      "owned_pct": 92.5,
-     "owned_change": 0.07,
+     "owned_change": -0.01,
      "outlook": "Luther Burden will look to build off a season-best performance as the Bears play the Seahawks in Week 8. Burden was on fire in Week 7 against the Patriots, turning four catches into 130 yards and a touchdown and taking his one carry for seven yards. The second-year pass catcher has now totaled 35 receptions for 491 yards and two touchdowns this season, and he's becoming Caleb Williams' favorite option in the passing game. Burden will now shift focus to a tough Seattle defense that's ranked first in fantasy points allowed to wide receivers.",
      "slot": "WR"
     },
@@ -985,7 +985,7 @@
      "proj": 10.2,
      "last_week": 13.2,
      "owned_pct": 86.3,
-     "owned_change": -0.03,
+     "owned_change": -0.02,
      "outlook": "Kyle Pitts will look to stay hot in the Falcons' Week 8 matchup against the Buccaneers. Pitts has really found a rhythm over the last three weeks after a slow start to the season, catching 15 of 18 targets for 124 yards and four touchdowns over that span. Despite ranking fourth on the team in yards, Pitts has tallied the third-most targets (27) and the most touchdowns (four) on the Falcons through seven weeks. He's in for a favorable matchup as well, with the Buccaneers' defense giving up 16.2 fantasy points per game to opposing tight ends this season.",
      "slot": "TE"
     },
@@ -998,7 +998,7 @@
      "proj": 9.6,
      "last_week": 7.5,
      "owned_pct": 61.6,
-     "owned_change": 0.02,
+     "owned_change": -0.02,
      "outlook": "Courtland Sutton had another quiet day in the Broncos' Week 7 win over the Cardinals, managing to catch three of five targets for 45 yards. The veteran wideout has been held under 50 receiving yards and three catches or fewer in all seven games so far this season, and he's scored just one TD after hauling in 25 over the prior three years. Sutton isn't likely to break out in Week 8 against a Kansas City secondary that ranks third in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -1010,8 +1010,8 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 75.5,
-     "owned_change": -0.31,
+     "owned_pct": 75.4,
+     "owned_change": -0.14,
      "outlook": "Kyle Monangai will aim to make a return as the Bears travel to Seattle in Week 8. Monangai has missed the last three games with a turf toe injury, but Chicago is not planning to place him on IR. This makes it likely the second-year running back at least has a chance to return in the upcoming away tilt. With two 100-yard rushing games and three touchdowns across the first four games of the season, Monangai is an intriguing option if he returns, even against a Seahawks defense that's ranked top 10 in fantasy points allowed to RBs.",
      "slot": "BN"
     },
@@ -1024,7 +1024,7 @@
      "proj": 5.8,
      "last_week": 9.0,
      "owned_pct": 94.4,
-     "owned_change": 0.01,
+     "owned_change": 0.0,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1037,7 +1037,7 @@
      "proj": 0.0,
      "last_week": 13.8,
      "owned_pct": 66.5,
-     "owned_change": -0.25,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "BN"
     },
@@ -1049,8 +1049,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 13.2,
-     "owned_pct": 57.5,
-     "owned_change": -0.27,
+     "owned_pct": 57.4,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -1063,7 +1063,7 @@
      "proj": 10.2,
      "last_week": 6.5,
      "owned_pct": 38.0,
-     "owned_change": 0.14,
+     "owned_change": -0.03,
      "outlook": "Malik Washington will hope for additional volume in Week 8 when the Dolphins host the Patriots. He collected a season-low three targets in Week 7, and volume has been the key to his fantasy relevance, having topped 56 yards once all season. It's a low-volume passing game that may be pressed into higher throw rates if Miami falls behind early, but Washington's role underneath doesn't create much upside despite facing a secondary that's surrendering a generous 8.8 yards per target.",
      "slot": "BN"
     },
@@ -1075,8 +1075,8 @@
      "injury": "ACTIVE",
      "proj": 10.9,
      "last_week": 21.3,
-     "owned_pct": 74.6,
-     "owned_change": -0.07,
+     "owned_pct": 74.5,
+     "owned_change": -0.06,
      "outlook": "Tre Tucker is on his way to a career-best season with Kirk Cousins under center for the Raiders. The fourth-year wideout has caught 10 of 19 targets for 200 yards and three touchdowns over the last two games, and through seven contests Tucker sports a 29-474-4 line on 47 targets. Brock Bowers is still the team's top downfield threat, but Tucker is establishing himself as a strong No. 2 option, although the eventual switch at QB to rookie Fernando Mendoza could change things. Tucker will look to keep rolling in Week 8 against a Jets secondary that is tied for 15th in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -1089,7 +1089,7 @@
      "proj": 10.4,
      "last_week": 11.0,
      "owned_pct": 80.1,
-     "owned_change": -0.07,
+     "owned_change": -0.06,
      "outlook": "Chris Boswell and the Steelers play host to the division rival Browns in Week 8. He went 3-for-3 on field goals and converted his lone PAT during Pittsburgh's 16-10 victory over the Saints in Paris. Boswell is looking to avenge his underwhelming performance against Cleveland in Week 4, as the 35-year-old missed one of two FGAs in the 27-24 defeat. Since then, Boswell is 9-for-10 on FGs and 7-for-7 on extra points. He'll try to keep rolling versus a Browns defense allowing 20.9 points per game, the 12th-fewest in the league.",
      "slot": "K"
     }
@@ -1142,7 +1142,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 96.0,
-     "owned_change": -0.02,
+     "owned_change": -0.01,
      "outlook": "Breece Hall's role is uncertain if he returns from a quad injury in Week 8 when the Jets face the Raiders. Hall has not played since Week 3 and has topped 32 yards just once, while Braelon Allen has shined during his absence. Being eased back into action appears more likely than immediately commanding the Jets' backfield, but he may not require heavy volume to be an intriguing asset, as the Raiders are allowing the second-most fantasy points per game to opposing running backs and 5.2 yards per carry. Five opposing backs have rushed for 94 yards or more against them.",
      "slot": "RB"
     },
@@ -1180,8 +1180,8 @@
      "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 78.3,
-     "owned_change": -0.25,
+     "owned_pct": 78.2,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "BN"
     },
@@ -1233,7 +1233,7 @@
      "proj": 9.5,
      "last_week": 8.0,
      "owned_pct": 89.7,
-     "owned_change": 0.3,
+     "owned_change": 0.06,
      "outlook": "Jason Myers is in the midst of one of his most accurate NFL seasons going into Seattle's Week 8 matchup against Chicago. Myers has gone 14-for-15 on field-goal tries through seven games and is 16-for-17 on PAT attempts. He's made all three of his field-goal tries from 50-plus yards, with his only miss this season being a 47-yard attempt. However, the Bears haven't yielded many FG tries, allowing just 10 through seven weeks.",
      "slot": "K"
     },
@@ -1246,7 +1246,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 48.4,
-     "owned_change": -0.24,
+     "owned_change": -0.07,
      "outlook": "",
      "slot": "IR"
     },
@@ -1258,8 +1258,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 9.1,
-     "owned_pct": 69.7,
-     "owned_change": -0.43,
+     "owned_pct": 69.6,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "BN"
     },
@@ -1268,11 +1268,11 @@
      "name": "Matthew Stafford",
      "pos": "QB",
      "team": "LAR",
-     "injury": "ACTIVE",
+     "injury": "QUESTIONABLE",
      "proj": 17.0,
      "last_week": 17.5,
      "owned_pct": 91.9,
-     "owned_change": -0.02,
+     "owned_change": -0.05,
      "outlook": "Matthew Stafford continues to put up prolific numbers for the Rams heading into a Week 8 matchup versus the Chargers. The reigning NFL MVP threw for 195 yards and three touchdowns against Las Vegas in Week 7, though he also tossed his seventh interception. Stafford has now compiled over 300 passing yards and/or multiple passing touchdowns in all but one game so far this season, and he leads the league with 1,989 total passing yards. The Chargers could at least offer some resistance, as they've allowed a modest 18.6 fantasy points per game to quarterbacks this season, ninth-best in the league.",
      "slot": "BN"
     },
@@ -1285,7 +1285,7 @@
      "proj": 8.0,
      "last_week": 7.9,
      "owned_pct": 45.9,
-     "owned_change": -0.07,
+     "owned_change": -0.06,
      "outlook": "Tyler Allgeier's role in Arizona's background is looking shaky ahead of a Week 8 battle in Dallas. Rookie Jeremiyah Love (ankle) is expected to practice this week and could return from a two-game absence, which would likely push Allgeier down in the pecking order. Even if Love doesn't return, Bam Knight has outperformed Allgeier during Love's absence and could take over the lead-back role. Still, Allgeier at least has a good matchup, as the Cowboys rank 25th in the league in giving up 4.36 yards per carry to running backs.",
      "slot": "BN"
     },
@@ -1298,7 +1298,7 @@
      "proj": 6.9,
      "last_week": null,
      "owned_pct": 44.8,
-     "owned_change": 0.67,
+     "owned_change": 0.02,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1311,7 +1311,7 @@
      "proj": 10.2,
      "last_week": 19.7,
      "owned_pct": 51.9,
-     "owned_change": 1.2,
+     "owned_change": 0.13,
      "outlook": "Makai Lemon set career highs across the board last game for the Eagles. With both DeVonta Smith as well as Dontayvion Wicks sidelined due to injury, Lemon snagged seven passes for 67 yards and his first NFL touchdown. He was targeted eight times in the contest. If Smith and/or Wicks are unable to suit up in Week 8 versus the Commanders, Lemon could have a delicious matchup, even with backup quarterback Tanner McKee under center. Washington is allowing 254 passing yards per game, which is 28th in the NFL. In addition, the Commanders have surrendered 15 passing scores, which is tied for 28th in the league.",
      "slot": "BN"
     }
@@ -1386,7 +1386,7 @@
      "name": "Bhayshul Tuten",
      "pos": "RB",
      "team": "JAX",
-     "injury": "ACTIVE",
+     "injury": "QUESTIONABLE",
      "proj": 14.6,
      "last_week": null,
      "owned_pct": 93.5,
@@ -1416,7 +1416,7 @@
      "proj": 19.5,
      "last_week": 23.3,
      "owned_pct": 92.5,
-     "owned_change": -0.04,
+     "owned_change": -0.03,
      "outlook": "Dak Prescott tossed multiple touchdowns last game for Dallas for the first time since the middle of September. Prescott threw for 212 yards and three touchdowns in the 38-21 win over the Eagles. Prescott now has 13 touchdowns in seven starts in 2026. In Week 8, the Cowboys will face an Arizona Cardinals defense that has been prone to surrendering the touchdown pass. In fact, Arizona has given up 17 passing scores, which is dead last in the NFL. The Cardinals have also given up the most points per game in the NFL overall to date.",
      "slot": "QB"
     },
@@ -1429,7 +1429,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 92.6,
-     "owned_change": -0.11,
+     "owned_change": -0.06,
      "outlook": "",
      "slot": "WR"
     },
@@ -1455,7 +1455,7 @@
      "proj": 15.5,
      "last_week": 22.1,
      "owned_pct": 89.8,
-     "owned_change": 0.03,
+     "owned_change": 0.0,
      "outlook": "Caleb Williams will aim to stay hot as the Bears play the Seahawks in Week 8. Williams impressed in his second game back from a hamstring injury in Week 7, completing 67 percent of passes for 308 yards and two touchdowns over the Patriots. The third-year quarterback has now passed for 300-plus yards in back-to-back weeks, and he hasn't committed a turnover in that stretch. He'll take on a Seattle defense that's been tougher on QBs, ranking second in fantasy points allowed to the position.",
      "slot": "BN"
     },
@@ -1468,7 +1468,7 @@
      "proj": 10.6,
      "last_week": 6.7,
      "owned_pct": 56.1,
-     "owned_change": 0.02,
+     "owned_change": 0.03,
      "outlook": "Chris Godwin is expected to remain one of Tampa Bay's top wideouts in the Week 8 matchup against the Falcons. Godwin was the Buccaneers' second-leading receiver in the Week 7 win over the Panthers, catching four of five targets for 27 yards. After Emeka Egbuka (concussion/foot) was sidelined last week, Godwin now leads Tampa Bay in receiving yards (243) through seven games. Godwin could remain successful in Week 8 against a Falcons defense that's allowed 8.0 yards per target to opposing wideouts this season.",
      "slot": "BN"
     },
@@ -1507,7 +1507,7 @@
      "proj": 0.0,
      "last_week": 11.0,
      "owned_pct": 71.7,
-     "owned_change": -0.78,
+     "owned_change": -0.23,
      "outlook": "",
      "slot": "K"
     },
@@ -1612,7 +1612,7 @@
      "proj": 22.1,
      "last_week": 27.4,
      "owned_pct": 99.0,
-     "owned_change": 0.0,
+     "owned_change": -0.01,
      "outlook": "Drake Maye's recent surge should continue when the Patriots face the Dolphins in Week 8. In Week 7, he topped 300 passing yards for the second time in three weeks and also added a rushing touchdown for the second time in three games, bringing his total to 14 touchdowns over his last four games. Miami's secondary has been decimated by opposing signal-callers, allowing seven touchdown passes in the last two weeks, multiple touchdown passes in five of six games, and the third-worst yards per attempt at 8.1. This firmly entrenches Maye in Week 8 lineups.",
      "slot": "QB"
     },
@@ -1625,7 +1625,7 @@
      "proj": 0.0,
      "last_week": 4.3,
      "owned_pct": 68.3,
-     "owned_change": -0.34,
+     "owned_change": -0.07,
      "outlook": "TreVeyon Henderson's declining role in the Patriots' rushing approach leads to low expectations in a Week 8 matchup against the Dolphins. He has logged single-digit carries in three straight games and sits with a 3.9 yards per carry average after a 5.1 mark as a rookie. He's also only caught four passes, an area where Miami has been particularly vulnerable against running backs. With New England seemingly happy to distribute the workload across multiple players, an uptick in usage for Henderson appears unlikely.",
      "slot": "BN"
     },
@@ -1703,7 +1703,7 @@
      "proj": 0.0,
      "last_week": 3.2,
      "owned_pct": 94.7,
-     "owned_change": -0.15,
+     "owned_change": -0.07,
      "outlook": "",
      "slot": "BN"
     },
@@ -1716,7 +1716,7 @@
      "proj": 8.2,
      "last_week": 4.1,
      "owned_pct": 71.9,
-     "owned_change": -0.14,
+     "owned_change": -0.07,
      "outlook": "Xavier Worthy struggled in Week 7 while filling in as Kansas City's No. 1 wide receiver, catching just three of six targets for 11 yards in a loss to the Seahawks. The third-year speedster has yet to reach 80 receiving yards this season, and it's looking increasingly like he won't live up to the billing of being the 28th overall pick in the 2024 NFL Draft. Once Rashee Rice is cleared to return from a hamstring strain, Worthy might benefit from returning to a more comfortable supporting role. He'll try to bounce back in Week 8 against a Broncos secondary that could again be without Pat Surtain, but still ranks sixth in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -1729,7 +1729,7 @@
      "proj": 3.7,
      "last_week": -6.0,
      "owned_pct": 35.4,
-     "owned_change": -0.02,
+     "owned_change": -0.01,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1782,7 +1782,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 79.9,
-     "owned_change": -0.11,
+     "owned_change": -0.02,
      "outlook": "",
      "slot": "BN"
     },
@@ -1795,7 +1795,7 @@
      "proj": 14.2,
      "last_week": 6.0,
      "owned_pct": 89.5,
-     "owned_change": -0.05,
+     "owned_change": -0.04,
      "outlook": "Patrick Mahomes is coming off one of the worst performances of his career in Kansas City's Week 7 loss to the Seahawks. The two-time MVP threw for a season-low 165 yards with zero touchdowns and failed to get his team into the red zone for the first time in 153 career starts, including regular season and playoffs. With his wide receiver room thinned by injuries, Mahomes is again having a tough time stretching the field or taking advantage of a defense's focus on Kenneth Walker. He'll try to bounce back in Week 8 against a Broncos defense playing below expectations, which sits tied for 13th in fantasy points per game allowed to QBs.",
      "slot": "BN"
     },
@@ -1807,7 +1807,7 @@
      "injury": "ACTIVE",
      "proj": 8.0,
      "last_week": 9.0,
-     "owned_pct": 97.3,
+     "owned_pct": 97.2,
      "owned_change": -0.01,
      "outlook": "",
      "slot": "D/ST"
@@ -1821,7 +1821,7 @@
      "proj": 9.0,
      "last_week": 3.0,
      "owned_pct": 59.5,
-     "owned_change": 0.27,
+     "owned_change": -0.05,
      "outlook": "Harrison Butker went just 1-for-3 on field-goal attempts in Kansas City's Week 7 loss to the Seahawks, the first time he's missed multiple attempts in a single game since 2018. The veteran kicker has missed five of 16 FG attempts overall this season, including one from inside 50 yards, and he may need to turn things around quickly to prevent KC from beginning a search for his replacement. Butker will try to bounce back in Week 8 against a Broncos team that's allowing 20.1 points a game, seventh in the league.",
      "slot": "K"
     },
@@ -1859,8 +1859,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 16.4,
-     "owned_pct": 59.2,
-     "owned_change": -0.31,
+     "owned_pct": 59.1,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "BN"
     },
@@ -1899,7 +1899,7 @@
      "proj": 10.8,
      "last_week": 5.7,
      "owned_pct": 74.5,
-     "owned_change": -0.11,
+     "owned_change": -0.1,
      "outlook": "Germie Bernard and the Steelers welcome the division-rival Browns to town in Week 8. The rookie caught three of five targets for 27 yards in Pittsburgh's 16-10 victory in Week 7 over the Saints in Paris. Bernard was relatively quiet after posting a 17-167-1 receiving line on 21 targets over his previous two outings. He'll look to bounce back versus a Cleveland defense tied for 19th in fantasy points allowed per game (32.4) to WRs.",
      "slot": "WR"
     },
@@ -1911,8 +1911,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 16.5,
-     "owned_pct": 67.9,
-     "owned_change": -0.28,
+     "owned_pct": 67.8,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "BN"
     },
@@ -1925,7 +1925,7 @@
      "proj": 12.6,
      "last_week": null,
      "owned_pct": 86.3,
-     "owned_change": 0.16,
+     "owned_change": -0.03,
      "outlook": "Stefon Diggs will serve as the No. 1 wideout for the Commanders for the remainder of the season, as Terry McLaurin will miss the rest of the 2026 campaign due to a knee injury. Diggs has scored four times in five games played for Washington, following a return from a hamstring injury of his own. Following the bye, Washington will face division rival Philadelphia in Week 8. The reeling Eagles have been suspect in defending the pass this season.  Philadelphia is giving up 244.5 passing yards per tilt, which is 27th in the league.",
      "slot": "WR"
     },
@@ -1978,7 +1978,7 @@
      "proj": 8.2,
      "last_week": null,
      "owned_pct": 89.6,
-     "owned_change": -0.03,
+     "owned_change": 0.0,
      "outlook": "Omarion Hampton will look to turn his season around coming out of the Chargers' Week 7 bye. He failed to reach 50 scrimmage yards or get into the end zone in his last two games before the break, as Mike McDaniel turned his backfield into a committee. Hampton is the most talented back on the roster, but as long as Keaton Mitchell and Kimani Vidal are garnering significant shares of the workload, all of them will have limited ceilings. Hampton will try to reassert himself as the No. 1 option in Week 8 against a Rams defense that's tied for 14th in fantasy points per game allowed to RBs.",
      "slot": "BN"
     },
@@ -1991,7 +1991,7 @@
      "proj": 0.0,
      "last_week": 11.6,
      "owned_pct": 99.3,
-     "owned_change": -0.04,
+     "owned_change": -0.01,
      "outlook": "",
      "slot": "WR"
     },
@@ -2017,7 +2017,7 @@
      "proj": 10.8,
      "last_week": 8.8,
      "owned_pct": 85.8,
-     "owned_change": -0.05,
+     "owned_change": -0.02,
      "outlook": "Jaylen Waddle left the Broncos' Week 7 win over the Cardinals in the fourth quarter with a chest injury after producing a modest 4-48-0 line on seven targets. The former Miami wideout hasn't been able to get comfortable in his new environment; he has been held under 50 receiving yards in six of his first seven games for Denver. The severity of Waddle's injury isn't clear, but the team had little incentive to get him back on the field with a big lead. Assuming he is cleared to play in Week 8, he'll have a tough time producing a ceiling game against a Kansas City secondary that ranks third in fantasy points per game allowed to WRs.",
      "slot": "WR"
     },
@@ -2030,7 +2030,7 @@
      "proj": 22.8,
      "last_week": null,
      "owned_pct": 95.4,
-     "owned_change": 0.07,
+     "owned_change": 0.0,
      "outlook": "Jayden Daniels produced one of his best games of the season before the bye for the Commanders, and will look to build off of that performance in Week 8 versus the Eagles.  Daniels completed 72.5-percent of his passes for 300 yards and two touchdowns in a narrow loss to the 49ers. In fact, it was the first time in 2026 that Daniels threw for even 200 yards in a contest. Daniels will face an Eagles defense that has been better against the run than the pass this season.  Philadelphia is allowing 244.5 passing yards per contest, which is 27th in the NFL.  However, Philadelphia is still surrendering 119.3 yards per game on the ground, which is just 21st in the league.",
      "slot": "BN"
     },
@@ -2043,7 +2043,7 @@
      "proj": 0.0,
      "last_week": 14.8,
      "owned_pct": 98.0,
-     "owned_change": -0.08,
+     "owned_change": -0.03,
      "outlook": "",
      "slot": "TE"
     },
@@ -2056,7 +2056,7 @@
      "proj": 15.7,
      "last_week": 22.5,
      "owned_pct": 92.6,
-     "owned_change": 0.0,
+     "owned_change": -0.04,
      "outlook": "Rhamondre Stevenson's role in the Patriots' passing game will keep him active in Week 8 against the Dolphins. While he is coming off his third single-digit carry game of the season, he's caught at least three passes in five games and five in two outings, an area where Miami's defense is particularly vulnerable. The Dolphins allow a moderate 4.3 yards per carry and just three rushing touchdowns to backs, yet have given up 34 catches, including five touchdown receptions, to running backs in six games. Stevenson has multiple paths to meaningful production.",
      "slot": "BN"
     },
@@ -2069,7 +2069,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 35.0,
-     "owned_change": 0.01,
+     "owned_change": 0.0,
      "outlook": "",
      "slot": "BN"
     },
@@ -2095,7 +2095,7 @@
      "proj": 5.0,
      "last_week": 3.0,
      "owned_pct": 83.5,
-     "owned_change": -0.09,
+     "owned_change": -0.01,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2121,7 +2121,7 @@
      "proj": 0.0,
      "last_week": 1.0,
      "owned_pct": 16.1,
-     "owned_change": -0.75,
+     "owned_change": -0.22,
      "outlook": "",
      "slot": "BN"
     },
@@ -2134,7 +2134,7 @@
      "proj": 12.4,
      "last_week": 10.5,
      "owned_pct": 4.3,
-     "owned_change": 0.09,
+     "owned_change": -0.01,
      "outlook": "Tanner McKee was mediocre last game for the Eagles. McKee completed 23-of-35 passes for 211 yards, one touchdown and one interception in the 38-21 loss to Dallas. McKee has thrown for at least 210 yards and a touchdown in each of his starts for Philadelphia. In Week 8, he will face a Commanders defense that has been rather poor in defending the pass in 2026. Washington is allowing 254 passing yards per game, which is 28th in the NFL. In addition, the Commanders have surrendered 15 passing scores, which is tied for 28th in the league.",
      "slot": "QB"
     },
@@ -2146,8 +2146,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 3.3,
-     "owned_pct": 4.8,
-     "owned_change": -0.12,
+     "owned_pct": 4.7,
+     "owned_change": -0.06,
      "outlook": "",
      "slot": "RB"
     }
@@ -2164,7 +2164,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 90.9,
-   "owned_change": -0.08,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -2187,7 +2187,7 @@
    "injury": "ACTIVE",
    "proj": 17.1,
    "last_week": null,
-   "owned_pct": 89.1,
+   "owned_pct": 89.0,
    "owned_change": -0.07,
    "outlook": "Jordan Love will aim to get the Packers back in the win column in Week 8 versus the Panthers. Even with Josh Jacobs back on the field at Detroit in Week 7, Green Bay still leaned on the passing game, with Love completing 27 of 45 passes for 274 yards with a 2:1 TD:INT ratio. He's now thrown for two touchdowns in all but one game this season, but he's still totaled two in every outing. Love should have no problem continuing his success against a Carolina defense that's ranked middle-of-the-pack against fantasy quarterbacks."
   },
@@ -2212,7 +2212,7 @@
    "proj": 12.4,
    "last_week": null,
    "owned_pct": 77.0,
-   "owned_change": 0.17,
+   "owned_change": -0.02,
    "outlook": "Rachaad White will serve as the No. 1 running back for the Commanders in Week 8, as starter Jacory Croskey-Merritt was placed on Injured Reserve with a groin injury. White has found the end zone in two of the last three games as a receiver out of the backfield, but is averaging just 4.0 yards per carry as a rusher. Still, the expanded role should give him double-digit touches against a floundering Eagles defense. Philadelphia is allowing 119.3 rushing yards per clash, which is 21st in the league."
   },
   {
@@ -2235,8 +2235,8 @@
    "injury": "QUESTIONABLE",
    "proj": 10.3,
    "last_week": null,
-   "owned_pct": 73.2,
-   "owned_change": 0.13,
+   "owned_pct": 73.1,
+   "owned_change": -0.04,
    "outlook": "Hunter Henry is poised to build on a season-high performance in Week 7 when the Patriots face the Dolphins in Week 8. While he failed to reach the end zone for the first time in three games, Henry hauled in all seven of his targets for 71 yards, all season bests. Miami has been exploited by opposing tight ends with six touchdown receptions in six games and 9.3 yards per target, the second highest mark in the league. New England continues to spread targets around, but it seems wise to scheme into this vulnerability, making Henry a preferred Week 8 option."
   },
   {
@@ -2244,24 +2244,12 @@
    "name": "Jakobi Meyers",
    "pos": "WR",
    "team": "JAX",
-   "injury": "ACTIVE",
+   "injury": "QUESTIONABLE",
    "proj": 10.6,
    "last_week": null,
    "owned_pct": 69.5,
    "owned_change": -0.03,
    "outlook": "Jakobi Meyers has established himself as the No. 2 WR for the Jaguars behind Parker Washington, putting Meyers firmly in the fantasy flex conversation for a Week 8 home game against the Colts. Meyers is averaging 48 receiving yards on 4.7 targets per game, and he set season highs in both of those categories with 83 yards on 10 targets in Jacksonville's Week 6 loss to the Texans prior to a Week 7 bye. The veteran wideout faced the Colts three times last season. Two of those meetings came after Meyers was acquired by the Jaguars in a midseason trade, and he mustered exactly 39 receiving yards in both games while scoring a touchdown in one of those matchups. He has five TDs in 15 regular-season games with Jacksonville."
-  },
-  {
-   "id": 4432708,
-   "name": "Marvin Harrison Jr.",
-   "pos": "WR",
-   "team": "HOU",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 67.8,
-   "owned_change": -0.32,
-   "outlook": ""
   },
   {
    "id": 4686361,
@@ -2276,6 +2264,18 @@
    "outlook": "Cam Little has started 10-for-12 on field-goal attempts with a long of 60 across Jacksonville's first six games. The big-legged kicker could be in for a busy afternoon in Week 8 at home against the Colts, who are giving up 25.7 points per game and have allowed a league-high 21 field-goal attempts, 18 of which have been successful. Little is worth snagging off waivers if he was dropped during Jacksonville's Week 7 bye, as he profiles as a top-10 kicker for Week 8 and beyond."
   },
   {
+   "id": 4432708,
+   "name": "Marvin Harrison Jr.",
+   "pos": "WR",
+   "team": "HOU",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 67.8,
+   "owned_change": -0.15,
+   "outlook": ""
+  },
+  {
    "id": 3917232,
    "name": "Tyler Bass",
    "pos": "K",
@@ -2284,7 +2284,7 @@
    "proj": 10.4,
    "last_week": null,
    "owned_pct": 65.5,
-   "owned_change": 0.01,
+   "owned_change": 0.02,
    "outlook": "Tyler Bass has increased his workload over the last three weeks as Buffalo gets set to face Baltimore in Week 8. Always a steady source for PATs in Buffalo's high-scoring offense (Bass has made at least two in every game), he went from four field goals across his first three games to nine over his last three. None have come from 50-plus yards, potentially keeping bonus scoring off the table. Baltimore is a mid-tier defense for points allowed to kickers, but they've allowed as many field goal attempts as extra points through seven games, setting Bass up for a strong Week 8."
   },
   {
@@ -2296,7 +2296,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 63.3,
-   "owned_change": -0.62,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -2307,8 +2307,8 @@
    "injury": "ACTIVE",
    "proj": 6.0,
    "last_week": null,
-   "owned_pct": 63.2,
-   "owned_change": -0.02,
+   "owned_pct": 63.1,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -2352,7 +2352,7 @@
    "name": "Tyler Loop",
    "pos": "K",
    "team": "BAL",
-   "injury": "ACTIVE",
+   "injury": "QUESTIONABLE",
    "proj": 8.9,
    "last_week": null,
    "owned_pct": 57.4,
@@ -2368,7 +2368,7 @@
    "proj": 10.1,
    "last_week": null,
    "owned_pct": 57.2,
-   "owned_change": -0.06,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -2428,7 +2428,7 @@
    "proj": 9.3,
    "last_week": null,
    "owned_pct": 52.3,
-   "owned_change": 0.5,
+   "owned_change": 0.08,
    "outlook": "Jonah Coleman had the biggest share of the backfield workload in the Broncos' Week 7 win over the Cardinals, handling 11 touches to J.K. Dobbins' six and RJ Harvey's five. Coleman's 69 scrimmage yards led the trio, but the other two each made trips to the end zone while the rookie RB was held out. It was still an impressive effort in his return from an IR stint due to an ankle injury, and Coleman might be the most likely player from the group to emerge as the lead back. A messy committee is the more probable arrangement, however, heading into a Week 8 clash with a Kansas City defense that ranks seventh in fantasy points per game allowed to RBs."
   },
   {
@@ -2440,7 +2440,7 @@
    "proj": 11.0,
    "last_week": null,
    "owned_pct": 51.8,
-   "owned_change": 0.62,
+   "owned_change": 0.03,
    "outlook": "DeMario Douglas will seek a rebound in Week 8 when New England travels to Miami. He was on a two-game heater entering Week 7, but finished with just three catches for 23 yards and has been held to 38 yards or fewer in five of seven outings. Miami is allowing an attractive 8.8 yards per target, the eighth-highest total league-wide, but because of vulnerabilities to tight ends and running backs in the passing game, opposing wideouts have the second-fewest yards, suggesting it may be better to look elsewhere for meaningful production."
   },
   {
@@ -2452,7 +2452,7 @@
    "proj": 9.7,
    "last_week": null,
    "owned_pct": 50.2,
-   "owned_change": -0.03,
+   "owned_change": -0.02,
    "outlook": "Brenton Strange has picked up the pace after a slow start and is a viable Week 8 starter at TE for Jacksonville's home game against the Colts. He has caught 19 of 23 targets for 207 yards over the past three games after being limited to seven catches for 72 yards on 10 targets through Week 3, though Strange hasn't scored since the season opener. Strange has a nice opportunity to snap his five-game touchdown drought against the Colts, who have allowed five TDs to TEs, which is tied for fifth-most in the NFL."
   },
   {
@@ -2488,7 +2488,7 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 47.9,
-   "owned_change": -0.09,
+   "owned_change": -0.08,
    "outlook": "Pat Freiermuth and the Steelers return home to host the Browns for an AFC North showdown in Week 8. He caught two of four targets for 20 yards during Pittsburgh's Week 7 win in Paris. Freiermuth played 34 offensive snaps to fellow TE Darnell Washington's 36, but the two have been essentially neck-and-neck in playing time through seven outings this season. Freiermuth will aim to stand out versus Cleveland's 20th-ranked defense in fantasy points allowed per game (13.9) to the position."
   },
   {
@@ -2512,7 +2512,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 42.9,
-   "owned_change": -0.2,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -2536,7 +2536,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 40.3,
-   "owned_change": -0.35,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -2560,7 +2560,7 @@
    "proj": 4.9,
    "last_week": null,
    "owned_pct": 38.1,
-   "owned_change": 0.0,
+   "owned_change": -0.01,
    "outlook": "MarShawn Lloyd figures to be a complementary option once again as the Packers play the Panthers in Week 8. Lloyd's role wasn't completely chalked with the return of Josh Jacobs in Week 7, as he still logged six carries for 20 yards and caught two passes for 15 yards. Jacobs also averaged just 3.27 yards per carry on the ground, which could keep Lloyd relevant as a secondary rushing option if this persists. Carolina has ranked 31st in fantasy points allowed to RBs so far this season, so Lloyd will aim to take advantage of what could be limited touches."
   },
   {
@@ -2572,7 +2572,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 35.6,
-   "owned_change": -0.38,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -2584,7 +2584,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 35.4,
-   "owned_change": -0.04,
+   "owned_change": 0.0,
    "outlook": ""
   },
   {
@@ -2596,7 +2596,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 34.1,
-   "owned_change": -0.27,
+   "owned_change": 0.02,
    "outlook": ""
   },
   {
@@ -2607,8 +2607,8 @@
    "injury": "ACTIVE",
    "proj": 14.5,
    "last_week": null,
-   "owned_pct": 30.7,
-   "owned_change": 0.55,
+   "owned_pct": 30.8,
+   "owned_change": 0.21,
    "outlook": "Sam Darnold has thrown at least one pickoff in five straight games heading into Seattle's matchup against Chicago in Week 8. Darnold's eight total pickoffs are tied for most in the league despite the fact that he played only five snaps Week 1 and missed Week 2 altogether. The veteran quarterback hasn't recently been offsetting the interceptions with scores -- over his past three games, he's tossed just two total touchdowns. The Bears have given up 11 passing TDs this season, tied for eighth-most in the league, and have picked off just four passes, so perhaps Darnold can begin a turnaround."
   },
   {
@@ -2620,7 +2620,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 30.1,
-   "owned_change": -0.01,
+   "owned_change": 0.06,
    "outlook": ""
   },
   {
@@ -2632,7 +2632,7 @@
    "proj": 9.1,
    "last_week": null,
    "owned_pct": 29.2,
-   "owned_change": 0.09,
+   "owned_change": -0.02,
    "outlook": "Caleb Douglas appears to be emerging as a big-play option in the Dolphins' low-volume passing game ahead of a Week 8 matchup with the Patriots. Returning from a three-game absence in Week 7, Douglas brought in two of three targets for 70 yards and two touchdowns. He's only caught two balls in two of his three healthy appearances, but is averaging 20.3 yards per catch, and his large frame makes him a potential red zone candidate. If New England jumps out to an early lead, it could help Douglas' snap share, setting him up as a low-floor, high-ceiling option against a defense allowing a generous 8.8 yards per target."
   },
   {
@@ -2643,8 +2643,8 @@
    "injury": "ACTIVE",
    "proj": 5.8,
    "last_week": null,
-   "owned_pct": 28.9,
-   "owned_change": 0.87,
+   "owned_pct": 29.0,
+   "owned_change": 0.38,
    "outlook": ""
   },
   {
@@ -2692,7 +2692,7 @@
    "proj": 9.6,
    "last_week": null,
    "owned_pct": 27.7,
-   "owned_change": 0.01,
+   "owned_change": 0.02,
    "outlook": "Chad Ryland has enjoyed a robust workload of late and could continue that trend in Arizona's Week 8 battle against Dallas. After attempting one or zero field goals in three of his first five games, Ryland has gone 9-for-9 in FG attempts over his past two contests. None of those tries have come from beyond 50 yards, but the volume has been a nice boon for his fantasy point production. Opposing kickers are 11-for-12 on FG tries against the Cowboys this season."
   },
   {
@@ -2703,21 +2703,9 @@
    "injury": "ACTIVE",
    "proj": 8.5,
    "last_week": null,
-   "owned_pct": 26.6,
-   "owned_change": 1.05,
+   "owned_pct": 26.8,
+   "owned_change": 0.51,
    "outlook": "Cairo Santos will look to stay busy as the Bears play the Seahawks in Week 8. Santos went 3-for-4 on field-goal attempts, including a career-high 58-yarder, and nailed all three of his XPAs in a Week 7 win over the Patriots. The veteran has now missed a field-goal try in each of the last three weeks,  but he's gone an otherwise serviceable 11-for-15 on field goals, and 21-for-21 on extra-point kicks this season. He'll face a Seattle squad that's ranked sixth in fantasy points allowed to kickers."
-  },
-  {
-   "id": 4599739,
-   "name": "Kendre Miller",
-   "pos": "RB",
-   "team": "NO",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 26.2,
-   "owned_change": -0.42,
-   "outlook": ""
   },
   {
    "id": 3052587,
@@ -2732,6 +2720,18 @@
    "outlook": "Baker Mayfield is expected to lead the Buccaneers' offense into the Week 8 matchup against the Falcons. Mayfield had a very light workload in his return from injury in the Week 7 win over the Panthers, completing seven of 11 pass attempts for 64 yards and a touchdown. In his first three games this season, Mayfield threw for an average of 205 yards, 0.7 touchdowns and 0.7 interceptions per contest. He'll look to catch fire against a Falcons defense that's given up 21.2 fantasy points per game to opposing quarterbacks this season."
   },
   {
+   "id": 4599739,
+   "name": "Kendre Miller",
+   "pos": "RB",
+   "team": "NO",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 26.2,
+   "owned_change": -0.22,
+   "outlook": ""
+  },
+  {
    "id": 4366031,
    "name": "Tank Dell",
    "pos": "WR",
@@ -2739,8 +2739,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 26.2,
-   "owned_change": -0.21,
+   "owned_pct": 26.1,
+   "owned_change": -0.1,
    "outlook": ""
   },
   {
@@ -2752,7 +2752,7 @@
    "proj": 4.7,
    "last_week": null,
    "owned_pct": 26.1,
-   "owned_change": -0.13,
+   "owned_change": -0.12,
    "outlook": ""
   },
   {
@@ -2764,7 +2764,7 @@
    "proj": 6.1,
    "last_week": null,
    "owned_pct": 25.2,
-   "owned_change": -0.05,
+   "owned_change": -0.01,
    "outlook": "Quentin Johnston has struggled this season along with the rest of the Chargers' offense, catching only one pass in three of his five games and failing to reach 60 receiving yards or score a TD in any of them. He has had receptions of 40-plus yards in each of his last two contests, however, reaffirming that he does have some big-play upside. Johnston faces a tough test in Week 8 against a Rams secondary that ranks fifth in fantasy points per game allowed to WRs."
   },
   {
@@ -2776,7 +2776,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 24.9,
-   "owned_change": -0.37,
+   "owned_change": -0.14,
    "outlook": "Rashid Shaheed isn't certain to suit up for Seattle in Week 8 against the Bears. Shaheed injured his knee in Week 7 versus Kansas City, and though initial reports on the injury were promising, it's not clear if he'll need to miss time. The versatile wideout has been pretty quiet as a receiver throughout the campaign, surpassing three receptions just once through seven weeks. That makes him relatively dependent on big plays, and Chicago has given up nine receptions of 40-plus yards this season, most in the NFL."
   },
   {
@@ -2787,8 +2787,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 24.9,
-   "owned_change": -0.22,
+   "owned_pct": 24.8,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -2800,7 +2800,7 @@
    "proj": null,
    "last_week": null,
    "owned_pct": 24.1,
-   "owned_change": -0.24,
+   "owned_change": -0.14,
    "outlook": ""
   },
   {
@@ -2836,7 +2836,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 23.4,
-   "owned_change": -0.12,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -2848,7 +2848,7 @@
    "proj": 8.4,
    "last_week": null,
    "owned_pct": 22.8,
-   "owned_change": -0.01,
+   "owned_change": 0.0,
    "outlook": "Evan McPherson and the Bengals return home for a Week 8 showdown against the 1-6 Titans. He did not attempt a field goal but converted all five of his extra-point tries during Cincinnati's 35-13 win in Week 7. McPherson is perfect through six contests this season, going 10-for-10 on FGs and 19-for-19 on PATs. However, with the Bengals offense routinely finding the endzone, his opportunities to make a big fantasy difference have suffered."
   },
   {
@@ -2884,7 +2884,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 22.0,
-   "owned_change": -0.08,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -2908,7 +2908,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 21.0,
-   "owned_change": -0.27,
+   "owned_change": -0.05,
    "outlook": "Dontayvion Wicks missed Philadelphia's last game due to an ankle injury. It was the first missed game of the season for Wicks, though he could also be sidelined in Week 8 versus the Commanders. If he is able to suit up, Wicks could have a delectable matchup, even with backup quarterback Tanner McKee under center. Washington is allowing 254 passing yards per game, which is 28th in the NFL. In addition, the Commanders have surrendered 15 passing scores, which is tied for 28th in the league."
   },
   {
@@ -2920,7 +2920,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 20.9,
-   "owned_change": -0.52,
+   "owned_change": -0.1,
    "outlook": "Dameon Pierce still managed to maintain a solid role despite the return of Saquon Barkley from injury for the Eagles.  Barkley rushed seven times for 62 yards and a touchdown but tweaked his hamstring while also suffering a compensatory back injury. This allowed Pierce to take 14 carries for 47 yards and a touchdown of his own.  However, Pierce could be seen leaving the field late in the fourth quarter with a potential injury as well. If neither Barkley nor Pierce can play in Week 8 versus Washington, Elijah Mitchell would be the only healthy option at running back. The Commanders are allowing 100.5 rushing yards per tilt, which is 14th in the league."
   },
   {
@@ -2944,7 +2944,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 19.9,
-   "owned_change": -0.07,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -2956,7 +2956,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 18.7,
-   "owned_change": -0.13,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3004,7 +3004,7 @@
    "proj": 8.2,
    "last_week": null,
    "owned_pct": 16.3,
-   "owned_change": 0.11,
+   "owned_change": 0.0,
    "outlook": "Antonio Williams should see an uptick in targets for the remainder of the season, as No. 1 wideout Terry McLaurin will miss the rest of the 2026 campaign for the Commanders due to a knee injury. Williams has double-digit catches in every game thus far during his rookie year, and should slot in just behind Stefon Diggs in terms of opportunities in the passing game moving forward. Following the bye, Washington will face division rival Philadelphia in Week 8. The reeling Eagles have been suspect in defending the pass this season.  Philadelphia is giving up 244.5 passing yards per tilt, which is 27th in the league."
   },
   {
@@ -3016,7 +3016,7 @@
    "proj": 7.9,
    "last_week": null,
    "owned_pct": 15.5,
-   "owned_change": 0.17,
+   "owned_change": 0.0,
    "outlook": "Kimani Vidal was seeing his usage increase prior to the Chargers' Week 7 bye, with the third-year running back handling a season-high 10 touches in a Week 6 loss to Kansas City, although he turned that volume into just 40 scrimmage yards and zero TDs. Omarion Hampton remains the back with the biggest upside on the roster, but Vidal and Keaton Mitchell are also in the mix, and Mike McDaniel may deploy a full-blown committee in his backfield as he searches for answers. Vidal will face a Rams defense in Week 8 that's tied for 14th in fantasy points per game allowed to RBs."
   },
   {
@@ -3028,7 +3028,7 @@
    "proj": 8.3,
    "last_week": null,
    "owned_pct": 15.5,
-   "owned_change": 0.3,
+   "owned_change": 0.01,
    "outlook": "Chig Okonkwo has posted back-to-back 60-plus yard outings for Washington, and could see an uptick in targets for the remainder of the season.  No. 1 wideout Terry McLaurin will miss the rest of the 2026 campaign for the Commanders due to a knee injury. Okonkwo has amassed 13 targets in the last two games alone. In Week 8, Washington will face division rival Philadelphia. The reeling Eagles have been suspect in defending the pass this season. Philadelphia is giving up 244.5 passing yards per tilt, which is 27th in the league."
   },
   {
@@ -3040,7 +3040,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 15.4,
-   "owned_change": -0.11,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -3064,7 +3064,7 @@
    "proj": 8.0,
    "last_week": null,
    "owned_pct": 15.1,
-   "owned_change": -0.01,
+   "owned_change": 0.0,
    "outlook": "Mike Gesicki and the Bengals host the 1-6 Titans in Week 8. He caught his only target for a six-yard touchdown during Cincinnati's 35-13 victory over Baltimore. Gesicki extended his TD streak to four consecutive games, as he's now compiled a 13-165-5 receiving line on 18 targets in 2026. He'll try to make it five in a row versus Tennessee's eighth-ranked defense in fantasy points allowed per contest (11.1) to TEs."
   },
   {
@@ -3076,7 +3076,7 @@
    "proj": 7.4,
    "last_week": null,
    "owned_pct": 14.6,
-   "owned_change": 0.0,
+   "owned_change": 0.01,
    "outlook": "Samaje Perine and the Bengals host the 1-6 Titans in Week 8. He had four carries for 16 yards and a one-yard touchdown but was not targeted during Cincinnati's Week 7 victory. The Bengals' backfield has been tricky with Chase Brown struggling as of late, and it looks like it could be headed toward more of a timeshare than initially thought at the start of the year. Perine will try to continue building momentum against the Titans' 19th-ranked defense in fantasy points allowed per game (22.3) to RBs."
   },
   {
@@ -3088,7 +3088,7 @@
    "proj": 8.9,
    "last_week": null,
    "owned_pct": 14.0,
-   "owned_change": 0.41,
+   "owned_change": 0.0,
    "outlook": "Tyler Higbee continues to work in an unpredictable Rams tight-end timeshare ahead of a Week 8 matchup against the Chargers. While Matthew Stafford targeted tight ends 14 times in Sunday's win over Las Vegas, Higbee got just three of those looks and put up a meager 2-14-0 line. Meanwhile, fellow TEs Colby Parkinson (5-48-0) and Davis Allen (4-20-2) had bigger performances. Wideout Davante Adams (hamstring) is expected to miss several weeks, so Stafford will likely continue to look to his tight ends often, but it's anyone's guess which of the trio will be the top performer on a week-to-week basis. The Chargers have been relatively stingy against tight ends, giving up 6.8 fantasy points per game, tied for 10th in the league."
   },
   {
@@ -3099,8 +3099,8 @@
    "injury": "ACTIVE",
    "proj": 8.0,
    "last_week": null,
-   "owned_pct": 13.4,
-   "owned_change": -0.02,
+   "owned_pct": 13.3,
+   "owned_change": -0.01,
    "outlook": "Ja'Kobi Lane and the Ravens are in Buffalo for a Week 8 showdown. The rookie corralled three of five targets for 25 yards during Baltimore's 35-13 Week 7 defeat. Lane tied for second on the team in receptions and finished second behind Zay Flowers' 11 looks from Tyler Huntley. Lamar Jackson (ankle) has a decent chance to return against Buffalo's 32nd-ranked defense in fantasy points allowed per game (42.3) to WRs, but Lane is still an unproven fantasy commodity on an offense that prefers to run the ball."
   },
   {
@@ -3144,11 +3144,11 @@
    "name": "Chris Rodriguez Jr.",
    "pos": "RB",
    "team": "JAX",
-   "injury": "ACTIVE",
+   "injury": "QUESTIONABLE",
    "proj": 6.1,
    "last_week": null,
    "owned_pct": 12.6,
-   "owned_change": -0.01,
+   "owned_change": 0.0,
    "outlook": "Chris Rodriguez remains No. 2 on Jacksonville's RB depth chart behind Bhayshul Tuten, limiting Rodriguez's Week 8 fantasy appeal to deeper formats. Rodriguez logged a season-high 11 carries in Jacksonville's Week 6 loss to the Texans prior to a Week 7 bye. He has handled fewer than six carries only once all season, but Rodriguez is a non-factor in the passing game, with just one catch in 2026. Rodriguez will be a touchdown-dependent fantasy play in Week 8 against a Colts defense that has allowed five rushing scores to RBs through seven games."
   },
   {
@@ -3160,7 +3160,7 @@
    "proj": 8.7,
    "last_week": null,
    "owned_pct": 12.3,
-   "owned_change": 0.0,
+   "owned_change": 0.01,
    "outlook": "Mason Taylor has an increasing role in the Jets' passing attack ahead of an inviting Week 8 matchup with the Raiders. Despite the presence of Kenyon Sadiq, Taylor's catch totals have increased in each of the last three games, spiking with a season-high five catches, 62 yards, and two touchdowns in Week 7. Las Vegas has been vulnerable to tight ends, allowing eight touchdowns in seven games; however, no one has topped 58 yards, setting Taylor up to be a bit touchdown-dependent."
   },
   {
@@ -3172,7 +3172,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 12.1,
-   "owned_change": -0.04,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3184,7 +3184,7 @@
    "proj": 10.9,
    "last_week": null,
    "owned_pct": 11.9,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": "Daniel Jones has yet to generate a multi-touchdown performance this season for the Colts, and he threw for a season-low 108 yards in the Week 7 road loss to Minnesota. He'll face a Jaguars defense in Week 8 that's allowing the third-most passing yards per game but has limited QBs to a 7:7 TD:INT. Jones is below that mark with just a 4:7 TD:INT, so he'll be an unappealing fantasy option. Managers in deeper superflex and multi-QB formats can hope Jones records a decent passing yardage total against Jacksonville, though he is averaging a career-low 200 passing yards per game."
   },
   {
@@ -3196,7 +3196,7 @@
    "proj": 4.8,
    "last_week": null,
    "owned_pct": 11.8,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": "Emmett Johnson continues to work his way into the Kansas City game plan as a pass-catcher. Over the last two games, the rookie has corralled four of six targets for 35 yards while the team deals with injuries to its wide receiver corps. Johnson will not challenge a healthy Kenneth Walker as the lead back, but Andy Reid is trying to find ways to get Johnson the ball in space. The result has been a 9-109-0 line on 11 targets through his first six NFL games. Johnson will look to score his first career touchdown in Week 8 against a Broncos defense that ranks 23rd in fantasy points per game allowed to RBs."
   },
   {
@@ -3220,7 +3220,7 @@
    "proj": 5.9,
    "last_week": null,
    "owned_pct": 11.5,
-   "owned_change": -0.04,
+   "owned_change": -0.02,
    "outlook": "Keaton Mitchell's usage declined in Week 6, prior to the Chargers' bye. After averaging nearly 12 touches per game in the preceding two weeks, Mitchell had two carries for just four yards, while Omarion Hampton and Kimani Vidal handled bigger workloads. Offensive coordinator Mike McDaniel is scrambling to find answers, so Mitchell is expected to get more chances to prove he deserves a consistent role. However, so far in 2026, he hasn't produced more than 52 rushing yards or 63 scrimmage yards in a game. In Week 8, he will take on a Rams defense that is tied for 14th in fantasy points per game allowed to RBs."
   },
   {
@@ -3244,7 +3244,7 @@
    "proj": 9.0,
    "last_week": null,
    "owned_pct": 10.9,
-   "owned_change": 0.45,
+   "owned_change": -0.01,
    "outlook": "Darius Cooper disappointed for Philadelphia last game despite the Eagles dealing with a multitude of injuries at the wide receiver position. Both DeVonta Smith and Dontayvion Wicks were sidelined due to injury, but Cooper still only managed just one catch for 17 yards. He was targeted eight times in the contest, though rookie Makai Lemon saw eight targets by contrast. If Smith and/or Wicks are unable to suit up in Week 8 versus the Commanders, the matchup still favors Cooper, even with backup quarterback Tanner McKee under center. Washington is allowing 254 passing yards per game, which is 28th in the NFL. In addition, the Commanders have surrendered 15 passing scores, which is tied for 28th in the league."
   },
   {
@@ -3256,7 +3256,7 @@
    "proj": 15.9,
    "last_week": null,
    "owned_pct": 10.6,
-   "owned_change": 0.32,
+   "owned_change": 0.0,
    "outlook": "Malik Willis needs his legs to create a fantasy-relevant outing in Week 8 when the Dolphins face the Patriots. He has rushed for a touchdown in consecutive games and has at least eight carries in three of four contests, while also coming off his first multi-touchdown passing effort of the season. New England has only allowed nine touchdown passes and 70 total rushing yards to quarterbacks, suggesting Willis faces an uphill battle for counting stats. However, game flow could force additional passing volume assuming Miami falls behind early, creating a path to fantasy production."
   },
   {
@@ -3267,8 +3267,8 @@
    "injury": "ACTIVE",
    "proj": 6.8,
    "last_week": null,
-   "owned_pct": 10.4,
-   "owned_change": 0.18,
+   "owned_pct": 10.5,
+   "owned_change": 0.09,
    "outlook": "Roschon Johnson could return to a depth option as the Bears travel to Seattle in Week 8. Johnson benefited from the absence of Kyle Monangai (toe/thumb) in Weeks 5 and 6, but he logged just two carries for 13 yards in Week 7 against the Patriots. With Monangai tracking for a possible return in the upcoming away matchup, Johnson's role is unlikely to hold much value. If Monangai does sit out again, Johnson's worth keeping an eye on even versus a Seahawks defense that's ranked top 10 in fantasy points per game allowed to RBs (15.4)."
   },
   {
@@ -3292,7 +3292,7 @@
    "proj": 7.4,
    "last_week": null,
    "owned_pct": 10.1,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": "Ryan Fitzgerald will likely have limited scoring opportunities in the Panthers' Week 8 matchup against the Packers. Fitzgerald made just one of two point-after tries in the Week 7 loss to the Buccaneers and has now missed five this season. Despite going 11 for 11 on field-goal attempts, Fitzgerald has converted on a league-low 70.6% of his extra points. He likely won't have many scoring chances against Green Bay either, as the Packers defense has allowed just 4.7 kicking points per game this season, the fewest in the NFL."
   },
   {
@@ -3304,7 +3304,7 @@
    "proj": 4.9,
    "last_week": null,
    "owned_pct": 9.9,
-   "owned_change": -0.12,
+   "owned_change": -0.05,
    "outlook": "Kalif Raymond figures to be a depth option once again as the Bears play the Seahawks in Week 8. Raymond logged his first catch-less game of the season in Week 7, which only supports the fact that his role has diminished at this point in the year. The veteran pass catcher remains a safe option in the passing game, but he's way behind Rome Odunze and Luther Burden in the wide receiver hierarchy. Seattle has ranked first in fantasy points allowed to WRs so far this season."
   },
   {
@@ -3316,7 +3316,7 @@
    "proj": 9.0,
    "last_week": null,
    "owned_pct": 9.6,
-   "owned_change": 1.19,
+   "owned_change": 0.2,
    "outlook": ""
   },
   {
@@ -3328,7 +3328,7 @@
    "proj": 3.5,
    "last_week": null,
    "owned_pct": 9.6,
-   "owned_change": 0.0,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3356,6 +3356,18 @@
    "outlook": ""
   },
   {
+   "id": 2977187,
+   "name": "Cooper Kupp",
+   "pos": "WR",
+   "team": "SEA",
+   "injury": "ACTIVE",
+   "proj": 8.1,
+   "last_week": null,
+   "owned_pct": 9.4,
+   "owned_change": 0.27,
+   "outlook": "Cooper Kupp may be operating without fellow wideout Rashid Shaheed during Seattle's Week 8 matchup versus Chicago. Shaheed suffered a knee injury Sunday against Kansas City and is a question mark to play versus the Bears. If he does miss Week 8, Kupp could be set for more responsibilities, though he'd still be far behind superstar Jaxon Smith-Njigba in the pecking order. The Bears rank in the middle of the pack with 20.1 fantasy points per game allowed to wide receivers."
+  },
+  {
    "id": 4241463,
    "name": "Jerry Jeudy",
    "pos": "WR",
@@ -3368,18 +3380,6 @@
    "outlook": "Jerry Jeudy and the Browns take on the Steelers for a Week 8 road tilt. He caught all four of his targets for 21 yards during Cleveland's 27-24 comeback victory in Week 7. The outing marked two straight with at least four receptions for Jeudy, although he's still clearly behind rookies KC Concepcion and Denzel Boston, and tight end Harold Fannin Jr. in the passing game. Jeudy remains off the fantasy radar in this AFC North showdown."
   },
   {
-   "id": 2977187,
-   "name": "Cooper Kupp",
-   "pos": "WR",
-   "team": "SEA",
-   "injury": "ACTIVE",
-   "proj": 8.1,
-   "last_week": null,
-   "owned_pct": 9.2,
-   "owned_change": 0.34,
-   "outlook": "Cooper Kupp may be operating without fellow wideout Rashid Shaheed during Seattle's Week 8 matchup versus Chicago. Shaheed suffered a knee injury Sunday against Kansas City and is a question mark to play versus the Bears. If he does miss Week 8, Kupp could be set for more responsibilities, though he'd still be far behind superstar Jaxon Smith-Njigba in the pecking order. The Bears rank in the middle of the pack with 20.1 fantasy points per game allowed to wide receivers."
-  },
-  {
    "id": 4586312,
    "name": "Jaylin Noel",
    "pos": "WR",
@@ -3388,7 +3388,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 9.1,
-   "owned_change": -0.36,
+   "owned_change": -0.18,
    "outlook": ""
   },
   {
@@ -3400,7 +3400,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 9.0,
-   "owned_change": -0.06,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3411,8 +3411,8 @@
    "injury": "ACTIVE",
    "proj": 5.1,
    "last_week": null,
-   "owned_pct": 8.4,
-   "owned_change": 0.01,
+   "owned_pct": 8.3,
+   "owned_change": 0.02,
    "outlook": ""
   },
   {
@@ -3424,20 +3424,8 @@
    "proj": 10.1,
    "last_week": null,
    "owned_pct": 8.2,
-   "owned_change": 0.1,
+   "owned_change": 0.11,
    "outlook": "Tez Johnson is expected to play a depth role in the Buccaneers' receiving corps in the Week 8 matchup against the Falcons. Johnson has operated as Tampa Bay's top deep threat over the last three weeks, catching five of six targets for 104 yards and a touchdown. Due to his lack of opportunities, he's unlikely to be fantasy relevant without scoring a touchdown. However, he could find the end zone against a Falcons defense that's allowed four receiving touchdowns to WRs this season."
-  },
-  {
-   "id": 4038441,
-   "name": "Justice Hill",
-   "pos": "RB",
-   "team": "BAL",
-   "injury": "ACTIVE",
-   "proj": 6.6,
-   "last_week": null,
-   "owned_pct": 7.8,
-   "owned_change": -0.01,
-   "outlook": "Justice Hill and the Ravens are on the road for a Week 8 meeting with the Bills. He had three carries for seven yards and caught three of four targets for 26 yards during Baltimore's 35-13 loss in Week 7. Rasheen Ali registered 19 yards on four carries, but that can likely be attributed to the Ravens giving up all 35 points in the second half. Regardless, as long as Derrick Henry is healthy, Hill's involvement on offense will continue to be limited."
   },
   {
    "id": 4576297,
@@ -3448,8 +3436,20 @@
    "proj": 8.2,
    "last_week": null,
    "owned_pct": 7.8,
-   "owned_change": 0.26,
+   "owned_change": 0.18,
    "outlook": "AJ Barner should continue to lead Seattle's tight-end corps in Week 8 against the Bears. In Week 7 versus Kansas City, Barner recorded his second-most catches (four) and receiving yards (42) in a contest this season. Though he's yet to get into the end zone and isn't putting up prolific numbers, Barner has logged an offensive snap count of at least 80% in each of the Seahawks seven games. Chicago ranks 17th in the NFL by giving up 8.3fantasy points per game to tight ends."
+  },
+  {
+   "id": 4038441,
+   "name": "Justice Hill",
+   "pos": "RB",
+   "team": "BAL",
+   "injury": "QUESTIONABLE",
+   "proj": 6.6,
+   "last_week": null,
+   "owned_pct": 7.8,
+   "owned_change": -0.01,
+   "outlook": "Justice Hill and the Ravens are on the road for a Week 8 meeting with the Bills. He had three carries for seven yards and caught three of four targets for 26 yards during Baltimore's 35-13 loss in Week 7. Rasheen Ali registered 19 yards on four carries, but that can likely be attributed to the Ravens giving up all 35 points in the second half. Regardless, as long as Derrick Henry is healthy, Hill's involvement on offense will continue to be limited."
   },
   {
    "id": -16010,
@@ -3472,7 +3472,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 7.3,
-   "owned_change": -0.14,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -3496,7 +3496,7 @@
    "proj": 9.0,
    "last_week": null,
    "owned_pct": 6.5,
-   "owned_change": 0.04,
+   "owned_change": -0.01,
    "outlook": "Treylon Burks could see an uptick in targets for the remainder of the season, as No. 1 wideout Terry McLaurin will miss the rest of the 2026 campaign for the Commanders due to a knee injury. Burks posted season highs in targets, receptions and receiving yardage in Washington's last game before the bye.  In Week 8, Washington will face division rival Philadelphia. The reeling Eagles have been suspect in defending the pass this season.  Philadelphia is giving up 244.5 passing yards per tilt, which is 27th in the league."
   },
   {
@@ -3516,7 +3516,7 @@
    "name": "Kendrick Bourne",
    "pos": "WR",
    "team": "ARI",
-   "injury": "QUESTIONABLE",
+   "injury": "OUT",
    "proj": 8.3,
    "last_week": null,
    "owned_pct": 6.2,
@@ -3556,7 +3556,7 @@
    "proj": 5.5,
    "last_week": null,
    "owned_pct": 5.9,
-   "owned_change": 0.02,
+   "owned_change": -0.01,
    "outlook": "Jake Elliott has not even attempted a field goal over the last two games for the Eagles. With Tanner McKee taking over the offense for Jalen Hurts, the offense has continued to sputter. The Eagles have scored 21 points or fewer in every contest during the current five-game losing streak.  In fact, Elliott has only attempted five field goals on the entire season. If the Eagles cannot put up points against an extremely suspect Washington defense in Week 8, Elliott's utility may have come to an end. The Commanders are allowing 28.7 points per game in 2026, which is second-to-last in the league."
   },
   {
@@ -3568,7 +3568,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 5.8,
-   "owned_change": -0.03,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3580,7 +3580,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 5.7,
-   "owned_change": -0.12,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3616,7 +3616,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 5.5,
-   "owned_change": -0.12,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3628,7 +3628,7 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 5.3,
-   "owned_change": 0.23,
+   "owned_change": 0.0,
    "outlook": "Wil Lutz was busy and efficient in the Broncos' Week 7 win over the Cardinals, converting all three of his extra points and all three of his field-goal attempts for a season-best 12 points. The veteran kicker has booted multiple FGs in three of the last four games and multiple PATs in three straight, but the overall struggles of the Denver offense put a cap on Lutz's upside. He likely won't be able to squander any opportunities in Week 8 against a Kansas City team that ranks second in the NFL in points per game allowed."
   },
   {
@@ -3640,7 +3640,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 4.7,
-   "owned_change": -0.3,
+   "owned_change": -0.05,
    "outlook": "Colby Parkinson could play a key role for the Rams in Week 8 against the Chargers. With wideout Davante Adams sidelined by a hamstring injury this past Sunday, QB Matthew Stafford targeted tight ends 14 times. Parkinson logged six of those looks, turning them into a 5-48-0 line. Adams is expected to be out multiple more weeks, so Parkinson and the Rams' other tight ends should continue to be looked to often. The Chargers rank 10th in the league in fantasy points per game allowed to tight ends thanks largely to giving up only one touchdown to the position so far."
   },
   {
@@ -3664,7 +3664,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 4.5,
-   "owned_change": -0.03,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3700,7 +3700,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.8,
-   "owned_change": -0.05,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3712,7 +3712,7 @@
    "proj": 3.6,
    "last_week": null,
    "owned_pct": 3.8,
-   "owned_change": -0.12,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3724,7 +3724,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.6,
-   "owned_change": 0.02,
+   "owned_change": 0.04,
    "outlook": ""
   },
   {
@@ -3748,7 +3748,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.4,
-   "owned_change": -0.06,
+   "owned_change": 0.01,
    "outlook": ""
   },
   {
@@ -3772,7 +3772,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.2,
-   "owned_change": -0.03,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3796,7 +3796,7 @@
    "proj": 5.4,
    "last_week": null,
    "owned_pct": 3.1,
-   "owned_change": 0.06,
+   "owned_change": 0.0,
    "outlook": "Elijah Mitchell could end up seeing significant carries in Week 8 for the Eagles due to injury.  Both Saquon Barkley and Dameon Pierce appeared to leave the last game early due to various ailments, leaving Mitchell as potentially the only healthy back for the upcoming matchup with Washington.  Will Shipley and Tank Bigsby are already on Injured Reserve. If Mitchell maintains a role, he will face a Commanders defense allowing 100.5 rushing yards per tilt, which is 14th in the league."
   },
   {
@@ -3832,7 +3832,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.0,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3844,7 +3844,7 @@
    "proj": 5.1,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.03,
+   "owned_change": -0.01,
    "outlook": "Konata Mumpfield is an option to fill a massive void in the Rams' receiver corps in Week 8 against the Chargers. With Davante Adams sidelined for several games due to a hamstring injury, the Rams are looking for someone to step up alongside star wideout Puka Nacua. That didn't happen in Week 7 -- aside from Nacua, the only one of the team's WRs to log a catch was Mumpfield, who finished with just one reception for 15 yards on two targets. Perhaps Mumpfield can make a big play or two against the Chargers, who rank 24th in the league by allowing 8.86 yards per target to wideouts."
   },
   {
@@ -3856,7 +3856,7 @@
    "proj": 4.4,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": "Jaylen Wright has not played a meaningful role out of the Dolphins' backfield and is uncertain to play in Week 8 against the Patriots due to a quad issue. He had five or six carries in each of his last three games, failing to average better than 1.8 yards per carry, and has not caught a pass all season. Facing a middling New England run defense seems less important than considering Wright's continued lack of clean health and the potential that Miami falls behind early and abandons the run."
   },
   {
@@ -3868,7 +3868,7 @@
    "proj": 7.3,
    "last_week": null,
    "owned_pct": 2.8,
-   "owned_change": -0.01,
+   "owned_change": 0.0,
    "outlook": "Cade Otton is expected to remain one of Baker Mayfield's top targets in the Buccaneers' Week 8 matchup against the Falcons. Otton went without a catch during Tampa Bay's Week 7 win over the Panthers. However, this was largely due to the Buccaneers' success on the ground, as quarterback Baker Mayfield threw for just 64 yards while the team accumulated 258 rushing yards. Otton will have a good bounce-back opportunity against a Falcons defense that's allowed 16.4 fantasy points per game to opposing tight ends this season."
   },
   {
@@ -3892,7 +3892,7 @@
    "proj": 9.0,
    "last_week": null,
    "owned_pct": 2.8,
-   "owned_change": 0.1,
+   "owned_change": 0.01,
    "outlook": "Efton Chism will hope to be more than an afterthought in the Patriots' passing game in Week 8 against the Dolphins. After showing some potential with A.J. Brown sidelined, Chism has just two targets over the last two weeks, resulting in a 16-yard catch. New England heavily targeted tight ends in Week 7, and that appears to be an effective strategy against Miami as well, likely limiting opportunities for Chism to post high catch or yardage totals."
   },
   {
@@ -3952,7 +3952,7 @@
    "proj": 5.9,
    "last_week": null,
    "owned_pct": 2.3,
-   "owned_change": -0.01,
+   "owned_change": 0.0,
    "outlook": "Tre' Harris missed the Chargers' last game before a bye due to a hamstring injury, but the time off could allow him to return to the lineup. The bigger issue for the second-year wideout is the state of the offense around him, as he's topped 60 receiving yards only once in five games and is still looking for his first touchdown of 2026. Ladd McConkey could also return from an injury in Week 8, which might leave Harris struggling to get significant volume against a stingy Rams secondary that ranks fifth in fantasy points per game allowed to WRs."
   }
  ],
