@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T12:50:54+00:00",
+ "fetched_at": "2026-11-10T21:35:50+00:00",
  "key": "espn2",
  "label": "Goldstein Gooners",
  "platform": "espn",
@@ -19,8 +19,8 @@
  "my_team_id": 6,
  "opponent_id": 5,
  "projection": {
-  "me": 114.3,
-  "opponent": 120.5,
+  "me": 114.6,
+  "opponent": 120.3,
   "my_win_prob": 0.47
  },
  "teams": [
@@ -42,11 +42,11 @@
      "pos": "WR",
      "team": "SEA",
      "injury": "ACTIVE",
-     "proj": 22.5,
+     "proj": 22.3,
      "last_week": 12.1,
      "owned_pct": 99.7,
      "owned_change": -0.2,
-     "outlook": "",
+     "outlook": "Jaxon Smith-Njigba is coming off a rare quiet game with Seattle's Week 10 matchup in Las Vegas on tap. The All-Pro wideout logged a season-low 51 yards on seven catches this past Sunday against Arizona, though he still drew a healthy 10 targets. Drew Lock (oblique) started at quarterback for the Seahawks in that contest and is expected to do so again in Week 10, as Sam Darnold (quadriceps/rib) is likely to remain sidelined. Regardless, Smith-Njigba could feast against a Raiders defense that ranks 26th in the league with 23.6 fantasy points per game allowed to wide receivers.",
      "slot": "WR"
     },
     {
@@ -57,8 +57,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 8.2,
-     "owned_pct": 97.6,
-     "owned_change": -0.12,
+     "owned_pct": 97.5,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -68,11 +68,11 @@
      "pos": "WR",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 13.4,
+     "proj": 12.8,
      "last_week": 9.9,
      "owned_pct": 95.9,
-     "owned_change": -0.09,
-     "outlook": "",
+     "owned_change": -0.1,
+     "outlook": "Rashee Rice put together another quiet performance in Kansas City's Week 9 win over the Jets, catching five of seven passes for 49 yards. The fourth-year wide receiver has a 12-102-1 line on 15 targets over the last two weeks since returning from a two-game absence due to lower-body injuries, and his breakout potential could be limited even further if Patrick Mahomes misses any time after picking up an elbow injury against the Jets. Rice will try to make a bigger contribution in Week 10 against a Falcons secondary that just traded away safety Jessie Bates and ranks 19th in fantasy points per game allowed to WRs.",
      "slot": "FLEX"
     },
     {
@@ -84,7 +84,7 @@
      "proj": 0.0,
      "last_week": 9.4,
      "owned_pct": 96.3,
-     "owned_change": -0.11,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "TE"
     },
@@ -94,11 +94,11 @@
      "pos": "RB",
      "team": "SEA",
      "injury": "ACTIVE",
-     "proj": 11.8,
+     "proj": 11.9,
      "last_week": 11.8,
      "owned_pct": 73.7,
-     "owned_change": -0.05,
-     "outlook": "",
+     "owned_change": -0.07,
+     "outlook": "Jadarian Price looks to be settling in as Seattle's No. 2 RB ahead of a Week 10 clash against Las Vegas. The rookie running back handled 13 touches this past Sunday in a win over Arizona while Zach Charbonnet logged 17 touches. However, Charbonnet had 16 carries to Prize's nine, suggesting that the former may be leaning more toward a change-of-pace role. Both Charbonnet and Price could be utilized heavily against the Raiders, who have given up the second-most fantasy points per game (23.1) to running backs this season.",
      "slot": "RB"
     },
     {
@@ -110,8 +110,8 @@
      "proj": 12.1,
      "last_week": 5.0,
      "owned_pct": 93.6,
-     "owned_change": -0.16,
-     "outlook": "",
+     "owned_change": -0.17,
+     "outlook": "Jameson Williams will look to get more volume as the Lions play the Patriots in Week 10. Williams struggled to get touches with a stagnant passing game against the Dolphins in Week 9, recording one catch for 31 yards and one rush for nine yards. The speedy wideout has now posted a 28-468-5 receiving line on 44 targets across eight games. He'll face a New England defense that's ranked 31st in fantasy points allowed to wide receivers this season.",
      "slot": "BN"
     },
     {
@@ -122,9 +122,9 @@
      "injury": "ACTIVE",
      "proj": 14.4,
      "last_week": 14.1,
-     "owned_pct": 95.7,
+     "owned_pct": 95.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Parker Washington has had some quiet second halves with the Jaguars building big leads lately, and the same scenario could be on the table in Week 10 against the 1-8 Titans. Washington remains a fantasy WR2 with WR1 upside for this matchup, as Trevor Lawrence's top target should feast as long as this game is competitive against a Titans secondary that has surrendered some big individual performances to WRs, allowing at least 117 yards to six different players this season, including a combined 296 yards and three TDs to Cincinnati's WR duo of Tee Higgins and Ja'Marr Chase in Tennessee's most recent game. Washington has failed to exceed two catches in three of his last five games but easily leads the Jaguars with 493 receiving yards and five touchdown catches.",
      "slot": "WR"
     },
     {
@@ -135,8 +135,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 3.2,
-     "owned_pct": 70.4,
-     "owned_change": -0.16,
+     "owned_pct": 70.2,
+     "owned_change": -0.4,
      "outlook": "",
      "slot": "BN"
     },
@@ -146,11 +146,11 @@
      "pos": "RB",
      "team": "SEA",
      "injury": "ACTIVE",
-     "proj": 14.4,
+     "proj": 14.5,
      "last_week": 9.6,
-     "owned_pct": 72.9,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_pct": 73.0,
+     "owned_change": -0.04,
+     "outlook": "Zach Charbonnet seems to be emerging as Seattle's No. 1 running back heading into a Week 10 tilt against the Raiders. In his second game back from ACL surgery, Charbonnet led the Seahawks with 16 carries and 77 receiving yards against Arizona this past Sunday while adding one catch for nine yards. Rookie Jadarian Price still managed 13 touches, so Charbonnet doesn't seem likely to have the backfield all to himself. Both tailbacks could thrive against a Las Vegas defense that has allowed a league-worst 5.21 yards per carry to running backs.",
      "slot": "RB"
     },
     {
@@ -163,7 +163,7 @@
      "last_week": 18.8,
      "owned_pct": 61.3,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "In Week 10, KC Concepcion and the Browns are home for the first time since Week 6 to host the Texans. He grabbed four of six targets for 85 yards, including a 64-yard touchdown, during Cleveland's 23-22 overtime loss in Week 9. The rookie wideout notched the first TD of his young career, and he now owns a 37-437-1 receiving line on 55 targets to go along with 10 carries for 37 yards through nine games. Concepcion will aim to take advantage of a Houston defense allowing the third-most fantasy points per game (38.5) to opposing WRs.",
      "slot": "BN"
     },
     {
@@ -174,8 +174,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 10.0,
-     "owned_pct": 45.4,
-     "owned_change": -0.17,
+     "owned_pct": 45.1,
+     "owned_change": -0.43,
      "outlook": "",
      "slot": "K"
     },
@@ -188,8 +188,8 @@
      "proj": 12.7,
      "last_week": 15.8,
      "owned_pct": 78.6,
-     "owned_change": -0.07,
-     "outlook": "",
+     "owned_change": -0.06,
+     "outlook": "Denzel Boston and the Browns welcome the 3-5 Texans to town in Week 10. He corralled six of seven targets for 98 yards during Cleveland's 23-22 overtime loss in Week 9. Boston just missed the 100-yard mark but was able to establish a new career high in receiving yards, and he paced his team in receptions, yardage and targets. He showed a great rapport with Shedeur Sanders, who earned his first start of the season, but Deshaun Watson (concussion) is likely to return from a one-game absence to face his former team. Boston will look to build upon this effort against a Houston defense allowing the third-most fantasy points per game (38.5) to opposing WRs.",
      "slot": "BN"
     },
     {
@@ -201,8 +201,8 @@
      "proj": 18.8,
      "last_week": 20.3,
      "owned_pct": 72.2,
-     "owned_change": -0.09,
-     "outlook": "",
+     "owned_change": -0.07,
+     "outlook": "Bryce Young is expected to continue leading the Panthers' offense during the Week 10 matchup against the Saints. Young played well despite a loss in Week 9 against the Broncos, throwing for 276 yards, three touchdowns and an interception. He remains tied for the league-lead in passing attempts per game (38.5) and fourth in passing yards per game (274.6). which are both positive signs for his outlook going forward. Additionally, Young is in for a favorable Week 10 matchup against a Saints defense that's allowed 21.2 fantasy points per game to opposing quarterbacks this year.",
      "slot": "QB"
     },
     {
@@ -211,7 +211,7 @@
      "pos": "D/ST",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 5.4,
+     "proj": 5.2,
      "last_week": 6.0,
      "owned_pct": 83.8,
      "owned_change": -0.17,
@@ -226,8 +226,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 13.0,
-     "owned_pct": 64.7,
-     "owned_change": -0.25,
+     "owned_pct": 64.1,
+     "owned_change": -0.89,
      "outlook": "",
      "slot": "BN"
     }
@@ -251,11 +251,11 @@
      "pos": "RB",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 21.4,
+     "proj": 20.5,
      "last_week": 16.7,
      "owned_pct": 99.8,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "James Cook's high volume creates a high floor and ceiling into the Bills' Week 10 matchup with the Jets. Cook amassed a season-high 31 carries in Week 9, his sixth game in eight outings with 20+ touches and has topped 100 total yards at the same ratio while scoring in seven straight games. While the Bills have a short week coming off a Monday night game, nothing has been shown to suggest Cook's role will be reduced, suggesting he'll gash a Jets defense that's allowing the eighth-most fantasy points to opposing running backs and one he posted 132 yards and two touchdowns against in one healthy outing in 2025.",
      "slot": "RB"
     },
     {
@@ -268,7 +268,7 @@
      "last_week": 15.5,
      "owned_pct": 98.8,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Nico Collins has had to share the wealth in recent weeks as the locked-in C.J. Stroud spreads the ball around to a deep Texans WR room that also includes Xavier Hutchinson, Tank Dell, Marvin Harrison and Kayshon Boutte. Collins has been targeted five or fewer times in each of the past three games, scoring just once over that span while averaging three catches for 45 yards. He'll need to pick up the pace to reach the 1,000-yard receiving mark for a fourth consecutive season, and Collins has dropped out of his customary fantasy WR1 standing to the WR2 range for a Week 10 matchup with a Browns secondary that's allowing 144 yards per game to WRs.",
      "slot": "FLEX"
     },
     {
@@ -280,7 +280,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 95.4,
-     "owned_change": -0.13,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -293,7 +293,7 @@
      "proj": 0.0,
      "last_week": 3.1,
      "owned_pct": 97.7,
-     "owned_change": -0.17,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -306,7 +306,7 @@
      "proj": 0.0,
      "last_week": 16.0,
      "owned_pct": 84.3,
-     "owned_change": -0.08,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "BN"
     },
@@ -316,11 +316,11 @@
      "pos": "WR",
      "team": "GB",
      "injury": "ACTIVE",
-     "proj": 15.1,
+     "proj": 15.7,
      "last_week": 30.1,
      "owned_pct": 97.2,
-     "owned_change": -0.02,
-     "outlook": "",
+     "owned_change": -0.03,
+     "outlook": "Christian Watson will look to build off a career day as the Packers play the Vikings in Week 10. Watson put together a prolific performance in a Week 9 win over the Patriots, bringing in seven of eight targets for 171 yards and a touchdown. The wideout now holds a career-high receiving line of 49-879-7 on 74 targets. He'll face a Minnesota secondary that he tore up with 6 catches for 147 yards and two touchdowns against in Week 1.",
      "slot": "WR"
     },
     {
@@ -329,11 +329,11 @@
      "pos": "QB",
      "team": "LAC",
      "injury": "QUESTIONABLE",
-     "proj": 12.0,
+     "proj": 12.1,
      "last_week": 10.4,
-     "owned_pct": 32.1,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_pct": 32.0,
+     "owned_change": -0.11,
+     "outlook": "Justin Herbert is coming off another shaky performance in the Chargers' Week 9 loss to the Texans, completing less than 60% of his pass attempts and throwing his league-leading 11th interception of the season. The 28-year-old quarterback has yet to throw multiple TDs in any game this season, as the addition of offensive coordinator Mike McDaniel has been a complete disaster for the Chargers, and he also emerged from the loss to Houston with a finger injury on his non-throwing hand. The issue doesn't seem likely to cost him any time, however. Herbert will try to begin righting the ship in Week 10 against a Ravens defense that's tied for 12th in fantasy points per game allowed to QBs.",
      "slot": "BN"
     },
     {
@@ -342,11 +342,11 @@
      "pos": "TE",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 11.7,
+     "proj": 11.2,
      "last_week": 17.3,
      "owned_pct": 92.2,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Travis Kelce produced his highest yardage total since Week 2 in Kansas City's Week 9 win over the Jets, hauling in four of six targets for a team-high 72 yards. He also scored his first rushing touchdown since 2021 on a one-yard plunge. Kelce has delivered a 33-482-2 line on 48 targets through eight games, but his outlook would suffer if Patrick Mahomes ends up missing time due to an elbow injury he picked up against the Jets. Regardless of who's under center, Kelce will face a Falcons defense in Week 10 that ranks 16th in fantasy points per game allowed to TEs.",
      "slot": "TE"
     },
     {
@@ -355,11 +355,11 @@
      "pos": "WR",
      "team": "GB",
      "injury": "ACTIVE",
-     "proj": 16.6,
+     "proj": 17.2,
      "last_week": 32.4,
      "owned_pct": 96.1,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_change": -0.02,
+     "outlook": "Matthew Golden will look to keep his tear rolling as the Packers play the Vikings in Week 10. Golden logged a career-best 164 yards on 10 catches and found the end zone in a Week 9 win over the Patriots. The second-year breakout receiver also caught every one of his targets in the win, which was a huge improvement from some drop-heavy games this season. He'll face a Minnesota defense that he caught six passes for 95 yards against in Week 1.",
      "slot": "WR"
     },
     {
@@ -370,8 +370,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 58.8,
-     "owned_change": -0.15,
+     "owned_pct": 58.5,
+     "owned_change": -0.42,
      "outlook": "",
      "slot": "BN"
     },
@@ -383,9 +383,9 @@
      "injury": "ACTIVE",
      "proj": 7.2,
      "last_week": 8.0,
-     "owned_pct": 35.4,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_pct": 35.3,
+     "owned_change": -0.08,
+     "outlook": "Eddy Pineiro hasn't had many chances for field goals of late ahead of San Francisco's Week 10 matchup against Dallas. Pineiro make his only FG attempt this past Sunday against the Raiders and has now attempted one or zero field goals in five of eight games this season. That's largely because the 49ers' offense has been so effective -- they have 22 TDs and just four FGs in 26 trips to the red zone. It could be more of the same for Pineiro against the Cowboys, who have allowed 27 PAT tries and 17 FG attempts this season.",
      "slot": "K"
     },
     {
@@ -394,11 +394,11 @@
      "pos": "TE",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 9.5,
+     "proj": 11.5,
      "last_week": 7.3,
-     "owned_pct": 80.9,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_pct": 80.8,
+     "owned_change": -0.2,
+     "outlook": "T.J. Hockenson should remain a top option in Minnesota's passing game versus the Packers in Week 10. Hockenson led the Vikings in catches in a Week 9 loss to the Bills, which was a quiet four grabs for 33 yards. The veteran tight end has now reeled in four receptions in each of the last three weeks. He'll face a Green Bay defense that he posted a 4-36-1 receiving line against in Week 1.",
      "slot": "BN"
     },
     {
@@ -411,7 +411,7 @@
      "last_week": 9.4,
      "owned_pct": 99.7,
      "owned_change": -0.15,
-     "outlook": "",
+     "outlook": "Jonathan Taylor is expected to be traded prior to Tuesday's deadline after rushing for 656 yards and eight TDs through nine games with the Colts, putting the star RB on pace for a fifth campaign with at least 1,169 rushing yards and 11 TDs. If he stays put, Taylor would have a juicy Week 10 matchup against the 1-7 Dolphins. He'll likely remain a set-and-forget fantasy RB1 wherever he lands.",
      "slot": "RB"
     },
     {
@@ -422,9 +422,9 @@
      "injury": "ACTIVE",
      "proj": 14.8,
      "last_week": null,
-     "owned_pct": 32.9,
-     "owned_change": 0.0,
-     "outlook": "",
+     "owned_pct": 32.8,
+     "owned_change": -0.07,
+     "outlook": "Aaron Rodgers and the Steelers are in Cincinnati for a Week 10 showdown on Sunday Night Football. In a Week 8 victory over Cleveland, he threw for 172 yards with no touchdowns and one interception, snapping a five-game streak of at least one TD pass. Pittsburgh relied on its ground game in that win, rushing 33 times compared to just 25 pass attempts. Rodgers will have to throw more in order to keep pace with the high-scoring Bengals' offense. He'll try to repeat his Week 3 performance when he threw for 292 yards with three TDs and one INT during the Steelers' first matchup with their division rival.",
      "slot": "QB"
     },
     {
@@ -435,8 +435,8 @@
      "injury": "ACTIVE",
      "proj": 2.7,
      "last_week": 8.0,
-     "owned_pct": 15.8,
-     "owned_change": -0.07,
+     "owned_pct": 15.6,
+     "owned_change": -0.26,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -464,7 +464,7 @@
      "last_week": 9.3,
      "owned_pct": 99.3,
      "owned_change": -0.11,
-     "outlook": "",
+     "outlook": "Malik Nabers had a four-game 100-yard receiving streak snapped last game for the Giants. Nabers had five catches for 43 yards in the 19-11 win over the Eagles. He was targeted eight times. He will look to rebound in Week 10 against a porous Washington secondary. The Commanders are allowing 240 passing yards per clash, which is 30th in the league. In addition, Washington has surrendered 16 passing touchdowns, which is tied for 25th in the league.",
      "slot": "WR"
     },
     {
@@ -472,12 +472,12 @@
      "name": "Cam Skattebo",
      "pos": "RB",
      "team": "NYG",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 11.6,
      "last_week": 0.0,
-     "owned_pct": 92.4,
-     "owned_change": -0.12,
-     "outlook": "",
+     "owned_pct": 92.3,
+     "owned_change": -0.14,
+     "outlook": "Cam Skattebo did not suit up in New York's last game due to a hamstring issue. However, Skattebo pushed to play in the contest, and as a result looks primed to return to the starting lineup in Week 10 versus the Commanders. Washington has been fairly stingy against the run in 2026, though, allowing just 102.3 rushing yards per tilt, which is 12th in the league. In addition, the Commanders have yielded just seven rushing touchdowns, which is tied for 11th in the NFL.",
      "slot": "BN"
     },
     {
@@ -499,11 +499,11 @@
      "pos": "TE",
      "team": "GB",
      "injury": "ACTIVE",
-     "proj": 9.1,
+     "proj": 9.4,
      "last_week": 1.9,
      "owned_pct": 92.4,
-     "owned_change": -0.16,
-     "outlook": "",
+     "owned_change": -0.18,
+     "outlook": "Tucker Kraft will aim to get back on track as the Packers play the Vikings in Week 10. Kraft didn't get to join in on any of the fun of Green Bay's offensive explosion in Week 9 over the Patriots, as he brought in just one of his three targets for one yard and rushed the ball twice for eight yards. He's now posted a 36-351-3 receiving line across the first nine games of the campaign. He'll face a Minnesota defense that he logged three catches for 65 yards against in Week 1.",
      "slot": "TE"
     },
     {
@@ -512,11 +512,11 @@
      "pos": "QB",
      "team": "JAX",
      "injury": "ACTIVE",
-     "proj": 21.4,
+     "proj": 21.5,
      "last_week": 13.6,
      "owned_pct": 93.2,
      "owned_change": -0.11,
-     "outlook": "",
+     "outlook": "Trevor Lawrence has thrown 18 touchdown passes to lead the Jaguars to a 6-2 record heading into a Week 10 trip to Tennessee, but he has just three touchdown passes in three road games. Jacksonville has won its last two games by a 75-17 margin, so Lawrence has been afforded the luxury of taking his foot off the gas, which has limited his production after back-to-back 300 yard passing performances in a pair of competitive games in London. Another lopsided win is likely to materialize against the 1-7 Titans, but Lawrence is capable of producing elite numbers while the game is still up for grabs. He has top-five fantasy QB upside against a Tennessee secondary that's giving up the second-most passing yards per game, but it wouldn't be surprising if he finished outside the top 15 in Week 10, either.",
      "slot": "QB"
     },
     {
@@ -525,11 +525,11 @@
      "pos": "RB",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 7.0,
+     "proj": 9.1,
      "last_week": 6.2,
-     "owned_pct": 58.0,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_pct": 57.8,
+     "owned_change": -0.32,
+     "outlook": "Jordan Mason will look to see a more favorable game script in Week 10 as the Vikings travel to Green Bay. Mason rushed just six times for 35 yards and reeled in two of three targets for seven yards in a Week 9 loss to the Bills. As expected, the fifth-year ball carrier has been a part of a two-pronged backfield approach next to Aaron Jones this season, but it appears Mason might be the more efficient of the pair. The Packers have ranked 27th in fantasy points allowed to running backs.",
      "slot": "BN"
     },
     {
@@ -538,11 +538,11 @@
      "pos": "RB",
      "team": "NYJ",
      "injury": "ACTIVE",
-     "proj": 8.2,
+     "proj": 7.9,
      "last_week": 5.4,
-     "owned_pct": 82.3,
-     "owned_change": -0.19,
-     "outlook": "",
+     "owned_pct": 82.2,
+     "owned_change": -0.31,
+     "outlook": "Braelon Allen has reverted to a secondary option for the Jets with Breece Hall healthy ahead of a Week 10 matchup with the Bills. Allen recorded just 10 touches in Hall's return in Week 9 after 19 or more opportunities over the last five weeks. With Hall a preferred option in the passing game and facing a defense that allows just 3.8 yards per carry, Allen is unlikely to collect enough usage to be in the Week 10 fantasy mix.",
      "slot": "BN"
     },
     {
@@ -551,11 +551,11 @@
      "pos": "RB",
      "team": "MIA",
      "injury": "ACTIVE",
-     "proj": 15.9,
+     "proj": 15.7,
      "last_week": 7.4,
      "owned_pct": 88.3,
      "owned_change": -0.1,
-     "outlook": "",
+     "outlook": "Ollie Gordon should log heavy volume again in an inviting Week 10 matchup when the Dolphins face the Colts. Gordon has 16 or more carries in three straight games and five of his last six, scoring four times and topping 100 yards twice. He has no major competition for carries with Jaylen Wright injured and sparingly used even when healthy. Indianapolis is allowing 4.8 yards per carry, the third-highest mark in the league, setting Gordon up to take advantage of a big workload.",
      "slot": "FLEX"
     },
     {
@@ -567,8 +567,8 @@
      "proj": 7.3,
      "last_week": 11.4,
      "owned_pct": 44.1,
-     "owned_change": -0.09,
-     "outlook": "",
+     "owned_change": -0.13,
+     "outlook": "Juwan Johnson is expected to remain one of the Saints' top pass catchers during the Week 10 matchup against the Panthers. Johnson saw little volume but saved his fantasy day with a score in Week 9, catching two of three targets for 34 yards and a touchdown. He's been relatively underwhelming over the last three contests, catching just three of seven targets for 41 yards and a touchdown. This is especially concerning due to the return of 2026 first-round pick Jordyn Tyson, who will likely take more receiving volume away from Johnson as the season progresses. However, Johnson could thrive against a Panthers defense that's allowed 13.5 fantasy points per game to opposing tight ends this season.",
      "slot": "BN"
     },
     {
@@ -581,7 +581,7 @@
      "last_week": null,
      "owned_pct": 96.0,
      "owned_change": -0.14,
-     "outlook": "",
+     "outlook": "In Week 10, Jaylen Warren and the Steelers visit their divisional-rival Bengals on Sunday Night Football. He rushed 17 times for 143 yards and a touchdown while catching one of two targets for no gain during Pittsburgh's 27-6 victory in Week 9. Warren matched his career high for rushing yards and produced his third 100-plus-yard effort in his last four games. In Week 3, he generated 176 scrimmage yards on 20 touches in his first matchup against Cincinnati, so he'll be hungry to put up similar numbers on the road.",
      "slot": "BN"
     },
     {
@@ -594,7 +594,7 @@
      "last_week": 13.6,
      "owned_pct": 96.5,
      "owned_change": -0.09,
-     "outlook": "",
+     "outlook": "Chuba Hubbard is expected to remain Carolina's bell-cow back during the Week 10 matchup against the Saints. Hubbard has now logged 20-plus touches in five of the Panthers' last six games, averaging the eighth-most touches per game (20.0) in the NFL this year. His receiving volume has jumped over the last three weeks as well, catching 15 of 18 targets for 82 yards during that span. Hubbard figures to have a huge game in Week 10 against a New Orleans defense that has allowed the most fantasy points per game to opposing running backs (28.6) this season.",
      "slot": "RB"
     },
     {
@@ -606,8 +606,8 @@
      "proj": 14.6,
      "last_week": 5.3,
      "owned_pct": 99.0,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_change": -0.16,
+     "outlook": "Zay Flowers and the Ravens are at home to take on the Chargers in Week 10. He brought in three of six targets for six yards and rushed three times for another 17 yards during Baltimore's defeat in Week 9. Flowers and his fantasy managers are hoping the acquisition of Jacoby Brissett will provide a boost for the Ravens' passing game, as the former Cardinal will get his first Ravens start on Monday Night Football. Flowers does have a favorable matchup against a Chargers defense allowing 36.9 fantasy points per game (27th) to WRs.",
      "slot": "WR"
     },
     {
@@ -619,8 +619,8 @@
      "proj": 10.6,
      "last_week": 16.0,
      "owned_pct": 83.1,
-     "owned_change": -0.06,
-     "outlook": "",
+     "owned_change": -0.05,
+     "outlook": "Spencer Shrader leads the league in field goals made and attempted, even with his volume and effectiveness dropping off in recent weeks as the 2-7 Colts continue to struggle as a team. He's 22-for-24 this season but just 4-for-6 over the past three games. Indianapolis faces a Dolphins defense in Week 10 that has allowed 15 made field goals in eight games and 25.0 points per game. If you have Shrader on your roster, you may as well keep starting him.",
      "slot": "K"
     },
     {
@@ -629,11 +629,11 @@
      "pos": "WR",
      "team": "NYJ",
      "injury": "ACTIVE",
-     "proj": 10.0,
+     "proj": 9.5,
      "last_week": 13.8,
-     "owned_pct": 58.1,
-     "owned_change": -0.07,
-     "outlook": "",
+     "owned_pct": 58.0,
+     "owned_change": -0.13,
+     "outlook": "Omar Cooper will seek a consistent role when the Jets face the Bills in Week 10. Over the last four games, Cooper topped 100 yards twice, collecting double-digit targets in Week 9 after being shut out in Week 8. The additional looks came with Garrett Wilson (concussion) sidelined, and while Wilson likely returns for Week 10, the Jets also figure to need to pass often to keep up with Buffalo's potent offense. Cooper will come with a high ceiling and ample volatility against a secondary that's allowing the eighth-most fantasy points to wideouts but a mere 7.5 yards per target.",
      "slot": "BN"
     },
     {
@@ -642,10 +642,10 @@
      "pos": "D/ST",
      "team": "JAX",
      "injury": "ACTIVE",
-     "proj": 6.3,
+     "proj": 6.4,
      "last_week": 12.0,
      "owned_pct": 88.5,
-     "owned_change": -0.12,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -669,11 +669,11 @@
      "pos": "RB",
      "team": "DET",
      "injury": "ACTIVE",
-     "proj": 23.8,
+     "proj": 23.9,
      "last_week": 13.4,
      "owned_pct": 99.8,
      "owned_change": -0.14,
-     "outlook": "",
+     "outlook": "Jahmyr Gibbs will seek to return to dominance as the Lions play the Patriots in Week 10. Gibbs punched in another rushing score alongside 74 yards on the ground in Week 9 against the Dolphins, but he was unable to record a catch for the first time this season. The star ball carrier has now recorded 20 or more carries in each of his last four outings, but he's seen his receiving work decline each week in that stretch. He'll face a New England defense that's ranked a tough fifth in fantasy points allowed to running backs this season.",
      "slot": "RB"
     },
     {
@@ -684,22 +684,22 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 87.5,
-     "owned_change": -0.13,
+     "owned_pct": 87.3,
+     "owned_change": -0.31,
      "outlook": "",
-     "slot": "BN"
+     "slot": "IR"
     },
     {
      "id": 4047646,
      "name": "A.J. Brown",
      "pos": "WR",
      "team": "NE",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 93.1,
-     "owned_change": -0.13,
-     "outlook": "",
+     "owned_pct": 93.0,
+     "owned_change": -0.2,
+     "outlook": "A.J. Brown will look to return from a two-week absence when the Patriots face the Lions in Week 10. Limited to just three games thus far, Brown amassed 16 targets in his last two outings and figures to again draw heavy volume if healthy. In a game where the Patriots could be down their top two running backs, a pass-heavy shootout appears possible, setting Brown up for a big game against a Lions secondary that's allowing 8.0 yards per target to opposing wideouts.",
      "slot": "BN"
     },
     {
@@ -710,10 +710,10 @@
      "injury": "QUESTIONABLE",
      "proj": 10.4,
      "last_week": 0.0,
-     "owned_pct": 86.4,
-     "owned_change": -0.2,
-     "outlook": "",
-     "slot": "FLEX"
+     "owned_pct": 86.2,
+     "owned_change": -0.43,
+     "outlook": "Ladd McConkey didn't get any snaps in the Chargers' Week 9 loss to the Texans, as back spasms during pregame workouts kept him on the sideline. The third-year wide receiver has seen a full workload in just two of the seven games he's been active for, and with the team winless on the season, there's little incentive for the Chargers to take any risks with his health. McConkey has been productive when he's been in the lineup, but it's becoming harder to predict when that will be. If he manages to actually play in Week 10, he'll be facing a Ravens secondary that's tied for 22nd in fantasy points per game allowed to WRs.",
+     "slot": "BN"
     },
     {
      "id": 3915511,
@@ -725,7 +725,7 @@
      "last_week": 29.5,
      "owned_pct": 99.1,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "Joe Burrow and the Bengals welcome the divisional-rival Steelers to town for a Week 10 meeting on Sunday Night Football. He stayed red-hot in Week 9, completing 24 of 29 pass attempts for 271 yards and three TDs with no INTs while rushing three times for seven yards and another score. Burrow owns a 16:3 TD:INT and has two rushing TDs over his last four outings, and he continues to lead the NFL with 23 passing TDs through eight games. He'll look to avenge a Week 3 loss to Pittsburgh, when he went 28-for-37 for 282 yards and three scores but lost a fumble with 53 seconds remaining and Cincinnati down by three.",
      "slot": "BN"
     },
     {
@@ -738,8 +738,8 @@
      "last_week": null,
      "owned_pct": 87.6,
      "owned_change": -0.16,
-     "outlook": "",
-     "slot": "BN"
+     "outlook": "DK Metcalf and the Steelers travel to Cincinnati for a divisional clash in Week 10. He caught just one of six targets for four yards during Pittsburgh's 27-6 victory in Week 8, giving the 28-year-old a 3-60-0 receiving line on 12 targets over his last two contests. Metcalf and the Steelers didn't have to throw much while playing most of Week 8 with a double-digit advantage, but that could change in Week 10 versus a high-powered Bengals offense on Sunday Night Football. In his first matchup against Cincinnati, Metcalf corralled three of five targets for 31 yards and his only TD of the season.",
+     "slot": "FLEX"
     },
     {
      "id": 4362081,
@@ -749,9 +749,9 @@
      "injury": "ACTIVE",
      "proj": 8.3,
      "last_week": 13.0,
-     "owned_pct": 42.0,
-     "owned_change": -0.01,
-     "outlook": "",
+     "owned_pct": 41.9,
+     "owned_change": -0.06,
+     "outlook": "Cameron Dicker continues to benefit from the Chargers' inability to finish off drives. The 26-year-old kicker has booted multiple field goals in five of the last six games, going 15-for-16 on FG attempts over that stretch but seeing just six PAT attempts, converting them all. The steady volume gives Dicker a solid floor heading into a Week 10 clash with a Ravens team allowing 26.2 points per game, tied for 25th in the league.",
      "slot": "BN"
     },
     {
@@ -762,9 +762,9 @@
      "injury": "ACTIVE",
      "proj": 11.3,
      "last_week": 6.6,
-     "owned_pct": 89.1,
-     "owned_change": -0.13,
-     "outlook": "",
+     "owned_pct": 89.0,
+     "owned_change": -0.18,
+     "outlook": "Jalen Coker is expected to remain one of the Panthers' top receiving options in the Week 10 matchup against the Saints. Coker has cooled down along with the majority of Carolina's offense over the last three weeks, catching just seven of 14 targets for 74 yards and a touchdown during that span. Despite this, Bryce Young is still tied for the most pass attempts per game in the NFL (38.5), which bodes well for Coker's fantasy outlook going forward. Coker could take advantage of a New Orleans secondary that's given up 11.1 yards per completion this year.",
      "slot": "WR"
     },
     {
@@ -777,7 +777,7 @@
      "last_week": 25.3,
      "owned_pct": 98.6,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Brock Purdy will continue to push toward MVP consideration when the 49ers face Dallas in Week 10. Purdy helped San Francisco improve to 7-1 this past Sunday with a win over the Raiders during which he threw for 232 yards with two touchdowns and one interception despite working without the team's top two wideouts -- Mike Evans (Achilles) and Deebo Samuel (hamstring). Purdy also ran for 40 yards and a score in the victory, and he currently ranks sixth among NFL quarterbacks with 201 rushing yards on the campaign. Even if Evans and/or Samuel remain out Week 10, Purdy is primed for a big day against a Cowboys defense that ranks 25th in the league by allowing a 99.1 quarterback rating this season.",
      "slot": "QB"
     },
     {
@@ -785,13 +785,13 @@
      "name": "Deebo Samuel Sr.",
      "pos": "WR",
      "team": "SF",
-     "injury": "OUT",
-     "proj": 12.2,
+     "injury": "QUESTIONABLE",
+     "proj": 11.7,
      "last_week": 0.0,
-     "owned_pct": 74.5,
-     "owned_change": -0.12,
-     "outlook": "",
-     "slot": "IR"
+     "owned_pct": 74.4,
+     "owned_change": -0.11,
+     "outlook": "Deebo Samuel (hamstring) will look to return from a four-game absence when San Francisco travels to Dallas in Week 10. Samuel hasn't been placed on IR, and the expectation is that he'll return before the end of the season, but his status for this week is hazy, at best. With No. 1 wideout Mike Evans (Achilles) missing the past two games, the 49ers have had to look deep into their wideout corps for pass-catching options. If Samuel is able to get back on the field against the Cowboys, he could find success against a defense that has given up 159.3 receiving yards per game to wideouts, ninth-most in the NFL.",
+     "slot": "BN"
     },
     {
      "id": 4038815,
@@ -802,8 +802,8 @@
      "proj": 9.8,
      "last_week": null,
      "owned_pct": 63.0,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_change": -0.1,
+     "outlook": "Rico Dowdle and the Steelers travel to take on the Bengals for a Week 10 AFC North showdown. He had his best showing of the season during Week 8's victory, rushing 15 times for 56 yards and his first touchdown with Pittsburgh. Dowdle battled a toe injury in the early portion of the season, but he's starting to come along, tallying 15 touches in each of his previous two outings. He will look to keep improving versus Cincinnati's 15th-ranked defense in fantasy points allowed per game (20.9) to RBs.",
      "slot": "BN"
     },
     {
@@ -812,11 +812,11 @@
      "pos": "WR",
      "team": "DET",
      "injury": "ACTIVE",
-     "proj": 20.3,
+     "proj": 20.4,
      "last_week": 16.6,
      "owned_pct": 99.8,
      "owned_change": -0.11,
-     "outlook": "",
+     "outlook": "Amon-Ra St. Brown will seek to get back in the end zone as the Lions play the Patriots in Week 10. St. Brown led Detroit in all receiving categories against the Dolphins in Week 9, bringing in eight of 10 targets for 86 yards. The star wide receiver is on track for another dominant year, but he hasn't logged a touchdown since Week 3. He enters a favorable matchup versus a New England defense that's ranked 31st in fantasy points allowed to WRs.",
      "slot": "WR"
     },
     {
@@ -827,8 +827,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 10.0,
-     "owned_pct": 80.1,
-     "owned_change": -0.13,
+     "owned_pct": 80.0,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "TE"
     },
@@ -838,11 +838,11 @@
      "pos": "K",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 9.6,
+     "proj": 9.4,
      "last_week": 9.0,
-     "owned_pct": 92.0,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_pct": 91.9,
+     "owned_change": -0.21,
+     "outlook": "Will Reichard will look to stay involved as the Vikings play the Packers in Week 10. Reichard got back on track in a Week 9 loss to the Bills, making both of his two field-goal attempts. The starting boot has now made two or more field goals in all but two of his eight outings this campaign. Green Bay has ranked a tough first in fantasy points allowed to kickers this campaign.",
      "slot": "K"
     },
     {
@@ -854,7 +854,7 @@
      "proj": 7.3,
      "last_week": 12.0,
      "owned_pct": 91.3,
-     "owned_change": -0.05,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -864,11 +864,11 @@
      "pos": "RB",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 10.8,
+     "proj": 10.9,
      "last_week": 6.9,
      "owned_pct": 77.0,
-     "owned_change": -0.13,
-     "outlook": "",
+     "owned_change": -0.18,
+     "outlook": "Rachaad White continues to operate as the top back for the Commanders, though has found little room to roam on the ground. White has failed to rush for more than 55 yards in any game this season. However, he does have at least two receptions in three-straight contests. In Week 10, White will face a Giants defense that has been better against the pass than the run in 2026. New York is allowing just 177.8 passing yards per clash, which is third in the NFL. However, the Giants are surrendering 123.6 rushing yards per tilt, which is 21st in the league.",
      "slot": "RB"
     }
    ]
@@ -895,7 +895,7 @@
      "last_week": 26.7,
      "owned_pct": 99.9,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "Bijan Robinson is expected to remain the focal point of the Falcons' offense in the Week 10 matchup against the Chiefs. Robinson was one of Atlanta's few bright spots during the Week 9 loss to the Bengals, accumulating 147 yards and a touchdown on 25 touches. The Texas product is currently averaging the third-most touches per game (22.2) in the NFL, suggesting he'll remain one of fantasy's top running backs despite a tough matchup. Kansas City's defense has given up just 20.1 fantasy points per game to opposing RBs through eight games this year.",
      "slot": "RB"
     },
     {
@@ -904,11 +904,11 @@
      "pos": "QB",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 25.7,
+     "proj": 24.3,
      "last_week": 12.9,
      "owned_pct": 99.7,
      "owned_change": -0.18,
-     "outlook": "",
+     "outlook": "Josh Allen will seek a bounce-back performance when the Bills face the Jets in Week 10. Allen, in the face of constant and expected pressure, had his first game of the year with just one touchdown in Week 9 at Minnesota while being held under 250 yards for the fourth time to date. The Jets have allowed a 16:1 TD:INT ratio through nine games, but Allen threw for only 148 yards and no scores against them in his lone 2025 matchup, suggesting a lower than usual ceiling for arguably the league's best quarterback.",
      "slot": "QB"
     },
     {
@@ -917,11 +917,11 @@
      "pos": "RB",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 26.0,
+     "proj": 26.1,
      "last_week": 36.3,
      "owned_pct": 99.9,
      "owned_change": -0.02,
-     "outlook": "",
+     "outlook": "Kenneth Walker is coming off a massive performance in Kansas City's Week 9 win over the Jets, scoring three touchdowns (one rushing, two receiving) while racking up 143 scrimmage yards. The star running back is second in the NFL in rushing yards with 872, just behind Bijan Robinson's 880. He is fourth in scrimmage yards with 1,044, and tied for first with Jahmyr Gibbs in total TDs from scrimmage with 11. Walker could be leaned on even more heavily in Week 10 if Patrick Mahomes' elbow injury keeps him on the sideline, against a Falcons defense that's tied for 29th in fantasy points per game allowed to RBs.",
      "slot": "RB"
     },
     {
@@ -933,7 +933,7 @@
      "proj": 0.0,
      "last_week": 6.9,
      "owned_pct": 93.6,
-     "owned_change": -0.12,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -943,11 +943,11 @@
      "pos": "WR",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 14.3,
+     "proj": 13.3,
      "last_week": 6.6,
      "owned_pct": 91.8,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_change": -0.11,
+     "outlook": "DJ Moore will look for increased volume when the Bills face the Jets in Week 10. Moore collected only five targets in Week 9, his lowest total in any healthy outing of 2026 in a game where Josh Allen had minimal at best time to throw. While he'll likely have more time Sunday and Moore has remained the preferred option on drop backs, the Jets have allowed only nine touchdown receptions to wideouts, seemingly capping Moore's potential.",
      "slot": "WR"
     },
     {
@@ -969,11 +969,11 @@
      "pos": "TE",
      "team": "ATL",
      "injury": "ACTIVE",
-     "proj": 9.1,
+     "proj": 9.2,
      "last_week": 5.3,
-     "owned_pct": 84.6,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_pct": 84.5,
+     "owned_change": -0.25,
+     "outlook": "Kyle Pitts will look to rebound from a poor performance in Atlanta's Week 10 matchup against the Chiefs. After catching 15 of 18 targets for 122 yards and four touchdowns from Weeks 5 through 7, Pitts has really struggled. In his last two games, the Florida product has hauled in just five of 10 targets for 29 yards and no scores, making him too inconsistent to be a week-in and week-out starter going forward. However, he's in for a favorable Week 10 matchup against a Kansas City defense that's allowed 17.0 fantasy points per game to opposing tight ends this season.",
      "slot": "TE"
     },
     {
@@ -985,7 +985,7 @@
      "proj": 0.0,
      "last_week": 15.5,
      "owned_pct": 59.4,
-     "owned_change": -0.06,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "BN"
     },
@@ -997,8 +997,8 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 73.7,
-     "owned_change": -0.11,
+     "owned_pct": 73.6,
+     "owned_change": -0.19,
      "outlook": "",
      "slot": "BN"
     },
@@ -1008,10 +1008,10 @@
      "pos": "D/ST",
      "team": "SEA",
      "injury": "ACTIVE",
-     "proj": 6.1,
+     "proj": 7.1,
      "last_week": 10.0,
      "owned_pct": 97.5,
-     "owned_change": -0.1,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1021,11 +1021,11 @@
      "pos": "QB",
      "team": "NO",
      "injury": "ACTIVE",
-     "proj": 17.2,
+     "proj": 17.3,
      "last_week": 19.7,
      "owned_pct": 64.8,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Tyler Shough is expected to continue leading the Saints' offense during the Week 10 matchup against the Panthers. Shough played turnover-free football in the Week 9 overtime win over the Browns, completing 21 of 35 passes for 265 yards and a touchdown. He remains tied for the league-lead in passing attempts per game (38.5). Additionally, 2026 first-round pick Jordyn Tyson made his season debut in Week 9, suggesting Shough's fantasy outlook is very positive going forward. Shough could continue to thrive in Week 10 against a Carolina defense that's allowed 20.4 fantasy points per game to opposing quarterbacks this season.",
      "slot": "BN"
     },
     {
@@ -1036,9 +1036,9 @@
      "injury": "ACTIVE",
      "proj": 10.2,
      "last_week": 7.9,
-     "owned_pct": 63.6,
-     "owned_change": -0.09,
-     "outlook": "",
+     "owned_pct": 63.5,
+     "owned_change": -0.18,
+     "outlook": "Kamara is expected to remain the Saints' top pass-catching running back in the Week 10 matchup against the Panthers. Kamara received fewer than 10 touches for the third time in New Orleans' last four games during the Week 9 win over the Browns, despite backfield mate Kendre Miller being release prior to the contest. Regardless, Kamara ranks first amongst Saints RBs in targets (31), receptions (25), receiving yards (150) and receiving touchdowns (one) in seven appearances this year. He could find success against a Panthers defense that's allowed 230 yards and a touchdown through the air to opposing running backs this season.",
      "slot": "BN"
     },
     {
@@ -1047,11 +1047,11 @@
      "pos": "WR",
      "team": "MIA",
      "injury": "ACTIVE",
-     "proj": 9.0,
+     "proj": 9.1,
      "last_week": 4.1,
-     "owned_pct": 40.0,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_pct": 39.8,
+     "owned_change": -0.34,
+     "outlook": "Malik Washington's workload appears to be drying up ahead of the Dolphins' Week 10 matchup with the Colts. Washington averaged 7.2 targets in five games prior to Miami's Week 6 bye but has just 12 looks over the three games since, reaching 28 yards just once. Indianapolis is allowing a generous 8.8 yards per target to opposing wideouts, but with Miami's passing game struggling and Caleb Douglas emerging, Washington's decreasing role will make for a risky play with minimal upside.",
      "slot": "BN"
     },
     {
@@ -1060,11 +1060,11 @@
      "pos": "WR",
      "team": "LV",
      "injury": "ACTIVE",
-     "proj": 9.4,
+     "proj": 8.4,
      "last_week": 9.5,
-     "owned_pct": 67.1,
-     "owned_change": -0.16,
-     "outlook": "",
+     "owned_pct": 67.0,
+     "owned_change": -0.25,
+     "outlook": "Tre Tucker caught at least four passes for the seventh time in the last eight games during the Raiders' Week 9 loss to the 49ers, hauling in four of eight targets for 55 yards. The fourth-year wide receiver has been a boom or bust option throughout his career, and 2026 is no exception. In his three best performances he's amassed a 15-319-4 line on 26 targets, but he hasn't reached 60 receiving yards or found the end zone in any of his other six contests. Tucker isn't likely to deliver a ceiling game in Week 10 against a Seahawks secondary that ranks first in the league in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
     {
@@ -1073,11 +1073,11 @@
      "pos": "K",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 11.1,
+     "proj": 11.2,
      "last_week": 13.0,
      "owned_pct": 77.0,
-     "owned_change": -0.06,
-     "outlook": "",
+     "owned_change": -0.14,
+     "outlook": "Tyler Bass continues to see heavy volume in the Bills' prolific offense ahead of a Week 10 matchup with the Jets. Seemingly always assured of a handful of PATs, making at least two in every game, Bass has at least three field goals in four straight games, creating double-digit scoring upside with consistency. The Jets are allowing the ninth-fewest fantasy points per game to opposing kickers however, largely due to opponents converting drives into touchdowns, surrendering just 13 field goal attempts in nine games, which should test Bass' current form.",
      "slot": "K"
     }
    ]
@@ -1103,8 +1103,8 @@
      "proj": 22.9,
      "last_week": 31.5,
      "owned_pct": 99.9,
-     "owned_change": -0.04,
-     "outlook": "",
+     "owned_change": -0.05,
+     "outlook": "In Week 10, Ja'Marr Chase and the Bengals host the Steelers in an AFC North showdown on Sunday Night Football. He caught 10 of 12 targets for 155 yards and a TD during Cincinnati's 34-17 win in Week 9. Chase led his team in receptions, yardage and targets by a wide margin, and he has now turned in two consecutive games with 10+ catches, 140+ yards and a score. Chase will aim to keep rolling versus a Pittsburgh defense he burned for a 9-98-1 line on 12 targets back in Week 3.",
      "slot": "WR"
     },
     {
@@ -1117,7 +1117,7 @@
      "last_week": 11.8,
      "owned_pct": 99.5,
      "owned_change": -0.12,
-     "outlook": "",
+     "outlook": "Drake London is expected to remain the Falcons' top pass catcher during the Week 10 matchup against the Chiefs. London has cooled down after a terrific stretch of games from Weeks 3 through 5, averaging just 4.3 receptions and 52.8 receiving yards per game over Atlanta's last four contests. He's also averaging just 7.6 targets per game this season, his lowest mark since 2023, so it appears the Falcons are struggling to get him involved. Additionally, London is in for a difficult Week 10 matchup against a Chiefs secondary that's allowed just 23.5 fantasy points per game to opposing wideouts this year.",
      "slot": "WR"
     },
     {
@@ -1126,11 +1126,11 @@
      "pos": "RB",
      "team": "NYJ",
      "injury": "ACTIVE",
-     "proj": 12.7,
+     "proj": 12.1,
      "last_week": 11.7,
      "owned_pct": 95.5,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Breece Hall's workload should be strong in the Jets' Week 10 matchup against a tough Bills run defense. Returning to action in Week 9 after a five-game absence, Hall collected 18 touches to Braelon Allen's 10, despite Allen's success while Hall was sidelined. Hall has logged at least 13 carries in all four games when healthy, adding 13 receptions. His viability in the passing game should allow him to be a fantasy factor despite facing a defense that's allowing just 3.8 yards per carry.",
      "slot": "RB"
     },
     {
@@ -1142,9 +1142,9 @@
      "proj": 11.8,
      "last_week": 5.5,
      "owned_pct": 94.0,
-     "owned_change": -0.12,
-     "outlook": "",
-     "slot": "BN"
+     "owned_change": -0.14,
+     "outlook": "In Week 10, Quinshon Judkins and the Browns return home for the first time in three weeks to host the Texans. He rushed 15 times for 43 yards and caught his only target for two yards during Cleveland's overtime loss in Week 9. Judkins and the entire Browns offense struggled to make much happen on the ground, as they registered 95 yards on 34 carries, good for a meager 2.8 yards per. Judkins has been underwhelming in 2026, racking up 385 yards on 116 carries (3.3 YPC) with three TDs and a 22-136-0 receiving line on 25 targets. He'll try to turn things around versus a Houston defense allowing 22.4 fantasy points per game (20th) to opposing RBs.",
+     "slot": "FLEX"
     },
     {
      "id": 3916387,
@@ -1154,8 +1154,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 86.7,
-     "owned_change": -0.17,
+     "owned_pct": 86.3,
+     "owned_change": -0.53,
      "outlook": "",
      "slot": "IR"
     },
@@ -1164,12 +1164,12 @@
      "name": "David Montgomery",
      "pos": "RB",
      "team": "HOU",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 76.3,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_pct": 76.2,
+     "owned_change": -0.22,
+     "outlook": "David Montgomery (groin) is apparently nearing a return to practice, but he still looks more likely than not to remain sidelined in Week 10 against the Browns. He hasn't suited up since exiting in Week 5, with Woody Marks leading Houston's backfield in the interim. Even if Montgomery gains clearance to play in Week 10 against the Browns, he'll be a risky flex option considering he was averaging just 2.7 yards per carry prior to getting injured while working in a timeshare with Marks.",
      "slot": "BN"
     },
     {
@@ -1177,12 +1177,12 @@
      "name": "Carnell Tate",
      "pos": "WR",
      "team": "TEN",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 12.2,
      "last_week": null,
      "owned_pct": 82.8,
-     "owned_change": -0.15,
-     "outlook": "",
+     "owned_change": -0.16,
+     "outlook": "Carnell Tate sat out Tennessee's Week 8 loss to the Bengals prior to a Week 9 bye due to a shoulder injury. The rookie, fourth overall pick is expected to return in Week 10 against the Jaguars and will likely reprise his role as the top option in Tennessee's underwhelming passing offense. Tate racked up at least 69 yards in three of his last four appearances, making him a strong flex play in a game that's likely to feature a negative game script for the 1-7 Titans, leading to more passes. The 6-2 Jaguars are allowing 175 yards per game to WRs, though they have limited the position to four TDs.",
      "slot": "BN"
     },
     {
@@ -1194,8 +1194,8 @@
      "proj": 11.4,
      "last_week": 7.2,
      "owned_pct": 96.4,
-     "owned_change": -0.12,
-     "outlook": "",
+     "owned_change": -0.13,
+     "outlook": "Sam LaPorta will look to get back on track as the Lions play the Patriots in Week 10. LaPorta was quiet again in Week 9 versus the Dolphins, amid a struggling Detroit passing offense, recording four catches for 32 yards. The starting tight end has totaled just 83 receiving yards in his last three games after going back-to-back weeks with 80-plus receiving yards and a touchdown heading into the Lions' bye. He'll face a New England defense that's ranked eighth in fantasy points allowed to TEs.",
      "slot": "TE"
     },
     {
@@ -1206,10 +1206,10 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 0.5,
-     "owned_pct": 94.9,
-     "owned_change": -0.19,
-     "outlook": "",
-     "slot": "RB"
+     "owned_pct": 94.7,
+     "owned_change": -0.37,
+     "outlook": "Josh Jacobs is unlikely to play in Week 10 as the Packers take on the Vikings. Jacobs hurt his finger in a Week 9 win over the Patriots, and he's now set to undergo surgery, which will keep him out for a maximum of three weeks. The veteran ball carrier has now recorded 36 rushes for 80 yards and a touchdown, with 11 catches for 68 yards and two touchdowns as well. Kaleb Johnson, Pierre Strong, and banged-up Chris Brooks and MarShawn Lloyd will be Green Bay's available running backs against a tough Minnesota defense.",
+     "slot": "BN"
     },
     {
      "id": 2473037,
@@ -1220,8 +1220,8 @@
      "proj": 9.0,
      "last_week": 6.0,
      "owned_pct": 89.4,
-     "owned_change": -0.14,
-     "outlook": "",
+     "owned_change": -0.2,
+     "outlook": "Jason Myers will hope for more kicking opportunities when Seattle faces Las Vegas in Week 10. Myers made his lone field goal and both his extra-point tries in Week 9 against Arizona as the Seahawks scored fewer than 21 points for the fourth straight week. The veteran kicker has been good when called upon this season, though, making 16 of 18 FG tries through nine games. He could be more active against the Raiders, who are giving up a league-worst 29.8 points per game.",
      "slot": "K"
     },
     {
@@ -1233,9 +1233,9 @@
      "proj": 13.9,
      "last_week": 8.4,
      "owned_pct": 79.5,
-     "owned_change": -0.1,
-     "outlook": "",
-     "slot": "BN"
+     "owned_change": -0.14,
+     "outlook": "Woody Marks has recorded between 17 and 20 touches for 74-85 yards in each of Houston's last four games, working in a bellcow role in the absence of David Montgomery (groin). Montgomery looks likely to remain sidelined in Week 10 at Cleveland, which should keep Marks in the fantasy RB2 range thanks to the latter's high touch floor against a Browns defense that's allowing 115 rushing yards per game to running backs. Marks hasn't scored since Week 4, while Cleveland has given up seven TDs to RBs in nine games.",
+     "slot": "RB"
     },
     {
      "id": 12483,
@@ -1243,11 +1243,11 @@
      "pos": "QB",
      "team": "LAR",
      "injury": "ACTIVE",
-     "proj": 16.9,
+     "proj": 17.0,
      "last_week": 11.2,
      "owned_pct": 90.2,
-     "owned_change": -0.14,
-     "outlook": "",
+     "owned_change": -0.22,
+     "outlook": "Matthew Stafford will have to operate without his favorite target in the Rams' Week 10 tilt against Arizona. Puka Nacua, who Stafford has targeted at least 10 times in five of his past six games, has a knee injury that is expected to require a stint on IR. The Rams are also still without Davante Adams (hamstring - IR), so Stafford will have to look to other wideouts, as well as the tight-end corps, more often moving forward. He'll at least have a promising matchup in Week 10, as the Cardinals have allowed the third-most fantasy points (23.9) to quarterbacks this season.",
      "slot": "BN"
     },
     {
@@ -1258,10 +1258,10 @@
      "injury": "ACTIVE",
      "proj": 8.7,
      "last_week": 6.6,
-     "owned_pct": 70.1,
-     "owned_change": -0.12,
-     "outlook": "",
-     "slot": "FLEX"
+     "owned_pct": 69.9,
+     "owned_change": -0.29,
+     "outlook": "Tyler Allgeier should remain Arizona's lead RB against the Rams in Week 10. Allgeier took on that role this past Sunday in a loss to Arizona and finished with 46 yards on 17 carries along with zero yards on two catches while drawing three targets. It was a quiet performance against a premier defense, but Allgeier seems likely to continue to lead the Cardinals' backfield while Jeremiyah Love (ankle) remains sidelined. Allgeier faces another tough draw in Week 10, as the Rams have yielded the fourth-fewest fantasy points per game (14.2) to running backs this season.",
+     "slot": "BN"
     },
     {
      "id": 4870795,
@@ -1271,8 +1271,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 12.1,
-     "owned_pct": 55.0,
-     "owned_change": -0.09,
+     "owned_pct": 54.9,
+     "owned_change": -0.22,
      "outlook": "",
      "slot": "BN"
     },
@@ -1282,10 +1282,10 @@
      "pos": "D/ST",
      "team": "NYG",
      "injury": "ACTIVE",
-     "proj": 5.4,
+     "proj": 5.3,
      "last_week": 14.0,
-     "owned_pct": 50.2,
-     "owned_change": -0.12,
+     "owned_pct": 49.7,
+     "owned_change": -0.74,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1298,8 +1298,8 @@
      "proj": 17.3,
      "last_week": 5.3,
      "owned_pct": 92.0,
-     "owned_change": -0.2,
-     "outlook": "",
+     "owned_change": -0.27,
+     "outlook": "Jared Goff will look to return to dominance as the Lions play the Patriots in Week 10. Goff was stuffed again in a narrow Week 9 win over the Dolphins, completing 17 of 25 passes for just 170 yards with zero touchdowns and an interception. The veteran quarterback has now thrown for a disappointing 346 yards and a 1:2 TD:INT ratio in the last two weeks. He'll face a New England defense that ceded 372 passing yards and three touchdowns to Jordan Love this past Sunday.",
      "slot": "QB"
     }
    ]
@@ -1322,11 +1322,11 @@
      "pos": "WR",
      "team": "DAL",
      "injury": "ACTIVE",
-     "proj": 20.8,
+     "proj": 20.9,
      "last_week": 33.5,
      "owned_pct": 99.9,
      "owned_change": -0.04,
-     "outlook": "",
+     "outlook": "CeeDee Lamb took advantage of the absence of George Pickens last game for Dallas. While Lamb is always the top target in the offense, with Pickens out of the lineup Lamb was targeted even more frequently than usual, a total of 16 times against the Colts. Lamb responded with 10 catches for a staggering 195 yards and a touchdown. Lamb has double-digit targets in four-straight games, and Pickens remains questionable for the Week 10 clash with the 49ers. However, the Niners are allowing just 211 passing yards per tilt, which is eighth in the league. In addition, San Fran has given up just 11 passing scores in 2026, which is tied for seventh in the NFL.",
      "slot": "WR"
     },
     {
@@ -1335,11 +1335,11 @@
      "pos": "WR",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 16.1,
+     "proj": 17.5,
      "last_week": 8.8,
      "owned_pct": 99.7,
      "owned_change": -0.15,
-     "outlook": "",
+     "outlook": "Justin Jefferson will hope to see better play at the QB position in Week 10 as the Vikings travel to Green Bay. Jefferson reeled in just three of his whopping 11 targets for 58 yards in a Week 9 loss to the Bills. The all-out struggles of Carson Wentz, who filled in for an injured Kyler Murray (hamstring), were fully seen in Jefferson's receiving line. The talented wideout doesn't have any 100-yard games and has posted less than 60 yards in five of seven games. Jefferson will face a Packers defense that's ranked 27th in fantasy points allowed to the wide receiver position this season.",
      "slot": "WR"
     },
     {
@@ -1347,12 +1347,12 @@
      "name": "Garrett Wilson",
      "pos": "WR",
      "team": "NYJ",
-     "injury": "OUT",
-     "proj": 13.5,
+     "injury": "QUESTIONABLE",
+     "proj": 12.7,
      "last_week": 0.0,
-     "owned_pct": 97.5,
-     "owned_change": -0.16,
-     "outlook": "",
+     "owned_pct": 97.4,
+     "owned_change": -0.18,
+     "outlook": "Garrett Wilson needs to clear the concussion protocol to help the Jets against the Bills in Week 10. Wilson has seen sporadic usage when healthy, amassing double-digit targets three times while averaging 5.8 looks in five additional outings. Assuming he receives a clean bill of health, he'll face a secondary that's allowing the eighth-most fantasy points per game to opposing wideouts. With the Jets likely falling into an early hole, a pass-heavy game flow is probable, with Wilson being an active participant.",
      "slot": "BN"
     },
     {
@@ -1365,7 +1365,7 @@
      "last_week": 22.4,
      "owned_pct": 99.4,
      "owned_change": -0.05,
-     "outlook": "",
+     "outlook": "Javonte Williams got back into the end zone last game for Dallas. Williams scored his ninth rushing touchdown of the season in the 27-23 win over the Colts. Williams also crossed the 100-yard rushing plateau for the second time in 2026. Williams has at least 20 carries in each of the last three outings. However, in Week 10, he will face a difficult task versus the San Francisco 49ers. The Niners are allowing just 80.9 rushing yards per game, which is second in the league. In addition, San Fran has given up just four rushing scores in 2026, which is tied for second in the NFL.",
      "slot": "RB"
     },
     {
@@ -1374,11 +1374,11 @@
      "pos": "RB",
      "team": "JAX",
      "injury": "ACTIVE",
-     "proj": 17.2,
+     "proj": 17.3,
      "last_week": 8.9,
      "owned_pct": 94.0,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_change": -0.09,
+     "outlook": "Bhayshul Tuten played through foot and ankle injuries in Jacksonville's Week 9 win over the Ravens. He scored his fifth touchdown in the past three games but was held to a season-low 29 scrimmage yards, which was less than half of his previous low of 62 yards from Week 2. Tuten has had an extra few days to recover since last Thursday's win and should be ready to assume his usual role as Jacksonville's top RB for a juicy Week 10 road matchup against the Titans, who are allowing 135 scrimmage yards per game to RBs. He profiles as a low-end RB1 or high-end RB2 in fantasy for Week 10, especially if his practice participation levels indicate that Tuten's injury scare is behind him.",
      "slot": "RB"
     },
     {
@@ -1387,11 +1387,11 @@
      "pos": "TE",
      "team": "IND",
      "injury": "ACTIVE",
-     "proj": 10.9,
+     "proj": 10.6,
      "last_week": 8.4,
      "owned_pct": 96.4,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_change": -0.11,
+     "outlook": "Tyler Warren has drawn at least seven targets in five of his last six appearances. The 2025 first-round pick remains a weekly fantasy starter at TE thanks to his hefty volume, even though he's averaging just 5.2 yards per target in the Colts' low-octane passing offense. Warren and the Colts will face a Dolphins defense in Week 10 that has allowed six receiving TDs in eight games to TEs. In addition to two touchdown catches, Warren has one rushing score this season.",
      "slot": "TE"
     },
     {
@@ -1403,8 +1403,8 @@
      "proj": 16.6,
      "last_week": 19.5,
      "owned_pct": 92.9,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_change": -0.11,
+     "outlook": "Dak Prescott posted his third 300-yard passing outing of the season last game for Dallas. Prescott threw for 335 yards and two touchdowns in the 27-23 win over the Colts. Dak has thrown for multiple touchdowns in two of the last three contests. However, in Week 10, he will face a difficult task versus the San Francisco 49ers. The Niners are allowing just 211 passing yards per tilt, which is eighth in the league. In addition, San Fran has given up just 11 passing scores in 2026, which is tied for seventh in the NFL.",
      "slot": "QB"
     },
     {
@@ -1412,12 +1412,12 @@
      "name": "Mike Evans",
      "pos": "WR",
      "team": "SF",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 92.9,
-     "owned_change": -0.13,
-     "outlook": "",
+     "owned_change": -0.15,
+     "outlook": "Mike Evans continues to tend to an Achilles injury and is iffy to suit up for San Francisco in Week 10 against Dallas. The injury has prevented Evans from playing in each of the 49ers' past two games despite the team's bye being sandwiched between those contests. Fellow starting wideout Deebo Samuel (hamstring) has also been out, so QB Brock Purdy has had to look to other options in the wideout corps. If Evans can return in Week 10, he'll square off against a Cowboys defense that ranks a poor 25th in the league with 23.4 fantasy points per game allowed to wideouts.",
      "slot": "BN"
     },
     {
@@ -1428,8 +1428,8 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 12.0,
-     "owned_pct": 88.0,
-     "owned_change": -2.35,
+     "owned_pct": 81.3,
+     "owned_change": -9.09,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -1442,7 +1442,7 @@
      "proj": 0.0,
      "last_week": 12.8,
      "owned_pct": 90.4,
-     "owned_change": -0.11,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -1454,8 +1454,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 4.8,
-     "owned_pct": 49.2,
-     "owned_change": -0.12,
+     "owned_pct": 49.0,
+     "owned_change": -0.32,
      "outlook": "",
      "slot": "BN"
     },
@@ -1465,11 +1465,11 @@
      "pos": "WR",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 9.6,
+     "proj": 10.7,
      "last_week": 4.8,
-     "owned_pct": 73.0,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_pct": 72.9,
+     "owned_change": -0.23,
+     "outlook": "Jordan Addison will look to get more volume in Week 10 as the Vikings play the Packers. Addison finished a Week 9 loss with two catches for 28 yards off three targets, but struggles from the QB room didn't leave much room for any pass catchers to succeed. He's now recorded less than 30 yards in two of his last three games. Green Bay has ranked 27th in fantasy points allowed to WRs this campaign.",
      "slot": "BN"
     },
     {
@@ -1480,9 +1480,9 @@
      "injury": "ACTIVE",
      "proj": 6.9,
      "last_week": 3.9,
-     "owned_pct": 60.6,
-     "owned_change": -0.12,
-     "outlook": "",
+     "owned_pct": 60.4,
+     "owned_change": -0.26,
+     "outlook": "In Week 10, Mark Andrews and the Ravens welcome the winless Chargers to town. He caught both of his targets for 19 yards during Baltimore's Week 9 loss. Andrews actually led the team in receiving yardage and was second behind Zay Flowers and Justice Hill in receptions, who each recorded three. Jacoby Brissett will earn his first start for the Ravens after being acquired via trade, but Andrews could find it difficult to operate versus a Chargers defense allowing 10.0 fantasy points per game (3rd) to TEs.",
      "slot": "BN"
     },
     {
@@ -1494,8 +1494,8 @@
      "proj": 10.0,
      "last_week": 17.0,
      "owned_pct": 82.9,
-     "owned_change": -0.04,
-     "outlook": "",
+     "owned_change": -0.07,
+     "outlook": "Ka'imi Fairbairn has made multiple field goals in five consecutive games, going 14-for-14 over that productive stretch. Houston's standout kicker remains a set-and-forget fantasy starter for a Week 10 road game against the Browns, who are allowing 21.8 points per game. Cleveland has allowed 19 made field goals in nine games, while Fairbairn has missed just once on 19 attempts through eight games while making all 21 of his PAT tries.",
      "slot": "K"
     },
     {
@@ -1504,10 +1504,10 @@
      "pos": "D/ST",
      "team": "DET",
      "injury": "ACTIVE",
-     "proj": 5.2,
+     "proj": 5.0,
      "last_week": 10.0,
-     "owned_pct": 37.5,
-     "owned_change": -0.08,
+     "owned_pct": 37.2,
+     "owned_change": -0.31,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1534,8 +1534,8 @@
      "proj": 0.0,
      "last_week": 35.0,
      "owned_pct": 99.9,
-     "owned_change": -0.05,
-     "outlook": "",
+     "owned_change": -0.07,
+     "outlook": "Puka Nacua is expected to miss the Rams' Week 10 clash against the Cardinals and several weeks beyond that. Nacua suffered a knee injury in this past Sunday's win over Washington and is likely to be placed on IR. Davante Adams (hamstring) remains on IR, so the Rams' WR corps will be led by the likes of Tutu Atwell, Konata Mumpfield and Jordan Whittington.",
      "slot": "WR"
     },
     {
@@ -1544,11 +1544,11 @@
      "pos": "RB",
      "team": "LV",
      "injury": "ACTIVE",
-     "proj": 14.6,
+     "proj": 13.6,
      "last_week": 7.0,
      "owned_pct": 99.3,
-     "owned_change": -0.13,
-     "outlook": "",
+     "owned_change": -0.14,
+     "outlook": "Ashton Jeanty is coming off another poor effort, managing just 20 scrimmage yards on 11 touches in the Raiders' Week 9 loss to the 49ers. This time however he wasn't overshadowed by rookie Mike Washington, who lost a total of three yards on his six carries. Jeanty maintains a shaky hold on the top spot in the backfield, but he hasn't reached 30 rushing yards in a game since Week 4, and his contributions of late have been limited to his usage as a pass catcher. Jeanty isn't likely to turn things around in Week 10 against a Seahawks defense that ranks 13th in fantasy points per game allowed to RBs.",
      "slot": "RB"
     },
     {
@@ -1561,7 +1561,7 @@
      "last_week": 12.4,
      "owned_pct": 99.8,
      "owned_change": -0.13,
-     "outlook": "",
+     "outlook": "Trey McBride could be extremely busy for the Cardinals in Week 10 against the Rams. McBride has already been drawing constant attention in the Arizona passing game, recording at least seven catches and eight targets in all nine of the team's games this year. Now that top wideouts Michael Wilson (neck) and Kendrick Bourne (tibia) are likely done for the season, McBride may be even more heavily targeted. However, he'll be working with rookie QB Carson Beck for the first time due to Gardner Minshew's potentially season-ending elbow injury. McBride will also be going up against a Rams defense that is tied for second in the league in fewest fantasy points per game allowed to tight ends, though he notched a fine 7-53-0 line against them in Week 6.",
      "slot": "TE"
     },
     {
@@ -1570,11 +1570,11 @@
      "pos": "WR",
      "team": "CAR",
      "injury": "ACTIVE",
-     "proj": 16.0,
+     "proj": 16.1,
      "last_week": 15.6,
      "owned_pct": 98.3,
-     "owned_change": -0.09,
-     "outlook": "",
+     "owned_change": -0.08,
+     "outlook": "Tetairoa McMillan is expected to remain the Panthers' top wideout during the Week 10 matchup against the Saints. McMillan salvaged his fantasy day with a late score in the Week 9 loss to the Broncos, catching four of six targets for 56 yards. The Arizona product has cooled down since his monstrous performance in Week 4 (14-192-2), averaging 5.0 receptions and 60.0 receiving yards per game over his last four contests. Despite this, McMillan could find success against a Saints secondary that's allowed 31.7 fantasy points per game to opposing wideouts this season.",
      "slot": "FLEX"
     },
     {
@@ -1583,11 +1583,11 @@
      "pos": "WR",
      "team": "CIN",
      "injury": "ACTIVE",
-     "proj": 16.1,
+     "proj": 16.2,
      "last_week": 20.2,
      "owned_pct": 98.2,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_change": -0.07,
+     "outlook": "Tee Higgins and the Bengals welcome the Steelers to town for a Week 10 divisional clash. He caught five of six targets for 32 yards and two touchdowns during Cincinnati's victory in Week 9. Higgins recorded two TDs for the second consecutive game, and he now has five receiving scores over his last three outings. He'll look to keep up the pace versus a Pittsburgh defense he cooked for a 6-90-1 line on seven targets in Week 3.",
      "slot": "WR"
     },
     {
@@ -1596,11 +1596,11 @@
      "pos": "QB",
      "team": "NE",
      "injury": "ACTIVE",
-     "proj": 21.9,
+     "proj": 22.0,
      "last_week": 18.3,
      "owned_pct": 98.9,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_change": -0.12,
+     "outlook": "Drake Maye appears poised for a busy outing in Week 10 when the Patriots face the Lions. Maye has tossed multiple touchdown passes in six straight outings (17 total), three times going for 299 yards or more, and could be asked to throw at a high rate with running backs TreVeyon Henderson and Rhamondre Stevenson uncertain to suit up. Pair that with a matchup against a Lions secondary that's allowing the most fantasy points per game to opposing quarterbacks, and Maye could provide elite numbers in Week 10's Sunday morning affair in Germany.",
      "slot": "QB"
     },
     {
@@ -1608,12 +1608,12 @@
      "name": "TreVeyon Henderson",
      "pos": "RB",
      "team": "NE",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 61.3,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_pct": 61.1,
+     "owned_change": -0.24,
+     "outlook": "TreVeyon Henderson is uncertain to face the Lions in Week 10 due to an ongoing illness when the Patriots travel to Munich. Henderson has not played since Week 7, and New England has a bye week following their travels, which will allow Henderson additional time to recover. With Rhamondre Stevenson dealing with a knee injury, Corey Kiner could lead this backfield against a defense that is allowing the third-fewest fantasy points to opposing rushers.",
      "slot": "BN"
     },
     {
@@ -1625,8 +1625,8 @@
      "proj": 13.4,
      "last_week": null,
      "owned_pct": 89.7,
-     "owned_change": -0.14,
-     "outlook": "",
+     "owned_change": -0.13,
+     "outlook": "Tony Pollard delivered consecutive elite performances prior to Tennessee's Week 9 bye, racking up 292 scrimmage yards and five TDs across losses to the Browns and Bengals. Prior to that two-game stretch, he had just one TD through seven games and no 100-yard performances. If he isn't traded prior to Tuesday's deadline, Pollard would maintain fantasy RB2 upside for Week 10 despite a difficult matchup against a Jaguars defense that's holding RBs to 68 yards per game. Even before his recent uptick in production, Pollard had a solid floor as the clear lead back for Tennessee.",
      "slot": "BN"
     },
     {
@@ -1637,9 +1637,9 @@
      "injury": "ACTIVE",
      "proj": 10.5,
      "last_week": 9.0,
-     "owned_pct": 98.0,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_pct": 97.9,
+     "owned_change": -0.12,
+     "outlook": "Brandon Aubrey missed yet another long field goal last game for Dallas. Aubrey did make two other tries, though pulled a 50-yarder wide left in the 27-23 win over the Colts. Aubrey is now 3-for-8 on attempts from 50-plus yards out this season. In Week 10, the Cowboys will face the 49ers. Points may be hard to come by, as San Fran is allowing just 19.5 points per tilt, which is sixth in the league.",
      "slot": "K"
     },
     {
@@ -1650,9 +1650,9 @@
      "injury": "ACTIVE",
      "proj": 3.8,
      "last_week": -1.1,
-     "owned_pct": 26.5,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_pct": 26.4,
+     "owned_change": -0.1,
+     "outlook": "Travis Hunter has just one fantasy-relevant performance on offense this season while playing much more cornerback than wide receiver for the Jaguars. The 2025 second overall pick has the talent to thrive if injuries and/or roster moves open up more opportunities on offense, but Hunter can't be trusted as a starter outside of individual defensive player formats as things stand. Expect Hunter to play just a few snaps on offense as usual in Week 10, which won't give him many chances to capitalize on facing Tennessee's generous secondary.",
      "slot": "BN"
     },
     {
@@ -1661,11 +1661,11 @@
      "pos": "RB",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 7.7,
+     "proj": 8.5,
      "last_week": 3.1,
-     "owned_pct": 85.6,
-     "owned_change": -0.17,
-     "outlook": "",
+     "owned_pct": 85.5,
+     "owned_change": -0.3,
+     "outlook": "Aaron Jones will look to make the most of his opportunities as the Vikings play the Packers in Week 10. Jones saw just five carries and one target in a Week 9 loss to the Bills, and he took them for 16 yards and five yards, respectively. The veteran running back has now seen his rushing yardage totals drop in three straight games, logging 18 carries in total during that stretch. He's not likely to see crazy value with Jordan Mason active, but a Green Bay defense that's ranked 27th in fantasy points allowed to RBs is favorable.",
      "slot": "RB"
     },
     {
@@ -1674,11 +1674,11 @@
      "pos": "WR",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 10.5,
+     "proj": 10.2,
      "last_week": 9.8,
-     "owned_pct": 60.1,
-     "owned_change": -0.03,
-     "outlook": "",
+     "owned_pct": 60.0,
+     "owned_change": -0.05,
+     "outlook": "Khalil Shakir remains an efficient secondary option in the Bills' passing game ahead of a Week 10 matchup with the Jets. Shakir caught four passes in Week 9, the fifth time in eight outings he's done so, resulting in 50 or more yards at the same rate. Shakir has only one touchdown to date and the Jets' secondary has allowed just nine touchdown catches by opposing receivers, likely limiting Shakir's potential on Sunday, but his role and usage is clear and steady, setting him up for stability as a potential bye week plug in.",
      "slot": "BN"
     },
     {
@@ -1687,11 +1687,11 @@
      "pos": "TE",
      "team": "NYG",
      "injury": "ACTIVE",
-     "proj": 12.4,
+     "proj": 12.5,
      "last_week": 16.3,
      "owned_pct": 95.5,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Isaiah Likely found the end zone again for the Giants last game. Likely snagged five passes for 53 yards and a touchdown in the 19-11 win over Philadelphia. Likely now has scored four touchdowns in his last four contests. He is a great bet to find the end zone again versus a suspect Washington pass defense. Washington has surrendered 16 passing touchdowns this season, which is tied for 25th in the league.  In addition, the Commanders are allowing 240 passing yards per clash, which is 30th in the league.",
      "slot": "BN"
     },
     {
@@ -1700,11 +1700,11 @@
      "pos": "WR",
      "team": "KC",
      "injury": "QUESTIONABLE",
-     "proj": 10.1,
+     "proj": 8.3,
      "last_week": 10.8,
      "owned_pct": 67.2,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_change": -0.16,
+     "outlook": "Xavier Worthy was one of several Kansas City players to emerge from a Week 9 win over the Jets with an injury. The speedy wideout grabbed at his hamstring late in the victory after catching all six of his targets for 48 yards. Patrick Mahomes also suffered an injury to his throwing elbow, so even if Worthy doesn't end up missing time, his fantasy outlook could be affected by having Justin Fields under center instead. Worthy has struggled this season even when healthy, managing just a 33-278-1 line on 47 targets over eight games. If he's in the lineup in Week 10, he'll face a Falcons secondary that just traded away safety Jessie Bates and ranks 19th in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
     {
@@ -1715,8 +1715,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 10.0,
-     "owned_pct": 33.6,
-     "owned_change": -0.04,
+     "owned_pct": 33.5,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1740,11 +1740,11 @@
      "pos": "RB",
      "team": "BAL",
      "injury": "ACTIVE",
-     "proj": 18.1,
+     "proj": 18.2,
      "last_week": 5.6,
      "owned_pct": 99.6,
      "owned_change": -0.15,
-     "outlook": "",
+     "outlook": "Derrick Henry and the Ravens welcome the Chargers to town for a Week 10 clash on Monday Night Football. He rushed 17 times for 57 yards and did not record a target during Baltimore's Week 9 loss. Henry has struggled mightily over his last four outings, gaining 213 yards on 62 carries (3.4 yards per carry) with just one touchdown. Jacoby Brissett, who's expected to start under center in Week 10, should provide some relief for the passing game, so the hope is that this will begin to have a positive effect on Henry.",
      "slot": "RB"
     },
     {
@@ -1753,11 +1753,11 @@
      "pos": "TE",
      "team": "LV",
      "injury": "ACTIVE",
-     "proj": 16.7,
+     "proj": 15.4,
      "last_week": 22.3,
      "owned_pct": 99.8,
      "owned_change": -0.06,
-     "outlook": "",
+     "outlook": "Brock Bowers was nearly the only Raider to find any success in a Week 9 loss to the 49ers, turning eight targets into seven catches for 111 yards and a touchdown. The star tight end has scored six times in seven games since making a belated season debut, and Bowers has delivered a 48-658-6 line on 70 targets as Kirk Cousins' clear No. 1 downfield option. Bowers will look to keep rolling in Week 10 against a Seahawks defense that ranks ninth in fantasy points per game allowed to TEs.",
      "slot": "TE"
     },
     {
@@ -1768,9 +1768,9 @@
      "injury": "QUESTIONABLE",
      "proj": 17.5,
      "last_week": 16.5,
-     "owned_pct": 92.8,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_pct": 92.7,
+     "owned_change": -0.15,
+     "outlook": "Patrick Mahomes put together another strong performance in Kansas City's Week 9 win over the Jets, completing 74.2% of his 31 pass attempts with two touchdowns and zero interceptions, but he suffered an elbow injury during the contest. He finished the game, but the team is awaiting the results of testing to determine the severity. For now, Mahomes has been deemed day-to-day. If he's cleared to play in Week 10, he'll be facing a Falcons defense that ranks 11th in fantasy points per game allowed to QBs but just traded starting safety Jessie Bates. If Mahomes is held out, Justin Fields would get his first start of the season.",
      "slot": "QB"
     },
     {
@@ -1779,10 +1779,10 @@
      "pos": "D/ST",
      "team": "PIT",
      "injury": "ACTIVE",
-     "proj": 5.6,
+     "proj": 5.4,
      "last_week": null,
-     "owned_pct": 81.1,
-     "owned_change": -0.23,
+     "owned_pct": 81.0,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "BN"
     },
@@ -1794,9 +1794,9 @@
      "injury": "ACTIVE",
      "proj": 9.3,
      "last_week": 4.0,
-     "owned_pct": 56.5,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_pct": 56.4,
+     "owned_change": -0.22,
+     "outlook": "Harrison Butker missed another field goal in Kansas City's Week 9 win over the Jets, but he converted all five of his extra points. The veteran kicker has an awful 63.2% success rate on field goal attempts through eight games, going just 12-for-19 including a weak 2-for-8 showing from 50-plus yards, but so far Andy Reid has stuck with him. Butker will try to regain some confidence indoors in a Week 10 road trip to Atlanta against a Falcons team that's given up 24.8 points per game this season, tied for 20th in the league.",
      "slot": "K"
     },
     {
@@ -1805,24 +1805,24 @@
      "pos": "TE",
      "team": "LV",
      "injury": "ACTIVE",
-     "proj": 7.9,
+     "proj": 7.2,
      "last_week": 4.7,
-     "owned_pct": 22.1,
-     "owned_change": -0.07,
-     "outlook": "",
+     "owned_pct": 22.0,
+     "owned_change": -0.15,
+     "outlook": "Michael Mayer posted modest numbers in the Raiders' Week 9 loss to the 49ers, catching all three of his targets for 37 yards. The fourth-year tight end has snagged at least three passes in eight of nine games this season, and he's already set new career highs with 39 receptions and 388 receiving yards. Even with Brock Bowers ahead of him on the depth chart, Mayer's role is large enough to give him some value heading into a Week 10 clash with a Seahawks defense that ranks ninth in fantasy points per game allowed to TEs.",
      "slot": "BN"
     },
     {
      "id": 15818,
      "name": "Keenan Allen",
      "pos": "WR",
-     "team": "IND",
+     "team": "SF",
      "injury": "ACTIVE",
-     "proj": 10.1,
+     "proj": 8.7,
      "last_week": 6.6,
      "owned_pct": 46.1,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_change": -0.15,
+     "outlook": "Keenan Allen leads the Colts with 40 catches on 58 targets, and his 351 receiving yards are just three shy of Josh Downs' team-leading total, with Allen having played one fewer game. The Colts will face a Dolphins defense in Week 10 that has been weaker against RBs than WRs, limiting the latter to 124 yards per game and five TDs through nine games. Allen maintains a high floor as a reliable target on short and intermediate routes in an offense desperate for production through the air, making him a viable fantasy WR3 or flex.",
      "slot": "BN"
     },
     {
@@ -1833,9 +1833,9 @@
      "injury": "ACTIVE",
      "proj": 7.4,
      "last_week": 3.7,
-     "owned_pct": 57.9,
-     "owned_change": -0.23,
-     "outlook": "",
+     "owned_pct": 57.5,
+     "owned_change": -0.56,
+     "outlook": "Devaughn Vele is expected to remain one of New Orleans' top wideouts during the Week 10 matchup against the Panthers. With the debut of 2026 first-round pick Jordyn Tyson in the Week 9 overtime win over the Browns, Vele caught just two of four targets for 17 yards, which are all season-lows in a single game. Even with Tyson on the field, Vele should remain a valuable part of the Saints' offense, but he likely won't be as consistent for fantasy purposes for the remainder of the year. Vele could still be productive in Week 10 against an injury-riddled Carolina secondary that's allowed 7.4 yards per target to opposing wideouts this season.",
      "slot": "BN"
     },
     {
@@ -1847,8 +1847,8 @@
      "proj": 13.5,
      "last_week": 10.5,
      "owned_pct": 98.8,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_change": -0.11,
+     "outlook": "Chase Brown and the Bengals host the division-rival Steelers for an AFC North clash in Week 10. In Week 9, he had nine carries for 57 yards and caught all three of his targets for another 18 yards to help Cincinnati win a fourth straight game. Brown's production has been somewhat underwhelming from a fantasy perspective, as he's registered just one touchdown across eight outings in 2026. He'll look to find the endzone versus a Pittsburgh defense that's allowed just four TDs to the position and are coming off a bye.",
      "slot": "RB"
     },
     {
@@ -1856,12 +1856,12 @@
      "name": "George Pickens",
      "pos": "WR",
      "team": "DAL",
-     "injury": "OUT",
+     "injury": "QUESTIONABLE",
      "proj": 12.3,
      "last_week": 0.0,
      "owned_pct": 98.2,
-     "owned_change": -0.18,
-     "outlook": "",
+     "owned_change": -0.19,
+     "outlook": "George Pickens did not suit up last game for Dallas due to a hamstring ailment. His status for Week 10 versus the 49ers remains up in the air. Even if Pickens is able to play, he will face a difficult task. The Niners are allowing just 211 passing yards per tilt, which is eighth in the league. In addition, San Fran has given up just 11 passing scores in 2026, which is tied for seventh in the NFL.",
      "slot": "WR"
     },
     {
@@ -1872,9 +1872,9 @@
      "injury": "ACTIVE",
      "proj": 10.9,
      "last_week": null,
-     "owned_pct": 62.3,
-     "owned_change": -0.21,
-     "outlook": "",
+     "owned_pct": 62.2,
+     "owned_change": -0.22,
+     "outlook": "In Week 10, Germie Bernard and the Steelers visit the Bengals in an AFC North showdown. He brought in all five of his targets for 30 yards during Pittsburgh's 27-6 victory in Week 8. The rookie paced the team in receptions, finished second in targets behind DK Metcalf (6), and was third in yardage in a game Aaron Rodgers completed just 13 passes for 172 yards. Bernard will try to get back on track against a Cincinnati defense allowing 31.1 fantasy points per game (15th) to WRs.",
      "slot": "BN"
     },
     {
@@ -1883,11 +1883,11 @@
      "pos": "QB",
      "team": "HOU",
      "injury": "ACTIVE",
-     "proj": 18.2,
+     "proj": 18.3,
      "last_week": 35.4,
      "owned_pct": 69.8,
-     "owned_change": -0.05,
-     "outlook": "",
+     "owned_change": -0.02,
+     "outlook": "C.J. Stroud is coming off a 384-yard, five-TD masterpiece in Houston's Week 9 win over the Chargers and has thrown 10 touchdown passes over the past three games. He has showcased an elite ceiling with four games north of 300 passing yards this season, so the surging Stroud is a start-worthy Week 10 option, even in a road game against a Browns defense that ranks among the 10 stingiest units against the pass. The Ohio State product is no stranger to playing in the Buckeye State this time of year, though it's worth noting that the Browns are 3-0 at home this season while allowing just 17.3 points per game at Huntington Bank Field compared to 24.0 points per game in six games elsewhere.",
      "slot": "BN"
     },
     {
@@ -1898,9 +1898,9 @@
      "injury": "ACTIVE",
      "proj": 10.7,
      "last_week": 8.1,
-     "owned_pct": 87.1,
-     "owned_change": -0.12,
-     "outlook": "",
+     "owned_pct": 87.0,
+     "owned_change": -0.15,
+     "outlook": "Stefon Diggs had a two-game scoring streak snapped last game for Washington. Diggs caught three passes for 51 yards in the 20-13 loss to the Rams. Diggs will look for a return to the end zone in Week 10 versus the Giants. New York has given up 14 passing scores in 2026, which is tied for 20th in the league. However, do not expect much in the way of yardage, as the G-Men are yielding just 177.8 passing yards per tilt, which is third in the NFL.",
      "slot": "WR"
     },
     {
@@ -1912,7 +1912,7 @@
      "proj": 0.0,
      "last_week": 18.8,
      "owned_pct": 81.9,
-     "owned_change": -0.04,
+     "owned_change": -0.07,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -1922,10 +1922,10 @@
      "pos": "D/ST",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 5.7,
+     "proj": 6.2,
      "last_week": 15.0,
      "owned_pct": 33.5,
-     "owned_change": 0.33,
+     "owned_change": 0.0,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1949,11 +1949,11 @@
      "pos": "RB",
      "team": "SF",
      "injury": "ACTIVE",
-     "proj": 21.7,
+     "proj": 21.8,
      "last_week": 22.7,
      "owned_pct": 99.8,
      "owned_change": -0.07,
-     "outlook": "",
+     "outlook": "Christian McCaffrey will seek to add to his seven-game scoring streak when San Francisco faces Dallas in Week 10. With two touchdowns (one rushing, one receiving) this past Sunday against Las Vegas, McCaffrey has gotten into the end zone at least once in each of his past seven games. While he has been logging fewer touches per game this season, McCaffrey continues to be a workhorse for the 49ers and has averaged 4.5 yards per rush, his highest mark since 2023. He could be in for a big game against the Cowboys, who are giving up 22.0 fantasy points per game to running backs, fourth-most in the NFL.",
      "slot": "RB"
     },
     {
@@ -1964,9 +1964,9 @@
      "injury": "ACTIVE",
      "proj": 7.9,
      "last_week": 6.0,
-     "owned_pct": 85.6,
-     "owned_change": -0.12,
-     "outlook": "",
+     "owned_pct": 85.5,
+     "owned_change": -0.23,
+     "outlook": "Omarion Hampton turned 13 carries into a team-high 60 rushing yards in the Chargers' Week 9 loss to the Texans, his second-highest total of the season. Keaton Mitchell handled 10 touches and Kimani Vidal got eight, however, as offensive coordinator Mike McDaniel continues to deploy a backfield committee that limits the ceiling of all three players. Hampton appears to be first among equals for now, but the struggles of the entire offense present an extra obstacle for him to overcome. He'll try to build on last week's modest numbers in Week 10 against a Ravens defense that ranks ninth in fantasy points per game allowed to RBs.",
      "slot": "BN"
     },
     {
@@ -1979,7 +1979,7 @@
      "last_week": 16.8,
      "owned_pct": 99.3,
      "owned_change": -0.08,
-     "outlook": "",
+     "outlook": "Chris Olave is expected to remain the Saints' top pass catcher in the Week 10 matchup against the Panthers. Olave added another productive outing to his impressive 2026 campaign during the Week 9 overtime win against the Browns, catching seven of 12 targets for 98 yards. On the season, Olave ranks sixth in the NFL in targets per game (10.4) and seventh in receiving yards per game (91.8). Olave's high volume will likely continue as well, with Tyler Shough tied for the most pass attempts per game (38.5) in the league through eight games. Expect Olave to succeed against a depleted Panthers secondary that's allowed 31.9 fantasy points per game to opposing WRs this season.",
      "slot": "WR"
     },
     {
@@ -1992,7 +1992,7 @@
      "last_week": 9.1,
      "owned_pct": 99.5,
      "owned_change": -0.12,
-     "outlook": "",
+     "outlook": "Kyren Williams may be asked to log a heftier workload than usual for the Rams in Week 10 against the Cardinals. Williams rushed for just 45 yards -- his second-lowest mark of the season -- on 15 carries against Washington in Week 9, adding 16 yards on three catches. However, Los Angeles is going to be without wideout Puka Nacua (knee) for multiple weeks, and with Davante Adams (hamstring) still on IR, the team may turn more to its ground game  -- led by Williams and Blake Corum -- to carry the load. Arizona's defense has been middling against the run this season, allowing 18.0 fantasy points per game to RBs, tied for 18th in the NFL.",
      "slot": "FLEX"
     },
     {
@@ -2003,8 +2003,8 @@
      "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": 3.2,
-     "owned_pct": 88.0,
-     "owned_change": -0.18,
+     "owned_pct": 87.8,
+     "owned_change": -0.37,
      "outlook": "",
      "slot": "WR"
     },
@@ -2014,11 +2014,11 @@
      "pos": "QB",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 18.6,
+     "proj": 18.7,
      "last_week": 14.6,
-     "owned_pct": 95.2,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_pct": 95.1,
+     "owned_change": -0.12,
+     "outlook": "Jayden Daniels threw for 274 yards and a touchdown last game for Washington. He has passed for at least one touchdown in three-straight outings, and thrown for at least 270 yards in two of those three contests. In Week 10, he will face a Giants defense that has been better against the pass than the run in 2026. New York is allowing just 177.8 passing yards per clash, which is third in the NFL. However, the Giants are surrendering 123.6 rushing yards per tilt, which is 21st in the league, and Daniels ran for 103 yards and two scores when the two teams met earlier this season.",
      "slot": "BN"
     },
     {
@@ -2027,11 +2027,11 @@
      "pos": "TE",
      "team": "SF",
      "injury": "ACTIVE",
-     "proj": 15.9,
+     "proj": 15.3,
      "last_week": 9.8,
      "owned_pct": 98.5,
-     "owned_change": -0.11,
-     "outlook": "",
+     "owned_change": -0.12,
+     "outlook": "George Kittle's health and productivity have been huge this season for the 49ers heading into a Week 10 tilt against Dallas. After undergoing surgery in January to repair a torn Achilles, Kittle has played in every one of San Francisco's games this season and leads the club with 38 receptions, 483 receiving yards and five receiving touchdowns. His role in the passing game has been especially important of late, as Mike Evans (Achilles) and Deebo Samuel (hamstring) have been sidelined due to injuries. Kittle will look to find success against a Dallas defense that has been middle-of-the-pack against tight ends, yielding 7.7 fantasy points per game to the position (tied for 12th in the league).",
      "slot": "TE"
     },
     {
@@ -2039,12 +2039,12 @@
      "name": "Rhamondre Stevenson",
      "pos": "RB",
      "team": "NE",
-     "injury": "QUESTIONABLE",
+     "injury": "DOUBTFUL",
      "proj": 0.0,
      "last_week": 14.8,
-     "owned_pct": 92.6,
-     "owned_change": -0.1,
-     "outlook": "",
+     "owned_pct": 92.5,
+     "owned_change": -0.17,
+     "outlook": "Rhamondre Stevenson is uncertain to suit up for the Patriots in Week 10 against the Lions due to a knee injury. New England fell into a big hole in Week 9, limiting Stevenson's carries prior to the injury, and he finished with a season-low six for the third time this season. His passing game involvement included a second touchdown reception in three weeks. If he plays, Stevenson figures to again lead the Patriots' backfield since TreVeyon Henderson will also likely be sidelined. Stevenson's rushing yard expectations can be tempered against a defense that's allowing a mere 3.9 yards per carry. Corey Kiner would be in line for lead back duties assuming both Stevenson and Henderson are sidelined.",
      "slot": "BN"
     },
     {
@@ -2055,8 +2055,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 33.6,
-     "owned_change": -0.03,
+     "owned_pct": 33.5,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -2064,13 +2064,13 @@
      "id": 4688813,
      "name": "Josh Downs",
      "pos": "WR",
-     "team": "IND",
+     "team": "KC",
      "injury": "ACTIVE",
-     "proj": 8.6,
+     "proj": 9.1,
      "last_week": 5.4,
-     "owned_pct": 61.4,
-     "owned_change": -0.08,
-     "outlook": "",
+     "owned_pct": 61.3,
+     "owned_change": -0.14,
+     "outlook": "Josh Downs may be moved during the Colts' selloff prior to Week 10 against the Dolphins. If Downs stays put, he'll remain in a starting role for one of the league's weakest passing offenses, keeping Downs in the flex discussion. Downs leads the Colts with 354 receiving yards, three more than Keenan Allen, but that total works out to fewer than 40 yards per game, and Downs has scored just one TD in nine games. Miami is one of six defenses with fewer than 1,000 yards allowed to WRs this season.",
      "slot": "BN"
     },
     {
@@ -2081,8 +2081,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 6.0,
-     "owned_pct": 87.8,
-     "owned_change": -0.18,
+     "owned_pct": 87.5,
+     "owned_change": -0.49,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2094,9 +2094,9 @@
      "injury": "ACTIVE",
      "proj": 9.3,
      "last_week": 15.0,
-     "owned_pct": 52.6,
-     "owned_change": -0.04,
-     "outlook": "",
+     "owned_pct": 52.5,
+     "owned_change": -0.13,
+     "outlook": "Jake Bates will look to benefit from high volume again as the Lions play the Patriots in Week 10. Bates was perfect in a Week 9 win over Miami, nailing five total kicks which included four field goals. The third-year boot has now made multiple field goals for the third straight game, with Detroit's offense cooling down slightly after a crazy start to the year. New England has ranked middle-of-the-pack against fantasy kickers so far this campaign.",
      "slot": "K"
     },
     {
@@ -2108,8 +2108,8 @@
      "proj": 10.8,
      "last_week": 17.0,
      "owned_pct": 37.2,
-     "owned_change": -0.01,
-     "outlook": "",
+     "owned_change": -0.09,
+     "outlook": "Dominic Zvada rebounded last game for the Giants with four field goals. Zvada did not miss a boot, connecting from at least 48 yards on three of his four field goal tries. He also added an extra points in the 19-11 win over the Eagles. He should have plenty more opportunities to score in Week 10 versus a lackluster Washington squad. The Commanders are allowing 25.3 points per game, which is 24th in the NFL.",
      "slot": "BN"
     },
     {
@@ -2121,7 +2121,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 2.1,
-     "owned_change": -0.01,
+     "owned_change": -0.03,
      "outlook": "",
      "slot": "QB"
     },
@@ -2133,8 +2133,8 @@
      "injury": "ACTIVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 3.6,
-     "owned_change": -0.02,
+     "owned_pct": 3.5,
+     "owned_change": -0.05,
      "outlook": "",
      "slot": "RB"
     }
@@ -2148,11 +2148,11 @@
    "pos": "QB",
    "team": "GB",
    "injury": "ACTIVE",
-   "proj": 15.4,
+   "proj": 16.0,
    "last_week": null,
    "owned_pct": 90.0,
-   "owned_change": -0.06,
-   "outlook": ""
+   "owned_change": -0.05,
+   "outlook": "Jordan Love will look to keep his MVP campaign rolling as the Packers play the Vikings in Week 10. Love was on fire again in a Week 9 win over the Patriots, completing 23 of 29 passes for 372 yards with three passing touchdowns and a 13-yard rushing score. Green Bay's signal caller has now dished out two or more touchdowns and passed for 270 or more yards in each of his last three outings. He'll rematch a Vikings defense that he threw for 387 yards, two touchdowns and one interception against in a Week 1 loss."
   },
   {
    "id": 16800,
@@ -2162,8 +2162,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 90.0,
-   "owned_change": -0.1,
+   "owned_pct": 89.9,
+   "owned_change": -0.15,
    "outlook": ""
   },
   {
@@ -2175,8 +2175,8 @@
    "proj": 10.1,
    "last_week": null,
    "owned_pct": 89.8,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_change": -0.09,
+   "outlook": "Harold Fannin Jr. and the Browns welcome the Texans to town for a Week 10 AFC clash. He caught both of his targets for 42 yards, including an impressive 39-yard touchdown in overtime, during Cleveland's 23-22 OT loss in Week 9. Fannin was quiet until the extra frame, a disappointing development after he erupted for a 10-154-0 line on 12 targets in his previous outing. He'll look to stay hot despite a difficult matchup versus Houston's fourth-ranked defense in fantasy points allowed per game (10.1) to TEs."
   },
   {
    "id": 4239996,
@@ -2186,9 +2186,9 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 81.4,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_pct": 81.3,
+   "owned_change": -0.19,
+   "outlook": "Travis Etienne (hamstring) will likely operate as New Orleans' top running back if active for the Week 10 matchup against the Panthers. Etienne has been sidelined for the Saints' last five games due to a hamstring issue, but his 21-day practice window is expected to be opened soon. If active for the Week 10 divisional matchup, Etienne is expected to thrive against a Panthers defense that's already allowed 12 touchdowns to opposing running backs in just eight games this year."
   },
   {
    "id": -16014,
@@ -2196,10 +2196,10 @@
    "pos": "D/ST",
    "team": "LAR",
    "injury": "ACTIVE",
-   "proj": 8.4,
+   "proj": 8.3,
    "last_week": null,
    "owned_pct": 80.5,
-   "owned_change": -0.07,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -2211,8 +2211,8 @@
    "proj": 11.6,
    "last_week": null,
    "owned_pct": 79.7,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_change": -0.07,
+   "outlook": "Blake Corum continues to get a hefty share of work out of the Rams' backfield heading into a Week 10 visit to Arizona. Corum led Los Angeles with 58 rushing yards and scored a touchdown on 11 carries in a Week 9 win against Washington. Though he remains marginally behind Kyren Williams in the Rams' backfield, Corum has logged double-digit carries in three straight games and has scored in each of those contests. There could be an opportunity for both Corum and Williams to succeed against a Cardinals defense that is giving up 99.6 rushing yards per game to RBs, ranking 19th in the league."
   },
   {
    "id": 4385690,
@@ -2220,11 +2220,11 @@
    "pos": "TE",
    "team": "BUF",
    "injury": "ACTIVE",
-   "proj": 9.7,
+   "proj": 8.8,
    "last_week": null,
    "owned_pct": 77.3,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_change": -0.12,
+   "outlook": "Dalton Kincaid's role in the Bills offense may be sliding as they enter a Week 10 matchup against the Jets. In Buffalo's first six games, Kincaid saw less than a 66% snap share just once, but since the team's Week 7 bye, he's been under 60% in two outings, resulting in just nine targets. The Jets have been vulnerable against tight ends, allowing at least 72 yards in three straight weeks, but Kincaid's potential workload makes it questionable he can approach that total."
   },
   {
    "id": 3916433,
@@ -2235,8 +2235,8 @@
    "proj": 11.6,
    "last_week": null,
    "owned_pct": 68.5,
-   "owned_change": -0.07,
-   "outlook": ""
+   "owned_change": -0.06,
+   "outlook": "Jakobi Meyers is a strong Week 10 flex play against a Titans defense that has struggled to cover wide receivers. Tennessee is allowing a league-high 15.3 catches for 195 yards per game to the position. Meyers has had an up-and-down season as Jacksonville's No. 2 WR but has trended in the right direction recently, notching two of his three best performances this season for both receiving yards and targets within the last three games. He's more likely to produce a peak than a valley in the first of Jacksonville's two meetings this season against Tennessee's league-worst secondary."
   },
   {
    "id": 4686361,
@@ -2247,8 +2247,8 @@
    "proj": 9.8,
    "last_week": null,
    "owned_pct": 66.6,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_change": -0.02,
+   "outlook": "Cam Little connected on a season-high four field goals in Jacksonville's Week 9 win over the Ravens, bringing him up to 14-for-16 through eight games this season. He has attempted 10 more PATs than FGs behind Jacksonville's efficient offense, but Little should enjoy plenty of kicking opportunities in Week 10, as the Titans are surrendering 24.9 points per game while the Jaguars are scoring 28.6 points per game. Tennessee has allowed 17 successful field goals, which is tied for 10th-most in the NFL, so Little's a set-and-forget fantasy starter for Week 10."
   },
   {
    "id": 4432708,
@@ -2258,21 +2258,21 @@
    "injury": "ACTIVE",
    "proj": 6.0,
    "last_week": null,
-   "owned_pct": 64.5,
-   "owned_change": -0.14,
-   "outlook": ""
+   "owned_pct": 64.2,
+   "owned_change": -0.42,
+   "outlook": "Marvin Harrison accounted for just 20 of C.J. Stroud's 384 passing yards and none of Stroud's five touchdown passes in Houston's Week 9 win over the Chargers. The trade acquisition from Arizona has just six catches for 60 yards and one TD in three appearances for Houston heading into a Week 10 trip to Cleveland. With Nico Collins, Tank Dell, Xavier Hutchinson and Kayshon Boutte also vying for targets in Houston's deep WR room, Harrison isn't a trustworthy Week 10 fantasy option. The 2024 fourth overall pick is droppable in most redraft formats, as the change of scenery hasn't improved Harrison's short-term fantasy outlook."
   },
   {
    "id": 14880,
    "name": "Kirk Cousins",
    "pos": "QB",
-   "team": "LV",
+   "team": "MIN",
    "injury": "ACTIVE",
-   "proj": 13.7,
+   "proj": 13.0,
    "last_week": null,
-   "owned_pct": 62.3,
-   "owned_change": -0.14,
-   "outlook": ""
+   "owned_pct": 62.2,
+   "owned_change": -0.23,
+   "outlook": "Kirk Cousins is coming off his worst performance of the season, getting picked off three times while throwing just one touchdown in the Raiders' Week 9 loss to the 49ers. With Las Vegas now 4-5, the odds are increasing that coach Klint Kubiak will hand the reins of the offense to rookie Fernando Mendoza, but as yet there's been no indication a switch under center is imminent. Cousins' 20 TD passes through nine games is still second in the NFL behind Joe Burrow's 23, and he's fifth in passing yards. If he gets another start for the Raiders in Week 10, he'll face an elite Seahawks defense that ranks second in fantasy points per game allowed to QBs."
   },
   {
    "id": 3046439,
@@ -2282,9 +2282,9 @@
    "injury": "ACTIVE",
    "proj": 9.3,
    "last_week": null,
-   "owned_pct": 61.0,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_pct": 60.9,
+   "owned_change": -0.19,
+   "outlook": "Hunter Henry figures to be a popular option for the Patriots in Week 10 against a Lions defense that struggles against opposing tight ends. Henry has just three targets in each of his last two games and has topped 48 yards just twice all season, but Week 10 presents an inviting opportunity. Detroit has allowed 11 touchdown receptions to tight ends and 8.2 yards per target, the highest numbers across the league. With New England potentially missing its top two running backs, a pass-heavy script would set Henry up for top-end production."
   },
   {
    "id": 4426338,
@@ -2294,8 +2294,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 59.7,
-   "owned_change": -0.08,
+   "owned_pct": 59.6,
+   "owned_change": -0.18,
    "outlook": ""
   },
   {
@@ -2306,8 +2306,8 @@
    "injury": "ACTIVE",
    "proj": 4.9,
    "last_week": null,
-   "owned_pct": 59.5,
-   "owned_change": -0.08,
+   "owned_pct": 59.4,
+   "owned_change": -0.25,
    "outlook": ""
   },
   {
@@ -2318,8 +2318,8 @@
    "injury": "ACTIVE",
    "proj": 3.5,
    "last_week": null,
-   "owned_pct": 58.9,
-   "owned_change": -0.28,
+   "owned_pct": 58.6,
+   "owned_change": -0.6,
    "outlook": ""
   },
   {
@@ -2328,11 +2328,11 @@
    "pos": "K",
    "team": "LV",
    "injury": "ACTIVE",
-   "proj": 8.6,
+   "proj": 8.3,
    "last_week": null,
-   "owned_pct": 57.4,
-   "owned_change": -0.14,
-   "outlook": ""
+   "owned_pct": 57.3,
+   "owned_change": -0.25,
+   "outlook": "Matt Gay was afforded few opportunities in the Raiders' Week 9 loss to the 49ers, connecting on a 50-yard attempts for his only field goal and converting both his PATs. The veteran kicker has a 90.5% FG success rate on the season, going 19-for-21, and he has yet to miss an extra point in 2026, but his erratic weekly volume limits his fantasy utility. Gay isn't likely to see much volume in Week 10 against a Seahawks team allowing 18.0 points per game, tied for fourth in the league."
   },
   {
    "id": 4427095,
@@ -2343,20 +2343,8 @@
    "proj": 12.0,
    "last_week": null,
    "owned_pct": 57.1,
-   "owned_change": -0.05,
-   "outlook": ""
-  },
-  {
-   "id": -16005,
-   "name": "Browns D/ST",
-   "pos": "D/ST",
-   "team": "CLE",
-   "injury": "ACTIVE",
-   "proj": 4.2,
-   "last_week": null,
-   "owned_pct": 52.9,
-   "owned_change": -0.12,
-   "outlook": ""
+   "owned_change": -0.01,
+   "outlook": "DeMario Douglas will look to continue his recent surge when the Patriots face the Lions in Week 10. Douglas had a season-high 102 yards on nine targets in Week 9, a game that developed into a pass-heavy shootout. A similar game script could be on tap against a Detroit defense that has allowed the fourth-most passing yards. A potential return for A.J. Brown may reduce Douglas' targets, but with the expectation the Patriots will throw often, he can post 65 yards or better for the sixth time in seven weeks."
   },
   {
    "id": 4569587,
@@ -2366,8 +2354,20 @@
    "injury": "ACTIVE",
    "proj": 8.9,
    "last_week": null,
-   "owned_pct": 52.9,
-   "owned_change": -0.1,
+   "owned_pct": 52.8,
+   "owned_change": -0.12,
+   "outlook": "Wan'Dale Robinson should have enough short passes thrown his way to maintain flex appeal for Tennessee's Week 10 home game against the Jaguars. The 1-7 Titans are likely to fall behind against the 6-2 Jaguars and throw plenty against a Jacksonville secondary that's allowing 175 yards per game to WRs. Robinson has caught three of Cam Ward's six touchdown passes this season and has drawn at least six targets in four consecutive games, though the former Giants WR hasn't exceeded 57 yards in a Titans jersey."
+  },
+  {
+   "id": -16005,
+   "name": "Browns D/ST",
+   "pos": "D/ST",
+   "team": "CLE",
+   "injury": "ACTIVE",
+   "proj": 4.2,
+   "last_week": null,
+   "owned_pct": 52.7,
+   "owned_change": -0.3,
    "outlook": ""
   },
   {
@@ -2379,7 +2379,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 52.3,
-   "owned_change": -0.05,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -2387,12 +2387,12 @@
    "name": "Kyler Murray",
    "pos": "QB",
    "team": "MIN",
-   "injury": "OUT",
+   "injury": "DOUBTFUL",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 49.8,
-   "owned_change": -0.45,
-   "outlook": ""
+   "owned_pct": 49.3,
+   "owned_change": -0.75,
+   "outlook": "Kyler Murray's status is up in the air for Week 10 as the Vikings play the Packers. Murray sat out of a Week 9 loss to the Bills with a hamstring injury. Terrible play from backup quarterback Carson Wentz is likely to slot Murray back into the QB1 role, barring any major moves by Minnesota's organization. Green Bay has ranked eighth in fantasy points allowed to QBs."
   },
   {
    "id": 4430539,
@@ -2402,8 +2402,20 @@
    "injury": "ACTIVE",
    "proj": 9.6,
    "last_week": null,
-   "owned_pct": 48.9,
-   "owned_change": -0.15,
+   "owned_pct": 48.8,
+   "owned_change": -0.29,
+   "outlook": "Brenton Strange is a startable fantasy option in Week 10 against the Titans, but he's far from a must-start. He leads the Jaguars with 30 catches through eight games but hasn't scored since the season opener and is averaging 45 yards per game, which ranks 10th among TEs. Tennessee has struggled to defend the pass in general, but the Titans have limited TEs to 43 yards per game, though they have also given up four TDs to the position through eight games."
+  },
+  {
+   "id": -16033,
+   "name": "Ravens D/ST",
+   "pos": "D/ST",
+   "team": "BAL",
+   "injury": "ACTIVE",
+   "proj": 7.7,
+   "last_week": null,
+   "owned_pct": 47.4,
+   "owned_change": 0.0,
    "outlook": ""
   },
   {
@@ -2414,20 +2426,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 47.5,
-   "owned_change": -0.09,
-   "outlook": ""
-  },
-  {
-   "id": -16033,
-   "name": "Ravens D/ST",
-   "pos": "D/ST",
-   "team": "BAL",
-   "injury": "ACTIVE",
-   "proj": 7.6,
-   "last_week": null,
-   "owned_pct": 47.3,
-   "owned_change": -0.02,
+   "owned_pct": 47.2,
+   "owned_change": -0.35,
    "outlook": ""
   },
   {
@@ -2438,8 +2438,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 44.8,
-   "owned_change": -0.1,
+   "owned_pct": 44.6,
+   "owned_change": -0.26,
    "outlook": ""
   },
   {
@@ -2450,9 +2450,9 @@
    "injury": "ACTIVE",
    "proj": 7.4,
    "last_week": null,
-   "owned_pct": 44.6,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_pct": 43.6,
+   "owned_change": -1.46,
+   "outlook": "Singletary got the starting nod for the Giants last game, but did not find much room to roam. Singletary had a season-high 21 carries due to the injury to Cam Skattebo, though managed just 31 yards in the 19-11 win over the Eagles. Skattebo looks poised to return in Week 10 versus the Commanders, so Singletary's touches will likely take a massive hit as a result. In addition, Washington has been fairly stingy against the run in 2026, allowing just 102.3 rushing yards per tilt, which is 12th in the league. In addition, the Commanders have yielded just seven rushing touchdowns, which is tied for 11th in the NFL."
   },
   {
    "id": 17372,
@@ -2462,9 +2462,9 @@
    "injury": "ACTIVE",
    "proj": 10.5,
    "last_week": null,
-   "owned_pct": 43.1,
-   "owned_change": -0.25,
-   "outlook": ""
+   "owned_pct": 43.0,
+   "owned_change": -0.23,
+   "outlook": "Chris Boswell and the Steelers are on the road for a Week 10 AFC North showdown against the Bengals. In Week 8, he went 2-for-3 on field goal attempts and connected on all three of his PATs to help Pittsburgh win its fourth straight game. Boswell misfired on a 57-yarder to end their first offensive possession, as the 35-year-old is now 4-for-7 on kicks from 50-plus yards out in 2026. However, he's had three or more FGAs in three consecutive outings, a trend that is likely to continue versus a Cincinnati team scoring the second-most points per game (30.0)."
   },
   {
    "id": 4597500,
@@ -2472,11 +2472,11 @@
    "pos": "WR",
    "team": "NYJ",
    "injury": "ACTIVE",
-   "proj": 11.0,
+   "proj": 10.3,
    "last_week": null,
-   "owned_pct": 42.8,
-   "owned_change": -0.12,
-   "outlook": ""
+   "owned_pct": 42.4,
+   "owned_change": -0.64,
+   "outlook": "Adonai Mitchell's roller coaster season heads into a favorable spot when the Jets face the Bills in Week 10. He failed to record a catch in Week 9 despite seven targets, his second game in three weeks without a reception. Mitchell remains a vertical option, and he's averaged 6.8 targets across five healthy appearances. With the Jets likely throwing from behind as the game progresses, he's a reasonable bet to flourish against a secondary that's allowed 28 receptions of 20-plus yards, the eighth-most in the league."
   },
   {
    "id": 4361411,
@@ -2486,9 +2486,9 @@
    "injury": "ACTIVE",
    "proj": 8.2,
    "last_week": null,
-   "owned_pct": 41.2,
-   "owned_change": -0.16,
-   "outlook": ""
+   "owned_pct": 41.1,
+   "owned_change": -0.19,
+   "outlook": "Pat Freiermuth and the Steelers travel to Cincinnati for an AFC North showdown in Week 10. He caught both of his targets for 35 yards and rushed once for a one-yard touchdown during Pittsburgh's Week 8 victory. Freiermuth finished second on the team in yardage and accounted for one of three rushing TDs despite playing only 53% of the offensive snaps. Over his last three contests, he strung together a 6-66-0 receiving line on nine targets to go along with his one-yard TD run, securing two receptions in each outing. Freiermuth could struggle to hit paydirt for the sixth time this season in a matchup versus a Bengals defense that's given up only one score to opposing TEs through eight games."
   },
   {
    "id": 4242355,
@@ -2498,8 +2498,8 @@
    "injury": "OUT",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 41.2,
-   "owned_change": -0.07,
+   "owned_pct": 41.1,
+   "owned_change": -0.19,
    "outlook": ""
   },
   {
@@ -2510,8 +2510,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 40.5,
-   "owned_change": -0.08,
+   "owned_pct": 40.4,
+   "owned_change": -0.17,
    "outlook": ""
   },
   {
@@ -2522,8 +2522,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 40.4,
-   "owned_change": -0.07,
+   "owned_pct": 40.2,
+   "owned_change": -0.19,
    "outlook": ""
   },
   {
@@ -2534,9 +2534,9 @@
    "injury": "ACTIVE",
    "proj": 6.3,
    "last_week": null,
-   "owned_pct": 40.1,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_pct": 39.9,
+   "owned_change": -0.26,
+   "outlook": "Brian Thomas has been almost completely phased out of Jacksonville's offense, with just one catch over the past four games. The 2024 first-round pick could benefit from a change of scenery at Tuesday's trade deadline, though Jacksonville's asking price remains high despite Thomas' recent struggles. If he sticks around, even a favorable Week 10 matchup against a Titans defense that's allowing the most catches and yards per game to WRs won't be enough to get Thomas back on the fantasy radar."
   },
   {
    "id": 4880281,
@@ -2546,9 +2546,9 @@
    "injury": "ACTIVE",
    "proj": 8.6,
    "last_week": null,
-   "owned_pct": 39.3,
-   "owned_change": -0.09,
-   "outlook": ""
+   "owned_pct": 39.1,
+   "owned_change": -0.3,
+   "outlook": "Jordyn Tyson's role in the Saints' offense is expected to continue growing during the Week 10 matchup against the Panthers. Tyson was sidelined for New Orleans' first seven games this season due to a hamstring. He was relatively underwhelming in his NFL debut, catching four of five targets for 30 yards while also losing a fumble in the Week 9 overtime win over the Browns. Despite this, Tyler Shough is tied for the league-lead in pass attempts per game (38.5) and Tyson is expected to get more involved in the Saints' offense as the season continues, so his fantasy outlook remains positive. He could find success against a depleted Carolina secondary that's given up 145.6 receiving yards per game to opposing WRs this year."
   },
   {
    "id": 17427,
@@ -2558,8 +2558,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 39.0,
-   "owned_change": -0.23,
+   "owned_pct": 38.5,
+   "owned_change": -0.75,
    "outlook": ""
   },
   {
@@ -2570,8 +2570,8 @@
    "injury": "ACTIVE",
    "proj": 4.5,
    "last_week": null,
-   "owned_pct": 37.9,
-   "owned_change": -0.02,
+   "owned_pct": 37.8,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -2582,9 +2582,9 @@
    "injury": "ACTIVE",
    "proj": 7.6,
    "last_week": null,
-   "owned_pct": 36.9,
-   "owned_change": -0.06,
-   "outlook": ""
+   "owned_pct": 36.8,
+   "owned_change": -0.2,
+   "outlook": "Kaelon Black has been running well for the 49ers of late and will look to continue to do so Week 10 versus the Cowboys. Black has rushed for at least 63 yards in each of his past two games and is averaging a hearty 5.8 yards per carry during that span. He's still not factoring into the passing game and continues to work considerably behind top RB Christian McCaffrey, but Black is proving himself to be a capable NFL back during his rookie campaign. With enough opportunities, Black could find success against a Dallas defense that has yielded 4.77 yards per carry to running backs, fourth-most in the NFL."
   },
   {
    "id": -16004,
@@ -2592,10 +2592,10 @@
    "pos": "D/ST",
    "team": "CIN",
    "injury": "ACTIVE",
-   "proj": 5.6,
+   "proj": 5.4,
    "last_week": null,
-   "owned_pct": 35.9,
-   "owned_change": -0.17,
+   "owned_pct": 35.7,
+   "owned_change": -0.28,
    "outlook": ""
   },
   {
@@ -2606,8 +2606,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 35.6,
-   "owned_change": -0.07,
+   "owned_pct": 35.4,
+   "owned_change": -0.27,
    "outlook": ""
   },
   {
@@ -2618,8 +2618,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 34.0,
-   "owned_change": -0.23,
+   "owned_pct": 33.5,
+   "owned_change": -0.6,
    "outlook": ""
   },
   {
@@ -2630,9 +2630,9 @@
    "injury": "QUESTIONABLE",
    "proj": 15.6,
    "last_week": null,
-   "owned_pct": 33.8,
-   "owned_change": -0.15,
-   "outlook": ""
+   "owned_pct": 33.4,
+   "owned_change": -0.58,
+   "outlook": "J.J. McCarthy is battling a hip pointer, but should be able to suit up in Week 10 for the Giants versus the Commanders. McCarthy briefly left New York's last contest versus the Eagles due to the issue, but was able to return and ultimately guide the G-Men to victory. Though McCarthy passed for a season-low 127 yards last game, he will look to rebound against a porous Washington secondary. The Commanders are allowing 240 passing yards per clash, which is 30th in the league. In addition, Washington has surrendered 16 passing touchdowns, which is tied for 25th in the league."
   },
   {
    "id": -16027,
@@ -2643,7 +2643,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 31.7,
-   "owned_change": -0.04,
+   "owned_change": -0.12,
    "outlook": ""
   },
   {
@@ -2651,12 +2651,12 @@
    "name": "MarShawn Lloyd",
    "pos": "RB",
    "team": "GB",
-   "injury": "OUT",
-   "proj": 7.6,
+   "injury": "QUESTIONABLE",
+   "proj": 7.4,
    "last_week": null,
    "owned_pct": 31.7,
-   "owned_change": -0.06,
-   "outlook": ""
+   "owned_change": -0.13,
+   "outlook": "MarShawn Lloyd will aim to shed an injury tag as the Packers play the Vikings in Week 10. Lloyd was inactive in Week 9 against the Patriots with a knee injury, which paved the way for Kaleb Johnson and Pierre Strong to lead Green Bay's rushing attack after Josh Jacobs exited with a finger ailment. If Lloyd is active against Minnesota, he could very well lead the backfield versus a defense that's ranked top 10 in fantasy points allowed to RBs."
   },
   {
    "id": 4040715,
@@ -2666,20 +2666,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 30.6,
-   "owned_change": -0.04,
-   "outlook": ""
-  },
-  {
-   "id": 4697745,
-   "name": "Tyler Loop",
-   "pos": "K",
-   "team": "BAL",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
    "owned_pct": 30.4,
-   "owned_change": -0.17,
+   "owned_change": -0.23,
    "outlook": ""
   },
   {
@@ -2690,8 +2678,20 @@
    "injury": "ACTIVE",
    "proj": 8.4,
    "last_week": null,
-   "owned_pct": 30.1,
-   "owned_change": -0.13,
+   "owned_pct": 29.9,
+   "owned_change": -0.33,
+   "outlook": "Ryan Flournoy could not take advantage of the absence of George Pickens last game for Dallas. Despite Pickens being sidelined with a hamstring issue, Flournoy managed his fewest catches since Week 3. He finished with just two grabs for the contest, though did gain 53 yards total on the receptions. While Pickens may be shelved for Week 10 as well, Flournoy will face a difficult task versus the San Francisco 49ers. The Niners are allowing just 211 passing yards per tilt, which is eighth in the league. In addition, San Fran has given up just 11 passing scores in 2026, which is tied for seventh in the NFL."
+  },
+  {
+   "id": 4697745,
+   "name": "Tyler Loop",
+   "pos": "K",
+   "team": "BAL",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 29.9,
+   "owned_change": -0.64,
    "outlook": ""
   },
   {
@@ -2700,11 +2700,11 @@
    "pos": "RB",
    "team": "LV",
    "injury": "ACTIVE",
-   "proj": 6.4,
+   "proj": 6.0,
    "last_week": null,
-   "owned_pct": 29.6,
-   "owned_change": -0.2,
-   "outlook": ""
+   "owned_pct": 29.2,
+   "owned_change": -0.59,
+   "outlook": "Mike Washington crashed back to earth in the Raiders' Week 9 loss to the 49ers, losing a total of three yards on six carries. Ashton Jeanty had little luck either though, scratching out 20 scrimmage yards on 11 touches. Washington remains in the No. 2 spot on the depth chart, and his 3.9 yards per carry on the season is only marginally better than Jeanty's 3.2 mark. Washington is making a case for more work on early down and at the goal line, however, and coach Klint Kubiak showed a willingness to deploy a backfield timeshare during his Super Bowl-winning stint with Seattle last season. The rookie back will try to get back on track in Week 10 against a Seahawks defense that ranks 13th in fantasy points per game allowed to RBs."
   },
   {
    "id": 4363538,
@@ -2714,9 +2714,9 @@
    "injury": "ACTIVE",
    "proj": 7.8,
    "last_week": null,
-   "owned_pct": 29.2,
-   "owned_change": -0.12,
-   "outlook": ""
+   "owned_pct": 29.1,
+   "owned_change": -0.29,
+   "outlook": "Chad Ryland's opportunities could be influenced by a new Cardinals' starting quarterback (Carson Beck) against the Rams in Week 10. Arizona is coming off a battle against a top defensive unit, and Ryland got just one chance to kick -- making a short field goal -- in Week 9 against Seattle. Gardner Minshew suffered an elbow injury in that contest, leading the rookie Beck to presumably make his NFL debut as the starting QB against the Rams. Perhaps Ryland will get multiple field-goal opportunities against a Los Angeles defense that has allowed the most FG tries (26) in the NFL this season."
   },
   {
    "id": 4429160,
@@ -2726,8 +2726,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 28.6,
-   "owned_change": 0.0,
+   "owned_pct": 28.5,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -2736,11 +2736,11 @@
    "pos": "WR",
    "team": "MIA",
    "injury": "ACTIVE",
-   "proj": 9.7,
+   "proj": 9.3,
    "last_week": null,
    "owned_pct": 27.4,
    "owned_change": -0.03,
-   "outlook": ""
+   "outlook": "Caleb Douglas appears to be the best option among Dolphins receivers entering a Week 10 matchup with the Colts. He has 14 targets over the last two weeks as Malik Washington's role shrinks, and Douglas has 70 receiving yards in two of his last three outings despite Malik Willis' struggles. Indianapolis is more vulnerable against the run, which figures to be Miami's plan offensively, but Douglas has proven he can take advantage of whatever opportunities come his way, setting him up for potential against a defense that's allowing 8.8 yards per target to opposing wideouts."
   },
   {
    "id": 3912547,
@@ -2750,9 +2750,9 @@
    "injury": "OUT",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 26.8,
-   "owned_change": -0.13,
-   "outlook": ""
+   "owned_pct": 26.6,
+   "owned_change": -0.3,
+   "outlook": "Sam Darnold is slated to miss Seattle's Week 10 matchup against Las Vegas due to a quadriceps injury. Drew Lock is dealing with an oblique issue but is expected to be able to start at quarterback for a second straight week."
   },
   {
    "id": 3116164,
@@ -2762,21 +2762,9 @@
    "injury": "ACTIVE",
    "proj": 7.6,
    "last_week": null,
-   "owned_pct": 26.4,
-   "owned_change": -0.09,
-   "outlook": ""
-  },
-  {
-   "id": 4241474,
-   "name": "Brian Robinson Jr.",
-   "pos": "RB",
-   "team": "ATL",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 24.3,
-   "owned_change": -0.18,
-   "outlook": ""
+   "owned_pct": 26.3,
+   "owned_change": -0.28,
+   "outlook": "Mike Gesicki and the Bengals host the Steelers for an AFC North clash in Week 10. He corralled both of his targets for 11 yards during Cincinnati's 34-17 victory in Week 9. Gesicki's five-game streak with a touchdown came to an end with all three of Joe Burrow's TD passes going to Ja'Marr Chase (one) and Tee Higgins (two). Gesicki's fantasy value has been reliant on TDs in 2026, so he'll try to start another streak of consecutive trips to the endzone versus a Pittsburgh defense his initial scoring stretch started against back in Week 3."
   },
   {
    "id": 3117256,
@@ -2786,8 +2774,20 @@
    "injury": "ACTIVE",
    "proj": 7.6,
    "last_week": null,
-   "owned_pct": 24.1,
-   "owned_change": -0.07,
+   "owned_pct": 24.0,
+   "owned_change": -0.11,
+   "outlook": "Dalton Schultz is a borderline fantasy starter at TE for Week 10 against the Browns. He ranks ninth among TEs with 46 receiving yards per game but has yet to score this season and has a meager five TDs in 42 regular-season appearances since the start of the 2024 campaign. Cleveland has allowed five TDs to the position in nine games, as well as 58 yards per game."
+  },
+  {
+   "id": 4241474,
+   "name": "Brian Robinson Jr.",
+   "pos": "RB",
+   "team": "ATL",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 24.0,
+   "owned_change": -0.49,
    "outlook": ""
   },
   {
@@ -2798,21 +2798,9 @@
    "injury": "ACTIVE",
    "proj": 6.4,
    "last_week": null,
-   "owned_pct": 23.8,
-   "owned_change": -0.01,
-   "outlook": ""
-  },
-  {
-   "id": 4832955,
-   "name": "Emmett Johnson",
-   "pos": "RB",
-   "team": "KC",
-   "injury": "ACTIVE",
-   "proj": 6.9,
-   "last_week": null,
-   "owned_pct": 23.5,
+   "owned_pct": 23.7,
    "owned_change": -0.04,
-   "outlook": ""
+   "outlook": "Quentin Johnston caught his first touchdown of the season in the Chargers' Week 9 loss to the Texans, but it was also his only catch of the contest on four targets. The fourth-year wide receiver has hauled in more than two passes just twice in seven appearances this season, scratching out a 13-260-1 line on 30 targets, and he's generally failed to take advantage of Ladd McConkey's frequent absences in one of the NFL's most dysfunctional offenses. Johnston is unlikely to suddenly break out in Week 10, even against a Ravens secondary that's tied for 22nd in fantasy points per game allowed to WRs."
   },
   {
    "id": 4366031,
@@ -2822,21 +2810,21 @@
    "injury": "ACTIVE",
    "proj": 8.4,
    "last_week": null,
-   "owned_pct": 23.4,
-   "owned_change": 0.07,
-   "outlook": ""
+   "owned_pct": 23.5,
+   "owned_change": 0.2,
+   "outlook": "Tank Dell looked like his old self in his second-game back from a nearly two-year absence due to a knee injury. He caught four of nine targets for 105 yards and a TD in Houston's Week 9 win over the Chargers after securing a 43-yard catch against the Giants in Dell's Week 8 return to action. If Dell's still floating around on waivers in your league, he's worth adding in most formats, as he was a viable fantasy WR2 prior to his injury and just turned 27 years old. Dell is a startable option in Week 10 against Cleveland's decent secondary, but he should at least be rostered even if you have safer flex options for Week 10."
   },
   {
-   "id": 4242512,
-   "name": "Malik Willis",
-   "pos": "QB",
-   "team": "MIA",
-   "injury": "QUESTIONABLE",
-   "proj": 14.3,
+   "id": 4832955,
+   "name": "Emmett Johnson",
+   "pos": "RB",
+   "team": "KC",
+   "injury": "ACTIVE",
+   "proj": 6.4,
    "last_week": null,
-   "owned_pct": 23.3,
-   "owned_change": -0.32,
-   "outlook": ""
+   "owned_pct": 23.4,
+   "owned_change": -0.1,
+   "outlook": "Emmett Johnson took advantage of his opportunities again in Kansas City's Week 9 win over the Jets, scoring his first career rushing touchdown while gaining 34 yards on six carries. Kenneth Walker, who found the end zone three times in the victory, remains firmly on top of the depth chart, but Johnson is beginning to earn a steady workload as the No. 2 option in the backfield. The rookie is averaging a tidy 4.3 yards per carry on the ground, while adding a 14-237-1 line on 16 targets over eight games. Johnson could make an impact on limited touches again in Week 10 against a Falcons defense that's tied for 29th in fantasy points per game allowed to RBs."
   },
   {
    "id": 3052587,
@@ -2846,8 +2834,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 22.7,
-   "owned_change": -0.07,
+   "owned_pct": 22.6,
+   "owned_change": -0.17,
    "outlook": ""
   },
   {
@@ -2856,23 +2844,35 @@
    "pos": "QB",
    "team": "NYJ",
    "injury": "ACTIVE",
-   "proj": 16.4,
+   "proj": 14.8,
    "last_week": null,
-   "owned_pct": 22.6,
-   "owned_change": -0.1,
-   "outlook": ""
+   "owned_pct": 22.4,
+   "owned_change": -0.18,
+   "outlook": "Geno Smith will look to bounce back in Week 10 when the Jets face the Bills. After averaging 288.5 passing yards over two promising showings, Smith managed just 165 yards in Week 9, failing to throw a touchdown for the second time this season. Buffalo's defense is middling in terms of fantasy points allowed to opposing quarterbacks, but they've given up 15 touchdown passes through eight games, and the game flow will likely force the Jets to throw frequently while trailing. Smith has thrown multiple touchdowns in just three games, but there is some streaming appeal given a favorable Week 10 matchup."
   },
   {
    "id": 4032473,
    "name": "Rashid Shaheed",
    "pos": "WR",
    "team": "SEA",
-   "injury": "OUT",
-   "proj": 6.9,
+   "injury": "QUESTIONABLE",
+   "proj": 7.2,
    "last_week": null,
-   "owned_pct": 22.3,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_pct": 22.2,
+   "owned_change": -0.12,
+   "outlook": "Rashid Shaheed (knee) has missed Seattle's past two games and isn't certain to return in Week 10 against the Raiders. Shaheed hasn't practiced since getting hurt in Week 7, and he'll likely need to return to at least a few limited sessions before being ready to play in games again. Should Shaheed sit out another contest, Cooper Kupp and Tory Horton will likely continue to be the Seahawks' top wideouts behind superstar Jaxon Smith-Njigba. If Shaheed can suit up, though, he'll face a Raiders defense that has allowed 27 passing plays of 20-plus yards this season, tied for eighth-most in the NFL."
+  },
+  {
+   "id": 4242512,
+   "name": "Malik Willis",
+   "pos": "QB",
+   "team": "MIA",
+   "injury": "QUESTIONABLE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 22.2,
+   "owned_change": -1.48,
+   "outlook": "Malik Willis hasn't been able to capitalize on favorable matchups as the Dolphins enter a Week 10 game against the Colts. Facing a porous Lions' secondary in Week 9, Willis provided only 128 yards, his fourth game under 200 yards and without a touchdown in eight outings. Further, he's dealing with hamstring and groin issues and has rushed only three times over the last two weeks. Indianapolis is allowing the ninth-most fantasy points to opposing quarterbacks, but after struggling against Detroit, it's hard to trust Willis in Week 10."
   },
   {
    "id": 4635008,
@@ -2880,11 +2880,23 @@
    "pos": "WR",
    "team": "BUF",
    "injury": "ACTIVE",
-   "proj": 6.7,
+   "proj": 7.5,
    "last_week": null,
-   "owned_pct": 21.4,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_pct": 21.3,
+   "owned_change": -0.13,
+   "outlook": "Keon Coleman continues to struggle for meaningful volume as the Bills prepare to face the Jets in Week 10. Coleman drew six targets in Week 9, the second time he's done so in three games, but finished with only 17 yards, the fourth time he's been limited to under 20 yards to date. With DJ Moore healthy, Coleman is at best the third option in Buffalo's passing game, and facing a defense that's allowed just nine touchdown receptions to wideouts in as many outings doesn't allow for Coleman to have much of a ceiling."
+  },
+  {
+   "id": 4428557,
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "team": "TEN",
+   "injury": "QUESTIONABLE",
+   "proj": 6.1,
+   "last_week": null,
+   "owned_pct": 21.2,
+   "owned_change": -0.11,
+   "outlook": "Tyjae Spears hasn't suited up since Week 6 due to a knee injury and has also dealt with an ankle injury this season. Even if he returns to his customary change-of-pace role for the Titans in Week 10, Spears is unlikely to contribute much against a Jacksonville defense that has been elite at containing RBs. If the Titans trade lead back Tony Pollard, Spears could see an uptick in work, but the biggest beneficiary in that scenario would likely be rookie fifth-round pick Nicholas Singleton."
   },
   {
    "id": 5081432,
@@ -2894,21 +2906,9 @@
    "injury": "ACTIVE",
    "proj": 8.2,
    "last_week": null,
-   "owned_pct": 21.3,
-   "owned_change": -0.06,
-   "outlook": ""
-  },
-  {
-   "id": 4428557,
-   "name": "Tyjae Spears",
-   "pos": "RB",
-   "team": "TEN",
-   "injury": "OUT",
-   "proj": 6.1,
-   "last_week": null,
    "owned_pct": 21.2,
-   "owned_change": -0.06,
-   "outlook": ""
+   "owned_change": -0.28,
+   "outlook": "Antonio Williams tied for third on the Commanders in targets last game.  Unfortunately, despite seeing six targets, Williams managed only three catches for 25 yards in the 20-13 loss to the Rams. Williams is unlikely to break loose in Week 10 versus the Giants either. New York is allowing just 177.8 passing yards per tilt, which is third in the NFL."
   },
   {
    "id": 4689114,
@@ -2919,7 +2919,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 21.1,
-   "owned_change": 0.01,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -2931,8 +2931,8 @@
    "proj": 7.8,
    "last_week": null,
    "owned_pct": 20.9,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_change": -0.05,
+   "outlook": "Evan McPherson and the Bengals battle the Steelers for an AFC North showdown in Week 10. He went 2-for-2 on field goals and made all four of his PATs during Cincinnati's 34-17 victory in Week 9. McPherson is one of two kickers who are still perfect at this point in the season, and he'll look to keep that going versus a Pittsburgh defense allowing just 18.0 points per game, tied for the fourth fewest."
   },
   {
    "id": 4686468,
@@ -2940,11 +2940,11 @@
    "pos": "RB",
    "team": "IND",
    "injury": "ACTIVE",
-   "proj": 5.0,
+   "proj": 5.5,
    "last_week": null,
-   "owned_pct": 20.6,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_pct": 20.4,
+   "owned_change": -0.23,
+   "outlook": "Seth McGowan is poised to take over as Indianapolis' top RB once Jonathan Taylor is traded. McGowan has been scooped up preemptively in most leagues, but he's worth adding if still available with a large influx of rushing volume likely on its way. The rookie seventh-round pick is averaging a solid 4.8 yards per carry, though he has exceeded six rushing attempts in a game just once in his young career. McGowan's introduction to the lead role will come in a favorable Week 10 matchup against a Dolphins defense that has allowed nine TDs to RBs in eight games en route to a 1-7 record, giving him fantasy RB2 upside."
   },
   {
    "id": 3116406,
@@ -2954,20 +2954,8 @@
    "injury": "QUESTIONABLE",
    "proj": null,
    "last_week": null,
-   "owned_pct": 19.6,
-   "owned_change": -0.2,
-   "outlook": ""
-  },
-  {
-   "id": 4599739,
-   "name": "Kendre Miller",
-   "pos": "RB",
-   "team": "FA",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 19.5,
-   "owned_change": -0.64,
+   "owned_pct": 19.4,
+   "owned_change": -0.44,
    "outlook": ""
   },
   {
@@ -2976,10 +2964,22 @@
    "pos": "TE",
    "team": "NYJ",
    "injury": "ACTIVE",
-   "proj": 4.2,
+   "proj": 4.0,
    "last_week": null,
    "owned_pct": 19.4,
-   "owned_change": -0.05,
+   "owned_change": -0.09,
+   "outlook": "Kenyon Sadiq's usage remains inconsistent ahead of the Jets' Week 10 matchup with the Bills. While Sadiq flashed with four catches in Week 9, he previously had only five grabs in his previous five games despite the Jets throwing more than 30 times in each outing. Sadiq remains high on potential but low on opportunity, suggesting a volatile ceiling/floor against a defense that's allowed only one opposing tight end to score."
+  },
+  {
+   "id": -16009,
+   "name": "Packers D/ST",
+   "pos": "D/ST",
+   "team": "GB",
+   "injury": "ACTIVE",
+   "proj": 5.6,
+   "last_week": null,
+   "owned_pct": 19.2,
+   "owned_change": 0.16,
    "outlook": ""
   },
   {
@@ -2991,19 +2991,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 19.2,
-   "owned_change": -0.03,
-   "outlook": ""
-  },
-  {
-   "id": -16009,
-   "name": "Packers D/ST",
-   "pos": "D/ST",
-   "team": "GB",
-   "injury": "ACTIVE",
-   "proj": 7.6,
-   "last_week": null,
-   "owned_pct": 19.1,
-   "owned_change": 0.04,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -3014,8 +3002,20 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 19.1,
-   "owned_change": -0.02,
+   "owned_pct": 19.0,
+   "owned_change": -0.11,
+   "outlook": "Jayden Reed will remain inactive as the Packers play the Vikings in Week 10. Reed sustained a neck injury against the Jets in Week 2, which requires season-ending surgery. His absence should continue to pave the way for Savion Williams, Bo Melton and J. Michael Sturdivant to get more opportunities in Green Bay's passing game."
+  },
+  {
+   "id": 4599739,
+   "name": "Kendre Miller",
+   "pos": "RB",
+   "team": "FA",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 18.9,
+   "owned_change": -0.86,
    "outlook": ""
   },
   {
@@ -3026,9 +3026,9 @@
    "injury": "ACTIVE",
    "proj": 6.9,
    "last_week": null,
-   "owned_pct": 19.0,
-   "owned_change": -0.1,
-   "outlook": ""
+   "owned_pct": 18.8,
+   "owned_change": -0.31,
+   "outlook": "Chris Rodriguez has scored in four of Jacksonville's last six games, but he hasn't topped 58 scrimmage yards in a game all season and is averaging 33 yards per game as Bhayshul Tuten's backup heading into a Week 10 road game against the Titans. Rodriguez will remain a touchdown-dependent Week 10 flex option against a Tennessee defense that has allowed plenty of yards to RBs but limited the position to six TDs in eight games. Tuten was hampered by ankle and foot injuries in Jacksonville's previous game but has since had 10 days to recover, suggesting that Rodriguez's path to a larger role remains blocked."
   },
   {
    "id": 5081397,
@@ -3039,8 +3039,8 @@
    "proj": 8.9,
    "last_week": null,
    "owned_pct": 18.6,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_change": -0.1,
+   "outlook": "Dylan Sampson and the Browns return home to face off against Houston in Week 10. He had eight carries for 21 yards and caught three of six targets for 27 yards during Cleveland's Week 9 overtime loss. Sampson finished tied for second on the team in targets, and with the Browns' offense likely to play from behind most weeks, he could provide a boost as the preferred back on passing downs. Sampson will aim to make more of an impact versus a Houston defense allowing 22.4 fantasy points per game (20th) to opposing RBs."
   },
   {
    "id": 4574716,
@@ -3051,7 +3051,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 17.3,
-   "owned_change": -0.03,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3062,8 +3062,8 @@
    "injury": "OUT",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 16.8,
-   "owned_change": -0.08,
+   "owned_pct": 16.6,
+   "owned_change": -0.19,
    "outlook": ""
   },
   {
@@ -3075,7 +3075,7 @@
    "proj": 6.4,
    "last_week": null,
    "owned_pct": 16.1,
-   "owned_change": -0.1,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3086,9 +3086,9 @@
    "injury": "ACTIVE",
    "proj": 12.9,
    "last_week": null,
-   "owned_pct": 15.5,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_pct": 15.4,
+   "owned_change": -0.13,
+   "outlook": "Michael Penix will lead the Falcons' offense into the Week 10 matchup against the Chiefs. Penix has underwhelmed over Atlanta's last two games, completing just 28 of 55 pass attempts for 287 yards, one touchdown and five interceptions. This is especially disappointing considering Penix's terrific start to the year, in which he averaged 231.4 passing yards and 1.8 passing touchdowns per game, while turning the ball over just twice over his first five appearances. Penix's struggles will likely continue in Week 10, as he's set to face a Kansas City defense that's given up just 16.1 fantasy points per game to opposing quarterbacks this season, the third-fewest in the NFL."
   },
   {
    "id": 4361529,
@@ -3098,9 +3098,9 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 14.2,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_pct": 14.1,
+   "owned_change": -0.11,
+   "outlook": "Isiah Pacheco will remain inactive in Week 10 as the Lions play the Patriots. Pacheco was placed on IR to start the season due to a back injury, and he underwent surgery in mid-September. This puts the former Kansas City RB's return this season in jeopardy. He's expected to be back sometime in December, so Sione Vaki will continue to handle RB2 duties behind Jahmyr Gibbs."
   },
   {
    "id": 4360238,
@@ -3110,20 +3110,8 @@
    "injury": "QUESTIONABLE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 14.2,
-   "owned_change": -0.09,
-   "outlook": ""
-  },
-  {
-   "id": -16020,
-   "name": "Jets D/ST",
-   "pos": "D/ST",
-   "team": "NYJ",
-   "injury": "ACTIVE",
-   "proj": 3.4,
-   "last_week": null,
-   "owned_pct": 13.7,
-   "owned_change": -0.08,
+   "owned_pct": 13.9,
+   "owned_change": -0.27,
    "outlook": ""
   },
   {
@@ -3135,7 +3123,19 @@
    "proj": 8.6,
    "last_week": null,
    "owned_pct": 13.7,
-   "owned_change": -0.03,
+   "owned_change": -0.09,
+   "outlook": "Chig Okonkwo has been targeted at least six times in three of the last four contests for the Commanders. Okonkwo caught six passes for 57 yards in the 20-13 loss to the Rams last game. Okonkwo has at least 55 receiving yards in three of the last four games for Washington. However, he will face a difficult test in the form of the New York Giants in Week 10. New York is allowing just 177.8 passing yards per tilt, which is third in the NFL."
+  },
+  {
+   "id": -16020,
+   "name": "Jets D/ST",
+   "pos": "D/ST",
+   "team": "NYJ",
+   "injury": "ACTIVE",
+   "proj": 3.6,
+   "last_week": null,
+   "owned_pct": 13.7,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -3146,9 +3146,9 @@
    "injury": "ACTIVE",
    "proj": 13.8,
    "last_week": null,
-   "owned_pct": 13.5,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_pct": 13.4,
+   "owned_change": -0.09,
+   "outlook": "Jacoby Brissett and the Ravens host the Chargers on Monday Night Football in Week 10. After being acquired via trade from the Cardinals, Brissett is expected to earn his first start for Baltimore. In eight outings with Arizona, he completed 193 of 305 pass attempts (63.3%) for 1,719 yards with a 10:7 TD:INT ratio, to go along with 29 carries for 87 yards and one score. The Ravens desperately need Brissett's veteran presence under center with Lamar Jackson (thumb) and Tyler Huntley (toe) both on IR. Baltimore has scored exactly 10 points in three of their last four games, with their best mark being 13 points in a loss to the Bengals in Week 7. Brissett will get a favorable matchup versus a Chargers defense allowing 27.4 points per contest, tied for the fourth-most in the league."
   },
   {
    "id": 4430968,
@@ -3156,11 +3156,11 @@
    "pos": "RB",
    "team": "LAC",
    "injury": "ACTIVE",
-   "proj": 7.6,
+   "proj": 7.7,
    "last_week": null,
    "owned_pct": 13.3,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_change": -0.12,
+   "outlook": "Kimani Vidal remains stuck in a committee in the Chargers' backfield. While Vidal turned eight touches into 36 scrimmage yards in a Week 9 loss to the Texans, Omarion Hampton gained a team-high 60 rushing yards on 13 carries and Keaton Mitchell put together 67 scrimmage yards on 10 touches. That leaves Vidal dependent on TDs, or injuries around him on the depth chart, for value. He'll try to make a splash in Week 10 against a Ravens defense that ranks ninth in fantasy points per game allowed to RBs."
   },
   {
    "id": 4570037,
@@ -3170,8 +3170,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 13.0,
-   "owned_change": -0.07,
+   "owned_pct": 12.8,
+   "owned_change": -0.19,
    "outlook": ""
   },
   {
@@ -3182,8 +3182,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 12.8,
-   "owned_change": -0.17,
+   "owned_pct": 12.4,
+   "owned_change": -0.56,
    "outlook": ""
   },
   {
@@ -3192,10 +3192,10 @@
    "pos": "D/ST",
    "team": "NO",
    "injury": "ACTIVE",
-   "proj": 4.7,
+   "proj": 4.8,
    "last_week": null,
-   "owned_pct": 12.7,
-   "owned_change": -0.11,
+   "owned_pct": 12.4,
+   "owned_change": -0.47,
    "outlook": ""
   },
   {
@@ -3206,8 +3206,8 @@
    "injury": "OUT",
    "proj": null,
    "last_week": null,
-   "owned_pct": 11.8,
-   "owned_change": -0.1,
+   "owned_pct": 11.6,
+   "owned_change": -0.3,
    "outlook": ""
   },
   {
@@ -3219,8 +3219,8 @@
    "proj": 12.1,
    "last_week": null,
    "owned_pct": 11.2,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_change": -0.04,
+   "outlook": "Daniel Jones is staying put in Indianapolis after the trade deadline, though it's fair to wonder how long the 2-7 Colts will stick with the struggling veteran over younger options Anthony Richardson and Riley Leonard. Jones hasn't produced a multi-TD performance all season, and that drought seems unlikely to conclude in Week 10 against a Dolphins defense that has been better recently and just held Detroit's Jared Goff without a TD in Week 9. These two teams have combined for just three wins, so there are more draft implications than fantasy implications in this Week 10 matchup. Even in superflex and multi-QB formats, Jones is best avoided."
   },
   {
    "id": 3116389,
@@ -3231,20 +3231,20 @@
    "proj": 5.8,
    "last_week": null,
    "owned_pct": 10.7,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_change": -0.08,
+   "outlook": "Samaje Perine and the Bengals host the Steelers on Sunday Night Football in Week 10. He rushed 11 times for 43 yards and was not targeted during Cincinnati's 34-17 victory in Week 9. Perine played 42% of the offensive snaps compared to 62% for Chase Brown, although their workloads were much closer, with the latter out-touching the former 12-11. As it stands, with the Bengals torching opponents through the air, fantasy managers should find it difficult to trust either running back."
   },
   {
    "id": 3122840,
    "name": "Deshaun Watson",
    "pos": "QB",
    "team": "CLE",
-   "injury": "OUT",
-   "proj": 15.1,
+   "injury": "QUESTIONABLE",
+   "proj": 15.2,
    "last_week": null,
-   "owned_pct": 10.4,
-   "owned_change": -0.05,
-   "outlook": ""
+   "owned_pct": 10.3,
+   "owned_change": -0.06,
+   "outlook": "Deshaun Watson and the Browns welcome his former team to town when they host the Texans in Week 10. He was inactive for Cleveland's 23-22 overtime loss in Week 9 due to a concussion sustained in Week 8's loss. Shedeur Sanders earned his first start of the season, but Watson is healthy and expected to retain his role as the starting QB versus Houston. He'll battle a Texans defense allowing 21.8 fantasy points per game (25th) to the position."
   },
   {
    "id": 4596334,
@@ -3252,11 +3252,11 @@
    "pos": "RB",
    "team": "LAC",
    "injury": "ACTIVE",
-   "proj": 6.5,
+   "proj": 6.6,
    "last_week": null,
-   "owned_pct": 10.2,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_pct": 10.1,
+   "owned_change": -0.05,
+   "outlook": "Keaton Mitchell made a bit of noise as a pass catcher in the Chargers' Week 9 loss to the Texans, catching three of four targets for 34 yards while turning seven carries into 33 yards. He remains mired in a backfield committee, however, with Omarion Hampton gaining a team-high 60 rushing yards on 13 carries while Kimani Vidal chipped in 36 scrimmage yards on eight touches. There have been few signs that offensive coordinator Mike McDaniel will shift away from the arrangement, either due to individual performance or game script, which limits the ceiling of all three backs. Mitchell will try to take advantage of what opportunities he gets in Week 10 against a Ravens defense that ranks ninth in fantasy points per game allowed to RBs."
   },
   {
    "id": 4869461,
@@ -3264,23 +3264,11 @@
    "pos": "K",
    "team": "GB",
    "injury": "ACTIVE",
-   "proj": 8.4,
+   "proj": 8.5,
    "last_week": null,
    "owned_pct": 10.1,
    "owned_change": -0.02,
-   "outlook": ""
-  },
-  {
-   "id": 3043116,
-   "name": "Demarcus Robinson",
-   "pos": "WR",
-   "team": "SF",
-   "injury": "ACTIVE",
-   "proj": 7.7,
-   "last_week": null,
-   "owned_pct": 10.1,
-   "owned_change": 0.02,
-   "outlook": ""
+   "outlook": "Trey Smack will aim to stay on track as the Packers play the Vikings in Week 10. After a less-than-optimal start to the season, Smack reeled it in against the Patriots in Week 9, nailing all three field-goal attempts and four PATs. The rookie kicker has still made just five of his last nine field-goal tries, so he'll need to stay accurate against a Minnesota defense that he made three field goals against in Week 1."
   },
   {
    "id": 2573401,
@@ -3290,21 +3278,33 @@
    "injury": "ACTIVE",
    "proj": 7.1,
    "last_week": null,
-   "owned_pct": 10.1,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_pct": 10.0,
+   "owned_change": -0.07,
+   "outlook": "Tyler Higbee may need to ramp up his production for the Rams' passing game to be successful, beginning with a Week 10 matchup in Arizona. Higbee continued his recent trend of limited production this past Sunday against Washington, logging just one catch for 13 yards on five targets. He's recorded two or fewer receptions in three straight games, but Los Angeles may need Higbee to be more impactful after losing star WR Puka Nacua for what is likely to be multiple weeks due to a knee injury. The Cardinals rank 27th in the NFL with 10.4 fantasy points per game allowed to tight ends this season."
+  },
+  {
+   "id": 3043116,
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "team": "SF",
+   "injury": "ACTIVE",
+   "proj": 6.4,
+   "last_week": null,
+   "owned_pct": 9.8,
+   "owned_change": -0.39,
+   "outlook": "Demarcus Robinson could again be asked to step into a major role in San Francisco's receiving corps in Week 10 against the Cowboys. Robinson returned from IR for Week 9 and logged a 51 percent offensive snap share against Las Vegas, turning that into three catches for 22 yards on four targets. San Francisco was without top wideouts Mike Evans (Achilles) and Deebo Samuel (hamstring) for that contest, and if one or both wideouts are absent again versus Dallas, Robinson could be a key factor in the the team's receiving corps. He'll face a Dallas defense that ranks in the bottom half of the NFL in nearly every category versus wideouts, including 20th in yards per target (8.54)."
   },
   {
    "id": 4567156,
    "name": "Treylon Burks",
    "pos": "WR",
    "team": "WSH",
-   "injury": "OUT",
+   "injury": "QUESTIONABLE",
    "proj": 9.3,
    "last_week": null,
-   "owned_pct": 9.5,
-   "owned_change": -0.06,
-   "outlook": ""
+   "owned_pct": 9.4,
+   "owned_change": -0.11,
+   "outlook": "Treylon Burks did not play last game for the Commanders due to a foot injury. In his place, Van Jefferson was the surprise leading receiver, snagging a team-high 58 yards and a touchdown in the 20-13 loss to Washington. Even if Burks can return in Week 10, he will face a difficult test in the form of the New York Giants. New York is allowing just 177.8 passing yards per tilt, which is third in the NFL."
   },
   {
    "id": 4715355,
@@ -3314,8 +3314,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 9.5,
-   "owned_change": -0.04,
+   "owned_pct": 9.4,
+   "owned_change": -0.13,
    "outlook": ""
   },
   {
@@ -3326,9 +3326,9 @@
    "injury": "ACTIVE",
    "proj": 10.3,
    "last_week": null,
-   "owned_pct": 9.3,
-   "owned_change": 0.44,
-   "outlook": ""
+   "owned_pct": 9.4,
+   "owned_change": 0.21,
+   "outlook": "Audric Estime is expected to operate as the Saints' top rusher in the Week 10 matchup against the Panthers. Following the release of Kendre Miller prior to the Week 9 win over the Browns, Estime was New Orleans' leading rusher, taking 15 carries for 72 yards and a touchdown. He logged the most rushing yards of any player on the Saints in a single game this season, making his case to remain the team's top rusher, despite both CJ Donaldson (shoulder/concussion) and Travis Etienne (hamstring) returning from injuries in the near future. If Etienne remains sidelined, Estime projects to have another large role against a Panthers' defense that's allowed the second-most fantasy points per game to opposing RBs (27.6) this season."
   },
   {
    "id": 4360939,
@@ -3338,9 +3338,9 @@
    "injury": "ACTIVE",
    "proj": 5.5,
    "last_week": null,
-   "owned_pct": 9.3,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_pct": 9.2,
+   "owned_change": -0.07,
+   "outlook": "In Week 10, Rashod Bateman and the Ravens host a Chargers defense allowing 36.9 fantasy points per game (27th) to WRs. He caught one of two targets for six yards during Baltimore's Week 9 loss. Bateman now has one or fewer receptions in three of his last four outings, tallying a 4-55-0 line on 10 targets over that stretch. He'll have the recently acquired Jacoby Brissett starting under center, but Bateman should be left on fantasy benches until proven otherwise."
   },
   {
    "id": 2977187,
@@ -3351,8 +3351,8 @@
    "proj": 5.5,
    "last_week": null,
    "owned_pct": 9.1,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_change": -0.06,
+   "outlook": "Cooper Kupp continues to be quiet this season ahead of Seattle's Week 10 visit to Las Vegas. Kupp logged a 3-32-0 receiving line this past Sunday against Arizona despite Rashid Shaheed (knee) continuing to be sidelined. Kupp's four targets in the game were actually his third-most through nine games, emphasizing how little attention he's gotten from the Seahawks' quarterbacks this season. With that said, he at least has a good matchup coming up, as the Raiders have given up 11 receiving TDs to wideouts this season -- tied for second-most in the NFL."
   },
   {
    "id": -16024,
@@ -3360,10 +3360,10 @@
    "pos": "D/ST",
    "team": "LAC",
    "injury": "ACTIVE",
-   "proj": 4.9,
+   "proj": 4.8,
    "last_week": null,
    "owned_pct": 9.1,
-   "owned_change": -0.03,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3375,31 +3375,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 8.9,
-   "owned_change": -0.02,
-   "outlook": ""
-  },
-  {
-   "id": 4870847,
-   "name": "Ja'Kobi Lane",
-   "pos": "WR",
-   "team": "BAL",
-   "injury": "ACTIVE",
-   "proj": 5.6,
-   "last_week": null,
-   "owned_pct": 8.5,
    "owned_change": -0.05,
-   "outlook": ""
-  },
-  {
-   "id": -16029,
-   "name": "Panthers D/ST",
-   "pos": "D/ST",
-   "team": "CAR",
-   "injury": "ACTIVE",
-   "proj": 4.7,
-   "last_week": null,
-   "owned_pct": 8.5,
-   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -3411,20 +3387,32 @@
    "proj": 4.8,
    "last_week": null,
    "owned_pct": 8.4,
-   "owned_change": -0.03,
+   "owned_change": -0.04,
+   "outlook": "Jerry Jeudy and the Browns host the 3-5 Texans in Week 10. He caught two of four targets for 37 yards during Week 9's overtime loss to the Saints. Through nine contests this season, Jeudy has amassed a modest 18-208-0 line on 28 targets. He remains off the fantasy radar despite a favorable matchup versus a Houston defense allowing 38.5 fantasy points per game to opposing WRs, which ranks 30th."
+  },
+  {
+   "id": -16029,
+   "name": "Panthers D/ST",
+   "pos": "D/ST",
+   "team": "CAR",
+   "injury": "ACTIVE",
+   "proj": 4.7,
+   "last_week": null,
+   "owned_pct": 8.4,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
-   "id": 4808766,
-   "name": "Mason Taylor",
-   "pos": "TE",
-   "team": "NYJ",
+   "id": 4870847,
+   "name": "Ja'Kobi Lane",
+   "pos": "WR",
+   "team": "BAL",
    "injury": "ACTIVE",
-   "proj": 8.2,
+   "proj": 5.6,
    "last_week": null,
-   "owned_pct": 8.1,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_pct": 8.4,
+   "owned_change": -0.18,
+   "outlook": "Ja'Kobi Lane and the Ravens are at home to square off against the winless Chargers in Week 10. The rookie wideout was not targeted during Baltimore's 33-10 loss in Week 9, as the team attempted just 19 total passes. Lane is still firmly behind Zay Flowers and Rashod Bateman on the WR pecking order, but the Ravens are hoping the acquisition of Jacoby Brissett will provide a boost for the passing game overall. Still, Lane should remain on fantasy waiver wires until we know more about this offense."
   },
   {
    "id": 4568263,
@@ -3432,10 +3420,34 @@
    "pos": "K",
    "team": "CAR",
    "injury": "ACTIVE",
-   "proj": 7.6,
+   "proj": 7.7,
    "last_week": null,
-   "owned_pct": 8.1,
-   "owned_change": -0.03,
+   "owned_pct": 8.0,
+   "owned_change": -0.06,
+   "outlook": "Ryan Fitzgerald is expected to have plenty of scoring opportunities in the Panthers' Week 10 matchup against the Saints. Fitzgerald missed his first field goal of the season during the Week 9 loss to the Broncos but converted on all three extra points. Through eight games this year, Fitzgerald has made 13 of 14 field-goal attempts but just 16 of 21 point-after tries. He's expected to have lots of scoring chances against the Saints in Week 10, as New Orleans has allowed 8.8 kicking points per game this season."
+  },
+  {
+   "id": 4808766,
+   "name": "Mason Taylor",
+   "pos": "TE",
+   "team": "NYJ",
+   "injury": "ACTIVE",
+   "proj": 7.7,
+   "last_week": null,
+   "owned_pct": 8.0,
+   "owned_change": -0.13,
+   "outlook": "Mason Taylor is trending in the wrong direction ahead of the Jets' Week 10 matchup with the Bills. After a Week 7 flash, scoring twice on five receptions, Taylor has only four catches and 30 yards over the subsequent two weeks. While the Jets will likely throw at least 30 times in Week 10 for the sixth straight game, Buffalo has allowed only one tight end to score, which could limit Taylor's ceiling."
+  },
+  {
+   "id": 2973405,
+   "name": "Kalif Raymond",
+   "pos": "WR",
+   "team": "CHI",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 7.8,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3446,21 +3458,9 @@
    "injury": "QUESTIONABLE",
    "proj": 17.6,
    "last_week": null,
-   "owned_pct": 7.9,
-   "owned_change": 0.0,
-   "outlook": ""
-  },
-  {
-   "id": 2973405,
-   "name": "Kalif Raymond",
-   "pos": "WR",
-   "team": "CHI",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 7.9,
-   "owned_change": -0.03,
-   "outlook": ""
+   "owned_pct": 7.8,
+   "owned_change": -0.12,
+   "outlook": "Drew Lock  is expected to start for Seattle in Week 10 against Las Vegas despite managing an oblique injury. It will be the second straight start for Lock, as Sam Darnold is slated to sit out again due to a quad injury. Lock led the Seahawks to a win this past Sunday against the Cardinals but put up modest numbers, throwing for 175 yards and one touchdown with no interceptions. He'll have a good matchup against the Raiders, who have allowed a 103.6 QB rating to passers this season, fourth-worst in the NFL."
   },
   {
    "id": 2576925,
@@ -3471,8 +3471,8 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 7.7,
-   "owned_change": 0.0,
-   "outlook": ""
+   "owned_change": 0.05,
+   "outlook": "Darren Waller will look to continue building on his stellar performance in the Panthers' Week 10 matchup against the Saints. Waller is coming off his best game of the season in the Week 9 loss to the Broncos, catching eight of 10 targets for 90 yards and a touchdown. He's clearly established himself as Carolina's top receiving tight end, leading the team's TE corps in targets (34), receptions (23), yards (299) and touchdowns (four) through eight games. Additionally, Waller is in for a great Week 10 matchup against a New Orleans defense that's allowed 16.1 fantasy points per game to opposing TEs this year."
   },
   {
    "id": 4038441,
@@ -3480,11 +3480,11 @@
    "pos": "RB",
    "team": "BAL",
    "injury": "ACTIVE",
-   "proj": 7.3,
+   "proj": 7.4,
    "last_week": null,
    "owned_pct": 7.4,
-   "owned_change": 0.0,
-   "outlook": ""
+   "owned_change": 0.01,
+   "outlook": "Justice Hill and the Ravens host the winless Chargers on Monday Night Football in Week 10. He erupted for 85 yards on nine carries, including a 65-yard TD run, and caught all three of his targets for seven yards during Baltimore's Week 9 loss. With Jacoby Brissett expected to start under center, Hill and the Ravens' offense could start to become a bit more pass-friendly, but that's certainly no guarantee. He'll look to keep contributing against the Chargers' 21st-ranked defense in fantasy points allowed per game (22.8) to opposing RBs."
   },
   {
    "id": 2991662,
@@ -3496,31 +3496,7 @@
    "last_week": null,
    "owned_pct": 7.3,
    "owned_change": 0.01,
-   "outlook": ""
-  },
-  {
-   "id": 4426386,
-   "name": "Roschon Johnson",
-   "pos": "RB",
-   "team": "CHI",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 7.2,
-   "owned_change": -0.04,
-   "outlook": ""
-  },
-  {
-   "id": 2985659,
-   "name": "Wil Lutz",
-   "pos": "K",
-   "team": "DEN",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 7.2,
-   "owned_change": -0.06,
-   "outlook": ""
+   "outlook": "Mack Hollins' opportunities for the Patriots in Week 10 against the Lions appear unsettled with A.J. Brown (knee) potentially returning to action. Hollins returned from a four-week absence in Week 9, catching half of his six targets and finding the end zone for the first time all season. While Detroit's secondary has been picked on often and allows 8.0 yards per target, Hollins doesn't have a clear path to heavy volume, leading to big-play or touchdown dependency."
   },
   {
    "id": 4576297,
@@ -3532,6 +3508,30 @@
    "last_week": null,
    "owned_pct": 7.2,
    "owned_change": -0.03,
+   "outlook": "AJ Barner will look to build upon his two-touchdown game when Seattle visits Las Vegas in Week 10. Barner had one score through the air and another on the ground in a Week 9 win over Arizona.  Though his receiving output has remained modest, Barner has been getting more opportunities to carry the ball in short-yardage situations in recent weeks, as he's logged six carries over his past three games. He'll seek to get into the end zone against the Raiders, who have given up the second-most TDs (eight) to tight ends this season."
+  },
+  {
+   "id": 4426386,
+   "name": "Roschon Johnson",
+   "pos": "RB",
+   "team": "CHI",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 7.1,
+   "owned_change": -0.09,
+   "outlook": ""
+  },
+  {
+   "id": 2985659,
+   "name": "Wil Lutz",
+   "pos": "K",
+   "team": "DEN",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 7.1,
+   "owned_change": -0.17,
    "outlook": ""
   },
   {
@@ -3539,12 +3539,12 @@
    "name": "Bam Knight",
    "pos": "RB",
    "team": "ARI",
-   "injury": "OUT",
+   "injury": "QUESTIONABLE",
    "proj": 7.0,
    "last_week": null,
    "owned_pct": 7.0,
-   "owned_change": -0.04,
-   "outlook": ""
+   "owned_change": -0.07,
+   "outlook": "Bam Knight will look to clear concussion protocol in time to play in Arizona's Week 10 matchup against the Rams. Knight missed the team's Week 9 loss to Seattle after being concussed Week 8. If he's able to play against Los Angeles, Knight could have a prominent role in the backfield beside Tyler Allgeier, as Jeremiyah Love is on IR due to an ankle injury. However, the Cardinals' backfield as a whole faces a tough test against a Rams defense that is yielding just 3.55 yards per carry to running backs, fourth-best in the NFL."
   },
   {
    "id": 4682648,
@@ -3555,8 +3555,8 @@
    "proj": 9.4,
    "last_week": null,
    "owned_pct": 6.4,
-   "owned_change": -0.02,
-   "outlook": ""
+   "owned_change": -0.05,
+   "outlook": "Malachi Fields has at least five targets in each of the last three games for the Giants. Unfortunately, he has gained more than 40 yards receiving in just one of those three outings. In Week 10, he will look to take advantage of a porous Washington secondary. The Commanders are allowing 240 passing yards per clash, which is 30th in the league. In addition, Washington has surrendered 16 passing touchdowns, which is tied for 25th in the league."
   },
   {
    "id": 4431492,
@@ -3567,7 +3567,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 6.3,
-   "owned_change": -0.04,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -3576,11 +3576,11 @@
    "pos": "TE",
    "team": "MIA",
    "injury": "ACTIVE",
-   "proj": 7.8,
+   "proj": 8.0,
    "last_week": null,
-   "owned_pct": 5.7,
-   "owned_change": -0.08,
-   "outlook": ""
+   "owned_pct": 5.5,
+   "owned_change": -0.26,
+   "outlook": "Greg Dulcich will again have a favorable matchup when the Dolphins face the Colts in Week 10. He was presented with the best possible matchup in Week 9 against Detroit, but managed only 14 yards on four targets and remains without a touchdown reception on the season as Malik Willis has struggled under center. Indianapolis has allowed seven touchdowns to tight ends, including one in each of their last three games, but Dulcich has been held to 43 yards or fewer in six of eight outings, creating a low floor and limited ceiling despite the opponent's vulnerability."
   },
   {
    "id": 4586312,
@@ -3590,20 +3590,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 5.6,
-   "owned_change": -0.05,
-   "outlook": ""
-  },
-  {
-   "id": 4429013,
-   "name": "Tank Bigsby",
-   "pos": "RB",
-   "team": "PHI",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 5.4,
-   "owned_change": -0.03,
+   "owned_pct": 5.5,
+   "owned_change": -0.14,
    "outlook": ""
   },
   {
@@ -3614,8 +3602,20 @@
    "injury": "ACTIVE",
    "proj": 10.3,
    "last_week": null,
+   "owned_pct": 5.5,
+   "owned_change": 0.18,
+   "outlook": "Corey Kiner could be in line for a significant role for the Patriots in Week 10 against the Lions, with both Rhamondre Stevenson (knee) and TreVeyon Henderson (illness) uncertain to play. While Detroit is allowing the third-fewest fantasy points to opposing backs, volume remains king, and Kiner could serve as the No. 1 RB for Week 10 in Munich. Kiner figures to be a popular play in what could be a high-scoring game, despite Detroit allowing just 3.9 yards per carry."
+  },
+  {
+   "id": 4429013,
+   "name": "Tank Bigsby",
+   "pos": "RB",
+   "team": "PHI",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
+   "last_week": null,
    "owned_pct": 5.4,
-   "owned_change": 0.05,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3627,7 +3627,7 @@
    "proj": 2.9,
    "last_week": null,
    "owned_pct": 5.2,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3638,8 +3638,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 5.2,
-   "owned_change": -0.02,
+   "owned_pct": 5.1,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3650,9 +3650,9 @@
    "injury": "ACTIVE",
    "proj": 7.6,
    "last_week": null,
-   "owned_pct": 5.0,
-   "owned_change": -0.02,
-   "outlook": ""
+   "owned_pct": 4.9,
+   "owned_change": -0.08,
+   "outlook": "Jahan Dotson is expected to remain Atlanta's No. 2 wideout in the Week 10 matchup against the Chiefs. Dotson was ineffective during the Week 9 loss to the Bengals, catching both of his targets for 16 yards. Despite this, he tied his season-high in snap share, playing 85% of the Falcons' offensive snaps, which suggests he's firmly ahead of Olamide Zaccheaus in the team's receiving corps. Dotson will likely still struggle in Week 10 against a tough Kansas City secondary that's allowed just 6.5 yards per target to opposing wide receivers this year."
   },
   {
    "id": 10621,
@@ -3660,23 +3660,11 @@
    "pos": "K",
    "team": "ATL",
    "injury": "ACTIVE",
-   "proj": 7.1,
+   "proj": 7.2,
    "last_week": null,
    "owned_pct": 4.8,
-   "owned_change": -0.02,
-   "outlook": ""
-  },
-  {
-   "id": 2573079,
-   "name": "Carson Wentz",
-   "pos": "QB",
-   "team": "MIN",
-   "injury": "ACTIVE",
-   "proj": 11.6,
-   "last_week": null,
-   "owned_pct": 4.4,
-   "owned_change": 0.06,
-   "outlook": ""
+   "owned_change": -0.04,
+   "outlook": "Nick Folk likely won't have many scoring opportunities during the Falcons' Week 10 matchup against the Chiefs. Folk has struggled over the last two weeks, converting on just one of three field-goal tries while making both point-after attempts. On the season, he's made just 72% of his field-goal attempts (13 of 18) and 94% of his extra-points (17 of 18). Folk could have few scoring opportunities in Week 10, as the Falcons' offense as a whole has underperformed over the last two weeks, though Kansas City's defense has allowed 8.4 kicking points per game."
   },
   {
    "id": 4831959,
@@ -3684,11 +3672,11 @@
    "pos": "TE",
    "team": "NE",
    "injury": "ACTIVE",
-   "proj": 9.0,
+   "proj": 9.1,
    "last_week": null,
    "owned_pct": 4.3,
-   "owned_change": -0.02,
-   "outlook": ""
+   "owned_change": -0.04,
+   "outlook": "Eli Raridon is trending favorably ahead of the Patriots' Week 10 matchup against a Lions defense that struggles against tight ends. Raridon has collected at least four targets in three straight games, even with fellow tight end Hunter Henry healthy, and the Lions are allowing the most fantasy points per game to opposing tight ends. While still a secondary option in New England's passing game, Raridon can garner enough attention to be a viable option in a plus matchup."
   },
   {
    "id": 4430802,
@@ -3700,7 +3688,7 @@
    "last_week": null,
    "owned_pct": 4.3,
    "owned_change": -0.02,
-   "outlook": ""
+   "outlook": "In Week 10, Darnell Washington and the Steelers are on the road for a divisional clash against the Bengals. He caught three of five targets for 94 yards during Pittsburgh's 27-6 victory in Week 8. Washington led the team in yardage while finishing second in receptions and tied for second in targets. The 94 receiving yards marked a new season high, as he now boasts a 19-254-3 line on 28 targets through eight outings. Washington will attempt to take advantage of a Cincinnati defense allowing 15.5 fantasy points per game to TEs, which ranks 24th."
   },
   {
    "id": 4608810,
@@ -3710,19 +3698,7 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 4.2,
-   "owned_change": -0.03,
-   "outlook": ""
-  },
-  {
-   "id": 4360698,
-   "name": "Joe Milton",
-   "pos": "QB",
-   "team": "PHI",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 4.2,
+   "owned_pct": 4.1,
    "owned_change": -0.06,
    "outlook": ""
   },
@@ -3735,8 +3711,20 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 4.1,
-   "owned_change": -0.03,
+   "owned_change": -0.08,
    "outlook": ""
+  },
+  {
+   "id": 2573079,
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "team": "MIN",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 4.0,
+   "owned_change": -0.36,
+   "outlook": "Carson Wentz's role is unknown ahead of Week 10 as the Vikings play the Packers. Wentz got the start in a Week 9 clash versus the Bills with Kyler Murray out with a hamstring injury, and he delivered a horrible performance, completing 32 percent of passes for 81 yards and a 0:2 TD:INT before getting benched. The veteran quarterback did piece together some solid play earlier in the season when filling in for Murray earlier this season, but his showing against Buffalo is likely to keep him sidelined unless absolutely needed moving forward. Green Bay has ranked eighth in fantasy points allowed to QBs."
   },
   {
    "id": -16001,
@@ -3744,10 +3732,22 @@
    "pos": "D/ST",
    "team": "ATL",
    "injury": "ACTIVE",
-   "proj": 3.1,
+   "proj": 3.0,
    "last_week": null,
    "owned_pct": 4.0,
-   "owned_change": -0.04,
+   "owned_change": -0.07,
+   "outlook": ""
+  },
+  {
+   "id": 4360698,
+   "name": "Joe Milton",
+   "pos": "QB",
+   "team": "PHI",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 4.0,
+   "owned_change": -0.21,
    "outlook": ""
   },
   {
@@ -3759,8 +3759,8 @@
    "proj": 11.7,
    "last_week": null,
    "owned_pct": 4.0,
-   "owned_change": 0.03,
-   "outlook": ""
+   "owned_change": 0.01,
+   "outlook": "Cam Ward had his best game of the season in Tennessee's 43-36 Week 8 loss to the Bengals, prior to a Week 9 bye. He threw for 300 yards for the first time in his career and delivered a pair of touchdown passes for his first multi-TD performance through the air all season. Ward has a chance to build on that effort in Week 10 against a Jaguars defense that has been more vulnerable through the air than on the ground. The far larger sample of subpar football from the 2025 first overall pick prior to his strong outing last game suggests Ward remains tough to trust for now, even in superflex formats. The Jaguars are giving up the 11th-most passing yards per game, though they have more interceptions (11) than touchdown passes allowed (eight)."
   },
   {
    "id": 4258620,
@@ -3770,9 +3770,9 @@
    "injury": "ACTIVE",
    "proj": 9.5,
    "last_week": null,
-   "owned_pct": 4.0,
-   "owned_change": 0.0,
-   "outlook": ""
+   "owned_pct": 3.9,
+   "owned_change": -0.03,
+   "outlook": "In Week 10, Andre Szmyt and the Browns return home for the first time since Week 6 to host the 3-5 Texans. He made all three of his field goal attempts and his lone PAT during Cleveland's 23-22 overtime loss in Week 9. Szmyt has at least two FGAs in every outing since the season opener, providing a solid fantasy floor despite playing for one of the worst offenses in the league. He'll aim to have a repeat performance against the Steelers, when the 28-year-old went 5-for-5 on kicks, including a game-winning 56-yarder, back in Week 4."
   },
   {
    "id": -16013,
@@ -3783,7 +3783,7 @@
    "proj": 3.6,
    "last_week": null,
    "owned_pct": 3.9,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3795,7 +3795,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.8,
-   "owned_change": -0.03,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3807,7 +3807,7 @@
    "proj": 0.7,
    "last_week": null,
    "owned_pct": 3.8,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3816,7 +3816,7 @@
    "pos": "D/ST",
    "team": "TEN",
    "injury": "ACTIVE",
-   "proj": 2.5,
+   "proj": 2.4,
    "last_week": null,
    "owned_pct": 3.5,
    "owned_change": -0.04,
@@ -3828,11 +3828,11 @@
    "pos": "TE",
    "team": "LAR",
    "injury": "ACTIVE",
-   "proj": 7.5,
+   "proj": 7.4,
    "last_week": null,
    "owned_pct": 3.4,
-   "owned_change": -0.02,
-   "outlook": ""
+   "owned_change": -0.03,
+   "outlook": "Colby Parkinson could be a big part of the Rams' passing game in Week 10 against Arizona. Parkinson ranked second on Los Angeles with four catches against Washington this past Sunday, though he gained just 13 yards on those receptions. Still, the Rams are going to need some pass catchers to step up in the wake of a knee injury that is likely going to cause star wideout Puka Nacua to miss multiple games, and Parkinson has tallied at least four catches in each of the last three games in which he's played. The Cardinals have struggled against tight ends, giving up six receiving touchdowns, tied for sixth-most in the NFL."
   },
   {
    "id": 4382466,
@@ -3840,11 +3840,23 @@
    "pos": "WR",
    "team": "LV",
    "injury": "ACTIVE",
-   "proj": 6.9,
+   "proj": 6.2,
    "last_week": null,
    "owned_pct": 3.4,
-   "owned_change": -0.02,
-   "outlook": ""
+   "owned_change": -0.03,
+   "outlook": "Jalen Nailor remains an afterthought in the Raiders' passing attack, catching two of four targets for nine yards in a Week 9 loss to the 49ers. He does see fairly steady target volume, but aside from a 4-38-1 line in Week 8 against the Jets, Nailor has done little with his opportunities. The former Viking isn't likely to break out in Week 10 against a Seahawks secondary that ranks first in the league in fantasy points per game allowed to WRs."
+  },
+  {
+   "id": 3124679,
+   "name": "Jason Sanders",
+   "pos": "K",
+   "team": "NYJ",
+   "injury": "ACTIVE",
+   "proj": 9.9,
+   "last_week": null,
+   "owned_pct": 3.3,
+   "owned_change": 0.02,
+   "outlook": "Jason Sanders brings a high ceiling into the Jets' Week 10 game against the Bills. He has attempted at least four field goals in consecutive games and three of his last four, with the Jets' offense failing to convert drives into touchdowns, evident by just six PATs over this four-game stretch. Buffalo is allowing the eighth-fewest fantasy points to opposing kickers, and field goals aren't likely to help the Jets in Week 10, but Sanders' recent run of scoring puts him in the streaming mix."
   },
   {
    "id": 3895856,
@@ -3854,20 +3866,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 3.4,
-   "owned_change": -0.06,
-   "outlook": ""
-  },
-  {
-   "id": 3124679,
-   "name": "Jason Sanders",
-   "pos": "K",
-   "team": "NYJ",
-   "injury": "ACTIVE",
-   "proj": 10.2,
-   "last_week": null,
-   "owned_pct": 3.3,
-   "owned_change": 0.0,
+   "owned_pct": 3.2,
+   "owned_change": -0.15,
    "outlook": ""
   },
   {
@@ -3879,7 +3879,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.2,
-   "owned_change": -0.01,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3890,20 +3890,20 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 3.2,
-   "owned_change": -0.01,
+   "owned_pct": 3.1,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
-   "id": 4038524,
-   "name": "Gardner Minshew II",
+   "id": 4837248,
+   "name": "Fernando Mendoza",
    "pos": "QB",
-   "team": "ARI",
-   "injury": "DOUBTFUL",
-   "proj": 0.0,
+   "team": "LV",
+   "injury": "ACTIVE",
+   "proj": 13.5,
    "last_week": null,
-   "owned_pct": 3.0,
-   "owned_change": -0.08,
+   "owned_pct": 2.9,
+   "owned_change": 0.04,
    "outlook": ""
   },
   {
@@ -3915,19 +3915,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.01,
-   "outlook": ""
-  },
-  {
-   "id": 4837248,
-   "name": "Fernando Mendoza",
-   "pos": "QB",
-   "team": "LV",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 2.9,
-   "owned_change": -0.01,
+   "owned_change": -0.08,
    "outlook": ""
   },
   {
@@ -3940,7 +3928,19 @@
    "last_week": null,
    "owned_pct": 2.8,
    "owned_change": -0.01,
-   "outlook": ""
+   "outlook": "Kayshon Boutte had four catches for 125 yards and two TDs in Week 9 against the Chargers, recording his best game in a Texans uniform. Prior to that outburst, Boutte was averaging under 28 receiving yards per game and hadn't scored a TD all season. He demonstrated that his ceiling is high enough to warrant a dart throw if you're desperate, but Boutte's likely to regress in Week 10 against the Browns since playing time remains hard to come by in a Texans WR room that also includes Nico Collins, Tank Dell, Xavier Hutchinson and Marvin Harrison. Boutte's breakout game against the Chargers came on just a 33% snap share."
+  },
+  {
+   "id": 4038524,
+   "name": "Gardner Minshew II",
+   "pos": "QB",
+   "team": "ARI",
+   "injury": "DOUBTFUL",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 2.8,
+   "owned_change": -0.31,
+   "outlook": "Gardner Minshew is expected to miss Arizona's Week 10 clash against the Rams due to an elbow injury. As a result, rookie Carson Beck is expected to take over as the Cardinals' starting quarterback."
   }
  ],
  "transactions": []
