@@ -1,5 +1,16 @@
 {
- "at": "2026-11-15T00:00:30+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-11-15T06:54:09+00:00",
+ "events": [
+  "Madenspacher added Jason Sanders",
+  "Madenspacher added Xavier Hutchinson",
+  "Madenspacher added Drew Lock",
+  "Madenspacher added Mack Hollins",
+  "Madenspacher added Colts D/ST",
+  "Madenspacher dropped Kyler Murray",
+  "Madenspacher dropped Tyler Loop",
+  "Madenspacher dropped Efton Chism III",
+  "Madenspacher dropped Jalen McMillan",
+  "Madenspacher dropped Isiah Pacheco"
+ ],
+ "relevant": true
 }
