@@ -1,5 +1,10 @@
 {
- "at": "2026-11-25T00:57:25+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-11-25T14:44:14+00:00",
+ "events": [
+  "ranel added Kyren Williams",
+  "ranel added Commanders D/ST",
+  "ranel dropped Rico Dowdle",
+  "ranel dropped Dallas Goedert"
+ ],
+ "relevant": true
 }

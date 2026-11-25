@@ -1,5 +1,10 @@
 {
- "at": "2026-11-25T00:57:25+00:00",
- "events": [],
- "relevant": false
+ "at": "2026-11-25T14:44:13+00:00",
+ "events": [
+  "San Francico Jets added Giants D/ST",
+  "San Francico Jets dropped Dalton Schultz",
+  "Mr. Chow added Deshaun Watson",
+  "Mr. Chow dropped Cameron Dicker"
+ ],
+ "relevant": true
 }
