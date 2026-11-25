@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T15:03:39+00:00",
+ "fetched_at": "2026-11-25T00:16:48+00:00",
  "key": "premier",
  "label": "Premier League",
  "platform": "espn",
@@ -19,9 +19,9 @@
  "my_team_id": 12,
  "opponent_id": 5,
  "projection": {
-  "me": 119.8,
-  "opponent": 115.7,
-  "my_win_prob": 0.52
+  "me": 119.9,
+  "opponent": 120.8,
+  "my_win_prob": 0.5
  },
  "teams": [
   {
@@ -42,10 +42,10 @@
      "pos": "WR",
      "team": "CIN",
      "injury": "ACTIVE",
-     "proj": 25.9,
+     "proj": 25.1,
      "last_week": 8.1,
      "owned_pct": 99.7,
-     "owned_change": -0.2,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "WR"
     },
@@ -58,7 +58,7 @@
      "proj": 14.5,
      "last_week": 19.1,
      "owned_pct": 99.5,
-     "owned_change": -0.09,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "RB"
     },
@@ -71,7 +71,7 @@
      "proj": 10.5,
      "last_week": 11.9,
      "owned_pct": 96.7,
-     "owned_change": -0.11,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "TE"
     },
@@ -81,7 +81,7 @@
      "pos": "WR",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 12.9,
+     "proj": 12.4,
      "last_week": 23.1,
      "owned_pct": 93.8,
      "owned_change": -0.07,
@@ -96,8 +96,8 @@
      "injury": "ACTIVE",
      "proj": 8.7,
      "last_week": 7.4,
-     "owned_pct": 69.2,
-     "owned_change": -0.11,
+     "owned_pct": 69.1,
+     "owned_change": -0.23,
      "outlook": "",
      "slot": "BN"
     },
@@ -110,7 +110,7 @@
      "proj": 10.3,
      "last_week": 11.3,
      "owned_pct": 81.4,
-     "owned_change": -0.08,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "BN"
     },
@@ -122,8 +122,8 @@
      "injury": "ACTIVE",
      "proj": 5.1,
      "last_week": 6.0,
-     "owned_pct": 15.2,
-     "owned_change": -0.03,
+     "owned_pct": 15.1,
+     "owned_change": -0.05,
      "outlook": "",
      "slot": "BN"
     },
@@ -148,8 +148,8 @@
      "injury": "ACTIVE",
      "proj": 8.2,
      "last_week": 9.4,
-     "owned_pct": 67.6,
-     "owned_change": -0.09,
+     "owned_pct": 67.5,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "BN"
     },
@@ -162,7 +162,7 @@
      "proj": 8.5,
      "last_week": 7.1,
      "owned_pct": 31.3,
-     "owned_change": -0.07,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -174,8 +174,8 @@
      "injury": "ACTIVE",
      "proj": 16.9,
      "last_week": 20.4,
-     "owned_pct": 87.9,
-     "owned_change": -0.1,
+     "owned_pct": 87.8,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "BN"
     },
@@ -187,8 +187,8 @@
      "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 89.9,
-     "owned_change": -0.12,
+     "owned_pct": 89.8,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "IR"
     },
@@ -200,8 +200,8 @@
      "injury": "ACTIVE",
      "proj": 3.7,
      "last_week": 15.0,
-     "owned_pct": 66.4,
-     "owned_change": -0.24,
+     "owned_pct": 66.1,
+     "owned_change": -0.54,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -211,10 +211,10 @@
      "pos": "K",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 11.3,
+     "proj": 10.3,
      "last_week": 17.0,
-     "owned_pct": 86.0,
-     "owned_change": -0.06,
+     "owned_pct": 85.9,
+     "owned_change": -0.07,
      "outlook": "",
      "slot": "K"
     },
@@ -224,10 +224,10 @@
      "pos": "RB",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 7.7,
+     "proj": 7.5,
      "last_week": 24.3,
-     "owned_pct": 91.0,
-     "owned_change": -0.08,
+     "owned_pct": 90.9,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "RB"
     },
@@ -237,10 +237,10 @@
      "pos": "D/ST",
      "team": "LAR",
      "injury": "ACTIVE",
-     "proj": 7.8,
+     "proj": 7.7,
      "last_week": null,
-     "owned_pct": 71.4,
-     "owned_change": -0.17,
+     "owned_pct": 71.3,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "BN"
     },
@@ -252,8 +252,8 @@
      "injury": "ACTIVE",
      "proj": 6.8,
      "last_week": 5.7,
-     "owned_pct": 18.9,
-     "owned_change": -0.34,
+     "owned_pct": 18.4,
+     "owned_change": -0.79,
      "outlook": "",
      "slot": "BN"
     }
@@ -279,8 +279,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 84.2,
-     "owned_change": -1.44,
+     "owned_pct": 83.1,
+     "owned_change": -2.19,
      "outlook": "",
      "slot": "IR"
     },
@@ -293,7 +293,7 @@
      "proj": 15.1,
      "last_week": 0.0,
      "owned_pct": 99.6,
-     "owned_change": -0.19,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "BN"
     },
@@ -331,8 +331,8 @@
      "injury": "ACTIVE",
      "proj": 11.8,
      "last_week": 13.8,
-     "owned_pct": 85.7,
-     "owned_change": -0.12,
+     "owned_pct": 85.6,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "WR"
     },
@@ -344,8 +344,8 @@
      "injury": "ACTIVE",
      "proj": 16.0,
      "last_week": 14.3,
-     "owned_pct": 91.0,
-     "owned_change": -0.13,
+     "owned_pct": 90.9,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "QB"
     },
@@ -357,8 +357,8 @@
      "injury": "ACTIVE",
      "proj": 14.3,
      "last_week": 11.0,
-     "owned_pct": 93.2,
-     "owned_change": -0.16,
+     "owned_pct": 93.1,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "RB"
     },
@@ -370,8 +370,8 @@
      "injury": "ACTIVE",
      "proj": 7.8,
      "last_week": 1.8,
-     "owned_pct": 76.4,
-     "owned_change": -0.16,
+     "owned_pct": 76.2,
+     "owned_change": -0.35,
      "outlook": "",
      "slot": "BN"
     },
@@ -380,11 +380,11 @@
      "name": "J.K. Dobbins",
      "pos": "RB",
      "team": "DEN",
-     "injury": "ACTIVE",
+     "injury": "OUT",
      "proj": 3.4,
      "last_week": 0.0,
-     "owned_pct": 63.3,
-     "owned_change": -0.21,
+     "owned_pct": 62.5,
+     "owned_change": -0.92,
      "outlook": "",
      "slot": "BN"
     },
@@ -397,7 +397,7 @@
      "proj": 0.0,
      "last_week": null,
      "owned_pct": 38.0,
-     "owned_change": -0.09,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "BN"
     },
@@ -409,8 +409,8 @@
      "injury": "ACTIVE",
      "proj": 6.2,
      "last_week": 12.0,
-     "owned_pct": 85.5,
-     "owned_change": -0.09,
+     "owned_pct": 85.4,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -420,10 +420,10 @@
      "pos": "RB",
      "team": "MIA",
      "injury": "ACTIVE",
-     "proj": 13.9,
+     "proj": 14.0,
      "last_week": 8.7,
      "owned_pct": 89.6,
-     "owned_change": -0.15,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -433,10 +433,10 @@
      "pos": "D/ST",
      "team": "IND",
      "injury": "ACTIVE",
-     "proj": 5.2,
+     "proj": 5.1,
      "last_week": 2.0,
      "owned_pct": 11.3,
-     "owned_change": -0.04,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -461,8 +461,8 @@
      "injury": "ACTIVE",
      "proj": 8.8,
      "last_week": 3.3,
-     "owned_pct": 46.3,
-     "owned_change": -0.38,
+     "owned_pct": 45.8,
+     "owned_change": -0.87,
      "outlook": "",
      "slot": "BN"
     },
@@ -474,8 +474,8 @@
      "injury": "ACTIVE",
      "proj": 7.3,
      "last_week": 1.8,
-     "owned_pct": 4.6,
-     "owned_change": -0.07,
+     "owned_pct": 4.5,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -487,8 +487,8 @@
      "injury": "ACTIVE",
      "proj": 6.1,
      "last_week": 4.5,
-     "owned_pct": 5.3,
-     "owned_change": -0.05,
+     "owned_pct": 5.2,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "TE"
     }
@@ -527,8 +527,8 @@
      "injury": "ACTIVE",
      "proj": 13.8,
      "last_week": 19.0,
-     "owned_pct": 95.6,
-     "owned_change": -0.08,
+     "owned_pct": 95.5,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "RB"
     },
@@ -540,8 +540,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 90.3,
-     "owned_change": -0.11,
+     "owned_pct": 90.2,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "IR"
     },
@@ -554,7 +554,7 @@
      "proj": 11.1,
      "last_week": null,
      "owned_pct": 88.9,
-     "owned_change": -0.14,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "BN"
     },
@@ -593,7 +593,7 @@
      "proj": 9.8,
      "last_week": 6.0,
      "owned_pct": 89.0,
-     "owned_change": -0.15,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "K"
     },
@@ -605,8 +605,8 @@
      "injury": "ACTIVE",
      "proj": 6.2,
      "last_week": 2.5,
-     "owned_pct": 37.9,
-     "owned_change": -0.08,
+     "owned_pct": 37.8,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "BN"
     },
@@ -618,8 +618,8 @@
      "injury": "ACTIVE",
      "proj": 7.8,
      "last_week": 7.0,
-     "owned_pct": 51.4,
-     "owned_change": -0.12,
+     "owned_pct": 51.3,
+     "owned_change": -0.22,
      "outlook": "",
      "slot": "BN"
     },
@@ -629,10 +629,10 @@
      "pos": "WR",
      "team": "NO",
      "injury": "ACTIVE",
-     "proj": 14.4,
+     "proj": 14.5,
      "last_week": 19.2,
      "owned_pct": 99.1,
-     "owned_change": -0.09,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "WR"
     },
@@ -645,7 +645,7 @@
      "proj": 14.8,
      "last_week": 4.9,
      "owned_pct": 96.1,
-     "owned_change": -0.2,
+     "owned_change": -0.22,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -657,8 +657,8 @@
      "injury": "QUESTIONABLE",
      "proj": 9.0,
      "last_week": 0.0,
-     "owned_pct": 39.3,
-     "owned_change": -0.11,
+     "owned_pct": 39.2,
+     "owned_change": -0.24,
      "outlook": "",
      "slot": "BN"
     },
@@ -671,7 +671,7 @@
      "proj": 14.1,
      "last_week": 6.9,
      "owned_pct": 97.7,
-     "owned_change": -0.17,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "WR"
     },
@@ -683,8 +683,8 @@
      "injury": "ACTIVE",
      "proj": 10.6,
      "last_week": 5.0,
-     "owned_pct": 36.3,
-     "owned_change": -0.08,
+     "owned_pct": 36.2,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "BN"
     },
@@ -696,8 +696,8 @@
      "injury": "ACTIVE",
      "proj": 7.0,
      "last_week": 4.2,
-     "owned_pct": 17.6,
-     "owned_change": -0.04,
+     "owned_pct": 17.5,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "BN"
     },
@@ -709,8 +709,8 @@
      "injury": "ACTIVE",
      "proj": 7.7,
      "last_week": 2.1,
-     "owned_pct": 31.9,
-     "owned_change": -0.17,
+     "owned_pct": 31.7,
+     "owned_change": -0.38,
      "outlook": "",
      "slot": "TE"
     },
@@ -722,8 +722,8 @@
      "injury": "ACTIVE",
      "proj": 7.5,
      "last_week": 1.0,
-     "owned_pct": 17.6,
-     "owned_change": -0.09,
+     "owned_pct": 17.5,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -752,7 +752,7 @@
      "owned_pct": 99.7,
      "owned_change": -0.19,
      "outlook": "",
-     "slot": "BN"
+     "slot": "WR"
     },
     {
      "id": 4596448,
@@ -776,7 +776,7 @@
      "proj": 13.0,
      "last_week": 3.3,
      "owned_pct": 94.5,
-     "owned_change": -0.21,
+     "owned_change": -0.23,
      "outlook": "",
      "slot": "WR"
     },
@@ -786,10 +786,10 @@
      "pos": "WR",
      "team": "DEN",
      "injury": "ACTIVE",
-     "proj": 7.9,
+     "proj": 8.0,
      "last_week": 0.0,
-     "owned_pct": 67.1,
-     "owned_change": -0.3,
+     "owned_pct": 66.8,
+     "owned_change": -0.66,
      "outlook": "",
      "slot": "BN"
     },
@@ -815,7 +815,7 @@
      "proj": 4.2,
      "last_week": 0.0,
      "owned_pct": 31.3,
-     "owned_change": -0.02,
+     "owned_change": -0.08,
      "outlook": "",
      "slot": "IR"
     },
@@ -825,10 +825,10 @@
      "pos": "TE",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 11.9,
+     "proj": 11.5,
      "last_week": 25.4,
      "owned_pct": 94.3,
-     "owned_change": -0.05,
+     "owned_change": -0.06,
      "outlook": "",
      "slot": "TE"
     },
@@ -841,9 +841,9 @@
      "proj": 10.9,
      "last_week": 7.7,
      "owned_pct": 83.3,
-     "owned_change": -0.13,
+     "owned_change": -0.16,
      "outlook": "",
-     "slot": "FLEX"
+     "slot": "BN"
     },
     {
      "id": 4360689,
@@ -851,10 +851,10 @@
      "pos": "QB",
      "team": "NO",
      "injury": "ACTIVE",
-     "proj": 14.2,
+     "proj": 14.5,
      "last_week": 14.3,
-     "owned_pct": 63.2,
-     "owned_change": -0.13,
+     "owned_pct": 63.1,
+     "owned_change": -0.22,
      "outlook": "",
      "slot": "QB"
     },
@@ -867,7 +867,7 @@
      "proj": 5.3,
      "last_week": null,
      "owned_pct": 26.6,
-     "owned_change": -0.06,
+     "owned_change": -0.08,
      "outlook": "",
      "slot": "BN"
     },
@@ -880,7 +880,7 @@
      "proj": 7.5,
      "last_week": 9.0,
      "owned_pct": 44.1,
-     "owned_change": -0.09,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "BN"
     },
@@ -892,8 +892,8 @@
      "injury": "ACTIVE",
      "proj": 7.3,
      "last_week": 1.3,
-     "owned_pct": 44.3,
-     "owned_change": -0.12,
+     "owned_pct": 44.2,
+     "owned_change": -0.27,
      "outlook": "",
      "slot": "BN"
     },
@@ -903,10 +903,10 @@
      "pos": "RB",
      "team": "CIN",
      "injury": "ACTIVE",
-     "proj": 16.7,
+     "proj": 16.2,
      "last_week": 8.6,
      "owned_pct": 98.5,
-     "owned_change": -0.16,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "RB"
     },
@@ -918,8 +918,8 @@
      "injury": "ACTIVE",
      "proj": 15.5,
      "last_week": 19.4,
-     "owned_pct": 16.2,
-     "owned_change": -0.03,
+     "owned_pct": 16.1,
+     "owned_change": -0.05,
      "outlook": "",
      "slot": "BN"
     },
@@ -931,8 +931,8 @@
      "injury": "ACTIVE",
      "proj": 8.9,
      "last_week": 3.0,
-     "owned_pct": 15.7,
-     "owned_change": 0.13,
+     "owned_pct": 15.8,
+     "owned_change": 0.15,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -945,9 +945,9 @@
      "proj": 12.4,
      "last_week": 12.5,
      "owned_pct": 73.9,
-     "owned_change": -0.07,
+     "owned_change": -0.08,
      "outlook": "",
-     "slot": "WR"
+     "slot": "FLEX"
     },
     {
      "id": 2985659,
@@ -958,7 +958,7 @@
      "proj": 7.8,
      "last_week": 8.0,
      "owned_pct": 16.0,
-     "owned_change": -0.04,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "K"
     }
@@ -997,8 +997,8 @@
      "injury": "DOUBTFUL",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 82.9,
-     "owned_change": -0.23,
+     "owned_pct": 82.8,
+     "owned_change": -0.33,
      "outlook": "",
      "slot": "BN"
     },
@@ -1011,7 +1011,7 @@
      "proj": 13.4,
      "last_week": 19.1,
      "owned_pct": 98.1,
-     "owned_change": -0.09,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "WR"
     },
@@ -1024,9 +1024,9 @@
      "proj": 10.9,
      "last_week": 8.5,
      "owned_pct": 87.6,
-     "owned_change": -0.14,
+     "owned_change": -0.17,
      "outlook": "",
-     "slot": "WR"
+     "slot": "BN"
     },
     {
      "id": 3916387,
@@ -1036,10 +1036,10 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 75.2,
-     "owned_change": -0.08,
+     "owned_pct": 75.1,
+     "owned_change": -0.17,
      "outlook": "",
-     "slot": "BN"
+     "slot": "IR"
     },
     {
      "id": 4241416,
@@ -1060,12 +1060,12 @@
      "pos": "RB",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 8.4,
+     "proj": 11.4,
      "last_week": 15.7,
      "owned_pct": 45.5,
-     "owned_change": 0.13,
+     "owned_change": 0.03,
      "outlook": "",
-     "slot": "IR"
+     "slot": "FLEX"
     },
     {
      "id": 3116365,
@@ -1075,10 +1075,10 @@
      "injury": "ACTIVE",
      "proj": 6.8,
      "last_week": 3.4,
-     "owned_pct": 64.1,
-     "owned_change": -0.35,
+     "owned_pct": 63.7,
+     "owned_change": -0.74,
      "outlook": "",
-     "slot": "TE"
+     "slot": "BN"
     },
     {
      "id": 4683062,
@@ -1086,10 +1086,10 @@
      "pos": "WR",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 6.2,
+     "proj": 5.9,
      "last_week": 11.8,
      "owned_pct": 56.8,
-     "owned_change": -0.06,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "BN"
     },
@@ -1101,8 +1101,8 @@
      "injury": "ACTIVE",
      "proj": 7.3,
      "last_week": 15.0,
-     "owned_pct": 91.4,
-     "owned_change": -0.08,
+     "owned_pct": 91.3,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1114,8 +1114,8 @@
      "injury": "ACTIVE",
      "proj": 14.2,
      "last_week": 16.0,
-     "owned_pct": 76.8,
-     "owned_change": -0.16,
+     "owned_pct": 76.7,
+     "owned_change": -0.27,
      "outlook": "",
      "slot": "QB"
     },
@@ -1128,7 +1128,7 @@
      "proj": 11.0,
      "last_week": 3.0,
      "owned_pct": 90.5,
-     "owned_change": -0.19,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "K"
     },
@@ -1140,8 +1140,8 @@
      "injury": "ACTIVE",
      "proj": 9.2,
      "last_week": 9.9,
-     "owned_pct": 59.8,
-     "owned_change": -0.05,
+     "owned_pct": 59.7,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "BN"
     },
@@ -1151,12 +1151,12 @@
      "pos": "WR",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 9.6,
+     "proj": 11.5,
      "last_week": 21.2,
-     "owned_pct": 22.0,
-     "owned_change": 0.19,
+     "owned_pct": 22.1,
+     "owned_change": 0.16,
      "outlook": "",
-     "slot": "FLEX"
+     "slot": "WR"
     },
     {
      "id": 4360635,
@@ -1164,25 +1164,12 @@
      "pos": "TE",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 10.1,
+     "proj": 9.4,
      "last_week": 10.6,
-     "owned_pct": 60.9,
-     "owned_change": -0.08,
+     "owned_pct": 60.8,
+     "owned_change": -0.29,
      "outlook": "",
-     "slot": "BN"
-    },
-    {
-     "id": 4569682,
-     "name": "Audric Estime",
-     "pos": "RB",
-     "team": "NO",
-     "injury": "ACTIVE",
-     "proj": 0.0,
-     "last_week": 0.0,
-     "owned_pct": 20.3,
-     "owned_change": -0.2,
-     "outlook": "",
-     "slot": "BN"
+     "slot": "TE"
     },
     {
      "id": 4686612,
@@ -1193,7 +1180,7 @@
      "proj": 6.8,
      "last_week": 4.8,
      "owned_pct": 4.5,
-     "owned_change": -0.06,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "BN"
     }
@@ -1219,8 +1206,8 @@
      "injury": "ACTIVE",
      "proj": 14.0,
      "last_week": 6.7,
-     "owned_pct": 99.7,
-     "owned_change": -0.19,
+     "owned_pct": 99.6,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "RB"
     },
@@ -1230,7 +1217,7 @@
      "pos": "TE",
      "team": "ARI",
      "injury": "ACTIVE",
-     "proj": 14.7,
+     "proj": 14.6,
      "last_week": 14.8,
      "owned_pct": 99.8,
      "owned_change": -0.12,
@@ -1246,7 +1233,7 @@
      "proj": 18.6,
      "last_week": 8.3,
      "owned_pct": 95.5,
-     "owned_change": -0.17,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "RB"
     },
@@ -1258,8 +1245,8 @@
      "injury": "ACTIVE",
      "proj": 15.3,
      "last_week": null,
-     "owned_pct": 83.5,
-     "owned_change": -0.13,
+     "owned_pct": 83.4,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -1269,7 +1256,7 @@
      "pos": "WR",
      "team": "JAX",
      "injury": "ACTIVE",
-     "proj": 17.7,
+     "proj": 17.8,
      "last_week": 18.3,
      "owned_pct": 96.9,
      "owned_change": -0.1,
@@ -1285,7 +1272,7 @@
      "proj": 10.4,
      "last_week": 10.0,
      "owned_pct": 98.4,
-     "owned_change": -0.11,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "K"
     },
@@ -1297,8 +1284,8 @@
      "injury": "ACTIVE",
      "proj": 9.0,
      "last_week": 8.7,
-     "owned_pct": 76.9,
-     "owned_change": -0.14,
+     "owned_pct": 76.8,
+     "owned_change": -0.25,
      "outlook": "",
      "slot": "BN"
     },
@@ -1311,7 +1298,7 @@
      "proj": 15.0,
      "last_week": 23.8,
      "owned_pct": 99.0,
-     "owned_change": -0.07,
+     "owned_change": -0.08,
      "outlook": "",
      "slot": "WR"
     },
@@ -1323,8 +1310,8 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": 1.8,
-     "owned_pct": 17.8,
-     "owned_change": -0.47,
+     "owned_pct": 16.8,
+     "owned_change": -1.47,
      "outlook": "",
      "slot": "BN"
     },
@@ -1337,7 +1324,7 @@
      "proj": 6.6,
      "last_week": 5.1,
      "owned_pct": 16.8,
-     "owned_change": -0.01,
+     "owned_change": -0.02,
      "outlook": "",
      "slot": "BN"
     },
@@ -1347,10 +1334,10 @@
      "pos": "D/ST",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 3.4,
+     "proj": 3.7,
      "last_week": 10.0,
-     "owned_pct": 80.8,
-     "owned_change": -0.48,
+     "owned_pct": 80.1,
+     "owned_change": -1.11,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1360,10 +1347,10 @@
      "pos": "D/ST",
      "team": "GB",
      "injury": "ACTIVE",
-     "proj": 4.4,
+     "proj": 4.3,
      "last_week": null,
-     "owned_pct": 25.7,
-     "owned_change": -0.09,
+     "owned_pct": 25.6,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "BN"
     },
@@ -1376,7 +1363,7 @@
      "proj": 5.9,
      "last_week": 5.2,
      "owned_pct": 6.8,
-     "owned_change": -0.03,
+     "owned_change": -0.07,
      "outlook": "",
      "slot": "BN"
     },
@@ -1388,8 +1375,8 @@
      "injury": "ACTIVE",
      "proj": 12.0,
      "last_week": 22.2,
-     "owned_pct": 37.0,
-     "owned_change": -0.26,
+     "owned_pct": 36.6,
+     "owned_change": -0.65,
      "outlook": "",
      "slot": "QB"
     },
@@ -1399,10 +1386,10 @@
      "pos": "RB",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 14.5,
+     "proj": 14.2,
      "last_week": 17.2,
      "owned_pct": 99.8,
-     "owned_change": -0.11,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "FLEX"
     }
@@ -1439,7 +1426,7 @@
      "pos": "RB",
      "team": "KC",
      "injury": "QUESTIONABLE",
-     "proj": 22.0,
+     "proj": 21.4,
      "last_week": 0.0,
      "owned_pct": 99.7,
      "owned_change": -0.15,
@@ -1452,10 +1439,10 @@
      "pos": "RB",
      "team": "NO",
      "injury": "ACTIVE",
-     "proj": 11.7,
+     "proj": 12.0,
      "last_week": 7.6,
      "owned_pct": 85.5,
-     "owned_change": -0.11,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "RB"
     },
@@ -1465,10 +1452,10 @@
      "pos": "WR",
      "team": "DEN",
      "injury": "ACTIVE",
-     "proj": 10.1,
+     "proj": 10.2,
      "last_week": 9.1,
-     "owned_pct": 85.6,
-     "owned_change": -0.12,
+     "owned_pct": 85.5,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -1478,10 +1465,10 @@
      "pos": "QB",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 22.5,
+     "proj": 22.0,
      "last_week": 17.1,
      "owned_pct": 94.8,
-     "owned_change": -0.11,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "QB"
     },
@@ -1506,8 +1493,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 4.5,
      "last_week": 0.0,
-     "owned_pct": 37.1,
-     "owned_change": -0.03,
+     "owned_pct": 37.0,
+     "owned_change": -0.08,
      "outlook": "",
      "slot": "BN"
     },
@@ -1520,7 +1507,7 @@
      "proj": 18.8,
      "last_week": 22.2,
      "owned_pct": 98.5,
-     "owned_change": -0.12,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "BN"
     },
@@ -1529,11 +1516,11 @@
      "name": "Dallas Goedert",
      "pos": "TE",
      "team": "PHI",
-     "injury": "QUESTIONABLE",
+     "injury": "ACTIVE",
      "proj": 8.3,
      "last_week": 4.8,
-     "owned_pct": 74.6,
-     "owned_change": -0.15,
+     "owned_pct": 74.4,
+     "owned_change": -0.27,
      "outlook": "",
      "slot": "BN"
     },
@@ -1546,7 +1533,7 @@
      "proj": 4.4,
      "last_week": null,
      "owned_pct": 86.7,
-     "owned_change": -0.17,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -1558,8 +1545,8 @@
      "injury": "ACTIVE",
      "proj": 9.6,
      "last_week": 1.0,
-     "owned_pct": 84.6,
-     "owned_change": -0.32,
+     "owned_pct": 84.3,
+     "owned_change": -0.55,
      "outlook": "",
      "slot": "K"
     },
@@ -1569,10 +1556,10 @@
      "pos": "RB",
      "team": "ARI",
      "injury": "ACTIVE",
-     "proj": 8.7,
+     "proj": 8.5,
      "last_week": 2.3,
-     "owned_pct": 54.9,
-     "owned_change": -0.13,
+     "owned_pct": 54.7,
+     "owned_change": -0.3,
      "outlook": "",
      "slot": "BN"
     },
@@ -1584,8 +1571,8 @@
      "injury": "ACTIVE",
      "proj": 10.2,
      "last_week": 5.0,
-     "owned_pct": 48.1,
-     "owned_change": -0.17,
+     "owned_pct": 47.9,
+     "owned_change": -0.34,
      "outlook": "",
      "slot": "BN"
     },
@@ -1597,8 +1584,8 @@
      "injury": "ACTIVE",
      "proj": 5.4,
      "last_week": null,
-     "owned_pct": 7.0,
-     "owned_change": -0.01,
+     "owned_pct": 6.9,
+     "owned_change": -0.08,
      "outlook": "",
      "slot": "BN"
     },
@@ -1610,8 +1597,8 @@
      "injury": "ACTIVE",
      "proj": 7.2,
      "last_week": 7.2,
-     "owned_pct": 27.9,
-     "owned_change": -0.11,
+     "owned_pct": 27.8,
+     "owned_change": -0.25,
      "outlook": "",
      "slot": "TE"
     },
@@ -1621,10 +1608,10 @@
      "pos": "D/ST",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 5.1,
+     "proj": 5.3,
      "last_week": 8.0,
-     "owned_pct": 86.0,
-     "owned_change": -0.47,
+     "owned_pct": 85.5,
+     "owned_change": -0.98,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -1674,7 +1661,7 @@
      "pos": "WR",
      "team": "CIN",
      "injury": "ACTIVE",
-     "proj": 17.2,
+     "proj": 15.8,
      "last_week": 12.3,
      "owned_pct": 98.9,
      "owned_change": -0.14,
@@ -1689,8 +1676,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 45.6,
-     "owned_change": -0.13,
+     "owned_pct": 45.5,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -1700,10 +1687,10 @@
      "pos": "QB",
      "team": "CIN",
      "injury": "ACTIVE",
-     "proj": 24.8,
+     "proj": 24.3,
      "last_week": 19.9,
      "owned_pct": 99.4,
-     "owned_change": -0.14,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "QB"
     },
@@ -1715,8 +1702,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 38.3,
-     "owned_change": -0.09,
+     "owned_pct": 38.1,
+     "owned_change": -0.25,
      "outlook": "",
      "slot": "BN"
     },
@@ -1728,8 +1715,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 48.5,
-     "owned_change": -0.06,
+     "owned_pct": 48.4,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "IR"
     },
@@ -1739,10 +1726,10 @@
      "pos": "WR",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 9.3,
+     "proj": 8.9,
      "last_week": 15.3,
      "owned_pct": 63.2,
-     "owned_change": -0.05,
+     "owned_change": -0.07,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -1755,7 +1742,7 @@
      "proj": 12.2,
      "last_week": 4.5,
      "owned_pct": 97.1,
-     "owned_change": -0.2,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "TE"
     },
@@ -1780,8 +1767,8 @@
      "injury": "ACTIVE",
      "proj": 3.0,
      "last_week": 9.0,
-     "owned_pct": 57.0,
-     "owned_change": -0.13,
+     "owned_pct": 56.8,
+     "owned_change": -0.3,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1791,10 +1778,10 @@
      "pos": "K",
      "team": "DET",
      "injury": "ACTIVE",
-     "proj": 9.5,
+     "proj": 9.6,
      "last_week": 8.0,
      "owned_pct": 53.1,
-     "owned_change": -0.07,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "K"
     },
@@ -1807,7 +1794,7 @@
      "proj": 21.4,
      "last_week": 20.5,
      "owned_pct": 85.9,
-     "owned_change": -0.12,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "BN"
     },
@@ -1820,7 +1807,7 @@
      "proj": 10.3,
      "last_week": 13.0,
      "owned_pct": 63.4,
-     "owned_change": -0.08,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "BN"
     },
@@ -1832,8 +1819,8 @@
      "injury": "ACTIVE",
      "proj": 7.2,
      "last_week": null,
-     "owned_pct": 47.8,
-     "owned_change": -0.18,
+     "owned_pct": 47.6,
+     "owned_change": -0.22,
      "outlook": "",
      "slot": "BN"
     },
@@ -1845,8 +1832,8 @@
      "injury": "ACTIVE",
      "proj": 3.5,
      "last_week": 2.0,
-     "owned_pct": 13.5,
-     "owned_change": -0.05,
+     "owned_pct": 13.4,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "BN"
     },
@@ -1896,10 +1883,10 @@
      "pos": "WR",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 10.9,
+     "proj": 10.4,
      "last_week": 11.3,
      "owned_pct": 96.0,
-     "owned_change": -0.12,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "WR"
     },
@@ -1925,7 +1912,7 @@
      "proj": 12.2,
      "last_week": 20.7,
      "owned_pct": 79.5,
-     "owned_change": -0.03,
+     "owned_change": -0.02,
      "outlook": "",
      "slot": "BN"
     },
@@ -1935,10 +1922,10 @@
      "pos": "RB",
      "team": "HOU",
      "injury": "ACTIVE",
-     "proj": 11.2,
+     "proj": 11.3,
      "last_week": 15.4,
      "owned_pct": 85.8,
-     "owned_change": -0.09,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "RB"
     },
@@ -1948,7 +1935,7 @@
      "pos": "QB",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 18.5,
+     "proj": 17.4,
      "last_week": 25.0,
      "owned_pct": 95.4,
      "owned_change": -0.1,
@@ -1974,10 +1961,10 @@
      "pos": "WR",
      "team": "KC",
      "injury": "ACTIVE",
-     "proj": 8.0,
+     "proj": 7.6,
      "last_week": 9.9,
-     "owned_pct": 77.8,
-     "owned_change": -0.11,
+     "owned_pct": 77.7,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -1990,7 +1977,7 @@
      "proj": 11.7,
      "last_week": null,
      "owned_pct": 80.2,
-     "owned_change": -0.14,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -2002,8 +1989,8 @@
      "injury": "QUESTIONABLE",
      "proj": 8.4,
      "last_week": 0.0,
-     "owned_pct": 68.3,
-     "owned_change": -0.16,
+     "owned_pct": 68.0,
+     "owned_change": -0.35,
      "outlook": "",
      "slot": "BN"
     },
@@ -2013,10 +2000,10 @@
      "pos": "RB",
      "team": "NO",
      "injury": "ACTIVE",
-     "proj": 4.8,
+     "proj": 4.9,
      "last_week": 7.2,
-     "owned_pct": 61.8,
-     "owned_change": -0.14,
+     "owned_pct": 61.6,
+     "owned_change": -0.36,
      "outlook": "",
      "slot": "RB"
     },
@@ -2026,7 +2013,7 @@
      "pos": "K",
      "team": "JAX",
      "injury": "ACTIVE",
-     "proj": 12.5,
+     "proj": 12.6,
      "last_week": 13.0,
      "owned_pct": 87.4,
      "owned_change": -0.08,
@@ -2039,10 +2026,10 @@
      "pos": "WR",
      "team": "NE",
      "injury": "ACTIVE",
-     "proj": 8.9,
+     "proj": 9.0,
      "last_week": null,
-     "owned_pct": 51.4,
-     "owned_change": -0.2,
+     "owned_pct": 51.3,
+     "owned_change": -0.26,
      "outlook": "",
      "slot": "BN"
     },
@@ -2055,7 +2042,7 @@
      "proj": 6.9,
      "last_week": 5.0,
      "owned_pct": 89.3,
-     "owned_change": -0.18,
+     "owned_change": -0.25,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2067,8 +2054,8 @@
      "injury": "ACTIVE",
      "proj": 8.9,
      "last_week": 5.7,
-     "owned_pct": 60.4,
-     "owned_change": -0.23,
+     "owned_pct": 60.1,
+     "owned_change": -0.51,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -2080,8 +2067,8 @@
      "injury": "ACTIVE",
      "proj": 7.6,
      "last_week": 12.7,
-     "owned_pct": 30.8,
-     "owned_change": 0.07,
+     "owned_pct": 30.7,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "TE"
     }
@@ -2108,7 +2095,7 @@
      "proj": 20.1,
      "last_week": 13.7,
      "owned_pct": 99.7,
-     "owned_change": -0.13,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "WR"
     },
@@ -2117,11 +2104,11 @@
      "name": "Saquon Barkley",
      "pos": "RB",
      "team": "PHI",
-     "injury": "QUESTIONABLE",
+     "injury": "ACTIVE",
      "proj": 14.2,
      "last_week": 13.5,
      "owned_pct": 96.5,
-     "owned_change": -0.11,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "RB"
     },
@@ -2131,10 +2118,10 @@
      "pos": "QB",
      "team": "BUF",
      "injury": "ACTIVE",
-     "proj": 18.7,
+     "proj": 18.1,
      "last_week": 12.2,
      "owned_pct": 99.7,
-     "owned_change": -0.2,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "QB"
     },
@@ -2147,7 +2134,7 @@
      "proj": 15.3,
      "last_week": null,
      "owned_pct": 91.9,
-     "owned_change": -0.14,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "RB"
     },
@@ -2160,7 +2147,7 @@
      "proj": 12.3,
      "last_week": 19.3,
      "owned_pct": 92.9,
-     "owned_change": -0.09,
+     "owned_change": -0.1,
      "outlook": "",
      "slot": "BN"
     },
@@ -2173,7 +2160,7 @@
      "proj": 8.3,
      "last_week": null,
      "owned_pct": 72.6,
-     "owned_change": -0.14,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -2183,10 +2170,10 @@
      "pos": "WR",
      "team": "NO",
      "injury": "ACTIVE",
-     "proj": 10.3,
+     "proj": 10.4,
      "last_week": 2.0,
-     "owned_pct": 72.2,
-     "owned_change": -0.25,
+     "owned_pct": 72.0,
+     "owned_change": -0.45,
      "outlook": "",
      "slot": "BN"
     },
@@ -2208,11 +2195,11 @@
      "name": "Sam LaPorta",
      "pos": "TE",
      "team": "DET",
-     "injury": "QUESTIONABLE",
+     "injury": "ACTIVE",
      "proj": 10.8,
      "last_week": 9.2,
      "owned_pct": 95.2,
-     "owned_change": -0.12,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -2224,8 +2211,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 39.5,
-     "owned_change": -0.14,
+     "owned_pct": 39.2,
+     "owned_change": -0.41,
      "outlook": "",
      "slot": "IR"
     },
@@ -2234,11 +2221,11 @@
      "name": "Denzel Boston",
      "pos": "WR",
      "team": "CLE",
-     "injury": "ACTIVE",
+     "injury": "QUESTIONABLE",
      "proj": 13.0,
      "last_week": null,
      "owned_pct": 72.9,
-     "owned_change": -0.15,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -2248,10 +2235,10 @@
      "pos": "WR",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 13.8,
+     "proj": 12.6,
      "last_week": 8.5,
      "owned_pct": 88.8,
-     "owned_change": -0.13,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "WR"
     },
@@ -2261,7 +2248,7 @@
      "pos": "D/ST",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 6.3,
+     "proj": 6.4,
      "last_week": 0.0,
      "owned_pct": 87.0,
      "owned_change": -0.17,
@@ -2277,7 +2264,7 @@
      "proj": 7.9,
      "last_week": 6.0,
      "owned_pct": 34.1,
-     "owned_change": -0.06,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "BN"
     },
@@ -2287,10 +2274,10 @@
      "pos": "RB",
      "team": "MIN",
      "injury": "ACTIVE",
-     "proj": 11.4,
+     "proj": 11.5,
      "last_week": 4.7,
-     "owned_pct": 56.5,
-     "owned_change": -0.09,
+     "owned_pct": 56.4,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "BN"
     },
@@ -2302,8 +2289,8 @@
      "injury": "ACTIVE",
      "proj": 5.7,
      "last_week": 1.4,
-     "owned_pct": 36.2,
-     "owned_change": -0.64,
+     "owned_pct": 35.3,
+     "owned_change": -1.51,
      "outlook": "",
      "slot": "TE"
     },
@@ -2313,10 +2300,10 @@
      "pos": "K",
      "team": "CIN",
      "injury": "ACTIVE",
-     "proj": 9.2,
+     "proj": 8.7,
      "last_week": 10.0,
      "owned_pct": 24.4,
-     "owned_change": 0.04,
+     "owned_change": -0.03,
      "outlook": "",
      "slot": "K"
     }
@@ -2342,8 +2329,8 @@
      "injury": "ACTIVE",
      "proj": 13.6,
      "last_week": 10.3,
-     "owned_pct": 91.7,
-     "owned_change": -0.13,
+     "owned_pct": 91.6,
+     "owned_change": -0.16,
      "outlook": "",
      "slot": "RB"
     },
@@ -2356,7 +2343,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 80.7,
-     "owned_change": -0.09,
+     "owned_change": -0.13,
      "outlook": "",
      "slot": "BN"
     },
@@ -2368,8 +2355,8 @@
      "injury": "ACTIVE",
      "proj": 10.3,
      "last_week": 3.8,
-     "owned_pct": 91.6,
-     "owned_change": -0.14,
+     "owned_pct": 91.5,
+     "owned_change": -0.2,
      "outlook": "",
      "slot": "FLEX"
     },
@@ -2381,8 +2368,8 @@
      "injury": "ACTIVE",
      "proj": 8.0,
      "last_week": null,
-     "owned_pct": 76.3,
-     "owned_change": -0.15,
+     "owned_pct": 76.2,
+     "owned_change": -0.21,
      "outlook": "",
      "slot": "BN"
     },
@@ -2394,8 +2381,8 @@
      "injury": "OUT",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 80.1,
-     "owned_change": -0.46,
+     "owned_pct": 79.8,
+     "owned_change": -0.66,
      "outlook": "",
      "slot": "BN"
     },
@@ -2407,8 +2394,8 @@
      "injury": "INJURY_RESERVE",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 41.6,
-     "owned_change": -0.52,
+     "owned_pct": 40.8,
+     "owned_change": -1.29,
      "outlook": "",
      "slot": "IR"
     },
@@ -2433,8 +2420,8 @@
      "injury": "ACTIVE",
      "proj": 6.9,
      "last_week": 6.8,
-     "owned_pct": 51.6,
-     "owned_change": -0.14,
+     "owned_pct": 51.4,
+     "owned_change": -0.28,
      "outlook": "",
      "slot": "WR"
     },
@@ -2446,8 +2433,8 @@
      "injury": "ACTIVE",
      "proj": 6.5,
      "last_week": 8.0,
-     "owned_pct": 38.9,
-     "owned_change": -0.15,
+     "owned_pct": 38.7,
+     "owned_change": -0.34,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2457,10 +2444,10 @@
      "pos": "K",
      "team": "ARI",
      "injury": "ACTIVE",
-     "proj": 7.3,
+     "proj": 7.2,
      "last_week": 1.0,
-     "owned_pct": 18.7,
-     "owned_change": -0.05,
+     "owned_pct": 18.6,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "K"
     },
@@ -2472,8 +2459,8 @@
      "injury": "ACTIVE",
      "proj": 8.0,
      "last_week": 2.1,
-     "owned_pct": 44.1,
-     "owned_change": -0.24,
+     "owned_pct": 43.8,
+     "owned_change": -0.5,
      "outlook": "",
      "slot": "WR"
     },
@@ -2485,8 +2472,8 @@
      "injury": "ACTIVE",
      "proj": 8.5,
      "last_week": 4.6,
-     "owned_pct": 54.5,
-     "owned_change": -0.18,
+     "owned_pct": 54.4,
+     "owned_change": -0.34,
      "outlook": "",
      "slot": "BN"
     },
@@ -2498,8 +2485,8 @@
      "injury": "ACTIVE",
      "proj": 17.4,
      "last_week": 7.4,
-     "owned_pct": 67.7,
-     "owned_change": -0.12,
+     "owned_pct": 67.6,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "QB"
     },
@@ -2511,8 +2498,8 @@
      "injury": "ACTIVE",
      "proj": 9.6,
      "last_week": 1.2,
-     "owned_pct": 88.2,
-     "owned_change": -0.3,
+     "owned_pct": 87.9,
+     "owned_change": -0.56,
      "outlook": "",
      "slot": "BN"
     },
@@ -2524,8 +2511,8 @@
      "injury": "ACTIVE",
      "proj": 7.5,
      "last_week": 3.2,
-     "owned_pct": 94.3,
-     "owned_change": -0.18,
+     "owned_pct": 94.2,
+     "owned_change": -0.29,
      "outlook": "",
      "slot": "TE"
     },
@@ -2538,7 +2525,7 @@
      "proj": 14.4,
      "last_week": 9.1,
      "owned_pct": 94.9,
-     "owned_change": -0.12,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "BN"
     },
@@ -2617,7 +2604,7 @@
      "proj": 14.0,
      "last_week": 11.9,
      "owned_pct": 97.5,
-     "owned_change": -0.13,
+     "owned_change": -0.14,
      "outlook": "",
      "slot": "RB"
     },
@@ -2627,10 +2614,10 @@
      "pos": "RB",
      "team": "WSH",
      "injury": "ACTIVE",
-     "proj": 8.3,
+     "proj": 1.7,
      "last_week": 0.0,
-     "owned_pct": 67.1,
-     "owned_change": -0.33,
+     "owned_pct": 66.5,
+     "owned_change": -0.79,
      "outlook": "",
      "slot": "BN"
     },
@@ -2642,8 +2629,8 @@
      "injury": "DOUBTFUL",
      "proj": 0.0,
      "last_week": 0.0,
-     "owned_pct": 63.6,
-     "owned_change": -0.09,
+     "owned_pct": 63.5,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -2653,10 +2640,10 @@
      "pos": "TE",
      "team": "BUF",
      "injury": "QUESTIONABLE",
-     "proj": 8.5,
+     "proj": 8.2,
      "last_week": 0.0,
      "owned_pct": 74.2,
-     "owned_change": -0.13,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -2668,8 +2655,8 @@
      "injury": "ACTIVE",
      "proj": 6.4,
      "last_week": 7.0,
-     "owned_pct": 94.8,
-     "owned_change": -0.22,
+     "owned_pct": 94.7,
+     "owned_change": -0.39,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -2681,8 +2668,8 @@
      "injury": "ACTIVE",
      "proj": 7.4,
      "last_week": null,
-     "owned_pct": 54.7,
-     "owned_change": -0.24,
+     "owned_pct": 54.6,
+     "owned_change": -0.28,
      "outlook": "",
      "slot": "BN"
     },
@@ -2695,7 +2682,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 2.5,
-     "owned_change": -0.02,
+     "owned_change": -0.04,
      "outlook": "",
      "slot": "IR"
     },
@@ -2707,8 +2694,8 @@
      "injury": "ACTIVE",
      "proj": 10.9,
      "last_week": 11.5,
-     "owned_pct": 85.1,
-     "owned_change": -0.12,
+     "owned_pct": 85.0,
+     "owned_change": -0.15,
      "outlook": "",
      "slot": "BN"
     },
@@ -2720,8 +2707,8 @@
      "injury": "ACTIVE",
      "proj": 13.4,
      "last_week": null,
-     "owned_pct": 89.0,
-     "owned_change": -0.15,
+     "owned_pct": 88.9,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "BN"
     },
@@ -2744,10 +2731,10 @@
      "pos": "QB",
      "team": "DEN",
      "injury": "ACTIVE",
-     "proj": 14.0,
+     "proj": 14.1,
      "last_week": 11.5,
-     "owned_pct": 79.4,
-     "owned_change": -0.33,
+     "owned_pct": 79.0,
+     "owned_change": -0.67,
      "outlook": "",
      "slot": "QB"
     },
@@ -2760,7 +2747,7 @@
      "proj": 9.5,
      "last_week": 8.0,
      "owned_pct": 61.9,
-     "owned_change": -0.06,
+     "owned_change": -0.11,
      "outlook": "",
      "slot": "K"
     },
@@ -2773,7 +2760,7 @@
      "proj": 13.0,
      "last_week": 18.4,
      "owned_pct": 98.8,
-     "owned_change": -0.08,
+     "owned_change": -0.09,
      "outlook": "",
      "slot": "TE"
     }
@@ -2790,7 +2777,7 @@
    "proj": 11.7,
    "last_week": null,
    "owned_pct": 65.1,
-   "owned_change": -0.12,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -2799,10 +2786,10 @@
    "pos": "D/ST",
    "team": "DET",
    "injury": "ACTIVE",
-   "proj": 5.5,
+   "proj": 5.4,
    "last_week": null,
-   "owned_pct": 58.3,
-   "owned_change": -0.24,
+   "owned_pct": 58.0,
+   "owned_change": -0.55,
    "outlook": ""
   },
   {
@@ -2811,10 +2798,10 @@
    "pos": "K",
    "team": "KC",
    "injury": "ACTIVE",
-   "proj": 8.4,
+   "proj": 7.4,
    "last_week": null,
-   "owned_pct": 51.4,
-   "owned_change": -0.05,
+   "owned_pct": 51.3,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -2826,7 +2813,7 @@
    "proj": 7.5,
    "last_week": null,
    "owned_pct": 49.4,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -2837,8 +2824,8 @@
    "injury": "QUESTIONABLE",
    "proj": 6.9,
    "last_week": null,
-   "owned_pct": 48.7,
-   "owned_change": -0.07,
+   "owned_pct": 48.6,
+   "owned_change": -0.16,
    "outlook": ""
   },
   {
@@ -2849,8 +2836,8 @@
    "injury": "ACTIVE",
    "proj": 6.5,
    "last_week": null,
-   "owned_pct": 41.0,
-   "owned_change": -0.1,
+   "owned_pct": 40.9,
+   "owned_change": -0.21,
    "outlook": ""
   },
   {
@@ -2861,8 +2848,8 @@
    "injury": "ACTIVE",
    "proj": 14.2,
    "last_week": null,
-   "owned_pct": 38.9,
-   "owned_change": -0.14,
+   "owned_pct": 38.7,
+   "owned_change": -0.29,
    "outlook": ""
   },
   {
@@ -2874,7 +2861,7 @@
    "proj": 6.0,
    "last_week": null,
    "owned_pct": 37.7,
-   "owned_change": -0.04,
+   "owned_change": -0.1,
    "outlook": ""
   },
   {
@@ -2883,10 +2870,10 @@
    "pos": "D/ST",
    "team": "CIN",
    "injury": "ACTIVE",
-   "proj": 6.7,
+   "proj": 6.5,
    "last_week": null,
-   "owned_pct": 36.8,
-   "owned_change": 0.16,
+   "owned_pct": 36.6,
+   "owned_change": -0.15,
    "outlook": ""
   },
   {
@@ -2898,7 +2885,7 @@
    "proj": 16.2,
    "last_week": null,
    "owned_pct": 36.5,
-   "owned_change": -0.04,
+   "owned_change": -0.1,
    "outlook": ""
   },
   {
@@ -2910,7 +2897,7 @@
    "proj": 6.4,
    "last_week": null,
    "owned_pct": 35.8,
-   "owned_change": -0.06,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -2919,10 +2906,10 @@
    "pos": "TE",
    "team": "NO",
    "injury": "QUESTIONABLE",
-   "proj": 5.3,
+   "proj": 5.4,
    "last_week": null,
-   "owned_pct": 35.2,
-   "owned_change": -0.13,
+   "owned_pct": 35.0,
+   "owned_change": -0.27,
    "outlook": ""
   },
   {
@@ -2933,8 +2920,8 @@
    "injury": "ACTIVE",
    "proj": 9.3,
    "last_week": null,
-   "owned_pct": 34.8,
-   "owned_change": -0.1,
+   "owned_pct": 34.7,
+   "owned_change": -0.18,
    "outlook": ""
   },
   {
@@ -2943,10 +2930,10 @@
    "pos": "WR",
    "team": "NO",
    "injury": "ACTIVE",
-   "proj": 8.2,
+   "proj": 8.3,
    "last_week": null,
    "owned_pct": 34.3,
-   "owned_change": -0.05,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -2958,7 +2945,7 @@
    "proj": 6.5,
    "last_week": null,
    "owned_pct": 32.1,
-   "owned_change": -0.03,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -2982,7 +2969,7 @@
    "proj": 6.0,
    "last_week": null,
    "owned_pct": 31.4,
-   "owned_change": -0.02,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -2991,10 +2978,10 @@
    "pos": "K",
    "team": "CHI",
    "injury": "ACTIVE",
-   "proj": 8.8,
+   "proj": 8.9,
    "last_week": null,
-   "owned_pct": 31.1,
-   "owned_change": -0.06,
+   "owned_pct": 31.0,
+   "owned_change": -0.12,
    "outlook": ""
   },
   {
@@ -3002,11 +2989,11 @@
    "name": "Jake Ferguson",
    "pos": "TE",
    "team": "DAL",
-   "injury": "QUESTIONABLE",
+   "injury": "DOUBTFUL",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 30.8,
-   "owned_change": -0.03,
+   "owned_pct": 30.7,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3018,7 +3005,19 @@
    "proj": 6.7,
    "last_week": null,
    "owned_pct": 30.7,
-   "owned_change": -0.05,
+   "owned_change": -0.04,
+   "outlook": ""
+  },
+  {
+   "id": -16017,
+   "name": "Patriots D/ST",
+   "pos": "D/ST",
+   "team": "NE",
+   "injury": "ACTIVE",
+   "proj": 5.8,
+   "last_week": null,
+   "owned_pct": 29.9,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3029,20 +3028,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 30.0,
-   "owned_change": -0.06,
-   "outlook": ""
-  },
-  {
-   "id": -16017,
-   "name": "Patriots D/ST",
-   "pos": "D/ST",
-   "team": "NE",
-   "injury": "ACTIVE",
-   "proj": 5.9,
-   "last_week": null,
-   "owned_pct": 30.0,
-   "owned_change": -0.07,
+   "owned_pct": 29.9,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -3054,7 +3041,7 @@
    "proj": 3.0,
    "last_week": null,
    "owned_pct": 27.3,
-   "owned_change": -0.03,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3065,8 +3052,8 @@
    "injury": "QUESTIONABLE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 26.8,
-   "owned_change": -0.07,
+   "owned_pct": 26.7,
+   "owned_change": -0.16,
    "outlook": ""
   },
   {
@@ -3078,7 +3065,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 26.4,
-   "owned_change": 0.01,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3089,8 +3076,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 25.8,
-   "owned_change": -0.01,
+   "owned_pct": 25.7,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3102,7 +3089,7 @@
    "proj": 16.5,
    "last_week": null,
    "owned_pct": 24.9,
-   "owned_change": -0.04,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3114,7 +3101,7 @@
    "proj": 3.1,
    "last_week": null,
    "owned_pct": 23.5,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3126,7 +3113,7 @@
    "proj": 16.1,
    "last_week": null,
    "owned_pct": 22.3,
-   "owned_change": 0.0,
+   "owned_change": 0.01,
    "outlook": ""
   },
   {
@@ -3138,7 +3125,7 @@
    "proj": 6.1,
    "last_week": null,
    "owned_pct": 21.9,
-   "owned_change": -0.02,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -3147,10 +3134,22 @@
    "pos": "D/ST",
    "team": "CAR",
    "injury": "ACTIVE",
-   "proj": 5.3,
+   "proj": 5.2,
    "last_week": null,
-   "owned_pct": 20.7,
-   "owned_change": -0.14,
+   "owned_pct": 20.5,
+   "owned_change": -0.33,
+   "outlook": ""
+  },
+  {
+   "id": 4569682,
+   "name": "Audric Estime",
+   "pos": "RB",
+   "team": "NO",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 19.9,
+   "owned_change": -0.56,
    "outlook": ""
   },
   {
@@ -3162,7 +3161,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 19.8,
-   "owned_change": 0.0,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3174,7 +3173,7 @@
    "proj": 11.4,
    "last_week": null,
    "owned_pct": 19.2,
-   "owned_change": -0.05,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3185,8 +3184,8 @@
    "injury": "ACTIVE",
    "proj": 6.2,
    "last_week": null,
-   "owned_pct": 18.6,
-   "owned_change": -0.14,
+   "owned_pct": 18.4,
+   "owned_change": -0.25,
    "outlook": ""
   },
   {
@@ -3198,7 +3197,7 @@
    "proj": 12.5,
    "last_week": null,
    "owned_pct": 18.3,
-   "owned_change": -0.04,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3209,8 +3208,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 18.0,
-   "owned_change": -0.02,
+   "owned_pct": 17.9,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3221,8 +3220,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 18.0,
-   "owned_change": -0.05,
+   "owned_pct": 17.9,
+   "owned_change": -0.15,
    "outlook": ""
   },
   {
@@ -3231,10 +3230,10 @@
    "pos": "QB",
    "team": "TB",
    "injury": "ACTIVE",
-   "proj": 14.2,
+   "proj": 14.3,
    "last_week": null,
-   "owned_pct": 17.9,
-   "owned_change": -0.02,
+   "owned_pct": 17.8,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -3246,7 +3245,7 @@
    "proj": 6.3,
    "last_week": null,
    "owned_pct": 17.2,
-   "owned_change": -0.05,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3257,8 +3256,8 @@
    "injury": "INJURY_RESERVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 17.2,
-   "owned_change": -0.03,
+   "owned_pct": 17.1,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3267,22 +3266,10 @@
    "pos": "RB",
    "team": "CIN",
    "injury": "ACTIVE",
-   "proj": 8.3,
+   "proj": 8.5,
    "last_week": null,
    "owned_pct": 16.9,
-   "owned_change": 0.2,
-   "outlook": ""
-  },
-  {
-   "id": 4635008,
-   "name": "Keon Coleman",
-   "pos": "WR",
-   "team": "BUF",
-   "injury": "ACTIVE",
-   "proj": 5.1,
-   "last_week": null,
-   "owned_pct": 16.7,
-   "owned_change": -0.06,
+   "owned_change": 0.01,
    "outlook": ""
   },
   {
@@ -3294,7 +3281,19 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 16.6,
-   "owned_change": -0.03,
+   "owned_change": -0.04,
+   "outlook": ""
+  },
+  {
+   "id": 4635008,
+   "name": "Keon Coleman",
+   "pos": "WR",
+   "team": "BUF",
+   "injury": "ACTIVE",
+   "proj": 4.9,
+   "last_week": null,
+   "owned_pct": 16.6,
+   "owned_change": -0.14,
    "outlook": ""
   },
   {
@@ -3305,8 +3304,8 @@
    "injury": "ACTIVE",
    "proj": 8.4,
    "last_week": null,
-   "owned_pct": 16.5,
-   "owned_change": -0.08,
+   "owned_pct": 16.4,
+   "owned_change": -0.1,
    "outlook": ""
   },
   {
@@ -3317,8 +3316,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 16.2,
-   "owned_change": -0.07,
+   "owned_pct": 16.1,
+   "owned_change": -0.13,
    "outlook": ""
   },
   {
@@ -3327,10 +3326,10 @@
    "pos": "D/ST",
    "team": "NYG",
    "injury": "ACTIVE",
-   "proj": 7.0,
+   "proj": 7.1,
    "last_week": null,
-   "owned_pct": 15.9,
-   "owned_change": 0.02,
+   "owned_pct": 16.0,
+   "owned_change": 0.06,
    "outlook": ""
   },
   {
@@ -3354,7 +3353,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 14.9,
-   "owned_change": -0.05,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3363,10 +3362,10 @@
    "pos": "QB",
    "team": "BAL",
    "injury": "ACTIVE",
-   "proj": 11.8,
+   "proj": 11.9,
    "last_week": null,
    "owned_pct": 13.4,
-   "owned_change": -0.05,
+   "owned_change": -0.1,
    "outlook": ""
   },
   {
@@ -3378,7 +3377,7 @@
    "proj": null,
    "last_week": null,
    "owned_pct": 13.2,
-   "owned_change": -0.07,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -3390,7 +3389,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 12.5,
-   "owned_change": -0.02,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -3401,20 +3400,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 12.3,
-   "owned_change": -0.4,
-   "outlook": ""
-  },
-  {
-   "id": 4428850,
-   "name": "Dontayvion Wicks",
-   "pos": "WR",
-   "team": "PHI",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 11.2,
-   "owned_change": -0.06,
+   "owned_pct": 11.7,
+   "owned_change": -0.99,
    "outlook": ""
   },
   {
@@ -3426,7 +3413,19 @@
    "proj": 19.9,
    "last_week": null,
    "owned_pct": 11.2,
-   "owned_change": 0.07,
+   "owned_change": 0.11,
+   "outlook": ""
+  },
+  {
+   "id": 4428850,
+   "name": "Dontayvion Wicks",
+   "pos": "WR",
+   "team": "PHI",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 11.1,
+   "owned_change": -0.15,
    "outlook": ""
   },
   {
@@ -3437,8 +3436,8 @@
    "injury": "ACTIVE",
    "proj": 6.6,
    "last_week": null,
-   "owned_pct": 11.1,
-   "owned_change": -0.13,
+   "owned_pct": 10.9,
+   "owned_change": -0.3,
    "outlook": ""
   },
   {
@@ -3449,8 +3448,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 10.7,
-   "owned_change": -0.13,
+   "owned_pct": 10.5,
+   "owned_change": -0.29,
    "outlook": ""
   },
   {
@@ -3462,7 +3461,7 @@
    "proj": 7.2,
    "last_week": null,
    "owned_pct": 10.3,
-   "owned_change": -0.02,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3473,20 +3472,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 10.3,
-   "owned_change": -0.08,
-   "outlook": ""
-  },
-  {
-   "id": 4570037,
-   "name": "Terrance Ferguson",
-   "pos": "TE",
-   "team": "LAR",
-   "injury": "INJURY_RESERVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 10.1,
-   "owned_change": -1.81,
+   "owned_pct": 10.2,
+   "owned_change": -0.2,
    "outlook": ""
   },
   {
@@ -3498,7 +3485,19 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 10.1,
-   "owned_change": 0.16,
+   "owned_change": 0.11,
+   "outlook": ""
+  },
+  {
+   "id": 4570037,
+   "name": "Terrance Ferguson",
+   "pos": "TE",
+   "team": "LAR",
+   "injury": "INJURY_RESERVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 9.5,
+   "owned_change": -1.25,
    "outlook": ""
   },
   {
@@ -3509,8 +3508,8 @@
    "injury": "ACTIVE",
    "proj": 11.3,
    "last_week": null,
-   "owned_pct": 9.4,
-   "owned_change": -0.03,
+   "owned_pct": 9.3,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3519,10 +3518,10 @@
    "pos": "D/ST",
    "team": "DAL",
    "injury": "ACTIVE",
-   "proj": 7.1,
+   "proj": 7.2,
    "last_week": null,
    "owned_pct": 9.3,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3546,7 +3545,7 @@
    "proj": 6.9,
    "last_week": null,
    "owned_pct": 8.7,
-   "owned_change": -0.03,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3557,8 +3556,8 @@
    "injury": "QUESTIONABLE",
    "proj": 6.0,
    "last_week": null,
-   "owned_pct": 8.5,
-   "owned_change": -0.02,
+   "owned_pct": 8.4,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -3567,10 +3566,10 @@
    "pos": "WR",
    "team": "WSH",
    "injury": "ACTIVE",
-   "proj": 9.0,
+   "proj": 7.5,
    "last_week": null,
    "owned_pct": 8.4,
-   "owned_change": 0.02,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3582,7 +3581,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 8.4,
-   "owned_change": -0.03,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3593,8 +3592,8 @@
    "injury": "ACTIVE",
    "proj": 6.4,
    "last_week": null,
-   "owned_pct": 8.3,
-   "owned_change": -0.09,
+   "owned_pct": 8.2,
+   "owned_change": -0.25,
    "outlook": ""
   },
   {
@@ -3606,7 +3605,7 @@
    "proj": 6.6,
    "last_week": null,
    "owned_pct": 8.0,
-   "owned_change": -0.07,
+   "owned_change": -0.11,
    "outlook": ""
   },
   {
@@ -3618,19 +3617,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 7.7,
-   "owned_change": -0.01,
-   "outlook": ""
-  },
-  {
-   "id": 4870847,
-   "name": "Ja'Kobi Lane",
-   "pos": "WR",
-   "team": "BAL",
-   "injury": "ACTIVE",
-   "proj": 5.0,
-   "last_week": null,
-   "owned_pct": 7.4,
-   "owned_change": -0.12,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3642,7 +3629,19 @@
    "proj": 5.2,
    "last_week": null,
    "owned_pct": 7.3,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
+   "outlook": ""
+  },
+  {
+   "id": 4870847,
+   "name": "Ja'Kobi Lane",
+   "pos": "WR",
+   "team": "BAL",
+   "injury": "ACTIVE",
+   "proj": 5.0,
+   "last_week": null,
+   "owned_pct": 7.2,
+   "owned_change": -0.26,
    "outlook": ""
   },
   {
@@ -3654,7 +3653,7 @@
    "proj": 7.6,
    "last_week": null,
    "owned_pct": 7.1,
-   "owned_change": 0.05,
+   "owned_change": 0.01,
    "outlook": ""
   },
   {
@@ -3663,10 +3662,10 @@
    "pos": "RB",
    "team": "ARI",
    "injury": "ACTIVE",
-   "proj": 8.5,
+   "proj": 8.3,
    "last_week": null,
    "owned_pct": 7.0,
-   "owned_change": -0.01,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3675,10 +3674,10 @@
    "pos": "TE",
    "team": "BUF",
    "injury": "ACTIVE",
-   "proj": 4.5,
+   "proj": 4.3,
    "last_week": null,
-   "owned_pct": 7.0,
-   "owned_change": -0.14,
+   "owned_pct": 6.8,
+   "owned_change": -0.34,
    "outlook": ""
   },
   {
@@ -3690,7 +3689,7 @@
    "proj": 5.7,
    "last_week": null,
    "owned_pct": 6.7,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3701,8 +3700,8 @@
    "injury": "ACTIVE",
    "proj": null,
    "last_week": null,
-   "owned_pct": 6.7,
-   "owned_change": -0.14,
+   "owned_pct": 6.4,
+   "owned_change": -0.4,
    "outlook": ""
   },
   {
@@ -3714,7 +3713,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 6.3,
-   "owned_change": -0.03,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -3723,10 +3722,10 @@
    "pos": "RB",
    "team": "WSH",
    "injury": "ACTIVE",
-   "proj": 4.5,
+   "proj": 9.0,
    "last_week": null,
    "owned_pct": 6.2,
-   "owned_change": -0.01,
+   "owned_change": -0.08,
    "outlook": ""
   },
   {
@@ -3738,7 +3737,7 @@
    "proj": 7.4,
    "last_week": null,
    "owned_pct": 6.0,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3749,8 +3748,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 6.0,
-   "owned_change": -0.04,
+   "owned_pct": 5.9,
+   "owned_change": -0.07,
    "outlook": ""
   },
   {
@@ -3774,7 +3773,7 @@
    "proj": 7.2,
    "last_week": null,
    "owned_pct": 5.5,
-   "owned_change": -0.01,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3786,7 +3785,7 @@
    "proj": 8.3,
    "last_week": null,
    "owned_pct": 4.7,
-   "owned_change": 0.0,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -3797,8 +3796,8 @@
    "injury": "QUESTIONABLE",
    "proj": 5.2,
    "last_week": null,
-   "owned_pct": 4.6,
-   "owned_change": -0.02,
+   "owned_pct": 4.5,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3810,7 +3809,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 4.5,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3834,19 +3833,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.6,
-   "owned_change": -0.02,
-   "outlook": ""
-  },
-  {
-   "id": 4360698,
-   "name": "Joe Milton",
-   "pos": "QB",
-   "team": "PHI",
-   "injury": "ACTIVE",
-   "proj": 15.5,
-   "last_week": null,
-   "owned_pct": 3.6,
-   "owned_change": -0.02,
+   "owned_change": -0.04,
    "outlook": ""
   },
   {
@@ -3862,6 +3849,18 @@
    "outlook": ""
   },
   {
+   "id": 4360698,
+   "name": "Joe Milton",
+   "pos": "QB",
+   "team": "PHI",
+   "injury": "ACTIVE",
+   "proj": 15.5,
+   "last_week": null,
+   "owned_pct": 3.5,
+   "owned_change": -0.04,
+   "outlook": ""
+  },
+  {
    "id": 4426386,
    "name": "Roschon Johnson",
    "pos": "RB",
@@ -3870,7 +3869,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.5,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3882,7 +3881,7 @@
    "proj": 2.7,
    "last_week": null,
    "owned_pct": 3.5,
-   "owned_change": -0.01,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3894,7 +3893,7 @@
    "proj": 7.0,
    "last_week": null,
    "owned_pct": 3.5,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -3918,18 +3917,6 @@
    "proj": 8.4,
    "last_week": null,
    "owned_pct": 3.2,
-   "owned_change": -0.03,
-   "outlook": ""
-  },
-  {
-   "id": 4430656,
-   "name": "Myles Price",
-   "pos": "WR",
-   "team": "MIN",
-   "injury": "ACTIVE",
-   "proj": 2.5,
-   "last_week": null,
-   "owned_pct": 3.1,
    "owned_change": -0.05,
    "outlook": ""
   },
@@ -3942,7 +3929,19 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 3.0,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
+   "outlook": ""
+  },
+  {
+   "id": 4430656,
+   "name": "Myles Price",
+   "pos": "WR",
+   "team": "MIN",
+   "injury": "ACTIVE",
+   "proj": 2.5,
+   "last_week": null,
+   "owned_pct": 3.0,
+   "owned_change": -0.12,
    "outlook": ""
   },
   {
@@ -3951,10 +3950,10 @@
    "pos": "K",
    "team": "WSH",
    "injury": "ACTIVE",
-   "proj": 9.2,
+   "proj": 10.2,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": 0.09,
+   "owned_change": 0.02,
    "outlook": ""
   },
   {
@@ -3978,7 +3977,7 @@
    "proj": 5.5,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -3990,7 +3989,7 @@
    "proj": 7.4,
    "last_week": null,
    "owned_pct": 2.9,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4002,19 +4001,7 @@
    "proj": 5.5,
    "last_week": null,
    "owned_pct": 2.8,
-   "owned_change": -0.05,
-   "outlook": ""
-  },
-  {
-   "id": -16015,
-   "name": "Dolphins D/ST",
-   "pos": "D/ST",
-   "team": "MIA",
-   "injury": "ACTIVE",
-   "proj": 4.8,
-   "last_week": null,
-   "owned_pct": 2.7,
-   "owned_change": -0.01,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -4026,7 +4013,19 @@
    "proj": 10.9,
    "last_week": null,
    "owned_pct": 2.7,
-   "owned_change": -0.01,
+   "owned_change": 0.01,
+   "outlook": ""
+  },
+  {
+   "id": -16015,
+   "name": "Dolphins D/ST",
+   "pos": "D/ST",
+   "team": "MIA",
+   "injury": "ACTIVE",
+   "proj": 4.8,
+   "last_week": null,
+   "owned_pct": 2.7,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4037,8 +4036,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 2.7,
-   "owned_change": -0.02,
+   "owned_pct": 2.6,
+   "owned_change": -0.06,
    "outlook": ""
   },
   {
@@ -4062,7 +4061,7 @@
    "proj": 7.0,
    "last_week": null,
    "owned_pct": 2.5,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4074,7 +4073,7 @@
    "proj": 6.6,
    "last_week": null,
    "owned_pct": 2.5,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -4085,7 +4084,7 @@
    "injury": "ACTIVE",
    "proj": 5.9,
    "last_week": null,
-   "owned_pct": 2.5,
+   "owned_pct": 2.4,
    "owned_change": -0.01,
    "outlook": ""
   },
@@ -4098,7 +4097,7 @@
    "proj": 4.8,
    "last_week": null,
    "owned_pct": 2.4,
-   "owned_change": -0.01,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -4107,7 +4106,7 @@
    "pos": "RB",
    "team": "BUF",
    "injury": "ACTIVE",
-   "proj": 1.6,
+   "proj": 1.5,
    "last_week": null,
    "owned_pct": 2.4,
    "owned_change": -0.01,
@@ -4121,8 +4120,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 2.4,
-   "owned_change": -0.02,
+   "owned_pct": 2.3,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -4134,7 +4133,7 @@
    "proj": 2.2,
    "last_week": null,
    "owned_pct": 2.2,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4146,7 +4145,7 @@
    "proj": 7.5,
    "last_week": null,
    "owned_pct": 2.2,
-   "owned_change": -0.02,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -4167,10 +4166,10 @@
    "pos": "RB",
    "team": "BUF",
    "injury": "ACTIVE",
-   "proj": 5.3,
+   "proj": 5.1,
    "last_week": null,
    "owned_pct": 2.1,
-   "owned_change": 0.0,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -4182,7 +4181,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 2.0,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4194,7 +4193,7 @@
    "proj": 3.0,
    "last_week": null,
    "owned_pct": 2.0,
-   "owned_change": 0.03,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -4205,20 +4204,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 1.9,
-   "owned_change": -0.02,
-   "outlook": ""
-  },
-  {
-   "id": 3051889,
-   "name": "Laquon Treadwell",
-   "pos": "WR",
-   "team": "IND",
-   "injury": "ACTIVE",
-   "proj": 6.2,
-   "last_week": null,
    "owned_pct": 1.8,
-   "owned_change": -0.07,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4230,7 +4217,7 @@
    "proj": 5.8,
    "last_week": null,
    "owned_pct": 1.8,
-   "owned_change": 0.0,
+   "owned_change": 0.01,
    "outlook": ""
   },
   {
@@ -4243,6 +4230,18 @@
    "last_week": null,
    "owned_pct": 1.8,
    "owned_change": 0.0,
+   "outlook": ""
+  },
+  {
+   "id": 3051889,
+   "name": "Laquon Treadwell",
+   "pos": "WR",
+   "team": "IND",
+   "injury": "ACTIVE",
+   "proj": 6.2,
+   "last_week": null,
+   "owned_pct": 1.8,
+   "owned_change": -0.15,
    "outlook": ""
   },
   {
@@ -4277,8 +4276,8 @@
    "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 1.6,
-   "owned_change": -0.01,
+   "owned_pct": 1.5,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4302,7 +4301,7 @@
    "proj": 4.1,
    "last_week": null,
    "owned_pct": 1.5,
-   "owned_change": 0.0,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4338,7 +4337,7 @@
    "proj": 13.6,
    "last_week": null,
    "owned_pct": 1.4,
-   "owned_change": -0.01,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -4349,8 +4348,8 @@
    "injury": "ACTIVE",
    "proj": 1.1,
    "last_week": null,
-   "owned_pct": 1.4,
-   "owned_change": -0.01,
+   "owned_pct": 1.3,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -4407,22 +4406,10 @@
    "pos": "K",
    "team": "TEN",
    "injury": "ACTIVE",
-   "proj": 8.0,
+   "proj": 8.1,
    "last_week": null,
    "owned_pct": 1.1,
-   "owned_change": 0.0,
-   "outlook": ""
-  },
-  {
-   "id": 4596472,
-   "name": "Jalon Daniels",
-   "pos": "QB",
-   "team": "TB",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 1.1,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
    "outlook": ""
   },
   {
@@ -4442,11 +4429,23 @@
    "name": "Tanner McKee",
    "pos": "QB",
    "team": "PHI",
-   "injury": "QUESTIONABLE",
+   "injury": "ACTIVE",
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 1.0,
-   "owned_change": 0.0,
+   "owned_change": -0.01,
+   "outlook": ""
+  },
+  {
+   "id": 4596472,
+   "name": "Jalon Daniels",
+   "pos": "QB",
+   "team": "TB",
+   "injury": "ACTIVE",
+   "proj": 0.0,
+   "last_week": null,
+   "owned_pct": 1.0,
+   "owned_change": -0.05,
    "outlook": ""
   },
   {
@@ -4467,19 +4466,7 @@
    "pos": "QB",
    "team": "ARI",
    "injury": "QUESTIONABLE",
-   "proj": 12.2,
-   "last_week": null,
-   "owned_pct": 1.0,
-   "owned_change": 0.0,
-   "outlook": ""
-  },
-  {
-   "id": 4708049,
-   "name": "Gavin Bartholomew",
-   "pos": "TE",
-   "team": "MIN",
-   "injury": "ACTIVE",
-   "proj": 2.4,
+   "proj": 11.9,
    "last_week": null,
    "owned_pct": 1.0,
    "owned_change": -0.01,
@@ -4495,6 +4482,18 @@
    "last_week": null,
    "owned_pct": 1.0,
    "owned_change": 0.0,
+   "outlook": ""
+  },
+  {
+   "id": 4708049,
+   "name": "Gavin Bartholomew",
+   "pos": "TE",
+   "team": "MIN",
+   "injury": "ACTIVE",
+   "proj": 2.4,
+   "last_week": null,
+   "owned_pct": 1.0,
+   "owned_change": -0.02,
    "outlook": ""
   },
   {
@@ -4522,18 +4521,6 @@
    "outlook": ""
   },
   {
-   "id": 4372780,
-   "name": "Tommy Tremble",
-   "pos": "TE",
-   "team": "CAR",
-   "injury": "ACTIVE",
-   "proj": 5.8,
-   "last_week": null,
-   "owned_pct": 0.9,
-   "owned_change": -0.01,
-   "outlook": ""
-  },
-  {
    "id": 4569923,
    "name": "Andy Borregales",
    "pos": "K",
@@ -4542,7 +4529,19 @@
    "proj": 6.9,
    "last_week": null,
    "owned_pct": 0.9,
-   "owned_change": -0.02,
+   "owned_change": -0.01,
+   "outlook": ""
+  },
+  {
+   "id": 4372780,
+   "name": "Tommy Tremble",
+   "pos": "TE",
+   "team": "CAR",
+   "injury": "ACTIVE",
+   "proj": 5.8,
+   "last_week": null,
+   "owned_pct": 0.9,
+   "owned_change": -0.03,
    "outlook": ""
   },
   {
@@ -4566,19 +4565,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 0.8,
-   "owned_change": 0.0,
-   "outlook": ""
-  },
-  {
-   "id": 2576980,
-   "name": "Marcus Mariota",
-   "pos": "QB",
-   "team": "WSH",
-   "injury": "ACTIVE",
-   "proj": 0.0,
-   "last_week": null,
-   "owned_pct": 0.8,
-   "owned_change": 0.01,
+   "owned_change": -0.01,
    "outlook": ""
   }
  ],
