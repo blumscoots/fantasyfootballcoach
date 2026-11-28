@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T08:13:46+00:00",
+ "fetched_at": "2026-11-28T08:44:53+00:00",
  "key": "espn2",
  "label": "Goldstein Gooners",
  "platform": "espn",
@@ -97,7 +97,7 @@
      "proj": 8.0,
      "last_week": null,
      "owned_pct": 73.8,
-     "owned_change": -0.54,
+     "owned_change": -0.56,
      "outlook": "Jadarian Price's role at running back for Seattle could gain further clarity in Week 12 against San Francisco. Though he scored his first career touchdown in Week 10 against Las Vegas, Price's 10 touches lagged well behind those of Zach Charbonnet, who rushed 20 times for 94 yards. Seattle was on bye Week 11, so if Charbonnet again gets the lion's share of work this weekend, it could be an indication that Price is locked into the team's No. 2 RB role. Both he and Charbonnet could face tough sledding against a 49ers defense that has given up the fourth-fewest yards per carry (3.55) to running backs this season.",
      "slot": "BN"
     },
@@ -123,7 +123,7 @@
      "proj": 0.0,
      "last_week": 18.3,
      "owned_pct": 97.2,
-     "owned_change": -0.28,
+     "owned_change": -0.29,
      "outlook": "Parker Washington had a career-high 152 receiving yards and a touchdown on seven receptions against the Titans in Week 10, and he'll face the AFC South's cellar-dwellers again in Week 12, this time in Jacksonville. Another fantasy WR1 performance is on the table for Washington against Tennessee's reeling secondary, which has allowed the most catches and receiving yards to wideouts this season. The Titans are giving up 16 catches for 210 yards and 1.1 TDs per game to WRs, while Washington leads the Jaguars with a 44-748-6 receiving line through 10 games, with two of his three 100-yard receiving performances this season coming in the last two weeks.",
      "slot": "BN"
     },
@@ -136,7 +136,7 @@
      "proj": 11.7,
      "last_week": null,
      "owned_pct": 80.5,
-     "owned_change": -0.15,
+     "owned_change": -0.17,
      "outlook": "Zach Charbonnet appears to have seized the lead-RB role for Seattle heading into a Week 12 matchup against the 49ers. Charbonnet didn't debut until Week 8 against Chicago and had just nine touches in that game, but in his most recent appearance -- Week 10 versus Las Vegas -- he carried 20 times for 94 yards while logging a season-high 72% offensive snap share. Jadarian Price should continue to factor into the backfield mix as well, but there's a good chance that Charbonnet will be the leader of the team's backfield moving forward. He'll face a tough test against the 49ers, who have given up the fourth-fewest fantasy points per game (14.0) to running backs this season.",
      "slot": "BN"
     },
@@ -148,7 +148,7 @@
      "injury": "ACTIVE",
      "proj": 12.8,
      "last_week": null,
-     "owned_pct": 70.4,
+     "owned_pct": 70.5,
      "owned_change": 0.87,
      "outlook": "KC Concepcion and the Browns are home for a Week 12 clash against Las Vegas on Sunday Night Football. He corralled three of eight targets for 21 yards and rushed once for a six-yard TD during Cleveland's Week 10 victory. Concepcion finished second on the team in targets but was sixth in yardage, although he salvaged the outing with his first career rushing score. He draws a winnable matchup versus a Raiders defense allowing 33.5 fantasy points per game to opposing WRs.",
      "slot": "WR"
@@ -161,8 +161,8 @@
      "injury": "QUESTIONABLE",
      "proj": 0.0,
      "last_week": null,
-     "owned_pct": 75.3,
-     "owned_change": -0.38,
+     "owned_pct": 75.2,
+     "owned_change": -0.45,
      "outlook": "Denzel Boston and the Browns host the 4-7 Raiders on Sunday Night Football in Week 12. He brought in one of two targets for 16 yards during Cleveland's 27-24 win in Week 10. Boston struggled while appearing to aggravate a toe injury in the victory, but hopefully, the rookie has had enough time to get close to 100% following the team's bye. Boston will aim to find the end zone for the first time since Week 5 against a Las Vegas defense that's given up 13 TDs to the position, tied for fourth most in the league.",
      "slot": "BN"
     },
@@ -214,7 +214,7 @@
      "proj": 14.1,
      "last_week": 11.5,
      "owned_pct": 72.1,
-     "owned_change": -0.14,
+     "owned_change": -0.16,
      "outlook": "Bo Nix didn't need to do much in the Broncos' Week 11 win over the Raiders, as rookie running back Jonah Coleman carried the offense. Nix has thrown for 240-plus yards just once all season, and he's produced more than two TDs only once, as the Denver offense has mostly been stuck in neutral. Coleman's emergence could provide Nix with the security he needs to try to throw downfield more often. The third-year quarterback will take on a Steelers defense in Week 12 that ranks fifth in fantasy points per game allowed to QBs.",
      "slot": "BN"
     },
@@ -227,7 +227,7 @@
      "proj": 17.4,
      "last_week": 7.4,
      "owned_pct": 72.4,
-     "owned_change": 1.32,
+     "owned_change": 1.31,
      "outlook": "Kirk Cousins will look to bounce back in Week 12 as the Vikings play the Falcons. Cousins struggled against the 49ers for the second time this season, throwing for 235 yards with zero touchdowns and one interception in a Week 11 loss. With that being said, the veteran has played just two games with Minnesota this season, so he's still getting situated in his reunion. He'll face an Atlanta defense that's ranked 26th in fantasy points allowed to QBs this campaign.",
      "slot": "QB"
     }
@@ -332,7 +332,7 @@
      "proj": 0.0,
      "last_week": 22.4,
      "owned_pct": 34.9,
-     "owned_change": -0.91,
+     "owned_change": -0.93,
      "outlook": "Justin Herbert threw multiple touchdowns for the first time this season in the Chargers' Week 11 loss to the Jets, but he was placed in the concussion protocol after getting sacked six times. Both scores went to Ladd McConkey, but it was still an overall poor performance from Herbert, who failed to reach 200 passing yards for a third straight game. His 8:11 TD:INT ratio through 10 contests is awful, and an injury-ravaged offensive line has allowed Herbert to get sacked a league-high 39 times. If Herbert is cleared through the protocol in time, he'll face a Patriots defense in Week 12 that ranks 23rd in fantasy points per game allowed to QBs. If not, DJ Uiagalelei, who went undrafted out of Florida State in 2025, would likely get his first career NFL start.",
      "slot": "BN"
     },
@@ -396,8 +396,8 @@
      "injury": "ACTIVE",
      "proj": 10.9,
      "last_week": 11.5,
-     "owned_pct": 86.5,
-     "owned_change": 0.05,
+     "owned_pct": 86.6,
+     "owned_change": 0.04,
      "outlook": "T.J. Hockenson figures to be a top option in Minnesota's passing offense against the Falcons in Week 12. Hockenson was busy again in his return to the field against the 49ers in Week 11, catching six of seven targets for 55 yards. The veteran has now brought in four of more catches in each of his last four games. Atlanta has ranked middle-of-the-pack against fantasy TEs so far this season.",
      "slot": "BN"
     },
@@ -410,7 +410,7 @@
      "proj": 14.0,
      "last_week": 6.7,
      "owned_pct": 99.4,
-     "owned_change": -0.01,
+     "owned_change": -0.02,
      "outlook": "Jonathan Taylor has averaged just 16.3 touches over the Colts' last four games after averaging 22.4 touches in the first seven. Part of that decline has to do with the 3-8 Colts failing to remain competitive. Taylor has also started to cede a larger portion of rushing opportunities, including goal-line carries, to Seth McGowan, who won't suit up in Week 12 against the Giants due to a hamstring injury. Taylor remains too good to bench in most leagues, and perhaps Indianapolis' entire ground game will pick up the pace now that mobile, big-armed QB Anthony Richardson is running the show rather than Daniel Jones, but Taylor's nowhere near the top-five fantasy RB conversation at the moment. Treat the star RB as a fantasy RB2 for Week 12 against the Giants, who have been elite at defending the pass but rank in the middle of the pack against the run.",
      "slot": "RB"
     },
@@ -423,7 +423,7 @@
      "proj": 0.0,
      "last_week": 16.0,
      "owned_pct": 20.7,
-     "owned_change": -1.26,
+     "owned_change": -1.24,
      "outlook": "Aaron Rodgers and the Steelers look to remain undefeated at home when they host the Broncos on Black Friday in Week 12. He threw for 227 yards (30-of-44) with one TD and no INTs and rushed five times for 29 yards during Pittsburgh's Week 11 loss. The production was the most for Rodgers since he put up 253 passing yards in Week 6, as the Steelers' offense continued to underwhelm in a second straight defeat. The 42-year-old signal-caller will attempt to be more effective versus a Denver defense allowing 22.0 fantasy points per game (T-24th) to opposing QBs.",
      "slot": "QB"
     },
@@ -528,7 +528,7 @@
      "proj": 11.5,
      "last_week": 4.7,
      "owned_pct": 59.6,
-     "owned_change": 0.06,
+     "owned_change": 0.01,
      "outlook": "Jordan Mason will aim to make the most of his usage as the Vikings play the Falcons in Week 12. Mason rushed the ball 11 times for 38 yards and logged one catch for minus-1 yard in a Week 11 loss to the 49ers. He's now been unable to find the end zone since returning from injury in Week 7, and his receiving work has yet to make up for otherwise subpar rushing totals. Luckily, Atlanta has ranked 28th in fantasy points allowed to running backs this season.",
      "slot": "BN"
     },
@@ -541,7 +541,7 @@
      "proj": 8.3,
      "last_week": 9.4,
      "owned_pct": 65.9,
-     "owned_change": -0.56,
+     "owned_change": -0.57,
      "outlook": "Braelon Allen may garner enough work in the Jets' Week 12 matchup with the Dolphins to be viable. Despite Breece Hall's return to health, Allen has at least eight carries in three straight games, with the Jets being run-centric. He found ample holes in the Dolphins' front as a lead back in Week 7 and can repeat that per-touch success, worthy of flex consideration.",
      "slot": "BN"
     },
@@ -554,7 +554,7 @@
      "proj": 14.0,
      "last_week": 8.7,
      "owned_pct": 89.2,
-     "owned_change": -0.03,
+     "owned_change": -0.05,
      "outlook": "Ollie Gordon will look to repeat prior success when the Dolphins face the Jets for the second time this year in Week 12. He drew only 11 carries in Week 11, his lowest total since Week 4, but burst through for 6.3 yards per carry, also his best mark since Week 4. Gordon rushed for 103 yards on 25 carries against the Jets in Week 7. Their defense has allowed 4.6 yards per carry and eight rushing scores through 11 games, surrendering an additional four touchdown receptions, and Gordon is more involved in the passing game with McCord under center.",
      "slot": "BN"
     },
@@ -606,7 +606,7 @@
      "proj": 9.6,
      "last_week": 1.0,
      "owned_pct": 70.9,
-     "owned_change": -0.71,
+     "owned_change": -0.72,
      "outlook": "Spencer Shrader's stellar start is a distant memory. The struggling kicker has gone just 6-for-10 on field-goal attempts over the past five games after making all 18 of his attempts through Week 6. Indianapolis has switched QBs from Daniel Jones to Anthony Richardson after dropping six of its last seven games, but moving the ball will likely remain difficult for the Colts' underwhelming offense in Week 12 against the Giants, who allow the seventh-fewest scrimmage yards (310.5) and 12th-fewest points (21.4) per game. Shrader is a risky Week 12 fantasy option.",
      "slot": "K"
     },
@@ -619,7 +619,7 @@
      "proj": 6.8,
      "last_week": 5.0,
      "owned_pct": 85.2,
-     "owned_change": -0.21,
+     "owned_change": -0.27,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -685,7 +685,7 @@
      "proj": 0.0,
      "last_week": 0.0,
      "owned_pct": 80.2,
-     "owned_change": -0.16,
+     "owned_change": -0.17,
      "outlook": "",
      "slot": "IR"
     },
@@ -698,7 +698,7 @@
      "proj": 0.0,
      "last_week": null,
      "owned_pct": 79.9,
-     "owned_change": -0.53,
+     "owned_change": -0.54,
      "outlook": "A.J. Brown seems unlikely to play in Week 12 when the Patriots face the Chargers due to lingering hamstring issues. Mack Hollins, DeMario Douglas, Efton Chism and Kyle Williams could see elevated roles, but with Tommy DeVito under center, all will be volatile options.",
      "slot": "BN"
     },
@@ -711,7 +711,7 @@
      "proj": 11.7,
      "last_week": 20.7,
      "owned_pct": 85.5,
-     "owned_change": 0.27,
+     "owned_change": 0.26,
      "outlook": "Ladd McConkey made his mark in the red zone during the Chargers' Week 11 loss to the Jets, catching five of eight targets for 37 yards and two touchdowns. The third-year wide receiver hadn't found the end zone since Week 1 as he endures an injury-plagued season, but when he's been in the lineup, he's been Justin Herbert's clear top option. Unfortunately, it could be Herbert's turn on the sideline, as the quarterback was diagnosed with a concussion after the loss to the Jets. McConkey's outlook would get a big downgrade if DJ Uiagalelei is under center for his first career NFL start, but regardless of who is throwing him the ball, he'll be facing a Patriots secondary that ranks an enticing 31st in fantasy points per game allowed to WRs.",
      "slot": "WR"
     },
@@ -737,7 +737,7 @@
      "proj": 9.9,
      "last_week": 1.2,
      "owned_pct": 84.2,
-     "owned_change": -0.02,
+     "owned_change": -0.05,
      "outlook": "In Week 12, DK Metcalf and the Steelers look to stay undefeated at home when they battle the Broncos on Black Friday. He caught one of four targets for two yards before being ejected in the third quarter of Pittsburgh's Week 11 loss. Metcalf's season continues to spiral out of control, and luckily for him, the veteran receiver will not face a suspension from the league following the scuffle. Metcalf will be on the field versus Denver, but he should remain on fantasy benches.",
      "slot": "BN"
     },
@@ -750,7 +750,7 @@
      "proj": 9.0,
      "last_week": 8.0,
      "owned_pct": 59.5,
-     "owned_change": -0.2,
+     "owned_change": -0.22,
      "outlook": "Cameron Dicker hasn't missed a kick since Week 3, going 16-for-16 on field goal attempts and 10-for-10 on PATs over the last seven games. The Chargers' struggling offense hasn't provided him with consistent opportunities, but Dicker's reliability provides him with a solid floor. With Justin Herbert in the concussion protocol, DJ Uiagalelei could be in line to make his first career NFL start at quarterback, adding a lot more uncertainty to the picture. Even if Herbert plays, Dicker will be a volatile option at kicker in Week 12 against a Patriots team allowing 24.2 points per game, 19th in the league.",
      "slot": "K"
     },
@@ -763,7 +763,7 @@
      "proj": 0.0,
      "last_week": 22.2,
      "owned_pct": 98.2,
-     "owned_change": -0.26,
+     "owned_change": -0.27,
      "outlook": "Brock Purdy will face another tough defense when the 49ers host Seattle in Week 12. The star quarterback solved Minnesota's previously stingy defense this past Sunday in a 35-10 victory in Mexico City, throwing for 255 yards with three touchdowns and no interceptions. Purdy and San Francisco's offense seems to be firing on all cylinders right now, especially after the return of All-Pro wideout Mike Evans. Still, the Seahawks could present a stiffer test than most, as they have yielded the fewest fantasy points per game (14.1) to quarterbacks and held Purdy to a season-low 189 passing yards in their first meeting Week 5.",
      "slot": "BN"
     },
@@ -776,7 +776,7 @@
      "proj": 10.1,
      "last_week": 7.7,
      "owned_pct": 82.9,
-     "owned_change": -0.11,
+     "owned_change": -0.13,
      "outlook": "Deebo Samuel continues to be a Swiss Army knife for San Francisco heading into a Week 12 tilt against the Seahawks. In this past Sunday's win over the Vikings, Samuel recorded two carries for 27 yards, caught three of four targets for 20 yards and returned two kickoffs for 57 yards. While that might not add up to substantial fantasy production, Samuel's skill set could be invaluable for the 49ers against a tough defense like the Seahawks'. Seattle has given up the fewest yards per target (5.89) to wideouts this season, so San Francisco may look to be creative in order to push the ball downfield.",
      "slot": "BN"
     },
@@ -801,8 +801,8 @@
      "injury": "ACTIVE",
      "proj": 7.1,
      "last_week": 15.0,
-     "owned_pct": 90.3,
-     "owned_change": -0.09,
+     "owned_pct": 90.4,
+     "owned_change": -0.12,
      "outlook": "",
      "slot": "BN"
     },
@@ -827,8 +827,8 @@
      "injury": "ACTIVE",
      "proj": 9.4,
      "last_week": 10.6,
-     "owned_pct": 63.3,
-     "owned_change": 0.21,
+     "owned_pct": 63.4,
+     "owned_change": 0.15,
      "outlook": "Chig Okonkwo continues to serve as an excellent safety valve for the Commanders. Okonkwo reeled in four passes for 66 yards in the stunning 22-20 win over the Bengals. Okonkwo has at least four catches in five of his last six games played, though he is still looking for his first touchdown of the season. In Week 12, Chig will face a lackluster Arizona pass defense. The Cardinals are allowing 226.4 passing yards per tilt, which is 20th in the NFL. In addition, the Cardinals have surrendered the most passing touchdowns in the league to date.",
      "slot": "BN"
     },
@@ -841,7 +841,7 @@
      "proj": 12.0,
      "last_week": 7.6,
      "owned_pct": 85.5,
-     "owned_change": -0.09,
+     "owned_change": -0.11,
      "outlook": "Travis Etienne is expected to remain the Saints' top rusher during the Week 12 matchup against the Bengals. In his two games since returning from a hamstring injury, Etienne has accumulated 90 rushing yards (4.1 yards per carry) and 20 receiving yards without finding the end zone. Despite his lack of production, Etienne was received 14 of the Saints' 16 running back carries during the Week 11 loss to the Bears, suggesting he's got a firm hold on the No. 1 role. Etienne is also in for an unfavorable matchup, as Cincinnati has allowed just 20.8 points per game to opposing running backs this season.",
      "slot": "FLEX"
     },
@@ -867,7 +867,7 @@
      "proj": 8.1,
      "last_week": 3.0,
      "owned_pct": 61.2,
-     "owned_change": 0.31,
+     "owned_change": 0.29,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -933,7 +933,7 @@
      "proj": 10.3,
      "last_week": 3.8,
      "owned_pct": 90.4,
-     "owned_change": -0.15,
+     "owned_change": -0.16,
      "outlook": "Emeka Egbuka is expected to remain the Buccaneers' top wideout during the Week 12 matchup against the Panthers, Egbuka was relatively quiet during the Week 11 loss to the Lions, catching two of five targets for 18 yards. The second-year wideout has struggled to find his footing since returning from injury in the Week 9 loss to the Bears, catching just five of 10 targets for 56 yards in two contests. Despite this, he's expected to remain the team's top receiving option against a Carolina defense that's allowed 31.9 fantasy points per game to opposing WR groups this season.",
      "slot": "FLEX"
     },
@@ -972,7 +972,7 @@
      "proj": 8.4,
      "last_week": null,
      "owned_pct": 73.2,
-     "owned_change": -0.08,
+     "owned_change": -0.09,
      "outlook": "Kyle Pitts is expected to remain one of Atlanta's top pass catchers during the Week 12 matchup against the Vikings. Pitts has been relatively inconsistent this year, catching 29 of 42 targets for 270 yards and four touchdowns. He's tallied fewer than 10 fantasy points in seven of 10 games this season, making him hard to trust as a weekly fantasy starter. This is especially true due to a difficult matchup in Week 12, as Minnesota's defense has allowed just 9.9 fantasy points per game to opposing tight ends this season, the best mark in the NFL.",
      "slot": "TE"
     },
@@ -985,7 +985,7 @@
      "proj": 7.4,
      "last_week": 0.0,
      "owned_pct": 62.3,
-     "owned_change": -0.15,
+     "owned_change": -0.14,
      "outlook": "Courtland Sutton disappeared from the game plan in the Broncos' Week 11 win over the Raiders, failing to catch either of his two targets. It's the first time since Week 7 of the 2024 season he hasn't caught a pass, but with the offense leaning more heavily on rookie running back Jonah Coleman, there hasn't been much need for Bo Nix to air it out. Sutton is on pace to fall short of 500 receiving yards over a full season for the first time in his career, and fail to reach 50 catches for the first time since he was a rookie in 2018. He'll be a risky play in Week 12 against a Steelers secondary that ranks 12th in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -1011,7 +1011,7 @@
      "proj": 6.3,
      "last_week": null,
      "owned_pct": 85.5,
-     "owned_change": -0.26,
+     "owned_change": -0.27,
      "outlook": "",
      "slot": "BN"
     },
@@ -1024,7 +1024,7 @@
      "proj": 4.9,
      "last_week": 7.2,
      "owned_pct": 56.6,
-     "owned_change": -0.76,
+     "owned_change": -0.75,
      "outlook": "Alvin Kamara will likely play a minimal offensive role during the Saints' Week 12 matchup against the Bengals. Despite finding the end zone during the Week 11 loss to the Saints, Kamara played just eight offensive snaps while Travis Etienne and CJ Donaldson each played 32. Additionally, Kamara has received just seven touches over the Saints' last two games, suggesting his role in the offense has diminished. Expect Kamara to have minimal value in Week 12 against a Bengals defense that's given up just 294 receiving yards to RBs through nine games this year.",
      "slot": "BN"
     },
@@ -1036,8 +1036,8 @@
      "injury": "ACTIVE",
      "proj": 7.8,
      "last_week": 7.0,
-     "owned_pct": 48.8,
-     "owned_change": -0.46,
+     "owned_pct": 48.7,
+     "owned_change": -0.47,
      "outlook": "Tre Tucker has yet to get on the same page as new starting quarterback Fernando Mendoza. Tucker recorded 10 targets in the Raiders' Week 11 loss to the Broncos, but he was able to haul in just two for 50 yards. Meanwhile, Jack Bech posted an 8-88-1 line on nine targets, and he may be making a push to replace Tucker as the team's No. 1 wide receiver. Tucker will attempt to prove he deserves to continue seeing high volume from Mendoza in Week 12 against a Browns secondary that ranks 14th in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -1142,7 +1142,7 @@
      "proj": 15.5,
      "last_week": null,
      "owned_pct": 93.2,
-     "owned_change": 0.1,
+     "owned_change": 0.09,
      "outlook": "In Week 12, Quinshon Judkins and the Browns welcome the Raiders to town on Sunday Night Football. He had 10 carries for 38 yards and a touchdown and caught three of five targets for 33 yards during Cleveland's Week 10 win. Judkins has struggled to find running room in 2026, rushing 126 times for 423 yards (3.4 YPC) and four scores, but there's hope that could change in Week 12. Las Vegas allows 26.9 fantasy points per game (28th) to RBs and just gave up 133 yards and three TDs on the ground in their latest outing.",
      "slot": "BN"
     },
@@ -1168,7 +1168,7 @@
      "proj": 11.3,
      "last_week": 15.4,
      "owned_pct": 86.5,
-     "owned_change": -0.12,
+     "owned_change": -0.13,
      "outlook": "David Montgomery rushed for a season-high 107 yards in Week 11 against the Colts, successfully returning to action from a groin injury that had sidelined him since Week 5. Montgomery handled 29 touches in a workhorse role due to the absence of Woody Marks (concussion), who has a chance to return in Week 12 against the Ravens. If Marks plays, both Houston RBs would be solid flex plays, likely working in a timeshare. Should Marks sit again, Montgomery would be a high-end RB2 with another heavy workload anticipated against a Ravens run defense that allowed Omarion Hampton and Chuba Hubbard to rush for a combined 225 yards and three TDs over the past two games. Montgomery is averaging a meager 3.1 yards per carry, so he relies on volume and scoring opportunities to counteract his poor efficiency.",
      "slot": "RB"
     },
@@ -1181,7 +1181,7 @@
      "proj": 11.8,
      "last_week": 13.8,
      "owned_pct": 85.8,
-     "owned_change": 0.0,
+     "owned_change": -0.02,
      "outlook": "Carnell Tate got into his first game action since Week 7 and scored a 59-yard touchdown in his return from a shoulder injury in Week 11 against the Cowboys. His other four targets went for a combined minus-1 yard, and Tate finished third on the Titans in both receiving yards and targets, trailing Chimere Dike and Calvin Ridley. Tate continues to have the highest ceiling among Tennessee's pass catchers, and the team's entire offense has been trending up lately, even though that improvement hasn't translated to wins heading into a Week 12 trip to Jacksonville. This will be Tate's first encounter with a Jaguars defense that's allowing 162 yards per game to WRs but has held the position to five TDs, as he missed the Week 10 meeting between these AFC South rivals. The rookie, fourth overall pick is a solid fantasy WR3 or flex option.",
      "slot": "WR"
     },
@@ -1298,7 +1298,7 @@
      "proj": 10.4,
      "last_week": 2.0,
      "owned_pct": 67.5,
-     "owned_change": -0.66,
+     "owned_change": -0.69,
      "outlook": "Jordyn Tyson will look to bounce back from a rough performance during the Saints' Week 12 matchup against the Bengals. After catching 11 of 13 targets for 80 yards during the Week 10 loss to the Panthers, Tyson was a non-factor in Week 11, logging one reception for six yards. He remains firmly behind Chris Olave in the team's WR corps but could still be valuable for fantasy purposes, with quarterback Tyler Shough averaging the second-most pass attempts per game (38.5) in the NFL. Tyson could struggle in Week 12, however, with Cincinnati's secondary allowing just 7.5 yards per target to opposing wideouts this year.",
      "slot": "FLEX"
     }
@@ -1351,7 +1351,7 @@
      "proj": 14.3,
      "last_week": 6.9,
      "owned_pct": 97.7,
-     "owned_change": 0.03,
+     "owned_change": 0.02,
      "outlook": "Garrett Wilson brings inconsistent volume into the Jets' Week 12 matchup with the Dolphins. Wilson drew only five targets in Week 11, with the Jets attempting only 21 passes, and quarterback Geno Smith has not completed 20 passes for three straight outings. Wilson has four games with double-digit targets and four games with 44 receiving yards or fewer through 10 games. With the Jets likely to remain run-first, Wilson's workload could be limited facing a secondary that's allowing a whopping 9.2 yards per target but the fourth-fewest fantasy points per game to receivers due to limited volume.",
      "slot": "FLEX"
     },
@@ -1377,7 +1377,7 @@
      "proj": 0.0,
      "last_week": 8.3,
      "owned_pct": 95.7,
-     "owned_change": -0.19,
+     "owned_change": -0.23,
      "outlook": "Bhayshul Tuten aggravated an ankle injury in Jacksonville's previous game. However, he reportedly avoided a serious injury and could still suit up in Week 12 against the Titans. The 2025 fourth-round pick hasn't missed a game during his second NFL year, though Tuten had a season-low 29 yards in Week 9 while playing through this ankle injury and just posted his second-lowest total of the season with 53 scrimmage yards in Week 11. If Tuten gets the green light, he can be plugged in as a fantasy RB2 against a Titans defense that's allowing 133 scrimmage yards per game to RBs, despite his injury concerns. Should Tuten sit, Chris Rodriguez would be in line to lead Jacksonville's ground game, while LeQuint Allen and Ameer Abdullah offer receiving upside out of the backfield.",
      "slot": "RB"
     },
@@ -1390,7 +1390,7 @@
      "proj": 7.5,
      "last_week": 3.2,
      "owned_pct": 91.1,
-     "owned_change": -0.35,
+     "owned_change": -0.37,
      "outlook": "Tyler Warren has been held to just three catches in two games since the Colts traded starting WRs Josh Downs and Keenan Allen. Rather than collecting even more targets as the team's top remaining pass catcher, Warren has struggled to create separation as defenses have focused on stopping him. Warren can't sink much lower following the Colts' QB change from Daniel Jones to Anthony Richardson, even though Richardson's 15-game sample as an NFL starter suggests he's more likely to air it out deep to wide receivers or take off running than find his TE on a short or intermediate route. Week 12 against the Giants will mark the first time that Warren, a 2025 first-round pick, and Richardson, a 2023 first-round pick, start in the same game. Benching Warren is justifiable if you have a solid alternative, but leaving him in and hoping for a spark with Richardson is defensible.",
      "slot": "TE"
     },
@@ -1480,7 +1480,7 @@
      "injury": "ACTIVE",
      "proj": 6.8,
      "last_week": 3.4,
-     "owned_pct": 57.9,
+     "owned_pct": 57.8,
      "owned_change": -0.59,
      "outlook": "In Week 12, Mark Andrews and the Ravens are back on the road to battle the Texans. He brought in two of three targets for 14 yards during Baltimore's loss in Week 11. Andrews' follow-up to his season-best performance in Week 10 was disappointing, especially when considering Jacoby Brissett attempted 37 passes and the Ravens scored 33 points. Next up for Andrews is a Houston defense allowing 10.0 fantasy points per game to TEs, the second-lowest mark in the league.",
      "slot": "BN"
@@ -1520,7 +1520,7 @@
      "proj": 14.1,
      "last_week": 12.5,
      "owned_pct": 77.9,
-     "owned_change": 1.59,
+     "owned_change": 1.63,
      "outlook": "Jakobi Meyers has drawn at least six targets in four of Jacksonville's last five games, reaching 10 targets twice over that span. His decent volume as the Jaguars' No. 2 WR makes Meyers an appealing Week 12 flex option against Tennessee's league-worst secondary, which is allowing an average of 16 catches for 210 yards per game to wide receivers. Meyers turned six targets into just three catches for 34 yards in Week 10 at Tennessee, but he's capable of producing a more impressive stat line in this home rematch as he tries to snap a TD drought that dates back to Week 3.",
      "slot": "BN"
     }
@@ -1650,8 +1650,8 @@
      "injury": "ACTIVE",
      "proj": 10.3,
      "last_week": 11.3,
-     "owned_pct": 82.1,
-     "owned_change": -0.06,
+     "owned_pct": 82.0,
+     "owned_change": -0.08,
      "outlook": "Aaron Jones will look to keep his touchdown streak alive as the Vikings play the Falcons in Week 12. Jones rushed the ball eight times for 30 yards and a touchdown, and he caught one pass for 13 yards in a Week 11 loss to the 49ers. While the committee approach of Minnesota's backfield hasn't allowed for dominance for him or Jordan Mason, Jones has been the one to find the end zone more often. Atlanta has ranked 28th in fantasy points allowed to running backs this campaign.",
      "slot": "BN"
     },
@@ -1716,7 +1716,7 @@
      "proj": 5.1,
      "last_week": 2.0,
      "owned_pct": 8.6,
-     "owned_change": -0.19,
+     "owned_change": -0.18,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1729,7 +1729,7 @@
      "proj": 14.2,
      "last_week": 16.0,
      "owned_pct": 72.0,
-     "owned_change": -0.48,
+     "owned_change": -0.49,
      "outlook": "Bryce Young is expected to continue leading Carolina's offense into the Week 12 matchup against the Buccaneers. Young performed well during the Week 11 win over the Ravens, throwing for 254 yards, two touchdowns and an interception while posting his best single-game completion rate of the season (73.3%). Although Carolina has relied more on Chuba Hubbard and the rushing attack over the last couple of weeks, Young remains eighth in the NFL in pass attempts per game (36.8), which bodes well for his fantasy outlook rest-of-season. Despite this, Young could struggle against a solid Buccaneers defense that's allowed just 18.3 fantasy points per game to opposing quarterbacks this season.",
      "slot": "QB"
     },
@@ -1808,7 +1808,7 @@
      "proj": 6.3,
      "last_week": 7.0,
      "owned_pct": 85.4,
-     "owned_change": -0.38,
+     "owned_change": -0.36,
      "outlook": "",
      "slot": "D/ST"
     },
@@ -1834,7 +1834,7 @@
      "proj": 5.7,
      "last_week": 1.4,
      "owned_pct": 26.4,
-     "owned_change": -0.68,
+     "owned_change": -0.66,
      "outlook": "Michael Mayer wasn't able to take advantage of Brock Bowers' absence during the Raiders' Week 11 loss to the Broncos, catching just one of four targets for a mere four yards. Depth tight end Ian Thomas also rubbed a little salt in the wound for Mayer's fantasy investors by catching a 19-yard touchdown from Fernando Mendoza. Bowers is expected back in Week 12, but even if he remains sidelined, Mayer's usage will make him a risky option, even against a Browns defense that ranks 22nd in fantasy points per game allowed to TEs.",
      "slot": "BN"
     },
@@ -1847,7 +1847,7 @@
      "proj": 6.0,
      "last_week": 6.8,
      "owned_pct": 47.9,
-     "owned_change": -0.63,
+     "owned_change": -0.64,
      "outlook": "Keenan Allen has served as a steadying presence in the 49ers' wideout corps ahead of a key NFC West clash against Seattle in Week 12. In his two games since joining San Francisco, Allen has caught eight passes for 99 yards on 11 targets, with seven of those catches resulting in a first down. The veteran wideout is one of many pass-catching mouths for QB Brock Purdy to feed, along with fellow vets Mike Evans, Deebo Samuel and George Kittle. The team's WR corps will have to battle a tested Seahawks defense that has given up the second-fewest receptions per game (9.0) to wideouts this season.",
      "slot": "BN"
     },
@@ -1886,7 +1886,7 @@
      "proj": 6.7,
      "last_week": 10.0,
      "owned_pct": 37.7,
-     "owned_change": -0.28,
+     "owned_change": -0.26,
      "outlook": "Germie Bernard and the Steelers play host to the Broncos in a Week 12 clash on Black Friday. He caught six of 10 targets for 40 yards during Pittsburgh's Week 10 defeat. Bernard led his team in targets, tied for first in receptions, and finished third in yardage after failing to record a catch in his last outing. The talented rookie will look to build upon that performance versus a stout Denver defense that ranks sixth in fantasy points allowed per game (28.1) to opposing WRs.",
      "slot": "BN"
     },
@@ -1899,7 +1899,7 @@
      "proj": 21.4,
      "last_week": 20.5,
      "owned_pct": 89.2,
-     "owned_change": 0.56,
+     "owned_change": 0.55,
      "outlook": "C.J. Stroud has thrown 16 touchdown passes in his last five games as he tries to carry the Texans and keep their playoff hopes alive. The surging QB is a top-10 fantasy option at his position in Week 12 against a reeling Ravens defense that has allowed at least 33 points in four of the past five games. Baltimore is on a six-game losing streak, which makes this game close to a must-win for the 4-6 Texans, who trail the Browns and Steelers by two games apiece and the Patriots by one game in the battle for the last two AFC wild-card spots. Houston has gotten subpar efficiency from its RBs, who are averaging a collective 3.6 yards per carry, so Stroud has routinely been asked to carry the offense. He has mostly been up to the task, ranking sixth in the league with 266 passing yards per game and tied for fourth with 22 touchdown passes.",
      "slot": "BN"
     },
@@ -1912,7 +1912,7 @@
      "proj": 12.6,
      "last_week": 8.5,
      "owned_pct": 88.7,
-     "owned_change": 0.15,
+     "owned_change": 0.14,
      "outlook": "Stefon Diggs finished second on the team in targets last game for Washington. Diggs saw six looks en route to four catches for 45 yards in the thrilling 22-20 win over Cincy. Diggs has at least three catches in every game played this season, though has gone over 50 yards receiving on just three occasions. In Week 12, Diggs will face a lackluster Arizona pass defense. The Cardinals are allowing 226.4 passing yards per tilt, which is 20th in the NFL. In addition, the Cardinals have surrendered the most passing touchdowns in the league to date.",
      "slot": "WR"
     },
@@ -1925,7 +1925,7 @@
      "proj": 16.9,
      "last_week": 34.9,
      "owned_pct": 92.6,
-     "owned_change": 0.11,
+     "owned_change": 0.1,
      "outlook": "Jonah Coleman cemented himself as the Broncos' No. 1 running back with a stunning performance in a Week 11 win over the Raiders. The fourth-round rookie romped for 129 scrimmage yards on 28 touches while scoring three rushing touchdowns, extending his streak of games with at least one score to three. Coleman appears capable of handling a bell-cow workload and a three-down role, but he could face competition for passing-down snaps once RJ Harvey is cleared to return from a knee injury. Coleman will face a Steelers defense in Week 12 that's tied for 17th in fantasy points per game allowed to RBs.",
      "slot": "FLEX"
     },
@@ -1938,7 +1938,7 @@
      "proj": 3.5,
      "last_week": 2.0,
      "owned_pct": 10.9,
-     "owned_change": -0.31,
+     "owned_change": -0.3,
      "outlook": "Devin Singletary managed just two touches last game for the Giants. Singletary has just three touches over the last two contests, and even with starter Cam Skattebo fumbling, Singletary continues to serve mostly as depth. Singletary is also averaging just 2.9 yards per carry this season, which has not helped his cause. In Week 12, he could find some room to roam against the lowly Colts, though.  Indianapolis is allowing 134.4 rushing yards per tilt, which is 29th in the NFL.",
      "slot": "BN"
     },
@@ -1950,8 +1950,8 @@
      "injury": "ACTIVE",
      "proj": 15.6,
      "last_week": 5.1,
-     "owned_pct": 37.5,
-     "owned_change": 10.63,
+     "owned_pct": 38.0,
+     "owned_change": 11.11,
      "outlook": "Chris Rodriguez could make a spot start for the Jaguars in a juicy Week 12 matchup against the 1-9 Titans if Bhayshul Tuten (ankle) sits out, in which case Rodriguez would have fantasy RB2 upside. If Tuten suits up, Rodriguez would remain in the deep-league flex conversation as Jacksonville's change-of-pace RB against a Tennessee defense that has allowed 44.7 points per game in its last three. The Jaguars scored 40 points against the Titans in Week 10, though Rodriguez was limited to a season-low five rushing yards in that game while Tuten racked up 113 scrimmage yards and a TD.",
      "slot": "BN"
     }
@@ -1991,7 +1991,7 @@
      "proj": 12.7,
      "last_week": 10.3,
      "owned_pct": 91.9,
-     "owned_change": -0.01,
+     "owned_change": -0.02,
      "outlook": "Omarion Hampton has re-established himself as the clear No. 1 option in the Chargers' backfield. Over the last three games, the second-year running back has turned 49 carries into 254 rushing yards and a touchdown, averaging a robust 5.2 yards per carry. Keaton Mitchell picked up a knee injury in a Week 11 loss to the Jets, which could leave Kimani Vidal as the primary backup. Hampton will look to keep surging in Week 12 against a Patriots defense that's tied for 17th in fantasy points per game allowed to RBs.",
      "slot": "BN"
     },
@@ -2017,7 +2017,7 @@
      "proj": 10.1,
      "last_week": 9.1,
      "owned_pct": 84.7,
-     "owned_change": 0.0,
+     "owned_change": -0.01,
      "outlook": "Jaylen Waddle continues to struggle to make a big difference in the Broncos' passing game. In a Week 11 win over the Raiders, the former Dolphin caught three of six targets for 61 yards, his highest yardage total since Week 2. Waddle is on pace to record fewer than 700 receiving yards in a season for the first time, and with the Denver offense leaning more heavily on rookie running back Jonah Coleman, Bo Nix hasn't had to air it out much. Waddle seems unlikely to break out in Week 12 against a Steelers secondary that ranks 12th in fantasy points per game allowed to WRs.",
      "slot": "BN"
     },
@@ -2030,7 +2030,7 @@
      "proj": 22.0,
      "last_week": 17.1,
      "owned_pct": 96.0,
-     "owned_change": 0.26,
+     "owned_change": 0.25,
      "outlook": "Jayden Daniels did not record a touchdown last game for the Commanders.  However, he threw for 289 yards and rushed for an additional 55 yards in the surprising 22-20 win over the Bengals. It was the second-highest passing total of the season for Daniels, and his third-highest rushing total of the year. Daniels has a tasty matchup in Week 12 versus a suspect Cardinals defense allowing 355.2 scrimmage yards per game, which is 26th in the NFL. In addition, Arizona is allowing 29.4 points per tilt, which is 31st in the league.",
      "slot": "QB"
     },
@@ -2056,7 +2056,7 @@
      "proj": 13.1,
      "last_week": null,
      "owned_pct": 89.1,
-     "owned_change": 0.01,
+     "owned_change": 0.0,
      "outlook": "Rhamondre Stevenson could see heavy volume for the Patriots in Week 12 against the Chargers, with Tommy DeVito unlikely to spark the passing game. Emerging from a Week 11 bye, Stevenson can hopefully avoid an injury designation after a knee issue limited him to 36 yards on 12 carries over his last two outings. Facing a stacked front, Stevenson will rely on volume to beat a defense that's allowing 4.1 yards per carry and 10 touchdowns to backs in as many games, landing him in RB2/flex territory.",
      "slot": "BN"
     },
@@ -2108,7 +2108,7 @@
      "proj": 10.5,
      "last_week": 15.0,
      "owned_pct": 36.7,
-     "owned_change": 0.15,
+     "owned_change": 0.16,
      "outlook": "Dominic Zvada missed yet another field goal last game for the Giants. The inconsistent rookie actually connected on three field goals from 40-plus yards out, but somehow missed a 32-yarder in the 23-18 win over the Jags. It was the seventh miss of the season for Zvada, which is tied for the league-lead. Zvada still appears to have his job heading into Week 12 versus the Colts, though. Indy is allowing 27 points per game, which is 28th in the NFL.",
      "slot": "BN"
     },
@@ -2134,7 +2134,7 @@
      "proj": 8.5,
      "last_week": 13.7,
      "owned_pct": 22.5,
-     "owned_change": 0.13,
+     "owned_change": 0.12,
      "outlook": "Samaje Perine and the Bengals return home to host the 3-7 Saints in Week 12. He had six carries for 26 yards and caught all four targets for 71 yards during Cincinnati's Week 11 defeat. Perine finished with one fewer touch than starter Chase Brown, but Perine was much more productive. Perine could be a sneaky fantasy play versus a New Orleans defense allowing 28.5 fantasy points per game (31st) to opposing RBs.",
      "slot": "RB"
     },
@@ -2160,7 +2160,7 @@
      "proj": 7.5,
      "last_week": 14.0,
      "owned_pct": 66.3,
-     "owned_change": 0.27,
+     "owned_change": 0.25,
      "outlook": "",
      "slot": "D/ST"
     }
@@ -2177,7 +2177,7 @@
    "proj": 11.0,
    "last_week": null,
    "owned_pct": 90.3,
-   "owned_change": -0.01,
+   "owned_change": -0.02,
    "outlook": "Will Reichard will look to bounce back as the Vikings play the Falcons in Week 12. Reichard went 1-for-3 on field-goal attempts and made one XPA in a Week 11 loss to the 49ers. Fortunately, those misses were just his second and third of the season, so there aren't currently any blaring warning signs of regression. He'll face a Falcons squad that's ranked top 10 versus fantasy kickers this campaign."
   },
   {
@@ -2201,7 +2201,7 @@
    "proj": 5.5,
    "last_week": null,
    "owned_pct": 84.2,
-   "owned_change": 0.07,
+   "owned_change": 0.04,
    "outlook": ""
   },
   {
@@ -2237,7 +2237,7 @@
    "proj": 9.0,
    "last_week": null,
    "owned_pct": 74.4,
-   "owned_change": -0.42,
+   "owned_change": -0.45,
    "outlook": "Jalen Coker (concussion) is expected to remain one of Carolina's top weapons if active for the Week 12 matchup against the Buccaneers. Coker entered concussion protocol following a four-catch, 47 yard performance in a win over the Ravens in Week 11, putting his availability for Monday night's contest in jeopardy. He's been relatively underwhelming over his last five games, catching 11 of 25 targets for 121 yards and one touchdown. If active, Coker will likely struggle against an impressive Tampa Bay secondary that's given up just 7.6 yards per target to opposing wideouts this season."
   },
   {
@@ -2273,7 +2273,7 @@
    "proj": 11.4,
    "last_week": null,
    "owned_pct": 64.6,
-   "owned_change": 0.48,
+   "owned_change": 0.46,
    "outlook": "Jacory Croskey-Merritt found the end zone in his return from injury for the Commanders.  Bill rushed 13 times for 54 yards and the score in the surprising 22-20 win over the Bengals. He nearly doubled up backup Austin Ekeler in terms of carries. Croskey-Merritt also caught two passes for 23 yards out of the backfield. Bill looks to be the featured back heading into a juicy matchup with the Cardinals. Arizona is allowing 128.8 rushing yards per tilt, which is 27th in the league. Likewise, Arizona has yielded 12 rushing touchdowns on the season, which is tied for 22nd in the NFL."
   },
   {
@@ -2297,7 +2297,7 @@
    "proj": 14.5,
    "last_week": null,
    "owned_pct": 60.2,
-   "owned_change": -0.15,
+   "owned_change": -0.16,
    "outlook": "Tyler Shough is expected to continue leading the Saints' offense into the Week 12 matchup against the Bengals. Shough has been held in check over the last two weeks, averaging 204.5 passing yards, one touchdown and one interception per game during that stretch. Despite this, Shough ranks second in the NFL in pass attempts per game (38.5), suggesting more fantasy value is imminent as the season progresses. Additionally, he's in for a favorable Week 12 matchup against a Bengals defense that's allowed 20.9 fantasy points per game through nine contests this season."
   },
   {
@@ -2309,7 +2309,7 @@
    "proj": 9.2,
    "last_week": null,
    "owned_pct": 59.6,
-   "owned_change": -0.13,
+   "owned_change": -0.15,
    "outlook": "Kenny Gainwell is expected to operate as Tampa Bay's No. 2 running back during the Week 12 matchup against the Panthers. Despite playing behind Bucky Irving, Gainwell has emerged as one of the top playmakers on this Buccaneers offense. Over the team's last four contests, Gainwell has averaged 90.8 scrimmage yards per game but hasn't found the end zone. He could be a valuable fantasy asset in Week 12, as Tampa Bay is set to face a Carolina defense that's allowed the most fantasy points per game to opposing running backs (28.6) in the NFL this year."
   },
   {
@@ -2321,7 +2321,7 @@
    "proj": 1.7,
    "last_week": null,
    "owned_pct": 55.2,
-   "owned_change": -1.16,
+   "owned_change": -1.14,
    "outlook": "Rachaad White dressed last game for the Commanders, but did not record a carry. Perhaps his heel issue was more concerning than initially thought, as Jacory Croskey-Merritt had 13 carries against the Bengals, while Austin Ekeler registered seven. Croskey-Merritt's return from injury likely relegates White to backup duty in Week 12 versus Arizona anyway, though the matchup is extremely favorable. The Cardinals are allowing 128.8 rushing yards per clash, which is 27th in the NFL."
   },
   {
@@ -2345,7 +2345,7 @@
    "proj": 10.2,
    "last_week": null,
    "owned_pct": 54.2,
-   "owned_change": -0.69,
+   "owned_change": -0.71,
    "outlook": "Tank Dell has just six catches for 48 yards in two games since his 105-yard outburst in Week 9, which included a 63-yard touchdown catch. A Week 12 home game against the Ravens offers Dell a chance to showcase his ability to generate big plays, as Baltimore's struggling defense has allowed at least 33 points to four of its last five opponents. Dell has a high enough ceiling to warrant flex consideration in most formats, though his floor remains shaky as he competes for targets in a deep Texans WR room that also includes Nico Collins, Xavier Hutchinson, Kayshon Boutte (hip), and Marvin Harrison (hamstring)."
   },
   {
@@ -2357,7 +2357,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 53.4,
-   "owned_change": -0.38,
+   "owned_change": -0.36,
    "outlook": "J.K. Dobbins has faded into a depth role in the Broncos' backfield with the emergence of rookie Jonah Coleman. Dobbins has handled single-digit touches in four straight games, and in a Week 11 win over the Raiders, he saw only one snap on offense, gaining zero yards on his only carry. The veteran's main path to fantasy relevance was through volume, and that no longer appears to be open while Coleman is healthy and effective. Dobbins will try to win back a little more work in Week 12 against a Steelers defense that's tied for 17th in fantasy points per game allowed to RBs."
   },
   {
@@ -2380,7 +2380,7 @@
    "injury": "ACTIVE",
    "proj": 8.3,
    "last_week": null,
-   "owned_pct": 50.9,
+   "owned_pct": 50.8,
    "owned_change": -0.64,
    "outlook": "Tyler Allgeier may be losing his grasp on the Cardinals' starting RB role ahead of a Week 12 matchup versus the Commanders. Allgeier couldn't get much going this past Sunday in a loss to Kansas City, managing just 23 yards on seven carries. Meanwhile, Bam Knight gained 45 yards on eight touches, and it's possible that Jeremiyah Love (ankle) will return to action soon. Washington has been pretty solid against the run this season, yielding just 3.67 yards per carry to running backs, the eighth-best mark in the league."
   },
@@ -2393,7 +2393,7 @@
    "proj": 8.8,
    "last_week": null,
    "owned_pct": 48.9,
-   "owned_change": -0.45,
+   "owned_change": -0.46,
    "outlook": "DeMario Douglas has an uncertain role ahead of the Patriots' Week 12 matchup against the Chargers. Douglas was held to a season-low three-yard catch in Week 10 with Drake Maye injured on the opening drive. The Week 11 bye is likely not sufficient for Douglas and new QB Tommy DeVito to develop a rapport. The Chargers offer an exploitable matchup, allowing 9.1 yards per target, but Douglas' volume will be in question, suggesting a wait-and-see approach is prudent."
   },
   {
@@ -2405,7 +2405,7 @@
    "proj": 3.0,
    "last_week": null,
    "owned_pct": 48.5,
-   "owned_change": -0.58,
+   "owned_change": -0.56,
    "outlook": ""
   },
   {
@@ -2416,8 +2416,8 @@
    "injury": "ACTIVE",
    "proj": 19.9,
    "last_week": null,
-   "owned_pct": 47.3,
-   "owned_change": 4.46,
+   "owned_pct": 47.4,
+   "owned_change": 4.51,
    "outlook": "Deshaun Watson and the Browns host the Raiders in a Week 12 showdown on Sunday Night Football. During Cleveland's Week 10 victory, he threw for 312 yards (25-of-40) with zero TDs and one INT, and had eight carries for 49 yards and a TD. Watson spread the ball around to nine different receivers to help lead a comeback win, but he's now failed to record a TD pass in four straight outings. That streak could come to an end as Las Vegas allows 23.8 fantasy points per game (29th) to QBs and has given up the second-most passing TDs (23) this season."
   },
   {
@@ -2429,7 +2429,7 @@
    "proj": 8.2,
    "last_week": null,
    "owned_pct": 46.9,
-   "owned_change": -0.28,
+   "owned_change": -0.27,
    "outlook": "Marvin Harrison hasn't suited up since Week 9 due to a hamstring injury. Even if he returns in Week 12 against the Ravens, Harrison will be tough to trust considering he has just six catches for 60 yards and one touchdown in three appearances for Houston. Fellow Houston wideouts Nico Collins, Xavier Hutchinson, Tank Dell and Kayshon Boutte (hip) are all more likely to capitalize on facing the reeling Ravens defense, which has allowed at least 33 points in four of the last five games."
   },
   {
@@ -2441,7 +2441,7 @@
    "proj": 7.1,
    "last_week": null,
    "owned_pct": 45.4,
-   "owned_change": -0.35,
+   "owned_change": -0.34,
    "outlook": "Hunter Henry is saddled with an unfavorable Week 12 matchup when the Patriots take on the Chargers. He has just three targets in each of New England's last three games. Tommy DeVito playing quarterback could lead to additional check-downs, but that wasn't the case in Week 10 against Detroit. The Chargers have allowed one touchdown to a tight end, though a league-high 9.4 yards per target. Still, Henry isn't set up for a productive effort."
   },
   {
@@ -2453,7 +2453,7 @@
    "proj": 7.6,
    "last_week": null,
    "owned_pct": 44.8,
-   "owned_change": 0.05,
+   "owned_change": 0.04,
    "outlook": "Pat Freiermuth and the Steelers battle the Broncos at home on Black Friday in Week 12. He caught all five targets for 39 yards and rushed once for one yard during Pittsburgh's Week 11 loss. Freiermuth has recently been more involved on offense than fellow tight end Darnell Washington as Washington finished with a 3-22-0 line on three targets. Freiermuth remains a TD-or-bust fantasy option and he'll face a Denver defense that's allowed the third-most receiving yards (702) and eight TDs (T-27th) to opposing TEs in 2026."
   },
   {
@@ -2465,7 +2465,7 @@
    "proj": 10.9,
    "last_week": null,
    "owned_pct": 44.5,
-   "owned_change": -0.38,
+   "owned_change": -0.4,
    "outlook": "Adonai Mitchell remains an inconsistent, high-upside option in the Jets' low-volume passing game ahead of a Week 12 matchup with the Dolphins. Mitchell has three or fewer catches in four of five games since returning from a four-game injury absence, and the Jets have now failed to complete 20 passes for three straight games. Miami's secondary is vertically vulnerable, allowing 9.2 yards per target. The Dolphins are vulnerable to the run, and the Jets prefer to grind it out, so Mitchell will be a boom-or-bust option, likely excluding him from fantasy lineups."
   },
   {
@@ -2489,7 +2489,7 @@
    "proj": 6.4,
    "last_week": null,
    "owned_pct": 41.9,
-   "owned_change": 0.09,
+   "owned_change": 0.08,
    "outlook": ""
   },
   {
@@ -2537,7 +2537,7 @@
    "proj": 10.6,
    "last_week": null,
    "owned_pct": 38.1,
-   "owned_change": 0.28,
+   "owned_change": 0.25,
    "outlook": "Caleb Douglas is emerging as the top option in Miami's limited passing game ahead of a Week 12 matchup with the Jets. He amassed a career-high 10 targets in Week 11 but brought in only two of them, finishing with 30 yards. The Dolphins have failed to reach the end zone through the air in two games with Kyle McCord at the helm, but Douglas brings volume into Week 12. He solved the Jets with two touchdowns and 70 yards on just two receptions in Week 7, but given McCord's volatility, lowering Douglas on your wide receiver depth chart is prudent in Week 12. Douglas is a high-upside WR/flex."
   },
   {
@@ -2572,8 +2572,8 @@
    "injury": "ACTIVE",
    "proj": 9.5,
    "last_week": null,
-   "owned_pct": 36.9,
-   "owned_change": -0.97,
+   "owned_pct": 36.8,
+   "owned_change": -0.98,
    "outlook": "Xavier Hutchinson has topped 30 yards just once in Houston's last five games. He had a three-game touchdown streak to buoy his stat line during that stretch, but the scoring binge was likely fool's gold for a fourth-year player who had just three career TDs prior to that streak, which was snapped in the Week 11 win over Indianapolis. Starting a new scoring streak won't be easy in Week 12 against a Ravens defense that has held WRs to just seven touchdowns. While the Ravens are giving up 162 yards per game to the position, Hutchinson is competing for targets with Nico Collins and Tank Dell, as well as possibly Kayshon Boutte (hip) and Marvin Harrison (hamstring). Considering that Hutchinson's 6.3 yards per target are second-fewest among that group, ahead of only Harrison, it's tough to trust Hutchinson as anything more than a deep-league flex-spot flier."
   },
   {
@@ -2597,7 +2597,7 @@
    "proj": 4.7,
    "last_week": null,
    "owned_pct": 36.4,
-   "owned_change": -0.16,
+   "owned_change": -0.13,
    "outlook": "In Week 12, Michael Pittman and Pittsburgh aim to snap a two-game losing skid when they host the Broncos on Black Friday. He hasn't played since Week 4 after being placed on injured reserve due to a foot injury, but the first-year Steeler is ready to make his return versus a talented Denver secondary, which is allowing 28.1 fantasy points per game to WRs. Pittman hasn't played in nearly two months, so fantasy managers needing help at receiver should look elsewhere until he can prove otherwise."
   },
   {
@@ -2609,7 +2609,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 36.3,
-   "owned_change": -0.38,
+   "owned_change": -0.37,
    "outlook": ""
   },
   {
@@ -2621,7 +2621,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 36.0,
-   "owned_change": -1.15,
+   "owned_change": -1.16,
    "outlook": "Omar Cooper's role in the Jets' offense remains inconsistent ahead of a Week 12 matchup with the Dolphins, and his availability remains in question due to ankle and hip woes. Over his last five healthy games, Cooper has no catches in two of them and a combined 19 in the other three outings. He compiled 115 receiving yards and a touchdown against Miami earlier in the year, and their secondary is allowing 9.2 yards per target to receivers, the fifth-highest mark in the league. Cooper is a high-ceiling speculative play if he suits up."
   },
   {
@@ -2633,7 +2633,7 @@
    "proj": 7.6,
    "last_week": null,
    "owned_pct": 35.9,
-   "owned_change": 0.42,
+   "owned_change": 0.41,
    "outlook": "Mike Gesicki and the Bengals look to extend their three-game win streak at home versus the Saints in Week 12. He caught five of six targets for a team-high 77 yards during Cincinnati's Week 11 loss. Gesicki finished third on the team in targets and matched Ja'Marr Chase and Chase Brown for the team lead in receptions. The outing was impressive considering Joe Burrow attempted 40 passes and threw for 300 yards, with Ja'Marr Chase (5-31-0) and Tee Higgins (2-43-1) combining for only 74 of them. Gesicki will attempt to punish a New Orleans defense allowing the seventh-most fantasy points per game (15.7) to TEs."
   },
   {
@@ -2645,7 +2645,7 @@
    "proj": 6.4,
    "last_week": null,
    "owned_pct": 35.8,
-   "owned_change": -0.5,
+   "owned_change": -0.51,
    "outlook": "Kaelon Black will face another tough run defense when the 49ers host the Seahawks in Week 12. Black couldn't do much against the Vikings' vaunted defense this past Sunday, gaining just eight yards on six carries while adding seven yards on his lone reception. He also saw a three-game streak of double-digit touches snapped, but the rookie maintained a steady 30% offensive snap share. Black and the 49ers' running game as a whole should be challenged by a Seahawks defense that ranks seventh in the NFL with 15.1 fantasy points per game allowed to running backs."
   },
   {
@@ -2657,7 +2657,7 @@
    "proj": 8.3,
    "last_week": null,
    "owned_pct": 35.3,
-   "owned_change": -0.07,
+   "owned_change": -0.08,
    "outlook": "Devaughn Vele is expected to remain one of the Saints' top wideouts during the Week 12 matchup against the Bengals. Vele delivered a much-needed bounce-back performance during the Week 11 loss to the Bears, catching all seven of his targets for 76 yards. Despite playing behind Chris Olave, Vele appears to be a valuable portion of this New Orleans' offense and will likely compete for the No. 2 WR role with rookie Jordyn Tyson as the season progresses. Vele is still expected to struggle in Week 12 against a tough Bengals secondary that's given up just 10.2 yards per completion through nine games this season."
   },
   {
@@ -2668,8 +2668,8 @@
    "injury": "ACTIVE",
    "proj": 11.7,
    "last_week": null,
-   "owned_pct": 35.2,
-   "owned_change": 4.18,
+   "owned_pct": 35.3,
+   "owned_change": 4.24,
    "outlook": "Brian Thomas has just 84 receiving yards in his last eight games. He has scored three times over that span, giving Thomas an inkling of deep-league fantasy appeal in Jacksonville's Week 12 home matchup against a Titans defense that has allowed the most production in the league to wide receivers. Thomas tied his season high with three catches in the Jaguars' Week 10 win at Tennessee, though he posted just 29 receiving yards. Parker Washington and Jakobi Meyers are far more likely to capitalize on this favorable matchup."
   },
   {
@@ -2681,7 +2681,7 @@
    "proj": 9.5,
    "last_week": null,
    "owned_pct": 35.0,
-   "owned_change": 0.0,
+   "owned_change": -0.02,
    "outlook": "Justice Hill and the Ravens are on the road for a Week 12 meeting with the Texans. He had six carries for 69 yards and a touchdown and caught four of five targets for 27 yards during Baltimore's Week 11 loss. Hill lost a fumble but was otherwise very productive with his 10 total touches, as he's now recorded two TDs in his last three games. He'll aim to keep contributing against a Houston defense allowing 21.4 fantasy points per game (14th) to RBs."
   },
   {
@@ -2692,7 +2692,7 @@
    "injury": "ACTIVE",
    "proj": 6.5,
    "last_week": null,
-   "owned_pct": 34.6,
+   "owned_pct": 34.5,
    "owned_change": 0.0,
    "outlook": ""
   },
@@ -2704,7 +2704,7 @@
    "injury": "ACTIVE",
    "proj": 16.1,
    "last_week": null,
-   "owned_pct": 34.1,
+   "owned_pct": 34.2,
    "owned_change": 1.63,
    "outlook": "Fernando Mendoza is beginning to show why he was the first overall pick in the 2026 NFL Draft. In the Raiders' Week 11 loss to the Broncos, the rookie quarterback threw his first three career touchdown passes, and he did it without Brock Bowers in the lineup. Instead, Jack Bech emerged as his top target, while Mendoza's other two scores went to depth tight end Ian Thomas and running back Ashton Jeanty. Mendoza will look to secure his first win as a starter in Week 12 against a Browns defense that ranks seventh in fantasy points per game allowed to QBs."
   },
@@ -2716,8 +2716,8 @@
    "injury": "ACTIVE",
    "proj": 16.5,
    "last_week": null,
-   "owned_pct": 33.2,
-   "owned_change": 2.62,
+   "owned_pct": 33.3,
+   "owned_change": 2.64,
    "outlook": "J.J. McCarthy tossed a touchdown pass for the second-straight game for the Giants.  However, it was only the third touchdown pass in five outings for McCarthy. He has rushed for at least 22 yards in four of those five contests, though has yet to find the end zone with his legs. In Week 12, the Giants will face a Colts defense that has struggled mightily in 2026. Indianapolis currently ranks in the bottom five in the NFL in terms of rushing yards allowed, passing touchdowns surrendered and overall points yielded this season."
   },
   {
@@ -2741,7 +2741,7 @@
    "proj": 5.8,
    "last_week": null,
    "owned_pct": 32.2,
-   "owned_change": 0.22,
+   "owned_change": 0.23,
    "outlook": ""
   },
   {
@@ -2753,7 +2753,7 @@
    "proj": 11.6,
    "last_week": null,
    "owned_pct": 32.1,
-   "owned_change": 0.53,
+   "owned_change": 0.51,
    "outlook": "Dylan Sampson and the Browns host the Raiders on Sunday Night Football in Week 12. He rushed four times for six yards and caught four of six targets for 31 yards during Cleveland's Week 10 victory. Sampson was out-touched 13-8 by starter Quinshon Judkins, but Sampson continues to push closer to an even timeshare. Sampson will look to contribute more versus a Las Vegas defense allowing 26.9 fantasy points per game to RBs, the fifth most in the league."
   },
   {
@@ -2793,18 +2793,6 @@
    "outlook": "Juwan Johnson (hamstring) is expected to remain the Saints' top tight end if active for the Week 12 matchup against the Bengals. Johnson sustained a hamstring injury during the Week 11 loss to the Bears, and the extent of the issue remains TBD. Johnson struggled to find fantasy value before sustaining this injury, catching just five of 10 targets for 69 yards and one touchdown from Weeks 7 through 10 (three games). If active, Johnson could find fantasy value but is likely still too inconsistent to start, even with a favorable matchup against a Bengals defense that's given up 15.2 fantasy points per game to opposing tight ends this season."
   },
   {
-   "id": 4569603,
-   "name": "Malik Washington",
-   "pos": "WR",
-   "team": "MIA",
-   "injury": "ACTIVE",
-   "proj": 8.5,
-   "last_week": null,
-   "owned_pct": 30.1,
-   "owned_change": -0.23,
-   "outlook": "Malik Washington brings steady but middling production for the Dolphins into a Week 12 matchup with the Jets. For the fourth time in five games since Miami's Week 6 bye, Washington caught three passes in Week 11, finishing with just 30 yards. With Caleb Douglas emerging as Miami's top option, their low-success passing game hasn't proven capable of sustaining multiple receivers. The Jets are allowing 7.6 yard per target, ranking towards the bottom portion of the middle-tier, not suggesting Washington can break out on limited opportunities."
-  },
-  {
    "id": 4242355,
    "name": "Jake Ferguson",
    "pos": "TE",
@@ -2815,6 +2803,18 @@
    "owned_pct": 30.1,
    "owned_change": 0.0,
    "outlook": "Jake Ferguson is unlikely to suit up in Week 12 for the Cowboys due to lingering knee and ankle issues. Ferguson was having a down year prior to the injury, recording just 19 catches for 136 yards and four touchdowns.  In Week 12, Brevyn Spann-Ford will operate once again as the No. 1 tight end versus a mediocre Eagles pass defense. Philadelphia is allowing 222.8 passing yards per tilt, which is 17th in the NFL. However, the Eagles have only given up 14 passing touchdowns, which is tied for ninth in the league."
+  },
+  {
+   "id": 4569603,
+   "name": "Malik Washington",
+   "pos": "WR",
+   "team": "MIA",
+   "injury": "ACTIVE",
+   "proj": 8.5,
+   "last_week": null,
+   "owned_pct": 30.1,
+   "owned_change": -0.24,
+   "outlook": "Malik Washington brings steady but middling production for the Dolphins into a Week 12 matchup with the Jets. For the fourth time in five games since Miami's Week 6 bye, Washington caught three passes in Week 11, finishing with just 30 yards. With Caleb Douglas emerging as Miami's top option, their low-success passing game hasn't proven capable of sustaining multiple receivers. The Jets are allowing 7.6 yard per target, ranking towards the bottom portion of the middle-tier, not suggesting Washington can break out on limited opportunities."
   },
   {
    "id": 17427,
@@ -2837,7 +2837,7 @@
    "proj": 8.3,
    "last_week": null,
    "owned_pct": 29.3,
-   "owned_change": -0.27,
+   "owned_change": -0.26,
    "outlook": "Dalton Schultz has been held to one catch for 11 yards in each of Houston's last two games, though one of those receptions was his first touchdown of the season. He has been utilized primarily as a blocker in Houston's recent games, so Schultz hasn't benefited much from the strong play of QB C.J. Stroud. In Week 12, Schultz will face a Ravens defense that has struggled to defend TEs, allowing 54 yards per game and seven TDs in 11 games to the position. He's a viable low-end starter at a position that lacks depth, but nobody's getting excited about starting Schultz these days."
   },
   {
@@ -2933,7 +2933,7 @@
    "proj": 7.3,
    "last_week": null,
    "owned_pct": 21.7,
-   "owned_change": 0.06,
+   "owned_change": 0.04,
    "outlook": ""
   },
   {
@@ -2957,7 +2957,7 @@
    "proj": null,
    "last_week": null,
    "owned_pct": 20.5,
-   "owned_change": -0.05,
+   "owned_change": -0.09,
    "outlook": ""
   },
   {
@@ -2993,7 +2993,7 @@
    "proj": 15.5,
    "last_week": null,
    "owned_pct": 19.3,
-   "owned_change": 1.34,
+   "owned_change": 1.35,
    "outlook": "Geno Smith brings low-volume but surging efficiency into the Jets' Week 12 matchup with the Dolphins. While he hasn't topped 176 passing yards in three straight games and has failed to complete more than 18 attempts, Smith is coming off his third three-touchdown pass outing in Week 11. With the Jets preferring a run-first approach paired with an unhealthy receiving corps, Smith is not a fantasy option against a mid-tier secondary that's allowing 7.7 yards per attempt."
   },
   {
@@ -3004,7 +3004,7 @@
    "injury": "ACTIVE",
    "proj": 12.5,
    "last_week": null,
-   "owned_pct": 18.7,
+   "owned_pct": 18.8,
    "owned_change": 0.17,
    "outlook": "Sam Darnold (quad/ribs) is expected to return as Seattle's starting QB for the team's Week 12 matchup against San Francisco. Darnold missed the Seahawks' past two games due to the pair of injuries, but he's line to return following the club's Week 11 bye. If that does indeed happen, Drew Lock is likely to return to the backup role despite playing well during Darnold's absence. Whoever ultimately starts will face a 49ers defense that has given up an 89.1 QB rating this season to rank 15th in the NFL in that category."
   },
@@ -3173,7 +3173,7 @@
    "proj": 5.1,
    "last_week": null,
    "owned_pct": 14.9,
-   "owned_change": -0.29,
+   "owned_change": -0.27,
    "outlook": ""
   },
   {
@@ -3221,7 +3221,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 14.1,
-   "owned_change": -0.55,
+   "owned_change": -0.53,
    "outlook": ""
   },
   {
@@ -3269,7 +3269,7 @@
    "proj": 11.9,
    "last_week": null,
    "owned_pct": 12.0,
-   "owned_change": -0.15,
+   "owned_change": -0.14,
    "outlook": "Jacoby Brissett and the Ravens visit the Texans in Week 12. He threw for 276 yards with one TD and one INT and rushed twice for seven yards during Baltimore's Week 11 loss. Brissett has plenty of talented targets available to him, and it appears the Ravens are willing to continue letting it fly on offense. He'll look to get his first win with his new club versus a Houston defense allowing 20.9 fantasy points per game to opposing QBs."
   },
   {
@@ -3281,7 +3281,7 @@
    "proj": 6.8,
    "last_week": null,
    "owned_pct": 12.0,
-   "owned_change": -0.7,
+   "owned_change": -0.68,
    "outlook": "Elic Ayomanor was surprisingly quiet in Tennessee's 51-30 loss to Dallas in Week 11. Chimere Dike, Calvin Ridley and Carnell Tate each had at least five targets and 58 yards, while Ayomanor settled for 27 yards on three catches in the first game after Wan'Dale Robinson (ankle) was placed on IR. Titans QB Cam Ward has been spreading the ball around, and Ayomanor had his moment in Week 10 with 79 yards on 10 targets against the Jaguars, but the second-year wideout hasn't exceeded three catches in any other game this season. Expectations should be tempered in the Week 12 road rematch against a Jacksonville defense that ranks among the league's best units overall but in the middle of the pack against the pass. Ayomanor isn't an appealing flex option outside of deeper formats."
   },
   {
@@ -3377,7 +3377,7 @@
    "proj": 4.5,
    "last_week": null,
    "owned_pct": 8.7,
-   "owned_change": -0.28,
+   "owned_change": -0.27,
    "outlook": "Jack Bech continues to show intriguing chemistry with rookie quarterback Fernando Mendoza. In two games since Mendoza replaced Kirk Cousins under center, Bech has turned 16 targets into a 10-98-1 line with most of that production coming in a Week 11 loss to the Broncos. The second-year wide receiver missed four games earlier this year with a forearm injury but he appears to be fully recovered and ready to flash the upside that made him a third-round pick in 2025. Bech will face a Browns secondary in Week 12 that ranks 14th in fantasy points per game allowed to WRs."
   },
   {
@@ -3413,7 +3413,7 @@
    "proj": 6.6,
    "last_week": null,
    "owned_pct": 8.2,
-   "owned_change": -0.18,
+   "owned_change": -0.17,
    "outlook": "Pat Bryant posted modest numbers over two games since returning from an ankle injury, catching seven of nine targets for 88 yards and a touchdown. The Broncos' passing game has been sluggish all year, and with the offense leaning more heavily on rookie running back Jonah Coleman, Bo Nix hasn't been required to do too much through the air. Bryant seems to have good chemistry with the quarterback, giving him a stable floor even if his ceiling is TD-dependent. Bryant will try to stay busy in Week 12 against a Steelers secondary that ranks 12th in fantasy points per game allowed to WRs."
   },
   {
@@ -3472,9 +3472,21 @@
    "injury": "OUT",
    "proj": 0.0,
    "last_week": null,
-   "owned_pct": 7.9,
+   "owned_pct": 7.8,
    "owned_change": -0.11,
    "outlook": "Keaton Mitchell has fallen into a depth role in the Chargers' backfield. After getting double-digit touches as recently as Week 9 against the Texans, he's handled just three carries and one catch over the last two games while Omarion Hampton re-staked his claim to the No. 1 job. Mitchell also picked up a knee injury in Week 11, which could leave Kimani Vidal without any competition in the short term for the backup role. If Mitchell is able to suit up in Week 12, he'll be facing a Patriots defense that's tied for 17th in fantasy points per game allowed to RBs."
+  },
+  {
+   "id": 4879194,
+   "name": "Josh Cameron",
+   "pos": "WR",
+   "team": "JAX",
+   "injury": "ACTIVE",
+   "proj": 11.7,
+   "last_week": null,
+   "owned_pct": 7.7,
+   "owned_change": 7.14,
+   "outlook": "Josh Cameron has posted the two highest yardage totals of his young career in Jacksonville's last two games, catching six of 10 targets for 111 yards and a touchdown over that span. The rookie sixth-round pick is well positioned to build on his recent success in Week 12, when the Jaguars host a Titans defense that's allowing receivers to pile up 16 catches for 210 yards per game, both of which are league-high averages. Cameron seems to have supplanted Brian Thomas as Jacksonville's No. 3 WR behind Parker Washington and Jakobi Meyers."
   },
   {
    "id": 4430834,
@@ -3489,18 +3501,6 @@
    "outlook": ""
   },
   {
-   "id": 4879194,
-   "name": "Josh Cameron",
-   "pos": "WR",
-   "team": "JAX",
-   "injury": "ACTIVE",
-   "proj": 11.7,
-   "last_week": null,
-   "owned_pct": 7.5,
-   "owned_change": 6.99,
-   "outlook": "Josh Cameron has posted the two highest yardage totals of his young career in Jacksonville's last two games, catching six of 10 targets for 111 yards and a touchdown over that span. The rookie sixth-round pick is well positioned to build on his recent success in Week 12, when the Jaguars host a Titans defense that's allowing receivers to pile up 16 catches for 210 yards per game, both of which are league-high averages. Cameron seems to have supplanted Brian Thomas as Jacksonville's No. 3 WR behind Parker Washington and Jakobi Meyers."
-  },
-  {
    "id": 4567156,
    "name": "Treylon Burks",
    "pos": "WR",
@@ -3509,7 +3509,7 @@
    "proj": 7.5,
    "last_week": null,
    "owned_pct": 7.3,
-   "owned_change": -0.19,
+   "owned_change": -0.18,
    "outlook": "Treylon Burks was largely held in check last game for the Commanders.  Burks caught two passes for 30 yards in the 22-20 win over the Bengals. He finished tied for fourth on the team in targets. In Week 12, Burks will face a lackluster Arizona pass defense. The Cardinals are allowing 226.4 passing yards per tilt, which is 20th in the NFL. In addition, the Cardinals have surrendered the most passing touchdowns in the league to date."
   },
   {
@@ -3544,8 +3544,8 @@
    "injury": "ACTIVE",
    "proj": 10.2,
    "last_week": null,
-   "owned_pct": 7.0,
-   "owned_change": 0.23,
+   "owned_pct": 7.1,
+   "owned_change": 0.24,
    "outlook": "Drew Stevens had a banner day for Washington in the stunning 22-20 win over the Bengals.  Stevens connected on five field goals, including the game-winner. It was the third time in four games that Stevens connected on multiple field goals. The rookie has made 22 of 25 three-pointers in all this season. With the Washington offense looking better behind a healthy Jayden Daniels, Stevens could be primed for another outstanding output in Week 12 versus the Cardinals. Arizona is allowing 29.4 points per tilt, which is 31st in the league."
   },
   {
@@ -3581,7 +3581,7 @@
    "proj": 8.5,
    "last_week": null,
    "owned_pct": 6.8,
-   "owned_change": 0.04,
+   "owned_change": 0.05,
    "outlook": "Jerry Jeudy and the Browns host the Raiders for a Week 12 clash on Sunday Night Football. He caught two of four targets for 74 yards during Cleveland's 27-24 win in Week 10. Jeudy did most of his damage on a 65-yard reception, helping him finish second on the team in yardage behind Harold Fannin Jr. (91). Despite the big day, Jeudy has two or fewer catches in three straight games and should remain on waiver wires."
   },
   {
@@ -3605,7 +3605,7 @@
    "proj": 6.6,
    "last_week": null,
    "owned_pct": 6.8,
-   "owned_change": -0.12,
+   "owned_change": -0.11,
    "outlook": "Roman Wilson and the Steelers host the Broncos on Black Friday in Week 12. He corralled three of six targets for 43 yards during Pittsburgh's Week 10 loss. Wilson made his presence felt in his first game action since Week 5, as he finished second on the team in yardage and third in targets while playing 70% of the offensive snaps. Wilson will try to continue building rapport with Aaron Rodgers versus Denver's sixth-ranked defense in fantasy points allowed per game (28.1) to WRs."
   },
   {
@@ -3617,7 +3617,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 6.2,
-   "owned_change": -0.38,
+   "owned_change": -0.37,
    "outlook": ""
   },
   {
@@ -3761,7 +3761,7 @@
    "proj": 0.0,
    "last_week": null,
    "owned_pct": 4.5,
-   "owned_change": -0.1,
+   "owned_change": -0.09,
    "outlook": "Kayshon Boutte injured his hip in Week 11. Though the injury doesn't appear to be too serious, which suggests he could suit up in Week 12 against the Ravens, if Boutte plays, he'll be a high-risk, high-reward fantasy option best utilized in deeper leagues. He had 125 yards and two TDs in Week 9 against the Chargers, as well as 40 yards and a TD prior to getting hurt in Week 11 against the Colts, but Boutte has just 194 yards in eight other appearances for the Texans."
   },
   {
@@ -3797,7 +3797,7 @@
    "proj": 6.1,
    "last_week": null,
    "owned_pct": 4.4,
-   "owned_change": -0.1,
+   "owned_change": -0.09,
    "outlook": "Mason Taylor's involvement in the Jets' low-volume passing game remains limited ahead of a Week 12 clash with the Dolphins. He has been held to 25 yards or fewer in seven of nine games this season, drawing just 31 targets on the year. He provided a spike week of five catches, 62 yards, and two touchdowns against Miami in Week 7, but his usage and form don't portend a repeat against a defense that's allowing 8.0 yards per target to tight ends but only four additional touchdowns outside of Taylor's prior effort."
   },
   {
@@ -3821,7 +3821,7 @@
    "proj": 14.6,
    "last_week": null,
    "owned_pct": 4.2,
-   "owned_change": 3.37,
+   "owned_change": 3.41,
    "outlook": ""
   },
   {
